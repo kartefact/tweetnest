@@ -1,6 +1,1096 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 15:28:03 +0000 2017",
+		"id": 848557649088073700,
+		"id_str": "848557649088073729",
+		"text": "RT @mental_floss: Explore London's Literary Side With This Gorgeous Map — https://t.co/mw9rfue0Gc https://t.co/nuo4fbErBr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mental_floss",
+					"name": "Mental Floss",
+					"id": 20065936,
+					"id_str": "20065936",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mw9rfue0Gc",
+					"expanded_url": "http://bit.ly/2nQo4J5",
+					"display_url": "bit.ly/2nQo4J5",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 848556379790954500,
+					"id_str": "848556379790954496",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+					"url": "https://t.co/nuo4fbErBr",
+					"display_url": "pic.twitter.com/nuo4fbErBr",
+					"expanded_url": "https://twitter.com/mental_floss/status/848556381909262340/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 848556381909262300,
+					"source_status_id_str": "848556381909262340",
+					"source_user_id": 20065936,
+					"source_user_id_str": "20065936"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 848556379790954500,
+					"id_str": "848556379790954496",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+					"url": "https://t.co/nuo4fbErBr",
+					"display_url": "pic.twitter.com/nuo4fbErBr",
+					"expanded_url": "https://twitter.com/mental_floss/status/848556381909262340/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 848556381909262300,
+					"source_status_id_str": "848556381909262340",
+					"source_user_id": 20065936,
+					"source_user_id_str": "20065936"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 02 15:23:01 +0000 2017",
+			"id": 848556381909262300,
+			"id_str": "848556381909262340",
+			"text": "Explore London's Literary Side With This Gorgeous Map — https://t.co/mw9rfue0Gc https://t.co/nuo4fbErBr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mw9rfue0Gc",
+						"expanded_url": "http://bit.ly/2nQo4J5",
+						"display_url": "bit.ly/2nQo4J5",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 848556379790954500,
+						"id_str": "848556379790954496",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+						"url": "https://t.co/nuo4fbErBr",
+						"display_url": "pic.twitter.com/nuo4fbErBr",
+						"expanded_url": "https://twitter.com/mental_floss/status/848556381909262340/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 848556379790954500,
+						"id_str": "848556379790954496",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8atiBVU0AAjoFM.jpg",
+						"url": "https://t.co/nuo4fbErBr",
+						"display_url": "pic.twitter.com/nuo4fbErBr",
+						"expanded_url": "https://twitter.com/mental_floss/status/848556381909262340/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20065936,
+				"id_str": "20065936",
+				"name": "Mental Floss",
+				"screen_name": "mental_floss",
+				"location": "New York/Birmingham/London",
+				"description": "Amazing facts from the good people at mental_floss magazine.",
+				"url": "https://t.co/JS1JgWpVdG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JS1JgWpVdG",
+								"expanded_url": "http://www.mentalfloss.com",
+								"display_url": "mentalfloss.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 606837,
+				"friends_count": 13707,
+				"listed_count": 13720,
+				"created_at": "Wed Feb 04 16:25:17 +0000 2009",
+				"favourites_count": 3747,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 52122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/642895607/4b0jdlashl7so0ywypcn.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/642895607/4b0jdlashl7so0ywypcn.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725736720327708672/QHUualpe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725736720327708672/QHUualpe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20065936/1378073592",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 146,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 15:27:21 +0000 2017",
+		"id": 848557474344976400,
+		"id_str": "848557474344976385",
+		"text": "@pooja_LuvIndia @_viju You're welcome :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 848510790193655800,
+		"in_reply_to_status_id_str": "848510790193655808",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 06:36:48 +0000 2017",
+		"id": 848423953643167700,
+		"id_str": "848423953643167744",
+		"text": "@pooja_LuvIndia @_viju So your example would be \"Saaptaachaa? Nalaikku enna plan?\". And the u at the end is not pro… https://t.co/TqQVDt2ATd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TqQVDt2ATd",
+					"expanded_url": "https://twitter.com/i/web/status/848423953643167744",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 846091227338489900,
+		"in_reply_to_status_id_str": "846091227338489856",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 06:35:36 +0000 2017",
+		"id": 848423654585016300,
+		"id_str": "848423654585016320",
+		"text": "@pooja_LuvIndia @_viju Exact translation - \"NaaLatthi thittam enna?\" But that's text book-ish. Colloquially \"Nalaik… https://t.co/JBkcsNHXHR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JBkcsNHXHR",
+					"expanded_url": "https://twitter.com/i/web/status/848423654585016320",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 846091227338489900,
+		"in_reply_to_status_id_str": "846091227338489856",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 06:33:18 +0000 2017",
+		"id": 848423075519516700,
+		"id_str": "848423075519516672",
+		"text": "@pooja_LuvIndia @_viju But saaptaachaa is taken to mean the latter commonly.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 848422932682481700,
+		"in_reply_to_status_id_str": "848422932682481664",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 06:32:44 +0000 2017",
+		"id": 848422932682481700,
+		"id_str": "848422932682481664",
+		"text": "@pooja_LuvIndia @_viju There's no single word for lunch in Tamil. Just food. \"Saaptaachaa\" is \"has the eating been… https://t.co/y2cpVES1dN",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y2cpVES1dN",
+					"expanded_url": "https://twitter.com/i/web/status/848422932682481664",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 846091227338489900,
+		"in_reply_to_status_id_str": "846091227338489856",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 06:30:35 +0000 2017",
+		"id": 848422392024023000,
+		"id_str": "848422392024023040",
+		"text": "@pooja_LuvIndia @_viju Yenu in kannada becomes Enna in tamil. Yen in Tamil is Yaake in Kannada.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 848200539074568200,
+		"in_reply_to_status_id_str": "848200539074568192",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "et"
+	},
+	{
+		"created_at": "Sun Apr 02 06:29:51 +0000 2017",
+		"id": 848422207797604400,
+		"id_str": "848422207797604352",
+		"text": "@pooja_LuvIndia @_viju Wow! You're good! Almost right. Not \"ivaLa kopa\" but \"yaake Ishtu kopa\". IvaLa would be IvaL… https://t.co/GZG7W031do",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GZG7W031do",
+					"expanded_url": "https://twitter.com/i/web/status/848422207797604352",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 848200539074568200,
+		"in_reply_to_status_id_str": "848200539074568192",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8963,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 01 14:32:44 +0000 2017",
 		"id": 848181338712571900,
 		"id_str": "848181338712571904",
