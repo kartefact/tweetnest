@@ -1,6 +1,1332 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 04:20:51 +0000 2017",
+		"id": 848752128118054900,
+		"id_str": "848752128118054913",
+		"text": "RT @verge: Earth’s newest cloud is terrifying https://t.co/si1vkBluux",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846849612455432200,
+					"id_str": "846849612455432192",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+					"url": "https://t.co/si1vkBluux",
+					"display_url": "pic.twitter.com/si1vkBluux",
+					"expanded_url": "https://twitter.com/verge/status/848515372198150145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848515372198150100,
+					"source_status_id_str": "848515372198150145",
+					"source_user_id": 275686563,
+					"source_user_id_str": "275686563"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846849612455432200,
+					"id_str": "846849612455432192",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+					"url": "https://t.co/si1vkBluux",
+					"display_url": "pic.twitter.com/si1vkBluux",
+					"expanded_url": "https://twitter.com/verge/status/848515372198150145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848515372198150100,
+					"source_status_id_str": "848515372198150145",
+					"source_user_id": 275686563,
+					"source_user_id_str": "275686563",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 98098,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/846849612455432192/vid/1280x720/E2nqCjK7wVFPhWTL.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/846849612455432192/vid/320x180/pZQGZMgYlNvcC22s.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/846849612455432192/pl/qDtqlzftIHY5HvQb.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/846849612455432192/vid/640x360/5NeWukvJ3CAiHWC6.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 275686563,
+							"id_str": "275686563",
+							"name": "The Verge",
+							"screen_name": "verge",
+							"location": "New York",
+							"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+							"url": "http://t.co/W2SFxIXkC4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/W2SFxIXkC4",
+											"expanded_url": "http://www.theverge.com",
+											"display_url": "theverge.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/W2SFxIXkC4",
+											"expanded_url": "http://www.theverge.com",
+											"display_url": "theverge.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 1807607,
+							"friends_count": 151,
+							"listed_count": 32681,
+							"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+							"favourites_count": 1610,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 116507,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1484064279",
+							"profile_link_color": "EC008C",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8949,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 02 12:40:04 +0000 2017",
+			"id": 848515372198150100,
+			"id_str": "848515372198150145",
+			"text": "Earth’s newest cloud is terrifying https://t.co/si1vkBluux",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846849612455432200,
+						"id_str": "846849612455432192",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+						"url": "https://t.co/si1vkBluux",
+						"display_url": "pic.twitter.com/si1vkBluux",
+						"expanded_url": "https://twitter.com/verge/status/848515372198150145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846849612455432200,
+						"id_str": "846849612455432192",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/846849612455432192/img/XHSpRhw3kxZHLObf.jpg",
+						"url": "https://t.co/si1vkBluux",
+						"display_url": "pic.twitter.com/si1vkBluux",
+						"expanded_url": "https://twitter.com/verge/status/848515372198150145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 98098,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/846849612455432192/vid/1280x720/E2nqCjK7wVFPhWTL.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/846849612455432192/vid/320x180/pZQGZMgYlNvcC22s.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/846849612455432192/pl/qDtqlzftIHY5HvQb.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/846849612455432192/vid/640x360/5NeWukvJ3CAiHWC6.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+				"url": "http://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1807607,
+				"friends_count": 151,
+				"listed_count": 32681,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1610,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 116507,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1484064279",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 553,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 03 04:18:31 +0000 2017",
+		"id": 848751543725600800,
+		"id_str": "848751543725600768",
+		"text": "RT @BeingChatterjee: Any filmmaker from my TL who can help shoot a couple of cover videos?\n\nUnpaid opportunity for now. Help kardo please.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeingChatterjee",
+					"name": "Sulagna.",
+					"id": 866453222,
+					"id_str": "866453222",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8949,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 02:37:01 +0000 2017",
+			"id": 848725998988341200,
+			"id_str": "848725998988341249",
+			"text": "Any filmmaker from my TL who can help shoot a couple of cover videos?\n\nUnpaid opportunity for now. Help kardo please.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 866453222,
+				"id_str": "866453222",
+				"name": "Sulagna.",
+				"screen_name": "BeingChatterjee",
+				"location": "Mumbai",
+				"description": "Ikkis. The Girl Who Handles Your TV Folks. Buddhist Practitioner. Quotes K3G and Drinks Chai.",
+				"url": "https://t.co/OwET5rhPCE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OwET5rhPCE",
+								"expanded_url": "http://beingchatterjee.wordpress.com",
+								"display_url": "beingchatterjee.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7555,
+				"friends_count": 352,
+				"listed_count": 110,
+				"created_at": "Sun Oct 07 14:56:41 +0000 2012",
+				"favourites_count": 8076,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/878279041/9d86d3c7512ffe513032ae5a41b4a164.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/878279041/9d86d3c7512ffe513032ae5a41b4a164.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848411969702985728/NpxirrUN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848411969702985728/NpxirrUN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866453222/1482560263",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 03 04:15:18 +0000 2017",
+		"id": 848750733881098200,
+		"id_str": "848750733881098240",
+		"text": "RT @newslaundry: Farmer are desperately trying to attract attention of the political class to the drought prevailing in TN. https://t.co/np…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "newslaundry",
+					"name": "newslaundry",
+					"id": 372677761,
+					"id_str": "372677761",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8949,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 02 17:05:01 +0000 2017",
+			"id": 848582049166352400,
+			"id_str": "848582049166352384",
+			"text": "Farmer are desperately trying to attract attention of the political class to the drought prevailing in TN. https://t.co/npyn2hf3Dm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/npyn2hf3Dm",
+						"expanded_url": "https://www.newslaundry.com/2017/03/31/skulls-rats-and-snakes-tamil-nadu-farmers-want-your-attention",
+						"display_url": "newslaundry.com/2017/03/31/sku…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372677761,
+				"id_str": "372677761",
+				"name": "newslaundry",
+				"screen_name": "newslaundry",
+				"location": "",
+				"description": "You watch...we are watching. Sabki Dhulai. \nSubscribe: https://t.co/rsUk6IVjrt, Podcast: https://t.co/S4UePx0vfz",
+				"url": "http://t.co/Z6xeS1aokd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Z6xeS1aokd",
+								"expanded_url": "http://newslaundry.com",
+								"display_url": "newslaundry.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rsUk6IVjrt",
+								"expanded_url": "http://bit.ly/NL_Subscribe",
+								"display_url": "bit.ly/NL_Subscribe",
+								"indices": [
+									55,
+									78
+								]
+							},
+							{
+								"url": "https://t.co/S4UePx0vfz",
+								"expanded_url": "http://bit.ly/NLHAFTA",
+								"display_url": "bit.ly/NLHAFTA",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 88903,
+				"friends_count": 311,
+				"listed_count": 650,
+				"created_at": "Tue Sep 13 06:32:41 +0000 2011",
+				"favourites_count": 492,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29978,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683927767449112576/qiMQgIos_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683927767449112576/qiMQgIos_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372677761/1490340163",
+				"profile_link_color": "ED1C24",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 03 04:10:59 +0000 2017",
+		"id": 848749645790453800,
+		"id_str": "848749645790453761",
+		"text": "Good morning, world! 🌄 https://t.co/fNHYPkJ24G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fNHYPkJ24G",
+					"expanded_url": "https://twitter.com/zenrainman/status/848732582736834560",
+					"display_url": "twitter.com/zenrainman/sta…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8949,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 848732582736834600,
+		"quoted_status_id_str": "848732582736834560",
+		"quoted_status": {
+			"created_at": "Mon Apr 03 03:03:11 +0000 2017",
+			"id": 848732582736834600,
+			"id_str": "848732582736834560",
+			"text": "https://t.co/RBIgzbB67k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 848732565246586900,
+						"id_str": "848732565246586880",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C8dNxXTUMAA7TJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8dNxXTUMAA7TJH.jpg",
+						"url": "https://t.co/RBIgzbB67k",
+						"display_url": "pic.twitter.com/RBIgzbB67k",
+						"expanded_url": "https://twitter.com/zenrainman/status/848732582736834560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 848732565246586900,
+						"id_str": "848732565246586880",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C8dNxXTUMAA7TJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8dNxXTUMAA7TJH.jpg",
+						"url": "https://t.co/RBIgzbB67k",
+						"display_url": "pic.twitter.com/RBIgzbB67k",
+						"expanded_url": "https://twitter.com/zenrainman/status/848732582736834560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18285948,
+				"id_str": "18285948",
+				"name": "zenrainman",
+				"screen_name": "zenrainman",
+				"location": "Bengaluru India",
+				"description": "the only zen you will find here is the zen you bring.. Nevermind....",
+				"url": "https://t.co/tRCdU0dRFI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tRCdU0dRFI",
+								"expanded_url": "http://www.rainwaterclub.org",
+								"display_url": "rainwaterclub.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8491,
+				"friends_count": 6708,
+				"listed_count": 295,
+				"created_at": "Sun Dec 21 15:23:43 +0000 2008",
+				"favourites_count": 18263,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 95272,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/811997963/141e53c1bcc5c83011140b3f8df7760e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/811997963/141e53c1bcc5c83011140b3f8df7760e.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18285948/1411998782",
+				"profile_link_color": "4CD12A",
+				"profile_sidebar_border_color": "4CD12A",
+				"profile_sidebar_fill_color": "843B06",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 03 04:08:23 +0000 2017",
+		"id": 848748993488105500,
+		"id_str": "848748993488105473",
+		"text": "RT @devduttmyth: Some convert to a religion.\nOthers convert to a way of life, also, like food habits. \nMarketing, sales &amp; policy changes en…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "devduttmyth",
+					"name": "Devdutt Pattanaik",
+					"id": 108577950,
+					"id_str": "108577950",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 498,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8949,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 04:02:34 +0000 2017",
+			"id": 848747527859982300,
+			"id_str": "848747527859982336",
+			"text": "Some convert to a religion.\nOthers convert to a way of life, also, like food habits. \nMarketing, sales &amp; policy changes enable conversion.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108577950,
+				"id_str": "108577950",
+				"name": "Devdutt Pattanaik",
+				"screen_name": "devduttmyth",
+				"location": "Mumbai",
+				"description": "Mythologist, Author, Illustrator, Columnist, Professional Speaker and Management Theorist. My books: https://t.co/NE7RiAzc5G",
+				"url": "https://t.co/ME2nqaUhsN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ME2nqaUhsN",
+								"expanded_url": "http://devdutt.com",
+								"display_url": "devdutt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NE7RiAzc5G",
+								"expanded_url": "http://devdutt.com/category/books",
+								"display_url": "devdutt.com/category/books",
+								"indices": [
+									101,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 178255,
+				"friends_count": 332,
+				"listed_count": 480,
+				"created_at": "Tue Jan 26 11:18:32 +0000 2010",
+				"favourites_count": 3215,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844621813581828097/TRNsk16U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844621813581828097/TRNsk16U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108577950/1490208509",
+				"profile_link_color": "5F8385",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 92,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 02 15:28:03 +0000 2017",
 		"id": 848557649088073700,
 		"id_str": "848557649088073729",
