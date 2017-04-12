@@ -1,6 +1,1963 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 15:48:29 +0000 2017",
+		"id": 851824281545695200,
+		"id_str": "851824281545695236",
+		"text": "RT @nowthisnews: This edible ‘bottle’ could change the way we drink water https://t.co/DossTKG5AL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nowthisnews",
+					"name": "NowThis",
+					"id": 701725963,
+					"id_str": "701725963",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851803606227529700,
+					"id_str": "851803606227529730",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+					"url": "https://t.co/DossTKG5AL",
+					"display_url": "pic.twitter.com/DossTKG5AL",
+					"expanded_url": "https://twitter.com/nowthisnews/status/851815620941238272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851815620941238300,
+					"source_status_id_str": "851815620941238272",
+					"source_user_id": 701725963,
+					"source_user_id_str": "701725963"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851803606227529700,
+					"id_str": "851803606227529730",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+					"url": "https://t.co/DossTKG5AL",
+					"display_url": "pic.twitter.com/DossTKG5AL",
+					"expanded_url": "https://twitter.com/nowthisnews/status/851815620941238272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851815620941238300,
+					"source_status_id_str": "851815620941238272",
+					"source_user_id": 701725963,
+					"source_user_id_str": "701725963",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 50317,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/851803606227529730/vid/480x480/XhaEQtTEDQYiY5bq.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/851803606227529730/vid/240x240/_J9gmPO4fk9E37ms.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/851803606227529730/vid/720x720/W4yET1gtJWu5vEfo.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/851803606227529730/pl/ulSUwomX4JAkRoU8.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The Edible Plastic Bottle",
+						"description": "Game changer.",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 701725963,
+							"id_str": "701725963",
+							"name": "NowThis",
+							"screen_name": "nowthisnews",
+							"location": "The Internet & NYC",
+							"description": "See it first, share it first.",
+							"url": "http://t.co/1NLX7sJ52o",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/1NLX7sJ52o",
+											"expanded_url": "http://nowthisnews.com/",
+											"display_url": "nowthisnews.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 726672,
+							"friends_count": 18905,
+							"listed_count": 3150,
+							"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+							"favourites_count": 12422,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 75639,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "7FDBB6",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435880632921513984/78hrkPGk.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435880632921513984/78hrkPGk.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/783053831844298754/p8H7pdtz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/783053831844298754/p8H7pdtz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1475529529",
+							"profile_link_color": "1F98C7",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8971,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 15:14:04 +0000 2017",
+			"id": 851815620941238300,
+			"id_str": "851815620941238272",
+			"text": "This edible ‘bottle’ could change the way we drink water https://t.co/DossTKG5AL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851803606227529700,
+						"id_str": "851803606227529730",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+						"url": "https://t.co/DossTKG5AL",
+						"display_url": "pic.twitter.com/DossTKG5AL",
+						"expanded_url": "https://twitter.com/nowthisnews/status/851815620941238272/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851803606227529700,
+						"id_str": "851803606227529730",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9I3aabXUAAeTMM.jpg",
+						"url": "https://t.co/DossTKG5AL",
+						"display_url": "pic.twitter.com/DossTKG5AL",
+						"expanded_url": "https://twitter.com/nowthisnews/status/851815620941238272/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 50317,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/851803606227529730/vid/480x480/XhaEQtTEDQYiY5bq.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/851803606227529730/vid/240x240/_J9gmPO4fk9E37ms.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/851803606227529730/vid/720x720/W4yET1gtJWu5vEfo.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/851803606227529730/pl/ulSUwomX4JAkRoU8.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "The Edible Plastic Bottle",
+							"description": "Game changer.",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701725963,
+				"id_str": "701725963",
+				"name": "NowThis",
+				"screen_name": "nowthisnews",
+				"location": "The Internet & NYC",
+				"description": "See it first, share it first.",
+				"url": "http://t.co/1NLX7sJ52o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1NLX7sJ52o",
+								"expanded_url": "http://nowthisnews.com/",
+								"display_url": "nowthisnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 726672,
+				"friends_count": 18905,
+				"listed_count": 3150,
+				"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+				"favourites_count": 12422,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75639,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7FDBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435880632921513984/78hrkPGk.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435880632921513984/78hrkPGk.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783053831844298754/p8H7pdtz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783053831844298754/p8H7pdtz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1475529529",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1345,
+			"favorite_count": 1782,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1345,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 15:00:11 +0000 2017",
+		"id": 851812126884732900,
+		"id_str": "851812126884732929",
+		"text": "@halophoenix Congratulations! And all the best!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "halophoenix",
+					"name": "Alan Henry",
+					"id": 20097713,
+					"id_str": "20097713",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 851447100244193300,
+		"in_reply_to_status_id_str": "851447100244193280",
+		"in_reply_to_user_id": 20097713,
+		"in_reply_to_user_id_str": "20097713",
+		"in_reply_to_screen_name": "halophoenix",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8971,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 06:14:28 +0000 2017",
+		"id": 851679827446743000,
+		"id_str": "851679827446743040",
+		"text": "RT @BabyAnimalPics: This bird is so happy to have a banana 😂😍 https://t.co/cHOSuxvrU8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BabyAnimalPics",
+					"name": "Baby Animals",
+					"id": 1372975219,
+					"id_str": "1372975219",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851530283040075800,
+					"id_str": "851530283040075776",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+					"url": "https://t.co/cHOSuxvrU8",
+					"display_url": "pic.twitter.com/cHOSuxvrU8",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/851530322617487361/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851530322617487400,
+					"source_status_id_str": "851530322617487361",
+					"source_user_id": 1372975219,
+					"source_user_id_str": "1372975219"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851530283040075800,
+					"id_str": "851530283040075776",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+					"url": "https://t.co/cHOSuxvrU8",
+					"display_url": "pic.twitter.com/cHOSuxvrU8",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/851530322617487361/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851530322617487400,
+					"source_status_id_str": "851530322617487361",
+					"source_user_id": 1372975219,
+					"source_user_id_str": "1372975219",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 17634,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/pl/97dM2FyZWPapeX8o.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/vid/240x240/zJToIxhNVeCuVGfx.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/vid/720x720/0G4RImUQI-n_GcRh.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/vid/480x480/VT_fxPXqP6KR6x4z.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1372975219,
+							"id_str": "1372975219",
+							"name": "Baby Animals",
+							"screen_name": "BabyAnimalPics",
+							"location": "",
+							"description": "The cutest tweets imaginable. Follow us for instant happiness! 💕 *We own no content posted* ✉️: r@babyanimalvids.com",
+							"url": "https://t.co/fGsZDMkw5t",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/fGsZDMkw5t",
+											"expanded_url": "http://Instagram.com/babyanimalvids",
+											"display_url": "Instagram.com/babyanimalvids",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2012081,
+							"friends_count": 57,
+							"listed_count": 4213,
+							"created_at": "Mon Apr 22 19:48:40 +0000 2013",
+							"favourites_count": 34169,
+							"utc_offset": -10800,
+							"time_zone": "Atlantic Time (Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 30766,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372975219/1389947904",
+							"profile_link_color": "FA2828",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8971,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 20:20:24 +0000 2017",
+			"id": 851530322617487400,
+			"id_str": "851530322617487361",
+			"text": "This bird is so happy to have a banana 😂😍 https://t.co/cHOSuxvrU8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851530283040075800,
+						"id_str": "851530283040075776",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+						"url": "https://t.co/cHOSuxvrU8",
+						"display_url": "pic.twitter.com/cHOSuxvrU8",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/851530322617487361/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851530283040075800,
+						"id_str": "851530283040075776",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851530283040075776/pu/img/JrCljrZtOR1jJECk.jpg",
+						"url": "https://t.co/cHOSuxvrU8",
+						"display_url": "pic.twitter.com/cHOSuxvrU8",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/851530322617487361/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 17634,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/pl/97dM2FyZWPapeX8o.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/vid/240x240/zJToIxhNVeCuVGfx.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/vid/720x720/0G4RImUQI-n_GcRh.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851530283040075776/pu/vid/480x480/VT_fxPXqP6KR6x4z.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1372975219,
+				"id_str": "1372975219",
+				"name": "Baby Animals",
+				"screen_name": "BabyAnimalPics",
+				"location": "",
+				"description": "The cutest tweets imaginable. Follow us for instant happiness! 💕 *We own no content posted* ✉️: r@babyanimalvids.com",
+				"url": "https://t.co/fGsZDMkw5t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fGsZDMkw5t",
+								"expanded_url": "http://Instagram.com/babyanimalvids",
+								"display_url": "Instagram.com/babyanimalvids",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2012081,
+				"friends_count": 57,
+				"listed_count": 4213,
+				"created_at": "Mon Apr 22 19:48:40 +0000 2013",
+				"favourites_count": 34169,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30766,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372975219/1389947904",
+				"profile_link_color": "FA2828",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6903,
+			"favorite_count": 13609,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6903,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 06:13:24 +0000 2017",
+		"id": 851679555198648300,
+		"id_str": "851679555198648320",
+		"text": "Good morning, World! https://t.co/iRjE9e3VJF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iRjE9e3VJF",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/835315080619253761",
+					"display_url": "twitter.com/BabyAnimalPics…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8971,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 835315080619253800,
+		"quoted_status_id_str": "835315080619253761",
+		"quoted_status": {
+			"created_at": "Sat Feb 25 02:26:49 +0000 2017",
+			"id": 835315080619253800,
+			"id_str": "835315080619253761",
+			"text": "If this doesn't make your day then don't know what else https://t.co/hXrQUCeraR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 835314951036276700,
+						"id_str": "835314951036276736",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/835314951036276736/pu/img/Vdm3yjMM2OL6wNh_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/835314951036276736/pu/img/Vdm3yjMM2OL6wNh_.jpg",
+						"url": "https://t.co/hXrQUCeraR",
+						"display_url": "pic.twitter.com/hXrQUCeraR",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/835315080619253761/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835314951036276700,
+						"id_str": "835314951036276736",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/835314951036276736/pu/img/Vdm3yjMM2OL6wNh_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/835314951036276736/pu/img/Vdm3yjMM2OL6wNh_.jpg",
+						"url": "https://t.co/hXrQUCeraR",
+						"display_url": "pic.twitter.com/hXrQUCeraR",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/835315080619253761/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 53367,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/835314951036276736/pu/pl/a4giZqdOff6WMxLb.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/835314951036276736/pu/vid/240x240/8yQJ3IuXhiGuTcJx.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/835314951036276736/pu/vid/480x480/_2eUjyLDrYDpaVdC.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1372975219,
+				"id_str": "1372975219",
+				"name": "Baby Animals",
+				"screen_name": "BabyAnimalPics",
+				"location": "",
+				"description": "The cutest tweets imaginable. Follow us for instant happiness! 💕 *We own no content posted* ✉️: r@babyanimalvids.com",
+				"url": "https://t.co/fGsZDMkw5t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fGsZDMkw5t",
+								"expanded_url": "http://Instagram.com/babyanimalvids",
+								"display_url": "Instagram.com/babyanimalvids",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2012081,
+				"friends_count": 57,
+				"listed_count": 4213,
+				"created_at": "Mon Apr 22 19:48:40 +0000 2013",
+				"favourites_count": 34169,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30766,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372975219/1389947904",
+				"profile_link_color": "FA2828",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3369,
+			"favorite_count": 8533,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 06:11:04 +0000 2017",
+		"id": 851678971150311400,
+		"id_str": "851678971150311424",
+		"text": "RT @GautamMahtani: Hahaha couldn't stop laughing... well played by @SouthwestAir ... https://t.co/iTLCWAO8CV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GautamMahtani",
+					"name": "Gautam Mahtani",
+					"id": 31387987,
+					"id_str": "31387987",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "SouthwestAir",
+					"name": "Southwest Airlines",
+					"id": 7212562,
+					"id_str": "7212562",
+					"indices": [
+						67,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851673869551358000,
+					"id_str": "851673869551357953",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+					"url": "https://t.co/iTLCWAO8CV",
+					"display_url": "pic.twitter.com/iTLCWAO8CV",
+					"expanded_url": "https://twitter.com/GautamMahtani/status/851673877017235456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851673877017235500,
+					"source_status_id_str": "851673877017235456",
+					"source_user_id": 31387987,
+					"source_user_id_str": "31387987"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851673869551358000,
+					"id_str": "851673869551357953",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+					"url": "https://t.co/iTLCWAO8CV",
+					"display_url": "pic.twitter.com/iTLCWAO8CV",
+					"expanded_url": "https://twitter.com/GautamMahtani/status/851673877017235456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851673877017235500,
+					"source_status_id_str": "851673877017235456",
+					"source_user_id": 31387987,
+					"source_user_id_str": "31387987"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8971,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 05:50:50 +0000 2017",
+			"id": 851673877017235500,
+			"id_str": "851673877017235456",
+			"text": "Hahaha couldn't stop laughing... well played by @SouthwestAir ... https://t.co/iTLCWAO8CV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SouthwestAir",
+						"name": "Southwest Airlines",
+						"id": 7212562,
+						"id_str": "7212562",
+						"indices": [
+							48,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 851673869551358000,
+						"id_str": "851673869551357953",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+						"url": "https://t.co/iTLCWAO8CV",
+						"display_url": "pic.twitter.com/iTLCWAO8CV",
+						"expanded_url": "https://twitter.com/GautamMahtani/status/851673877017235456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851673869551358000,
+						"id_str": "851673869551357953",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9HA3zsXUAEYr-M.jpg",
+						"url": "https://t.co/iTLCWAO8CV",
+						"display_url": "pic.twitter.com/iTLCWAO8CV",
+						"expanded_url": "https://twitter.com/GautamMahtani/status/851673877017235456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31387987,
+				"id_str": "31387987",
+				"name": "Gautam Mahtani",
+				"screen_name": "GautamMahtani",
+				"location": "iPhone: 18.998531,72.838997",
+				"description": "Great dad. Dreamer. Runner. Apple lover. Schumi fan. Entrepreneur. Communications Pro. Libran. Foodie. Major Nut Job.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1912,
+				"friends_count": 1193,
+				"listed_count": 74,
+				"created_at": "Wed Apr 15 11:40:10 +0000 2009",
+				"favourites_count": 1431,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27272,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C9C9C9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/341428830/IMG_0368.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/341428830/IMG_0368.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1640189689/Image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1640189689/Image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31387987/1391670428",
+				"profile_link_color": "A3A3A3",
+				"profile_sidebar_border_color": "C9C9C9",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1b8680cd52a711cb",
+				"url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+				"place_type": "city",
+				"name": "Bengaluru",
+				"full_name": "Bengaluru, India",
+				"country_code": "IN",
+				"country": "India",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								77.373474,
+								12.919037
+							],
+							[
+								77.739371,
+								12.919037
+							],
+							[
+								77.739371,
+								13.231381
+							],
+							[
+								77.373474,
+								13.231381
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 56,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 06:09:20 +0000 2017",
+		"id": 851678532807794700,
+		"id_str": "851678532807794688",
+		"text": "ROFL! 😂 https://t.co/fVC3hs91dH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fVC3hs91dH",
+					"expanded_url": "https://twitter.com/ek_samosa_dena/status/851425809206136832",
+					"display_url": "twitter.com/ek_samosa_dena…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8971,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 851425809206136800,
+		"quoted_status_id_str": "851425809206136832",
+		"quoted_status": {
+			"created_at": "Mon Apr 10 13:25:06 +0000 2017",
+			"id": 851425809206136800,
+			"id_str": "851425809206136832",
+			"text": "This is another level 😂😂😂😂😂 https://t.co/bWkxbWKx2W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851425796744818700,
+						"id_str": "851425796744818688",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/C9DfQEeUMAAoBJZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9DfQEeUMAAoBJZ.jpg",
+						"url": "https://t.co/bWkxbWKx2W",
+						"display_url": "pic.twitter.com/bWkxbWKx2W",
+						"expanded_url": "https://twitter.com/ek_samosa_dena/status/851425809206136832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851425796744818700,
+						"id_str": "851425796744818688",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/C9DfQEeUMAAoBJZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9DfQEeUMAAoBJZ.jpg",
+						"url": "https://t.co/bWkxbWKx2W",
+						"display_url": "pic.twitter.com/bWkxbWKx2W",
+						"expanded_url": "https://twitter.com/ek_samosa_dena/status/851425809206136832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 309501767,
+				"id_str": "309501767",
+				"name": "Samosaji",
+				"screen_name": "ek_samosa_dena",
+				"location": "  ",
+				"description": "chutney hai?",
+				"url": "https://t.co/x5L0oeyQXK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x5L0oeyQXK",
+								"expanded_url": "http://favstar.fm/users/ek_samosa_dena",
+								"display_url": "favstar.fm/users/ek_samos…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3380,
+				"friends_count": 256,
+				"listed_count": 50,
+				"created_at": "Thu Jun 02 05:58:46 +0000 2011",
+				"favourites_count": 2330,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846031354848395264/IbOAOHCF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846031354848395264/IbOAOHCF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/309501767/1476641750",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1077,
+			"favorite_count": 1030,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 10 17:06:12 +0000 2017",
 		"id": 851481452436889600,
 		"id_str": "851481452436889601",
