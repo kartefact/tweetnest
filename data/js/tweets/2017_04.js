@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 15:27:35 +0000 2017",
+		"id": 854355738118025200,
+		"id_str": "854355738118025217",
+		"text": "RT @StevieVanZandt: And just when you're ready to give up hope... https://t.co/o4DI0FZyUa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StevieVanZandt",
+					"name": "Stevie Van Zandt",
+					"id": 23908002,
+					"id_str": "23908002",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853670906945843200,
+					"id_str": "853670906945843201",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+					"url": "https://t.co/o4DI0FZyUa",
+					"display_url": "pic.twitter.com/o4DI0FZyUa",
+					"expanded_url": "https://twitter.com/StevieVanZandt/status/853670908841648129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853670908841648100,
+					"source_status_id_str": "853670908841648129",
+					"source_user_id": 23908002,
+					"source_user_id_str": "23908002"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853670906945843200,
+					"id_str": "853670906945843201",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+					"url": "https://t.co/o4DI0FZyUa",
+					"display_url": "pic.twitter.com/o4DI0FZyUa",
+					"expanded_url": "https://twitter.com/StevieVanZandt/status/853670908841648129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853670908841648100,
+					"source_status_id_str": "853670908841648129",
+					"source_user_id": 23908002,
+					"source_user_id_str": "23908002"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8995,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 16 18:06:19 +0000 2017",
+			"id": 853670908841648100,
+			"id_str": "853670908841648129",
+			"text": "And just when you're ready to give up hope... https://t.co/o4DI0FZyUa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853670906945843200,
+						"id_str": "853670906945843201",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+						"url": "https://t.co/o4DI0FZyUa",
+						"display_url": "pic.twitter.com/o4DI0FZyUa",
+						"expanded_url": "https://twitter.com/StevieVanZandt/status/853670908841648129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 850,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 850,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853670906945843200,
+						"id_str": "853670906945843201",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9jZKruXsAE6gF8.jpg",
+						"url": "https://t.co/o4DI0FZyUa",
+						"display_url": "pic.twitter.com/o4DI0FZyUa",
+						"expanded_url": "https://twitter.com/StevieVanZandt/status/853670908841648129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 850,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 850,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23908002,
+				"id_str": "23908002",
+				"name": "Stevie Van Zandt",
+				"screen_name": "StevieVanZandt",
+				"location": "New York City/Lillehammer",
+				"description": "Little Steven's official twitter page.",
+				"url": "http://t.co/NXDYESqGQU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NXDYESqGQU",
+								"expanded_url": "http://www.undergroundgarage.com",
+								"display_url": "undergroundgarage.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164071,
+				"friends_count": 353,
+				"listed_count": 1560,
+				"created_at": "Thu Mar 12 05:42:08 +0000 2009",
+				"favourites_count": 32,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/337677631/twitterbg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/337677631/twitterbg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/95564935/Little_Steven_Candles_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/95564935/Little_Steven_Candles_normal.jpg",
+				"profile_link_color": "7F68F2",
+				"profile_sidebar_border_color": "2A2B29",
+				"profile_sidebar_fill_color": "CDD1CA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11724,
+			"favorite_count": 32064,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11724,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 15:26:59 +0000 2017",
+		"id": 854355586074505200,
+		"id_str": "854355586074505216",
+		"text": "RT @planetepics: https://t.co/fUIgpNv8qA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "planetepics",
+					"name": "Life on Earth",
+					"id": 954590804,
+					"id_str": "954590804",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 854306773666222100,
+					"id_str": "854306773666222080",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+					"url": "https://t.co/fUIgpNv8qA",
+					"display_url": "pic.twitter.com/fUIgpNv8qA",
+					"expanded_url": "https://twitter.com/planetepics/status/854306777227292673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 904,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 904,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854306777227292700,
+					"source_status_id_str": "854306777227292673",
+					"source_user_id": 954590804,
+					"source_user_id_str": "954590804"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854306773666222100,
+					"id_str": "854306773666222080",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+					"url": "https://t.co/fUIgpNv8qA",
+					"display_url": "pic.twitter.com/fUIgpNv8qA",
+					"expanded_url": "https://twitter.com/planetepics/status/854306777227292673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 904,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 904,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854306777227292700,
+					"source_status_id_str": "854306777227292673",
+					"source_user_id": 954590804,
+					"source_user_id_str": "954590804"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "There is no spoon!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577,
+			"friends_count": 497,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 8995,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838777338695462912/MtYovusb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1488367771",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 12:13:02 +0000 2017",
+			"id": 854306777227292700,
+			"id_str": "854306777227292673",
+			"text": "https://t.co/fUIgpNv8qA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854306773666222100,
+						"id_str": "854306773666222080",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+						"url": "https://t.co/fUIgpNv8qA",
+						"display_url": "pic.twitter.com/fUIgpNv8qA",
+						"expanded_url": "https://twitter.com/planetepics/status/854306777227292673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 904,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 904,
+								"h": 801,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 603,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854306773666222100,
+						"id_str": "854306773666222080",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9sbe_2V0AA4sH6.jpg",
+						"url": "https://t.co/fUIgpNv8qA",
+						"display_url": "pic.twitter.com/fUIgpNv8qA",
+						"expanded_url": "https://twitter.com/planetepics/status/854306777227292673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 904,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 904,
+								"h": 801,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 603,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 954590804,
+				"id_str": "954590804",
+				"name": "Life on Earth",
+				"screen_name": "planetepics",
+				"location": "planetepics@gmail.com",
+				"description": "Amazing pictures of animals, places, people and nature. https://t.co/46sgqTMbYS",
+				"url": "https://t.co/tvpsR8FKQi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tvpsR8FKQi",
+								"expanded_url": "http://themindcircle.com/",
+								"display_url": "themindcircle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/46sgqTMbYS",
+								"expanded_url": "http://facebook.com/planetepics/",
+								"display_url": "facebook.com/planetepics/",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3990471,
+				"friends_count": 14983,
+				"listed_count": 5493,
+				"created_at": "Sun Nov 18 00:50:35 +0000 2012",
+				"favourites_count": 1825,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080808",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463495027600015360/_Jyj6WD6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463495027600015360/_Jyj6WD6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/954590804/1415154628",
+				"profile_link_color": "017F8A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 801,
+			"favorite_count": 1946,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 801,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Apr 17 04:18:44 +0000 2017",
 		"id": 853825025614299100,
 		"id_str": "853825025614299137",
