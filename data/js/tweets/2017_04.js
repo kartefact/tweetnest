@@ -1,6 +1,1895 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 15:54:40 +0000 2017",
+		"id": 857986429380550700,
+		"id_str": "857986429380550656",
+		"text": "RT @tbhjuststop: rt if this cow is cuter than you https://t.co/J0JgezZ7Gj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tbhjuststop",
+					"name": "no",
+					"id": 1416289596,
+					"id_str": "1416289596",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 572088006112198660,
+					"id_str": "572088006112198657",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+					"url": "https://t.co/J0JgezZ7Gj",
+					"display_url": "pic.twitter.com/J0JgezZ7Gj",
+					"expanded_url": "https://twitter.com/tinatbh/status/572088008947593216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 592,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 572088008947593200,
+					"source_status_id_str": "572088008947593216",
+					"source_user_id": 612043406,
+					"source_user_id_str": "612043406"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 572088006112198660,
+					"id_str": "572088006112198657",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+					"url": "https://t.co/J0JgezZ7Gj",
+					"display_url": "pic.twitter.com/J0JgezZ7Gj",
+					"expanded_url": "https://twitter.com/tinatbh/status/572088008947593216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 592,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 572088008947593200,
+					"source_status_id_str": "572088008947593216",
+					"source_user_id": 612043406,
+					"source_user_id_str": "612043406"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 24 17:40:02 +0000 2017",
+			"id": 856563395591630800,
+			"id_str": "856563395591630848",
+			"text": "rt if this cow is cuter than you https://t.co/J0JgezZ7Gj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 572088006112198660,
+						"id_str": "572088006112198657",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+						"url": "https://t.co/J0JgezZ7Gj",
+						"display_url": "pic.twitter.com/J0JgezZ7Gj",
+						"expanded_url": "https://twitter.com/tinatbh/status/572088008947593216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 592,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 572088008947593200,
+						"source_status_id_str": "572088008947593216",
+						"source_user_id": 612043406,
+						"source_user_id_str": "612043406"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 572088006112198660,
+						"id_str": "572088006112198657",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B_B3ArCUQAEhMVT.jpg",
+						"url": "https://t.co/J0JgezZ7Gj",
+						"display_url": "pic.twitter.com/J0JgezZ7Gj",
+						"expanded_url": "https://twitter.com/tinatbh/status/572088008947593216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 592,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 572088008947593200,
+						"source_status_id_str": "572088008947593216",
+						"source_user_id": 612043406,
+						"source_user_id_str": "612043406"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1416289596,
+				"id_str": "1416289596",
+				"name": "no",
+				"screen_name": "tbhjuststop",
+				"location": "",
+				"description": "do people even read these",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1099959,
+				"friends_count": 107,
+				"listed_count": 2735,
+				"created_at": "Thu May 09 19:40:53 +0000 2013",
+				"favourites_count": 166,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687877647100194816/qWC6tjVX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687877647100194816/qWC6tjVX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416289596/1442426083",
+				"profile_link_color": "F011A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2633,
+			"favorite_count": 3267,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2633,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 28 08:04:30 +0000 2017",
+		"id": 857868108425560000,
+		"id_str": "857868108425560064",
+		"text": "RT @PedestrianPoet: Bangalore city police is just. https://t.co/LFF4QDOu2O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PedestrianPoet",
+					"name": "Peglet",
+					"id": 404757585,
+					"id_str": "404757585",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 857668156751396900,
+					"id_str": "857668156751396864",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+					"url": "https://t.co/LFF4QDOu2O",
+					"display_url": "pic.twitter.com/LFF4QDOu2O",
+					"expanded_url": "https://twitter.com/PedestrianPoet/status/857668196324659200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 857668196324659200,
+					"source_status_id_str": "857668196324659200",
+					"source_user_id": 404757585,
+					"source_user_id_str": "404757585"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 857668156751396900,
+					"id_str": "857668156751396864",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+					"url": "https://t.co/LFF4QDOu2O",
+					"display_url": "pic.twitter.com/LFF4QDOu2O",
+					"expanded_url": "https://twitter.com/PedestrianPoet/status/857668196324659200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 857668196324659200,
+					"source_status_id_str": "857668196324659200",
+					"source_user_id": 404757585,
+					"source_user_id_str": "404757585"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 27 18:50:07 +0000 2017",
+			"id": 857668196324659200,
+			"id_str": "857668196324659200",
+			"text": "Bangalore city police is just. https://t.co/LFF4QDOu2O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 857668156751396900,
+						"id_str": "857668156751396864",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+						"url": "https://t.co/LFF4QDOu2O",
+						"display_url": "pic.twitter.com/LFF4QDOu2O",
+						"expanded_url": "https://twitter.com/PedestrianPoet/status/857668196324659200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 857668156751396900,
+						"id_str": "857668156751396864",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-cMpPpUwAAuDMT.jpg",
+						"url": "https://t.co/LFF4QDOu2O",
+						"display_url": "pic.twitter.com/LFF4QDOu2O",
+						"expanded_url": "https://twitter.com/PedestrianPoet/status/857668196324659200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 404757585,
+				"id_str": "404757585",
+				"name": "Peglet",
+				"screen_name": "PedestrianPoet",
+				"location": "Bombay-Dilli-Bombay",
+				"description": "Poetry about policy problems. Raging feminist. Enthu cutlet. #NidhScraps #TheInabilityOfWords #TheEaseOfForgetting",
+				"url": "https://t.co/bAXqaJi7BN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bAXqaJi7BN",
+								"expanded_url": "http://foreverawkwardandlearning.wordpress.com/",
+								"display_url": "…reverawkwardandlearning.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8605,
+				"friends_count": 885,
+				"listed_count": 121,
+				"created_at": "Fri Nov 04 11:15:50 +0000 2011",
+				"favourites_count": 24472,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 99877,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F8BF92",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000136919732/oEJENRRU.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000136919732/oEJENRRU.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854215505929879552/jlpuQnra_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854215505929879552/jlpuQnra_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/404757585/1460454154",
+				"profile_link_color": "FC9073",
+				"profile_sidebar_border_color": "7C665D",
+				"profile_sidebar_fill_color": "BD6362",
+				"profile_text_color": "FD4C5E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 28 04:21:40 +0000 2017",
+		"id": 857812034007781400,
+		"id_str": "857812034007781376",
+		"text": "@Gunmaster_G9 Normal rate, but if you are travelling within that, then it is a steal!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gunmaster_G9",
+					"name": "Yungwan",
+					"id": 18134578,
+					"id_str": "18134578",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 857810146776535000,
+		"in_reply_to_status_id_str": "857810146776535040",
+		"in_reply_to_user_id": 18134578,
+		"in_reply_to_user_id_str": "18134578",
+		"in_reply_to_screen_name": "Gunmaster_G9",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 28 04:21:12 +0000 2017",
+		"id": 857811916391149600,
+		"id_str": "857811916391149568",
+		"text": "@mudnsky @cgabhi @amabirdman 😽",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "cgabhi",
+					"name": "Abhishek C Gupta",
+					"id": 410711800,
+					"id_str": "410711800",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 857797084921180200,
+		"in_reply_to_status_id_str": "857797084921180160",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Apr 28 03:19:23 +0000 2017",
+		"id": 857796357595123700,
+		"id_str": "857796357595123716",
+		"text": "@mudnsky @cgabhi @amabirdman Are you calling us wildlife? 😳",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "cgabhi",
+					"name": "Abhishek C Gupta",
+					"id": 410711800,
+					"id_str": "410711800",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 857795089694949400,
+		"in_reply_to_status_id_str": "857795089694949377",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 28 03:11:48 +0000 2017",
+		"id": 857794449996365800,
+		"id_str": "857794449996365825",
+		"text": "RT @CuteOverloads: When you type 'olay' instead of 'okay' https://t.co/ZKXSucI1fx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CuteOverloads",
+					"name": "Cute Overloads",
+					"id": 70009161,
+					"id_str": "70009161",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 603704823561740300,
+					"id_str": "603704823561740288",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+					"url": "https://t.co/ZKXSucI1fx",
+					"display_url": "pic.twitter.com/ZKXSucI1fx",
+					"expanded_url": "http://twitter.com/CuteOverloads/status/603704823687585792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 584,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 436,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 603704823687585800,
+					"source_status_id_str": "603704823687585792",
+					"source_user_id": 70009161,
+					"source_user_id_str": "70009161"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 603704823561740300,
+					"id_str": "603704823561740288",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+					"url": "https://t.co/ZKXSucI1fx",
+					"display_url": "pic.twitter.com/ZKXSucI1fx",
+					"expanded_url": "http://twitter.com/CuteOverloads/status/603704823687585792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 584,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 436,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 603704823687585800,
+					"source_status_id_str": "603704823687585792",
+					"source_user_id": 70009161,
+					"source_user_id_str": "70009161"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 28 03:00:33 +0000 2017",
+			"id": 857791619285864400,
+			"id_str": "857791619285864448",
+			"text": "When you type 'olay' instead of 'okay' https://t.co/ZKXSucI1fx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 603704823561740300,
+						"id_str": "603704823561740288",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+						"url": "https://t.co/ZKXSucI1fx",
+						"display_url": "pic.twitter.com/ZKXSucI1fx",
+						"expanded_url": "http://twitter.com/CuteOverloads/status/603704823687585792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 584,
+								"h": 436,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 436,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 603704823687585800,
+						"source_status_id_str": "603704823687585792",
+						"source_user_id": 70009161,
+						"source_user_id_str": "70009161"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 603704823561740300,
+						"id_str": "603704823561740288",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CGDKVqWWYAA8uSt.jpg",
+						"url": "https://t.co/ZKXSucI1fx",
+						"display_url": "pic.twitter.com/ZKXSucI1fx",
+						"expanded_url": "http://twitter.com/CuteOverloads/status/603704823687585792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 584,
+								"h": 436,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 436,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 603704823687585800,
+						"source_status_id_str": "603704823687585792",
+						"source_user_id": 70009161,
+						"source_user_id_str": "70009161"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70009161,
+				"id_str": "70009161",
+				"name": "Cute Overloads",
+				"screen_name": "CuteOverloads",
+				"location": "",
+				"description": "we DO NOT own content posted. Everything is submissions. Content will be immediately removed or credited by owners request. Enjoy!",
+				"url": "https://t.co/0UI615SniQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UI615SniQ",
+								"expanded_url": "http://instagram.com/cuteoverload.s",
+								"display_url": "instagram.com/cuteoverload.s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2319587,
+				"friends_count": 156,
+				"listed_count": 1963,
+				"created_at": "Sun Aug 30 01:00:50 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17657,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70009161/1399149211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFD5B0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 267,
+			"favorite_count": 942,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 267,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 28 03:11:19 +0000 2017",
+		"id": 857794328659247100,
+		"id_str": "857794328659247104",
+		"text": "Uber pool is spoiling me. 4 rupees for 4km? Get out of here!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 28 02:24:44 +0000 2017",
+		"id": 857782606410022900,
+		"id_str": "857782606410022912",
+		"text": "RT @dodo: They've been playing this game since the cat was a tiny kitten — look how SMALL she was https://t.co/UOpnXd8pcR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dodo",
+					"name": "The Dodo",
+					"id": 1604444052,
+					"id_str": "1604444052",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 857297653952127000,
+					"id_str": "857297653952126978",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+					"url": "https://t.co/UOpnXd8pcR",
+					"display_url": "pic.twitter.com/UOpnXd8pcR",
+					"expanded_url": "https://twitter.com/dodo/status/857365185706606593/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 857365185706606600,
+					"source_status_id_str": "857365185706606593",
+					"source_user_id": 1604444052,
+					"source_user_id_str": "1604444052"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 857297653952127000,
+					"id_str": "857297653952126978",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+					"url": "https://t.co/UOpnXd8pcR",
+					"display_url": "pic.twitter.com/UOpnXd8pcR",
+					"expanded_url": "https://twitter.com/dodo/status/857365185706606593/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 857365185706606600,
+					"source_status_id_str": "857365185706606593",
+					"source_user_id": 1604444052,
+					"source_user_id_str": "1604444052",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 94962,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/857297653952126978/vid/480x480/zXGMa9BxUR9d5NIW.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/857297653952126978/vid/720x720/nlLFXISnqpVnqZYw.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/857297653952126978/vid/240x240/8H1a6ThjoMLcXgc3.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/857297653952126978/pl/RFuARBXpsUWMD-ce.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Cat And Dog Have Been Wrestling Since Day 1",
+						"description": "They've been playing this game since the cat was a tiny kitten — look how SMALL she was",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 1604444052,
+							"id_str": "1604444052",
+							"name": "The Dodo",
+							"screen_name": "dodo",
+							"location": "New York, NY",
+							"description": "For animal people.",
+							"url": "http://t.co/8OI8fYm7h2",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/8OI8fYm7h2",
+											"expanded_url": "http://thedodo.com",
+											"display_url": "thedodo.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 234709,
+							"friends_count": 3148,
+							"listed_count": 2108,
+							"created_at": "Thu Jul 18 22:19:02 +0000 2013",
+							"favourites_count": 12590,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 43813,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "A0E6F9",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604444052/1490019168",
+							"profile_link_color": "819440",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Follow the white rabbit 🐇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 26 22:46:04 +0000 2017",
+			"id": 857365185706606600,
+			"id_str": "857365185706606593",
+			"text": "They've been playing this game since the cat was a tiny kitten — look how SMALL she was https://t.co/UOpnXd8pcR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 857297653952127000,
+						"id_str": "857297653952126978",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+						"url": "https://t.co/UOpnXd8pcR",
+						"display_url": "pic.twitter.com/UOpnXd8pcR",
+						"expanded_url": "https://twitter.com/dodo/status/857365185706606593/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 857297653952127000,
+						"id_str": "857297653952126978",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/857297653952126978/img/6n_G0BlXyRtw1p38.jpg",
+						"url": "https://t.co/UOpnXd8pcR",
+						"display_url": "pic.twitter.com/UOpnXd8pcR",
+						"expanded_url": "https://twitter.com/dodo/status/857365185706606593/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 94962,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/857297653952126978/vid/480x480/zXGMa9BxUR9d5NIW.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/857297653952126978/vid/720x720/nlLFXISnqpVnqZYw.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/857297653952126978/vid/240x240/8H1a6ThjoMLcXgc3.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/857297653952126978/pl/RFuARBXpsUWMD-ce.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Cat And Dog Have Been Wrestling Since Day 1",
+							"description": "They've been playing this game since the cat was a tiny kitten — look how SMALL she was",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1604444052,
+				"id_str": "1604444052",
+				"name": "The Dodo",
+				"screen_name": "dodo",
+				"location": "New York, NY",
+				"description": "For animal people.",
+				"url": "http://t.co/8OI8fYm7h2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8OI8fYm7h2",
+								"expanded_url": "http://thedodo.com",
+								"display_url": "thedodo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 234709,
+				"friends_count": 3148,
+				"listed_count": 2108,
+				"created_at": "Thu Jul 18 22:19:02 +0000 2013",
+				"favourites_count": 12590,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "A0E6F9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604444052/1490019168",
+				"profile_link_color": "819440",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6683,
+			"favorite_count": 9278,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6683,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 27 16:40:02 +0000 2017",
 		"id": 857635459643523100,
 		"id_str": "857635459643523072",
