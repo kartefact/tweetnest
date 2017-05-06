@@ -1,6 +1,1302 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 05 17:00:24 +0000 2017",
+		"id": 860539690260217900,
+		"id_str": "860539690260217856",
+		"text": "RT @dodo: If at first you don't succeed 🐥👏👏👏 https://t.co/0XcIjhxR7Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dodo",
+					"name": "The Dodo",
+					"id": 1604444052,
+					"id_str": "1604444052",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 860153124429811700,
+					"id_str": "860153124429811713",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+					"url": "https://t.co/0XcIjhxR7Q",
+					"display_url": "pic.twitter.com/0XcIjhxR7Q",
+					"expanded_url": "https://twitter.com/dodo/status/860268810921574400/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860268810921574400,
+					"source_status_id_str": "860268810921574400",
+					"source_user_id": 1604444052,
+					"source_user_id_str": "1604444052"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 860153124429811700,
+					"id_str": "860153124429811713",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+					"url": "https://t.co/0XcIjhxR7Q",
+					"display_url": "pic.twitter.com/0XcIjhxR7Q",
+					"expanded_url": "https://twitter.com/dodo/status/860268810921574400/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860268810921574400,
+					"source_status_id_str": "860268810921574400",
+					"source_user_id": 1604444052,
+					"source_user_id_str": "1604444052",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51051,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/860153124429811713/vid/720x720/IxM8SALFMt-WLnUd.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/860153124429811713/vid/480x480/zg1JOXlo8HzzMrmA.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/860153124429811713/pl/xdGYzv2ramFyjl6Y.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/860153124429811713/vid/240x240/2A0Iy8SuMB0izild.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Little Duckling Tries So Hard To Jump Up To His Family",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 1604444052,
+							"id_str": "1604444052",
+							"name": "The Dodo",
+							"screen_name": "dodo",
+							"location": "New York, NY",
+							"description": "For animal people.",
+							"url": "http://t.co/8OI8fYm7h2",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/8OI8fYm7h2",
+											"expanded_url": "http://thedodo.com",
+											"display_url": "thedodo.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 245426,
+							"friends_count": 3150,
+							"listed_count": 2165,
+							"created_at": "Thu Jul 18 22:19:02 +0000 2013",
+							"favourites_count": 12586,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 43920,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "A0E6F9",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604444052/1493668017",
+							"profile_link_color": "819440",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9169,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 04 23:04:02 +0000 2017",
+			"id": 860268810921574400,
+			"id_str": "860268810921574400",
+			"text": "If at first you don't succeed 🐥👏👏👏 https://t.co/0XcIjhxR7Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860153124429811700,
+						"id_str": "860153124429811713",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+						"url": "https://t.co/0XcIjhxR7Q",
+						"display_url": "pic.twitter.com/0XcIjhxR7Q",
+						"expanded_url": "https://twitter.com/dodo/status/860268810921574400/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860153124429811700,
+						"id_str": "860153124429811713",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/860153124429811713/img/mwVUlT6GDXN3aw8J.jpg",
+						"url": "https://t.co/0XcIjhxR7Q",
+						"display_url": "pic.twitter.com/0XcIjhxR7Q",
+						"expanded_url": "https://twitter.com/dodo/status/860268810921574400/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 51051,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/860153124429811713/vid/720x720/IxM8SALFMt-WLnUd.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/860153124429811713/vid/480x480/zg1JOXlo8HzzMrmA.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/860153124429811713/pl/xdGYzv2ramFyjl6Y.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/860153124429811713/vid/240x240/2A0Iy8SuMB0izild.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Little Duckling Tries So Hard To Jump Up To His Family",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1604444052,
+				"id_str": "1604444052",
+				"name": "The Dodo",
+				"screen_name": "dodo",
+				"location": "New York, NY",
+				"description": "For animal people.",
+				"url": "http://t.co/8OI8fYm7h2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8OI8fYm7h2",
+								"expanded_url": "http://thedodo.com",
+								"display_url": "thedodo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245426,
+				"friends_count": 3150,
+				"listed_count": 2165,
+				"created_at": "Thu Jul 18 22:19:02 +0000 2013",
+				"favourites_count": 12586,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "A0E6F9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458286792815304705/5TLXHXiN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775401262028300292/Vzvp_QN5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604444052/1493668017",
+				"profile_link_color": "819440",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3837,
+			"favorite_count": 5402,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3837,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 14:58:11 +0000 2017",
+		"id": 860508930044174300,
+		"id_str": "860508930044174337",
+		"text": "RT @AwkwardHolland: What if I told you...\nI photoshopped the same face onto every man behind Trump. Would you have noticed if I hadn't said…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AwkwardHolland",
+					"name": "Amanda Holland",
+					"id": 66690280,
+					"id_str": "66690280",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9169,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 04 21:18:32 +0000 2017",
+			"id": 860242261203861500,
+			"id_str": "860242261203861504",
+			"text": "What if I told you...\nI photoshopped the same face onto every man behind Trump. Would you have noticed if I hadn't… https://t.co/ojKKtHYomR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ojKKtHYomR",
+						"expanded_url": "https://twitter.com/i/web/status/860242261203861504",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66690280,
+				"id_str": "66690280",
+				"name": "Amanda Holland",
+				"screen_name": "AwkwardHolland",
+				"location": "Los Angeles",
+				"description": "Video Producer at BuzzFeed/Script Writer/TV Lover/Professional Cardigan Wearer --- I tweet about TV a lot.",
+				"url": "https://t.co/loCRKzAUDy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/loCRKzAUDy",
+								"expanded_url": "http://BuzzFeed.com/AmandaHolland",
+								"display_url": "BuzzFeed.com/AmandaHolland",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1946,
+				"friends_count": 629,
+				"listed_count": 50,
+				"created_at": "Tue Aug 18 14:13:19 +0000 2009",
+				"favourites_count": 267,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856623279934590976/TcPrFQs9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856623279934590976/TcPrFQs9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66690280/1450645768",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77545,
+			"favorite_count": 149345,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77545,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 14:25:13 +0000 2017",
+		"id": 860500634503598100,
+		"id_str": "860500634503598083",
+		"text": "RT @flirtingshadows: #Mumbai: A family friend is looking for PG accommodation for in Sion East for two months. Anyone got any leads?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mumbai",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flirtingshadows",
+					"name": "shruti",
+					"id": 53342165,
+					"id_str": "53342165",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9169,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 06:59:43 +0000 2017",
+			"id": 860388523836399600,
+			"id_str": "860388523836399617",
+			"text": "#Mumbai: A family friend is looking for PG accommodation for in Sion East for two months. Anyone got any leads?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Mumbai",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53342165,
+				"id_str": "53342165",
+				"name": "shruti",
+				"screen_name": "flirtingshadows",
+				"location": "bangalore",
+				"description": "Lover of the written word, bibliophile & thought collector | hopelessly whimsical, beautifully flawed | craves a crimson sky | chief deadline officer @TheKenWeb",
+				"url": "https://t.co/a4mK5qlfI7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a4mK5qlfI7",
+								"expanded_url": "http://about.me/shrutigarodia",
+								"display_url": "about.me/shrutigarodia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2196,
+				"friends_count": 151,
+				"listed_count": 109,
+				"created_at": "Fri Jul 03 09:22:58 +0000 2009",
+				"favourites_count": 3839,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44408,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292F30",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/60158522/revised_flower.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/60158522/revised_flower.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795514017917890560/NGd6TOtQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795514017917890560/NGd6TOtQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53342165/1480497854",
+				"profile_link_color": "C76262",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C78985",
+				"profile_text_color": "0A0101",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 14:22:48 +0000 2017",
+		"id": 860500027768098800,
+		"id_str": "860500027768098816",
+		"text": "RT @amabirdman: This magical plant called Madhunashini! https://t.co/hcVXwSQHTh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 860339420313960400,
+					"id_str": "860339420313960453",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+					"url": "https://t.co/hcVXwSQHTh",
+					"display_url": "pic.twitter.com/hcVXwSQHTh",
+					"expanded_url": "https://twitter.com/amabirdman/status/860339538954035201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 494,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 348,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860339538954035200,
+					"source_status_id_str": "860339538954035201",
+					"source_user_id": 67494533,
+					"source_user_id_str": "67494533"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 860339420313960400,
+					"id_str": "860339420313960453",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+					"url": "https://t.co/hcVXwSQHTh",
+					"display_url": "pic.twitter.com/hcVXwSQHTh",
+					"expanded_url": "https://twitter.com/amabirdman/status/860339538954035201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 494,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 348,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860339538954035200,
+					"source_status_id_str": "860339538954035201",
+					"source_user_id": 67494533,
+					"source_user_id_str": "67494533"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9169,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 03:45:05 +0000 2017",
+			"id": 860339538954035200,
+			"id_str": "860339538954035201",
+			"text": "This magical plant called Madhunashini! https://t.co/hcVXwSQHTh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860339420313960400,
+						"id_str": "860339420313960453",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+						"url": "https://t.co/hcVXwSQHTh",
+						"display_url": "pic.twitter.com/hcVXwSQHTh",
+						"expanded_url": "https://twitter.com/amabirdman/status/860339538954035201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 494,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 494,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 494,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860339420313960400,
+						"id_str": "860339420313960453",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_CKJP4UQAUvILy.jpg",
+						"url": "https://t.co/hcVXwSQHTh",
+						"display_url": "pic.twitter.com/hcVXwSQHTh",
+						"expanded_url": "https://twitter.com/amabirdman/status/860339538954035201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 494,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 494,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 494,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67494533,
+				"id_str": "67494533",
+				"name": "I am a Birdman",
+				"screen_name": "amabirdman",
+				"location": "Bangalore, India",
+				"description": "Musician ~ Bird-watcher ~ Naturalist ~ Photographer ~ Fan of AR Rahman, Sachin & Federer.",
+				"url": "http://t.co/VMGCQRRhWu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VMGCQRRhWu",
+								"expanded_url": "http://birdpicoftheday.tumblr.com",
+								"display_url": "birdpicoftheday.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2708,
+				"friends_count": 273,
+				"listed_count": 51,
+				"created_at": "Fri Aug 21 02:12:26 +0000 2009",
+				"favourites_count": 231,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55094,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863284582/17b033d033f1fccec0d6ef839fae0da7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863284582/17b033d033f1fccec0d6ef839fae0da7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846599891002408960/Udsh6BH8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846599891002408960/Udsh6BH8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67494533/1483679348",
+				"profile_link_color": "FF6B21",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF09E",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 18,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 07:06:12 +0000 2017",
+		"id": 860390152874545200,
+		"id_str": "860390152874545153",
+		"text": "How can people not use spreadsheets to have fun?  https://t.co/kZ0YTSB7PR #FB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FB",
+					"indices": [
+						74,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kZ0YTSB7PR",
+					"expanded_url": "https://youtu.be/UBX2QQHlQ_I",
+					"display_url": "youtu.be/UBX2QQHlQ_I",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 496,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9169,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 04 17:58:14 +0000 2017",
 		"id": 860191853550854100,
 		"id_str": "860191853550854144",
