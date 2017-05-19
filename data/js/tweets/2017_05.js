@@ -1,6 +1,3420 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 18 18:18:30 +0000 2017",
+		"id": 865270384890753000,
+		"id_str": "865270384890753024",
+		"text": "RT @DopeDances: If you're having a bad day just watch this bear get down https://t.co/qEOz1HMgiL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DopeDances",
+					"name": "Dope Dances",
+					"id": 1308555452,
+					"id_str": "1308555452",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 827509533807407100,
+					"id_str": "827509533807407104",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+					"url": "https://t.co/qEOz1HMgiL",
+					"display_url": "pic.twitter.com/qEOz1HMgiL",
+					"expanded_url": "https://twitter.com/DancingGoal/status/827509579474874370/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 827509579474874400,
+					"source_status_id_str": "827509579474874370",
+					"source_user_id": 2227266128,
+					"source_user_id_str": "2227266128"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827509533807407100,
+					"id_str": "827509533807407104",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+					"url": "https://t.co/qEOz1HMgiL",
+					"display_url": "pic.twitter.com/qEOz1HMgiL",
+					"expanded_url": "https://twitter.com/DancingGoal/status/827509579474874370/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 827509579474874400,
+					"source_status_id_str": "827509579474874370",
+					"source_user_id": 2227266128,
+					"source_user_id_str": "2227266128",
+					"video_info": {
+						"aspect_ratio": [
+							202,
+							359
+						],
+						"duration_millis": 9967,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/827509533807407104/pu/vid/180x320/aIXq5AUGlxXgQbIA.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/827509533807407104/pu/vid/360x640/2tW6X_LHMlyeMIwp.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/827509533807407104/pu/pl/Cuv40bRGPlmNN0d5.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2227266128,
+							"id_str": "2227266128",
+							"name": "Dance Goals",
+							"screen_name": "DancingGoal",
+							"location": "",
+							"description": "Showing the world the beauty of dance. We do not own all the content posted. Contact: hello@explodge.com",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 382628,
+							"friends_count": 28101,
+							"listed_count": 138,
+							"created_at": "Mon Dec 02 20:58:51 +0000 2013",
+							"favourites_count": 1192,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1833,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2227266128/1482817793",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 14 23:30:17 +0000 2017",
+			"id": 863899294948106200,
+			"id_str": "863899294948106241",
+			"text": "If you're having a bad day just watch this bear get down https://t.co/qEOz1HMgiL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827509533807407100,
+						"id_str": "827509533807407104",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+						"url": "https://t.co/qEOz1HMgiL",
+						"display_url": "pic.twitter.com/qEOz1HMgiL",
+						"expanded_url": "https://twitter.com/DancingGoal/status/827509579474874370/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 404,
+								"h": 718,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 404,
+								"h": 718,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 827509579474874400,
+						"source_status_id_str": "827509579474874370",
+						"source_user_id": 2227266128,
+						"source_user_id_str": "2227266128"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827509533807407100,
+						"id_str": "827509533807407104",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827509533807407104/pu/img/w-VBUEMzbNLNZJl5.jpg",
+						"url": "https://t.co/qEOz1HMgiL",
+						"display_url": "pic.twitter.com/qEOz1HMgiL",
+						"expanded_url": "https://twitter.com/DancingGoal/status/827509579474874370/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 404,
+								"h": 718,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 404,
+								"h": 718,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 827509579474874400,
+						"source_status_id_str": "827509579474874370",
+						"source_user_id": 2227266128,
+						"source_user_id_str": "2227266128",
+						"video_info": {
+							"aspect_ratio": [
+								202,
+								359
+							],
+							"duration_millis": 9967,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/827509533807407104/pu/vid/180x320/aIXq5AUGlxXgQbIA.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/827509533807407104/pu/vid/360x640/2tW6X_LHMlyeMIwp.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/827509533807407104/pu/pl/Cuv40bRGPlmNN0d5.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2227266128,
+								"id_str": "2227266128",
+								"name": "Dance Goals",
+								"screen_name": "DancingGoal",
+								"location": "",
+								"description": "Showing the world the beauty of dance. We do not own all the content posted. Contact: hello@explodge.com",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 382628,
+								"friends_count": 28101,
+								"listed_count": 138,
+								"created_at": "Mon Dec 02 20:58:51 +0000 2013",
+								"favourites_count": 1192,
+								"utc_offset": -18000,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1833,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2227266128/1482817793",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1308555452,
+				"id_str": "1308555452",
+				"name": "Dope Dances",
+				"screen_name": "DopeDances",
+				"location": "",
+				"description": "The best dance videos 💃 Any content shared can be taken down by request\ndances@trendssocial.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 386195,
+				"friends_count": 126,
+				"listed_count": 388,
+				"created_at": "Wed Mar 27 20:37:32 +0000 2013",
+				"favourites_count": 8,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1264,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737305029816680448/-w9WzlGJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737305029816680448/-w9WzlGJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1308555452/1470345194",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 336,
+			"favorite_count": 610,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 18:17:55 +0000 2017",
+		"id": 865270238627090400,
+		"id_str": "865270238627090432",
+		"text": "RT @DopeDances: I just wanna see you strip right now https://t.co/Cel6oZTqHe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DopeDances",
+					"name": "Dope Dances",
+					"id": 1308555452,
+					"id_str": "1308555452",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 827539683466952700,
+					"id_str": "827539683466952704",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+					"url": "https://t.co/Cel6oZTqHe",
+					"display_url": "pic.twitter.com/Cel6oZTqHe",
+					"expanded_url": "https://twitter.com/DancingGoal/status/827539781332717568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827539781332717600,
+					"source_status_id_str": "827539781332717568",
+					"source_user_id": 2227266128,
+					"source_user_id_str": "2227266128"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827539683466952700,
+					"id_str": "827539683466952704",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+					"url": "https://t.co/Cel6oZTqHe",
+					"display_url": "pic.twitter.com/Cel6oZTqHe",
+					"expanded_url": "https://twitter.com/DancingGoal/status/827539781332717568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827539781332717600,
+					"source_status_id_str": "827539781332717568",
+					"source_user_id": 2227266128,
+					"source_user_id_str": "2227266128",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30034,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/827539683466952704/pu/vid/320x180/lSRkZFmuZ_buUmeW.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/827539683466952704/pu/vid/640x360/B_1Q-A-_J_D7u8cU.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/827539683466952704/pu/pl/fapwBthlh5UAwWSr.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2227266128,
+							"id_str": "2227266128",
+							"name": "Dance Goals",
+							"screen_name": "DancingGoal",
+							"location": "",
+							"description": "Showing the world the beauty of dance. We do not own all the content posted. Contact: hello@explodge.com",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 382628,
+							"friends_count": 28101,
+							"listed_count": 138,
+							"created_at": "Mon Dec 02 20:58:51 +0000 2013",
+							"favourites_count": 1192,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1833,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2227266128/1482817793",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 14 03:30:12 +0000 2017",
+			"id": 863597286349320200,
+			"id_str": "863597286349320192",
+			"text": "I just wanna see you strip right now https://t.co/Cel6oZTqHe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827539683466952700,
+						"id_str": "827539683466952704",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+						"url": "https://t.co/Cel6oZTqHe",
+						"display_url": "pic.twitter.com/Cel6oZTqHe",
+						"expanded_url": "https://twitter.com/DancingGoal/status/827539781332717568/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 827539781332717600,
+						"source_status_id_str": "827539781332717568",
+						"source_user_id": 2227266128,
+						"source_user_id_str": "2227266128"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827539683466952700,
+						"id_str": "827539683466952704",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/827539683466952704/pu/img/h3VfUln3lMqfDHUO.jpg",
+						"url": "https://t.co/Cel6oZTqHe",
+						"display_url": "pic.twitter.com/Cel6oZTqHe",
+						"expanded_url": "https://twitter.com/DancingGoal/status/827539781332717568/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 827539781332717600,
+						"source_status_id_str": "827539781332717568",
+						"source_user_id": 2227266128,
+						"source_user_id_str": "2227266128",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30034,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/827539683466952704/pu/vid/320x180/lSRkZFmuZ_buUmeW.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/827539683466952704/pu/vid/640x360/B_1Q-A-_J_D7u8cU.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/827539683466952704/pu/pl/fapwBthlh5UAwWSr.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2227266128,
+								"id_str": "2227266128",
+								"name": "Dance Goals",
+								"screen_name": "DancingGoal",
+								"location": "",
+								"description": "Showing the world the beauty of dance. We do not own all the content posted. Contact: hello@explodge.com",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 382628,
+								"friends_count": 28101,
+								"listed_count": 138,
+								"created_at": "Mon Dec 02 20:58:51 +0000 2013",
+								"favourites_count": 1192,
+								"utc_offset": -18000,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1833,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/813631334337810432/yLeOYQFU_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2227266128/1482817793",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1308555452,
+				"id_str": "1308555452",
+				"name": "Dope Dances",
+				"screen_name": "DopeDances",
+				"location": "",
+				"description": "The best dance videos 💃 Any content shared can be taken down by request\ndances@trendssocial.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 386195,
+				"friends_count": 126,
+				"listed_count": 388,
+				"created_at": "Wed Mar 27 20:37:32 +0000 2013",
+				"favourites_count": 8,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1264,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737305029816680448/-w9WzlGJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737305029816680448/-w9WzlGJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1308555452/1470345194",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 335,
+			"favorite_count": 961,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 18:14:10 +0000 2017",
+		"id": 865269293629321200,
+		"id_str": "865269293629321220",
+		"text": "RT @fztalks: When ransomware guys provide better customer support than most companies 😂#WannaCry https://t.co/H7SIFV5WKl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaCry",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fztalks",
+					"name": "Faizal",
+					"id": 3148941415,
+					"id_str": "3148941415",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 864852041834926100,
+					"id_str": "864852041834926080",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+					"url": "https://t.co/H7SIFV5WKl",
+					"display_url": "pic.twitter.com/H7SIFV5WKl",
+					"expanded_url": "https://twitter.com/fztalks/status/864852163230609408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 735,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 864852163230609400,
+					"source_status_id_str": "864852163230609408",
+					"source_user_id": 3148941415,
+					"source_user_id_str": "3148941415"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 864852041834926100,
+					"id_str": "864852041834926080",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+					"url": "https://t.co/H7SIFV5WKl",
+					"display_url": "pic.twitter.com/H7SIFV5WKl",
+					"expanded_url": "https://twitter.com/fztalks/status/864852163230609408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 735,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 864852163230609400,
+					"source_status_id_str": "864852163230609408",
+					"source_user_id": 3148941415,
+					"source_user_id_str": "3148941415"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 17 14:36:38 +0000 2017",
+			"id": 864852163230609400,
+			"id_str": "864852163230609408",
+			"text": "When ransomware guys provide better customer support than most companies 😂#WannaCry https://t.co/H7SIFV5WKl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WannaCry",
+						"indices": [
+							74,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 864852041834926100,
+						"id_str": "864852041834926080",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+						"url": "https://t.co/H7SIFV5WKl",
+						"display_url": "pic.twitter.com/H7SIFV5WKl",
+						"expanded_url": "https://twitter.com/fztalks/status/864852163230609408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 450,
+								"h": 735,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 416,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 735,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 864852041834926100,
+						"id_str": "864852041834926080",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DACSWZDXkAAHlgN.jpg",
+						"url": "https://t.co/H7SIFV5WKl",
+						"display_url": "pic.twitter.com/H7SIFV5WKl",
+						"expanded_url": "https://twitter.com/fztalks/status/864852163230609408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 450,
+								"h": 735,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 416,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 735,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3148941415,
+				"id_str": "3148941415",
+				"name": "Faizal",
+				"screen_name": "fztalks",
+				"location": "Cochin, Kerala",
+				"description": "Does it Matter ? Personal Tweets Here .. Director @itnetinfocom .. Die Hard Tottenham Fan @spursofficial",
+				"url": "https://t.co/7tezWpSpwm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7tezWpSpwm",
+								"expanded_url": "http://www.itnetinfo.com",
+								"display_url": "itnetinfo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 391,
+				"friends_count": 207,
+				"listed_count": 2,
+				"created_at": "Sat Apr 11 02:48:10 +0000 2015",
+				"favourites_count": 244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 238,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647523247123132417/lkqJWf33_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647523247123132417/lkqJWf33_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3148941415/1463315988",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13312,
+			"favorite_count": 12701,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13312,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 18:12:43 +0000 2017",
+		"id": 865268928217440300,
+		"id_str": "865268928217440256",
+		"text": "@PuneerSoda May be not in Berlin, but I've seen it happen in the south.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 865268804800192500,
+		"in_reply_to_status_id_str": "865268804800192512",
+		"in_reply_to_user_id": 59160839,
+		"in_reply_to_user_id_str": "59160839",
+		"in_reply_to_screen_name": "PuneerSoda",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 18:10:09 +0000 2017",
+		"id": 865268286052720600,
+		"id_str": "865268286052720640",
+		"text": "@PuneerSoda Haha... You'll not be so happy if that happens. It'll be the dry air from the Sahara blowing northward.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 865267959429726200,
+		"in_reply_to_status_id_str": "865267959429726208",
+		"in_reply_to_user_id": 59160839,
+		"in_reply_to_user_id_str": "59160839",
+		"in_reply_to_screen_name": "PuneerSoda",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 18:01:57 +0000 2017",
+		"id": 865266220517302300,
+		"id_str": "865266220517302273",
+		"text": "@PuneerSoda In two months it'll touch 40 😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 865096949778849800,
+		"in_reply_to_status_id_str": "865096949778849794",
+		"in_reply_to_user_id": 59160839,
+		"in_reply_to_user_id_str": "59160839",
+		"in_reply_to_screen_name": "PuneerSoda",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 06:42:54 +0000 2017",
+		"id": 865095329930252300,
+		"id_str": "865095329930252288",
+		"text": "12:12",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu May 18 04:06:50 +0000 2017",
+		"id": 865056057969737700,
+		"id_str": "865056057969737728",
+		"text": "RT @TheDeccanHerald: Repositories to tell a tale on #InternationalMuseumDay today | https://t.co/YgZ8OjWx3x https://t.co/SNwiAyW1WF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalMuseumDay",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheDeccanHerald",
+					"name": "Deccan Herald",
+					"id": 268201193,
+					"id_str": "268201193",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YgZ8OjWx3x",
+					"expanded_url": "http://www.deccanherald.com/content/612197/repositories-tell-tale-international-museum.html",
+					"display_url": "deccanherald.com/content/612197…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 865055650501451800,
+					"id_str": "865055650501451778",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+					"url": "https://t.co/SNwiAyW1WF",
+					"display_url": "pic.twitter.com/SNwiAyW1WF",
+					"expanded_url": "https://twitter.com/TheDeccanHerald/status/865055672492150784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865055672492150800,
+					"source_status_id_str": "865055672492150784",
+					"source_user_id": 268201193,
+					"source_user_id_str": "268201193"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 865055650501451800,
+					"id_str": "865055650501451778",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+					"url": "https://t.co/SNwiAyW1WF",
+					"display_url": "pic.twitter.com/SNwiAyW1WF",
+					"expanded_url": "https://twitter.com/TheDeccanHerald/status/865055672492150784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865055672492150800,
+					"source_status_id_str": "865055672492150784",
+					"source_user_id": 268201193,
+					"source_user_id_str": "268201193"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 18 04:05:18 +0000 2017",
+			"id": 865055672492150800,
+			"id_str": "865055672492150784",
+			"text": "Repositories to tell a tale on #InternationalMuseumDay today | https://t.co/YgZ8OjWx3x https://t.co/SNwiAyW1WF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternationalMuseumDay",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YgZ8OjWx3x",
+						"expanded_url": "http://www.deccanherald.com/content/612197/repositories-tell-tale-international-museum.html",
+						"display_url": "deccanherald.com/content/612197…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 865055650501451800,
+						"id_str": "865055650501451778",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+						"url": "https://t.co/SNwiAyW1WF",
+						"display_url": "pic.twitter.com/SNwiAyW1WF",
+						"expanded_url": "https://twitter.com/TheDeccanHerald/status/865055672492150784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865055650501451800,
+						"id_str": "865055650501451778",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAFLh-cVYAIP3TT.jpg",
+						"url": "https://t.co/SNwiAyW1WF",
+						"display_url": "pic.twitter.com/SNwiAyW1WF",
+						"expanded_url": "https://twitter.com/TheDeccanHerald/status/865055672492150784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 268201193,
+				"id_str": "268201193",
+				"name": "Deccan Herald",
+				"screen_name": "TheDeccanHerald",
+				"location": "Bangalore, India",
+				"description": "Serving news and insights with impeccable credibility for over six decades. Refreshingly real.",
+				"url": "http://t.co/5cWrpTJMmC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5cWrpTJMmC",
+								"expanded_url": "http://www.deccanherald.com",
+								"display_url": "deccanherald.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15229,
+				"friends_count": 136,
+				"listed_count": 427,
+				"created_at": "Fri Mar 18 10:02:16 +0000 2011",
+				"favourites_count": 59,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 98831,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856532251164774400/YK6zz_5j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856532251164774400/YK6zz_5j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/268201193/1487564920",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 04:06:12 +0000 2017",
+		"id": 865055895184711700,
+		"id_str": "865055895184711680",
+		"text": "RT @verge: You can now skydive off a drone https://t.co/V6w6N0dwTW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 864598394177585200,
+					"id_str": "864598394177585152",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+					"url": "https://t.co/V6w6N0dwTW",
+					"display_url": "pic.twitter.com/V6w6N0dwTW",
+					"expanded_url": "https://twitter.com/verge/status/865054342017032192/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865054342017032200,
+					"source_status_id_str": "865054342017032192",
+					"source_user_id": 275686563,
+					"source_user_id_str": "275686563"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 864598394177585200,
+					"id_str": "864598394177585152",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+					"url": "https://t.co/V6w6N0dwTW",
+					"display_url": "pic.twitter.com/V6w6N0dwTW",
+					"expanded_url": "https://twitter.com/verge/status/865054342017032192/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865054342017032200,
+					"source_status_id_str": "865054342017032192",
+					"source_user_id": 275686563,
+					"source_user_id_str": "275686563",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 74616,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/864598394177585152/vid/720x720/ZixBgRhLHP9ZSaZy.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/864598394177585152/vid/240x240/sbPQVuNyVOjAllis.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/864598394177585152/vid/480x480/M0LL_txgdiyWAX2Q.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/864598394177585152/pl/zChBVYbGWUqIAXTF.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 275686563,
+							"id_str": "275686563",
+							"name": "The Verge",
+							"screen_name": "verge",
+							"location": "New York",
+							"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+							"url": "http://t.co/W2SFxIXkC4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/W2SFxIXkC4",
+											"expanded_url": "http://www.theverge.com",
+											"display_url": "theverge.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/W2SFxIXkC4",
+											"expanded_url": "http://www.theverge.com",
+											"display_url": "theverge.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 1912334,
+							"friends_count": 147,
+							"listed_count": 32906,
+							"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+							"favourites_count": 1640,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 119984,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1484064279",
+							"profile_link_color": "EC008C",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 18 04:00:01 +0000 2017",
+			"id": 865054342017032200,
+			"id_str": "865054342017032192",
+			"text": "You can now skydive off a drone https://t.co/V6w6N0dwTW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 864598394177585200,
+						"id_str": "864598394177585152",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+						"url": "https://t.co/V6w6N0dwTW",
+						"display_url": "pic.twitter.com/V6w6N0dwTW",
+						"expanded_url": "https://twitter.com/verge/status/865054342017032192/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 864598394177585200,
+						"id_str": "864598394177585152",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_-uzcFXUAE8gWZ.jpg",
+						"url": "https://t.co/V6w6N0dwTW",
+						"display_url": "pic.twitter.com/V6w6N0dwTW",
+						"expanded_url": "https://twitter.com/verge/status/865054342017032192/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 74616,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/864598394177585152/vid/720x720/ZixBgRhLHP9ZSaZy.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/864598394177585152/vid/240x240/sbPQVuNyVOjAllis.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/864598394177585152/vid/480x480/M0LL_txgdiyWAX2Q.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/864598394177585152/pl/zChBVYbGWUqIAXTF.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+				"url": "http://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1912334,
+				"friends_count": 147,
+				"listed_count": 32906,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1640,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 119984,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1484064279",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 298,
+			"favorite_count": 427,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 04:01:24 +0000 2017",
+		"id": 865054689179709400,
+		"id_str": "865054689179709440",
+		"text": "RT @airnewsalerts: Veteran actress #ReemaLagu passes away in #Mumbai. https://t.co/pWkRTgp4dQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReemaLagu",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "Mumbai",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airnewsalerts",
+					"name": "All India Radio News",
+					"id": 1056850669,
+					"id_str": "1056850669",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 865036824804065300,
+					"id_str": "865036824804065281",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+					"url": "https://t.co/pWkRTgp4dQ",
+					"display_url": "pic.twitter.com/pWkRTgp4dQ",
+					"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 257,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 257,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 257,
+							"h": 196,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865037117419683800,
+					"source_status_id_str": "865037117419683844",
+					"source_user_id": 1056850669,
+					"source_user_id_str": "1056850669"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 865036824804065300,
+					"id_str": "865036824804065281",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+					"url": "https://t.co/pWkRTgp4dQ",
+					"display_url": "pic.twitter.com/pWkRTgp4dQ",
+					"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 257,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 257,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 257,
+							"h": 196,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865037117419683800,
+					"source_status_id_str": "865037117419683844",
+					"source_user_id": 1056850669,
+					"source_user_id_str": "1056850669"
+				},
+				{
+					"id": 865036824816664600,
+					"id_str": "865036824816664581",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DAE6aLTUQAUgHRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAE6aLTUQAUgHRB.jpg",
+					"url": "https://t.co/pWkRTgp4dQ",
+					"display_url": "pic.twitter.com/pWkRTgp4dQ",
+					"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865037117419683800,
+					"source_status_id_str": "865037117419683844",
+					"source_user_id": 1056850669,
+					"source_user_id_str": "1056850669"
+				},
+				{
+					"id": 865036824858607600,
+					"id_str": "865036824858607616",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DAE6aLdUQAAxd7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAE6aLdUQAAxd7s.jpg",
+					"url": "https://t.co/pWkRTgp4dQ",
+					"display_url": "pic.twitter.com/pWkRTgp4dQ",
+					"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865037117419683800,
+					"source_status_id_str": "865037117419683844",
+					"source_user_id": 1056850669,
+					"source_user_id_str": "1056850669"
+				},
+				{
+					"id": 865036824825155600,
+					"id_str": "865036824825155584",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DAE6aLVV0AAI12H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAE6aLVV0AAI12H.jpg",
+					"url": "https://t.co/pWkRTgp4dQ",
+					"display_url": "pic.twitter.com/pWkRTgp4dQ",
+					"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 251,
+							"h": 201,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 251,
+							"h": 201,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 251,
+							"h": 201,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865037117419683800,
+					"source_status_id_str": "865037117419683844",
+					"source_user_id": 1056850669,
+					"source_user_id_str": "1056850669"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 18 02:51:35 +0000 2017",
+			"id": 865037117419683800,
+			"id_str": "865037117419683844",
+			"text": "Veteran actress #ReemaLagu passes away in #Mumbai. https://t.co/pWkRTgp4dQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ReemaLagu",
+						"indices": [
+							16,
+							26
+						]
+					},
+					{
+						"text": "Mumbai",
+						"indices": [
+							42,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 865036824804065300,
+						"id_str": "865036824804065281",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+						"url": "https://t.co/pWkRTgp4dQ",
+						"display_url": "pic.twitter.com/pWkRTgp4dQ",
+						"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 257,
+								"h": 196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 257,
+								"h": 196,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 257,
+								"h": 196,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865036824804065300,
+						"id_str": "865036824804065281",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAE6aLQUAAEhWwh.jpg",
+						"url": "https://t.co/pWkRTgp4dQ",
+						"display_url": "pic.twitter.com/pWkRTgp4dQ",
+						"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 257,
+								"h": 196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 257,
+								"h": 196,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 257,
+								"h": 196,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 865036824816664600,
+						"id_str": "865036824816664581",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DAE6aLTUQAUgHRB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAE6aLTUQAUgHRB.jpg",
+						"url": "https://t.co/pWkRTgp4dQ",
+						"display_url": "pic.twitter.com/pWkRTgp4dQ",
+						"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 740,
+								"h": 460,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 740,
+								"h": 460,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 865036824858607600,
+						"id_str": "865036824858607616",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DAE6aLdUQAAxd7s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAE6aLdUQAAxd7s.jpg",
+						"url": "https://t.co/pWkRTgp4dQ",
+						"display_url": "pic.twitter.com/pWkRTgp4dQ",
+						"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 268,
+								"h": 188,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 268,
+								"h": 188,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 268,
+								"h": 188,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 865036824825155600,
+						"id_str": "865036824825155584",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DAE6aLVV0AAI12H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAE6aLVV0AAI12H.jpg",
+						"url": "https://t.co/pWkRTgp4dQ",
+						"display_url": "pic.twitter.com/pWkRTgp4dQ",
+						"expanded_url": "https://twitter.com/airnewsalerts/status/865037117419683844/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 251,
+								"h": 201,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 251,
+								"h": 201,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 251,
+								"h": 201,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1056850669,
+				"id_str": "1056850669",
+				"name": "All India Radio News",
+				"screen_name": "airnewsalerts",
+				"location": "New Delhi, India",
+				"description": "Official account of News Services Division, All India Radio.",
+				"url": "https://t.co/WScUgrDC3h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WScUgrDC3h",
+								"expanded_url": "http://newsonair.nic.in",
+								"display_url": "newsonair.nic.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1620637,
+				"friends_count": 19,
+				"listed_count": 2145,
+				"created_at": "Thu Jan 03 04:15:45 +0000 2013",
+				"favourites_count": 429,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 159813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "666655",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/548000907774812160/EnKX58U6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/548000907774812160/EnKX58U6.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824800284618559488/7wm67kzU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824800284618559488/7wm67kzU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056850669/1494442496",
+				"profile_link_color": "467895",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 159,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 03:33:20 +0000 2017",
+		"id": 865047626781122600,
+		"id_str": "865047626781122560",
+		"text": "@nileshgr Finally ordered the TVSe Bharat Gold USB keyboard. Arriving tomorrow. :-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Puneri Sylvester",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 861789043348054000,
+		"in_reply_to_status_id_str": "861789043348054016",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 03:32:07 +0000 2017",
+		"id": 865047318105538600,
+		"id_str": "865047318105538560",
+		"text": "@NamrataMittal86 Oh okay. Hmmm... I'm going to have to pay up then. Thanks for the info :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NamrataMittal86",
+					"name": "Nemo the fish-eater",
+					"id": 259134844,
+					"id_str": "259134844",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 865019836128043000,
+		"in_reply_to_status_id_str": "865019836128043008",
+		"in_reply_to_user_id": 259134844,
+		"in_reply_to_user_id_str": "259134844",
+		"in_reply_to_screen_name": "NamrataMittal86",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 18 03:30:51 +0000 2017",
+		"id": 865046999334240300,
+		"id_str": "865046999334240256",
+		"text": "Wow! I had idea that key caps went through this much testing and validation during production. Germans, I tell you! https://t.co/QIM96w3iIk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QIM96w3iIk",
+					"expanded_url": "https://youtu.be/Pu1gP4PfqCQ",
+					"display_url": "youtu.be/Pu1gP4PfqCQ",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Love - It is a word. What matters is the connection the word implies.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9270,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856428655794413600/FM3AnTLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1493031734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 17 20:07:48 +0000 2017",
 		"id": 864935501974732800,
 		"id_str": "864935501974732800",
