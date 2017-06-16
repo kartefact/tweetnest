@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 15 14:38:38 +0000 2017",
+		"id": 875361912933859300,
+		"id_str": "875361912933859333",
+		"text": "RT @JessBrohard: I just choked on my water 😂 https://t.co/oimNXjI2gq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JessBrohard",
+					"name": "Jess @E3",
+					"id": 71606873,
+					"id_str": "71606873",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 875128459969921000,
+					"id_str": "875128459969921026",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+					"url": "https://t.co/oimNXjI2gq",
+					"display_url": "pic.twitter.com/oimNXjI2gq",
+					"expanded_url": "https://twitter.com/JessBrohard/status/875128466781425665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 802,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875128466781425700,
+					"source_status_id_str": "875128466781425665",
+					"source_user_id": 71606873,
+					"source_user_id_str": "71606873"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 875128459969921000,
+					"id_str": "875128459969921026",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+					"url": "https://t.co/oimNXjI2gq",
+					"display_url": "pic.twitter.com/oimNXjI2gq",
+					"expanded_url": "https://twitter.com/JessBrohard/status/875128466781425665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 802,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875128466781425700,
+					"source_status_id_str": "875128466781425665",
+					"source_user_id": 71606873,
+					"source_user_id_str": "71606873"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9382,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 23:11:00 +0000 2017",
+			"id": 875128466781425700,
+			"id_str": "875128466781425665",
+			"text": "I just choked on my water 😂 https://t.co/oimNXjI2gq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 875128459969921000,
+						"id_str": "875128459969921026",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+						"url": "https://t.co/oimNXjI2gq",
+						"display_url": "pic.twitter.com/oimNXjI2gq",
+						"expanded_url": "https://twitter.com/JessBrohard/status/875128466781425665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 644,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 759,
+								"h": 802,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 759,
+								"h": 802,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875128459969921000,
+						"id_str": "875128459969921026",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCUUsp1XgAIWxRe.jpg",
+						"url": "https://t.co/oimNXjI2gq",
+						"display_url": "pic.twitter.com/oimNXjI2gq",
+						"expanded_url": "https://twitter.com/JessBrohard/status/875128466781425665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 644,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 759,
+								"h": 802,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 759,
+								"h": 802,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71606873,
+				"id_str": "71606873",
+				"name": "Jess @E3",
+				"screen_name": "JessBrohard",
+				"location": "NYC",
+				"description": "Host at #MarvelGaming and #MicrosoftNYC | Twitch partner🎮 | #GGArmy (promo \"Jess\" for 10% off https://t.co/MNwPpuJV5s)",
+				"url": "https://t.co/SUNOnNjZsf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUNOnNjZsf",
+								"expanded_url": "http://www.twitch.tv/Jess",
+								"display_url": "twitch.tv/Jess",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MNwPpuJV5s",
+								"expanded_url": "https://gamersupps.gg/?afmc=Jess",
+								"display_url": "gamersupps.gg/?afmc=Jess",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14213,
+				"friends_count": 368,
+				"listed_count": 248,
+				"created_at": "Fri Sep 04 18:47:30 +0000 2009",
+				"favourites_count": 4961,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25398,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ED6666",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717528916295073792/sAcmtbps.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717528916295073792/sAcmtbps.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870523423159496704/YVbSBvtl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870523423159496704/YVbSBvtl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71606873/1497073408",
+				"profile_link_color": "B80606",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14239,
+			"favorite_count": 23676,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14239,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 15 01:00:59 +0000 2017",
+		"id": 875156145106690000,
+		"id_str": "875156145106690048",
+		"text": "RT @CuteOverloads: When your dog gets the aux cord 😂🐶https://t.co/DyCvVVEHCn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CuteOverloads",
+					"name": "Cute Overloads",
+					"id": 70009161,
+					"id_str": "70009161",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DyCvVVEHCn",
+					"expanded_url": "https://vine.co/v/eBz2tHrKJTq",
+					"display_url": "vine.co/v/eBz2tHrKJTq",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9382,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 00:22:00 +0000 2017",
+			"id": 875146336735305700,
+			"id_str": "875146336735305728",
+			"text": "When your dog gets the aux cord 😂🐶https://t.co/DyCvVVEHCn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DyCvVVEHCn",
+						"expanded_url": "https://vine.co/v/eBz2tHrKJTq",
+						"display_url": "vine.co/v/eBz2tHrKJTq",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70009161,
+				"id_str": "70009161",
+				"name": "Cute Overloads",
+				"screen_name": "CuteOverloads",
+				"location": "",
+				"description": "we DO NOT own content posted. Everything is submissions. Content will be immediately removed or credited by owners request. Enjoy!",
+				"url": "https://t.co/0UI615SniQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UI615SniQ",
+								"expanded_url": "http://instagram.com/cuteoverload.s",
+								"display_url": "instagram.com/cuteoverload.s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2684639,
+				"friends_count": 157,
+				"listed_count": 2059,
+				"created_at": "Sun Aug 30 01:00:50 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18228,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70009161/1399149211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFD5B0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107,
+			"favorite_count": 498,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 13 13:17:32 +0000 2017",
 		"id": 874616731255177200,
 		"id_str": "874616731255177216",
