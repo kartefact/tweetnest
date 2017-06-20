@@ -1,6 +1,824 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 16:08:52 +0000 2017",
+		"id": 876834172349718500,
+		"id_str": "876834172349718528",
+		"text": "RT @mudnsky: https://t.co/0Znwais8ji",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Znwais8ji",
+					"expanded_url": "https://twitter.com/CNNnews18/status/876770112765739009",
+					"display_url": "twitter.com/CNNnews18/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9414,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 12:08:18 +0000 2017",
+			"id": 876773634693451800,
+			"id_str": "876773634693451776",
+			"text": "https://t.co/0Znwais8ji",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0Znwais8ji",
+						"expanded_url": "https://twitter.com/CNNnews18/status/876770112765739009",
+						"display_url": "twitter.com/CNNnews18/stat…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1685849366,
+				"id_str": "1685849366",
+				"name": "Mud n Sky",
+				"screen_name": "mudnsky",
+				"location": "",
+				"description": "“This man has conquered the world! What have you done?\" \"I have conquered the need to conquer the world.” - Pressfield",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 274,
+				"friends_count": 236,
+				"listed_count": 37,
+				"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+				"favourites_count": 4261,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875712420550815744/RPhVYvRw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875712420550815744/RPhVYvRw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1493030088",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 876770112765739000,
+			"quoted_status_id_str": "876770112765739009",
+			"quoted_status": {
+				"created_at": "Mon Jun 19 11:54:19 +0000 2017",
+				"id": 876770112765739000,
+				"id_str": "876770112765739009",
+				"text": "Scientists at Stanford University in US developed a device that can wirelessly charge a moving object at close range\nhttps://t.co/xsOPDHLHAi",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/xsOPDHLHAi",
+							"expanded_url": "http://www.news18.com/news/tech/technology-to-charge-cellphones-electric-cars-wirelessly-while-moving-developed-by-scientists-1437213.html",
+							"display_url": "news18.com/news/tech/tech…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 6509832,
+					"id_str": "6509832",
+					"name": "News18",
+					"screen_name": "CNNnews18",
+					"location": "India",
+					"description": "Latest news alerts from India and the world.",
+					"url": "https://t.co/GtGDMfXGDz",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/GtGDMfXGDz",
+									"expanded_url": "http://www.News18.com",
+									"display_url": "News18.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3622169,
+					"friends_count": 363,
+					"listed_count": 5924,
+					"created_at": "Fri Jun 01 20:31:01 +0000 2007",
+					"favourites_count": 163,
+					"utc_offset": 19800,
+					"time_zone": "New Delhi",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 460175,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "4A913C",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/536044687820218368/2okJ5Xcg.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/536044687820218368/2okJ5Xcg.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/830049848460193792/yqexlRM2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/830049848460193792/yqexlRM2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/6509832/1497866933",
+					"profile_link_color": "E81C4F",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 876770112765739000,
+		"quoted_status_id_str": "876770112765739009",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jun 19 14:28:28 +0000 2017",
+		"id": 876808905698943000,
+		"id_str": "876808905698942977",
+		"text": "RT @AnimalsGalore: If this doesn't make your day I don't know what will https://t.co/BfykjucNgC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnimalsGalore",
+					"name": "🐕 Animals Galore 🐈",
+					"id": 2979796681,
+					"id_str": "2979796681",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 834503482711367700,
+					"id_str": "834503482711367681",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+					"url": "https://t.co/BfykjucNgC",
+					"display_url": "pic.twitter.com/BfykjucNgC",
+					"expanded_url": "https://twitter.com/JoeySaladsVids/status/834503548318707715/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 339,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 834503548318707700,
+					"source_status_id_str": "834503548318707715",
+					"source_user_id": 785635812822188000,
+					"source_user_id_str": "785635812822188032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 834503482711367700,
+					"id_str": "834503482711367681",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+					"url": "https://t.co/BfykjucNgC",
+					"display_url": "pic.twitter.com/BfykjucNgC",
+					"expanded_url": "https://twitter.com/JoeySaladsVids/status/834503548318707715/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 339,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 834503548318707700,
+					"source_status_id_str": "834503548318707715",
+					"source_user_id": 785635812822188000,
+					"source_user_id_str": "785635812822188032",
+					"video_info": {
+						"aspect_ratio": [
+							319,
+							180
+						],
+						"duration_millis": 15115,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/834503482711367681/pu/vid/638x360/FEWQ-CheN-PcLrLT.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/834503482711367681/pu/vid/318x180/q793Oiu2oZOk6F1n.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/834503482711367681/pu/pl/Q3hVCFtnLE08uYWA.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true,
+						"source_user": {
+							"id": 785635812822188000,
+							"id_str": "785635812822188032",
+							"name": "Joey Salads Videos",
+							"screen_name": "JoeySaladsVids",
+							"location": "Staten Island, NY",
+							"description": "Joey Salads Videos",
+							"url": "https://t.co/LU1Lkt6EsU",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LU1Lkt6EsU",
+											"expanded_url": "http://youtube.com/joeysalads",
+											"display_url": "youtube.com/joeysalads",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 36532,
+							"friends_count": 1,
+							"listed_count": 25,
+							"created_at": "Tue Oct 11 00:19:09 +0000 2016",
+							"favourites_count": 44,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 401,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/785636269007175680/IHLQXlKL_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/785636269007175680/IHLQXlKL_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/785635812822188032/1476145294",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 503,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9414,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 04:42:39 +0000 2017",
+			"id": 876661483077115900,
+			"id_str": "876661483077115904",
+			"text": "If this doesn't make your day I don't know what will https://t.co/BfykjucNgC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 834503482711367700,
+						"id_str": "834503482711367681",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+						"url": "https://t.co/BfykjucNgC",
+						"display_url": "pic.twitter.com/BfykjucNgC",
+						"expanded_url": "https://twitter.com/JoeySaladsVids/status/834503548318707715/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 339,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 834503548318707700,
+						"source_status_id_str": "834503548318707715",
+						"source_user_id": 785635812822188000,
+						"source_user_id_str": "785635812822188032"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 834503482711367700,
+						"id_str": "834503482711367681",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/834503482711367681/pu/img/eQStkQY-_Q-YtxrW.jpg",
+						"url": "https://t.co/BfykjucNgC",
+						"display_url": "pic.twitter.com/BfykjucNgC",
+						"expanded_url": "https://twitter.com/JoeySaladsVids/status/834503548318707715/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 339,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 834503548318707700,
+						"source_status_id_str": "834503548318707715",
+						"source_user_id": 785635812822188000,
+						"source_user_id_str": "785635812822188032",
+						"video_info": {
+							"aspect_ratio": [
+								319,
+								180
+							],
+							"duration_millis": 15115,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/834503482711367681/pu/vid/638x360/FEWQ-CheN-PcLrLT.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/834503482711367681/pu/vid/318x180/q793Oiu2oZOk6F1n.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/834503482711367681/pu/pl/Q3hVCFtnLE08uYWA.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": true,
+							"source_user": {
+								"id": 785635812822188000,
+								"id_str": "785635812822188032",
+								"name": "Joey Salads Videos",
+								"screen_name": "JoeySaladsVids",
+								"location": "Staten Island, NY",
+								"description": "Joey Salads Videos",
+								"url": "https://t.co/LU1Lkt6EsU",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/LU1Lkt6EsU",
+												"expanded_url": "http://youtube.com/joeysalads",
+												"display_url": "youtube.com/joeysalads",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 36532,
+								"friends_count": 1,
+								"listed_count": 25,
+								"created_at": "Tue Oct 11 00:19:09 +0000 2016",
+								"favourites_count": 44,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 401,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/785636269007175680/IHLQXlKL_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/785636269007175680/IHLQXlKL_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/785635812822188032/1476145294",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2979796681,
+				"id_str": "2979796681",
+				"name": "🐕 Animals Galore 🐈",
+				"screen_name": "AnimalsGalore",
+				"location": "",
+				"description": "Sharing The Best Pictures of Animals Everyday! Follow Us!",
+				"url": "https://t.co/4tkyrKlcj2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4tkyrKlcj2",
+								"expanded_url": "http://glowinthebarkshop.com",
+								"display_url": "glowinthebarkshop.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 136413,
+				"friends_count": 142281,
+				"listed_count": 477,
+				"created_at": "Tue Jan 13 14:06:30 +0000 2015",
+				"favourites_count": 974,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9322,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/609933323733897217/jEXijMX3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/609933323733897217/jEXijMX3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2979796681/1434254357",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 715,
+			"favorite_count": 1709,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 715,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 18 15:10:57 +0000 2017",
 		"id": 876457209730695200,
 		"id_str": "876457209730695172",
@@ -2613,7 +3431,7 @@ Grailbird.data.tweets_2017_06 =
 			"user_mentions": [
 				{
 					"screen_name": "ajaw_",
-					"name": "Honourable​",
+					"name": "Honourable",
 					"id": 326357436,
 					"id_str": "326357436",
 					"indices": [
