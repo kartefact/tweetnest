@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 25 16:51:04 +0000 2017",
+		"id": 879019122436169700,
+		"id_str": "879019122436169728",
+		"text": "This thread. Read if you are interested in the IT industry in India: https://t.co/B0JFIYCLWZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B0JFIYCLWZ",
+					"expanded_url": "https://twitter.com/kkumarkg/status/878826476463726593",
+					"display_url": "twitter.com/kkumarkg/statu…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1589,
+			"friends_count": 505,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9455,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 878826476463726600,
+		"quoted_status_id_str": "878826476463726593",
+		"quoted_status": {
+			"created_at": "Sun Jun 25 04:05:34 +0000 2017",
+			"id": 878826476463726600,
+			"id_str": "878826476463726593",
+			"text": "Tweet storm coming up on Indian IT Job losses. Please mute for next half an hour or so if not interested #ITJobs 1/n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ITJobs",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43551208,
+				"id_str": "43551208",
+				"name": "Krishna kumar",
+				"screen_name": "kkumarkg",
+				"location": "Bengaluru, India",
+				"description": "CEO, Kreatio Software. In the past,  Editor, Project Management guy, CIO, done sales. Lil kid sitting in a little corner and trying to have a little fun",
+				"url": "https://t.co/yazPp123Ou",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yazPp123Ou",
+								"expanded_url": "http://kkumarkg.wordpress.com",
+								"display_url": "kkumarkg.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1113,
+				"friends_count": 415,
+				"listed_count": 49,
+				"created_at": "Sat May 30 16:25:01 +0000 2009",
+				"favourites_count": 90,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19863,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456767551276457984/fkwWTZeu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456767551276457984/fkwWTZeu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43551208/1397734255",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 142,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 25 13:58:14 +0000 2017",
+		"id": 878975625532383200,
+		"id_str": "878975625532383232",
+		"text": "@gshny If this was the north, that conductor would probably have not made it back without some bruises.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gshny",
+					"name": "Gowrav Shenoy",
+					"id": 40877618,
+					"id_str": "40877618",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 878975069925634000,
+		"in_reply_to_status_id_str": "878975069925634048",
+		"in_reply_to_user_id": 40877618,
+		"in_reply_to_user_id_str": "40877618",
+		"in_reply_to_screen_name": "gshny",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1589,
+			"friends_count": 505,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9455,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 25 09:19:21 +0000 2017",
+		"id": 878905442306465800,
+		"id_str": "878905442306465793",
+		"text": "RT @sammynickalls: there is nothing quite as heartbreakingly, dangerously stupid as the anti-vaxxing movement https://t.co/CvMTW5VoTK https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sammynickalls",
+					"name": "Sammy Nickalls",
+					"id": 18343578,
+					"id_str": "18343578",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CvMTW5VoTK",
+					"expanded_url": "https://www.facebook.com/camille.echols.5/posts/10103736045222551",
+					"display_url": "facebook.com/camille.echols…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1589,
+			"friends_count": 505,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9455,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 23 02:25:41 +0000 2017",
+			"id": 878076566047039500,
+			"id_str": "878076566047039489",
+			"text": "there is nothing quite as heartbreakingly, dangerously stupid as the anti-vaxxing movement https://t.co/CvMTW5VoTK https://t.co/T8oKAFEbmx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CvMTW5VoTK",
+						"expanded_url": "https://www.facebook.com/camille.echols.5/posts/10103736045222551",
+						"display_url": "facebook.com/camille.echols…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 878076537676771300,
+						"id_str": "878076537676771328",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DC-N9XHUMAAUaUi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC-N9XHUMAAUaUi.jpg",
+						"url": "https://t.co/T8oKAFEbmx",
+						"display_url": "pic.twitter.com/T8oKAFEbmx",
+						"expanded_url": "https://twitter.com/sammynickalls/status/878076566047039489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1026,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1026,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878076537676771300,
+						"id_str": "878076537676771328",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DC-N9XHUMAAUaUi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC-N9XHUMAAUaUi.jpg",
+						"url": "https://t.co/T8oKAFEbmx",
+						"display_url": "pic.twitter.com/T8oKAFEbmx",
+						"expanded_url": "https://twitter.com/sammynickalls/status/878076566047039489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1026,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1026,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 878076550725247000,
+						"id_str": "878076550725246976",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DC-N-HuUIAAdJij.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC-N-HuUIAAdJij.jpg",
+						"url": "https://t.co/T8oKAFEbmx",
+						"display_url": "pic.twitter.com/T8oKAFEbmx",
+						"expanded_url": "https://twitter.com/sammynickalls/status/878076566047039489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1074,
+								"h": 790,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1074,
+								"h": 790,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18343578,
+				"id_str": "18343578",
+				"name": "Sammy Nickalls",
+				"screen_name": "sammynickalls",
+				"location": "Brooklyn, NY",
+				"description": "writer, editor (hire me). previously: night editor @esquire.com. creator of #TalkingAboutIt. email me: sammynickalls@gmail.com. repped by @manadurphy.",
+				"url": "https://t.co/GA3AuYGckY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GA3AuYGckY",
+								"expanded_url": "http://venmo.com/sammy-nickalls",
+								"display_url": "venmo.com/sammy-nickalls",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7979,
+				"friends_count": 913,
+				"listed_count": 109,
+				"created_at": "Tue Dec 23 22:04:19 +0000 2008",
+				"favourites_count": 48081,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28306,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "574B47",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116981583/581086e579e2477587d48a2c4c27de6e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116981583/581086e579e2477587d48a2c4c27de6e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872571410702618624/dbCEBftf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872571410702618624/dbCEBftf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18343578/1428358938",
+				"profile_link_color": "FA1D00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12264,
+			"favorite_count": 12265,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12264,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 24 15:18:57 +0000 2017",
 		"id": 878633549674430500,
 		"id_str": "878633549674430466",
