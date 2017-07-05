@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 04 18:48:57 +0000 2017",
+		"id": 882310278196506600,
+		"id_str": "882310278196506624",
+		"text": "@_Drunkenmunk @rajpvish @PuneerSoda @Falooly @Abiraame @EnthuPotato https://t.co/qusxJvFyfH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Drunkenmunk",
+					"name": "Munk",
+					"id": 232860827,
+					"id_str": "232860827",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "rajpvish",
+					"name": "Rajkumar Viswanathan",
+					"id": 111424239,
+					"id_str": "111424239",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "Falooly",
+					"name": "Loolie",
+					"id": 31174174,
+					"id_str": "31174174",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "Abiraame",
+					"name": "Abiraame",
+					"id": 61225855,
+					"id_str": "61225855",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "EnthuPotato",
+					"name": "Madhumitha",
+					"id": 541105479,
+					"id_str": "541105479",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qusxJvFyfH",
+					"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/881871785658114049",
+					"display_url": "twitter.com/CUTEFUNNYANIMA…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 878631016578957300,
+		"in_reply_to_status_id_str": "878631016578957313",
+		"in_reply_to_user_id": 232860827,
+		"in_reply_to_user_id_str": "232860827",
+		"in_reply_to_screen_name": "_Drunkenmunk",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9489,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 881871785658114000,
+		"quoted_status_id_str": "881871785658114049",
+		"quoted_status": {
+			"created_at": "Mon Jul 03 13:46:32 +0000 2017",
+			"id": 881871785658114000,
+			"id_str": "881871785658114049",
+			"text": "Why walk when you can slide https://t.co/PvGxNg4jIW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 881871559270559700,
+						"id_str": "881871559270559745",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DD0JgsPXcAEdNSe.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DD0JgsPXcAEdNSe.jpg",
+						"url": "https://t.co/PvGxNg4jIW",
+						"display_url": "pic.twitter.com/PvGxNg4jIW",
+						"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/881871785658114049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 254,
+								"h": 410,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 254,
+								"h": 410,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 254,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 881871559270559700,
+						"id_str": "881871559270559745",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DD0JgsPXcAEdNSe.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DD0JgsPXcAEdNSe.jpg",
+						"url": "https://t.co/PvGxNg4jIW",
+						"display_url": "pic.twitter.com/PvGxNg4jIW",
+						"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/881871785658114049/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 254,
+								"h": 410,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 254,
+								"h": 410,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 254,
+								"h": 410,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								127,
+								205
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DD0JgsPXcAEdNSe.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2370627199,
+				"id_str": "2370627199",
+				"name": "HUMOROUS ANIMALS",
+				"screen_name": "CUTEFUNNYANIMAL",
+				"location": "",
+				"description": "#Cute #funny #animal lovers please follow.\nMoney can't buy you love #Adopt\n(Spam free)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80047,
+				"friends_count": 72315,
+				"listed_count": 615,
+				"created_at": "Mon Mar 03 16:02:57 +0000 2014",
+				"favourites_count": 15343,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4878,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541156532507779072/vdqWw9SK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541156532507779072/vdqWw9SK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370627199/1400671817",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 736,
+			"favorite_count": 1506,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jul 04 18:43:43 +0000 2017",
+		"id": 882308962065956900,
+		"id_str": "882308962065956864",
+		"text": "@benflips @Wander_Ponder When your theses isn't going to feed you. https://t.co/kdK7ozXpdM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benflips",
+					"name": "Ben Phillips",
+					"id": 2572633657,
+					"id_str": "2572633657",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Wander_Ponder",
+					"name": "Sue!",
+					"id": 2506907803,
+					"id_str": "2506907803",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 882308958307758100,
+					"id_str": "882308958307758080",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DD6XUqoUMAAEhno.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD6XUqoUMAAEhno.jpg",
+					"url": "https://t.co/kdK7ozXpdM",
+					"display_url": "pic.twitter.com/kdK7ozXpdM",
+					"expanded_url": "https://twitter.com/kartefact/status/882308962065956864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 284,
+							"h": 213,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 284,
+							"h": 213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 284,
+							"h": 213,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882308958307758100,
+					"id_str": "882308958307758080",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DD6XUqoUMAAEhno.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD6XUqoUMAAEhno.jpg",
+					"url": "https://t.co/kdK7ozXpdM",
+					"display_url": "pic.twitter.com/kdK7ozXpdM",
+					"expanded_url": "https://twitter.com/kartefact/status/882308962065956864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 284,
+							"h": 213,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 284,
+							"h": 213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 284,
+							"h": 213,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 881786181096099800,
+		"in_reply_to_status_id_str": "881786181096099841",
+		"in_reply_to_user_id": 2572633657,
+		"in_reply_to_user_id_str": "2572633657",
+		"in_reply_to_screen_name": "benflips",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9489,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 04 18:40:53 +0000 2017",
+		"id": 882308248040124400,
+		"id_str": "882308248040124416",
+		"text": "Nothing more blissful than seeing your loved one go to sleep listening to your lullaby. #TuesdayTruth",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TuesdayTruth",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9489,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 04 18:38:08 +0000 2017",
+		"id": 882307557968171000,
+		"id_str": "882307557968171008",
+		"text": "@ideallaedi Take to the skies... Para-sail! 😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ideallaedi",
+					"name": "ideallaedi",
+					"id": 454451073,
+					"id_str": "454451073",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 882297821835149300,
+		"in_reply_to_status_id_str": "882297821835149312",
+		"in_reply_to_user_id": 454451073,
+		"in_reply_to_user_id_str": "454451073",
+		"in_reply_to_screen_name": "ideallaedi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9489,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 04 08:51:26 +0000 2017",
+		"id": 882159910007357400,
+		"id_str": "882159910007357440",
+		"text": "@mudnsky LOL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 882131634463457300,
+		"in_reply_to_status_id_str": "882131634463457280",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9489,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Jul 03 18:10:39 +0000 2017",
 		"id": 881938252470595600,
 		"id_str": "881938252470595589",
