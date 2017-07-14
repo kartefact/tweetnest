@@ -1,6 +1,971 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 13 21:10:58 +0000 2017",
+		"id": 885607507313344500,
+		"id_str": "885607507313344513",
+		"text": "RT @OB_noxious: Zucchini being sold in Delhi under some 'other' name. 😂 https://t.co/64oYcTZ3UB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OB_noxious",
+					"name": "OB",
+					"id": 29392203,
+					"id_str": "29392203",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 755688665062539300,
+					"id_str": "755688665062539264",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+					"url": "https://t.co/64oYcTZ3UB",
+					"display_url": "pic.twitter.com/64oYcTZ3UB",
+					"expanded_url": "https://twitter.com/OB_noxious/status/755688681432842240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 755688681432842200,
+					"source_status_id_str": "755688681432842240",
+					"source_user_id": 29392203,
+					"source_user_id_str": "29392203"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 755688665062539300,
+					"id_str": "755688665062539264",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+					"url": "https://t.co/64oYcTZ3UB",
+					"display_url": "pic.twitter.com/64oYcTZ3UB",
+					"expanded_url": "https://twitter.com/OB_noxious/status/755688681432842240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 755688681432842200,
+					"source_status_id_str": "755688681432842240",
+					"source_user_id": 29392203,
+					"source_user_id_str": "29392203"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9507,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 20 08:59:56 +0000 2016",
+			"id": 755688681432842200,
+			"id_str": "755688681432842240",
+			"text": "Zucchini being sold in Delhi under some 'other' name. 😂 https://t.co/64oYcTZ3UB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 755688665062539300,
+						"id_str": "755688665062539264",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+						"url": "https://t.co/64oYcTZ3UB",
+						"display_url": "pic.twitter.com/64oYcTZ3UB",
+						"expanded_url": "https://twitter.com/OB_noxious/status/755688681432842240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 755688665062539300,
+						"id_str": "755688665062539264",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cny-1knXgAAaL59.jpg",
+						"url": "https://t.co/64oYcTZ3UB",
+						"display_url": "pic.twitter.com/64oYcTZ3UB",
+						"expanded_url": "https://twitter.com/OB_noxious/status/755688681432842240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29392203,
+				"id_str": "29392203",
+				"name": "OB",
+				"screen_name": "OB_noxious",
+				"location": "Gurugram",
+				"description": "Funny. Son. Husband. Brother. Father. Marketing Leader, Fintech; E-commerce. Published author. Hard-core Bollywood. All views expressed here are personal.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14315,
+				"friends_count": 1309,
+				"listed_count": 54,
+				"created_at": "Tue Apr 07 05:29:32 +0000 2009",
+				"favourites_count": 577,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/9801810/train_track.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/9801810/train_track.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884059010848088064/CTiuDiQS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884059010848088064/CTiuDiQS_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 528,
+			"favorite_count": 378,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 528,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 13 09:19:11 +0000 2017",
+		"id": 885428383911362600,
+		"id_str": "885428383911362560",
+		"text": "RT @PeopleOfUK: After almost 38½ years, I learned yesterday that \"fortnight\" is a contraction of \"fourteen nights\".\n\nI bet you all knew tha…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeopleOfUK",
+					"name": "Keith of Guildford",
+					"id": 450513486,
+					"id_str": "450513486",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9507,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 21:01:31 +0000 2017",
+			"id": 884880354628259800,
+			"id_str": "884880354628259841",
+			"text": "After almost 38½ years, I learned yesterday that \"fortnight\" is a contraction of \"fourteen nights\".\n\nI bet you all knew that already...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 450513486,
+				"id_str": "450513486",
+				"name": "Keith of Guildford",
+				"screen_name": "PeopleOfUK",
+				"location": "United Kingdom",
+				"description": "A different UK voice each week. Currently @KeefJudge from Guildford. Videogames engine programmer. Admin - @smacula.",
+				"url": "https://t.co/rQPsDNlbUO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rQPsDNlbUO",
+								"expanded_url": "http://peopleofuk.blogspot.com",
+								"display_url": "peopleofuk.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7560,
+				"friends_count": 1710,
+				"listed_count": 270,
+				"created_at": "Fri Dec 30 09:54:30 +0000 2011",
+				"favourites_count": 12807,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 90929,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884114752766705666/yD3WQ5jC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884114752766705666/yD3WQ5jC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/450513486/1499713642",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 145,
+			"favorite_count": 317,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 13 09:16:35 +0000 2017",
+		"id": 885427726563237900,
+		"id_str": "885427726563237889",
+		"text": "RT @_JamieMac_: Sir Andrew Murray is NOT amused with your casual sexism! #wimbledon https://t.co/a6pTpHCFSr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wimbledon",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_JamieMac_",
+					"name": "Jamie",
+					"id": 331319940,
+					"id_str": "331319940",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 885188992320372700,
+					"id_str": "885188992320372736",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+					"url": "https://t.co/a6pTpHCFSr",
+					"display_url": "pic.twitter.com/a6pTpHCFSr",
+					"expanded_url": "https://twitter.com/_JamieMac_/status/885189154128224257/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885189154128224300,
+					"source_status_id_str": "885189154128224257",
+					"source_user_id": 331319940,
+					"source_user_id_str": "331319940"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 885188992320372700,
+					"id_str": "885188992320372736",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+					"url": "https://t.co/a6pTpHCFSr",
+					"display_url": "pic.twitter.com/a6pTpHCFSr",
+					"expanded_url": "https://twitter.com/_JamieMac_/status/885189154128224257/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885189154128224300,
+					"source_status_id_str": "885189154128224257",
+					"source_user_id": 331319940,
+					"source_user_id_str": "331319940",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15471,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/vid/720x720/960lzBT8a0f8ibdw.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/vid/240x240/y-vRslOoJufWuPI5.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/vid/480x480/_ys66IS5O9eURblH.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/pl/zVZtZu9s1pwCOomu.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 331319940,
+							"id_str": "331319940",
+							"name": "Jamie",
+							"screen_name": "_JamieMac_",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 742,
+							"friends_count": 595,
+							"listed_count": 17,
+							"created_at": "Fri Jul 08 00:24:58 +0000 2011",
+							"favourites_count": 9932,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 21201,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/285611512/rangers-wallpaper-02-800x600.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/285611512/rangers-wallpaper-02-800x600.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/654804008549257220/XWVKmXYz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/654804008549257220/XWVKmXYz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/331319940/1434209840",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9507,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 12 17:28:35 +0000 2017",
+			"id": 885189154128224300,
+			"id_str": "885189154128224257",
+			"text": "Sir Andrew Murray is NOT amused with your casual sexism! #wimbledon https://t.co/a6pTpHCFSr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wimbledon",
+						"indices": [
+							57,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 885188992320372700,
+						"id_str": "885188992320372736",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+						"url": "https://t.co/a6pTpHCFSr",
+						"display_url": "pic.twitter.com/a6pTpHCFSr",
+						"expanded_url": "https://twitter.com/_JamieMac_/status/885189154128224257/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885188992320372700,
+						"id_str": "885188992320372736",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/885188992320372736/pu/img/neFZT_GRdCJESwLM.jpg",
+						"url": "https://t.co/a6pTpHCFSr",
+						"display_url": "pic.twitter.com/a6pTpHCFSr",
+						"expanded_url": "https://twitter.com/_JamieMac_/status/885189154128224257/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15471,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/vid/720x720/960lzBT8a0f8ibdw.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/vid/240x240/y-vRslOoJufWuPI5.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/vid/480x480/_ys66IS5O9eURblH.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/885188992320372736/pu/pl/zVZtZu9s1pwCOomu.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331319940,
+				"id_str": "331319940",
+				"name": "Jamie",
+				"screen_name": "_JamieMac_",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 742,
+				"friends_count": 595,
+				"listed_count": 17,
+				"created_at": "Fri Jul 08 00:24:58 +0000 2011",
+				"favourites_count": 9932,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21201,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/285611512/rangers-wallpaper-02-800x600.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/285611512/rangers-wallpaper-02-800x600.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/654804008549257220/XWVKmXYz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/654804008549257220/XWVKmXYz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331319940/1434209840",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45745,
+			"favorite_count": 101138,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45745,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 09 11:31:21 +0000 2017",
 		"id": 884012091560136700,
 		"id_str": "884012091560136704",
