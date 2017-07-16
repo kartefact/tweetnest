@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 15 17:06:28 +0000 2017",
+		"id": 886270753414365200,
+		"id_str": "886270753414365184",
+		"text": "RT @GerrardsPrime: Think I've found my favourite ever GIF https://t.co/CVDDwthfBw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GerrardsPrime",
+					"name": "'",
+					"id": 2294322683,
+					"id_str": "2294322683",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 884771401839857700,
+					"id_str": "884771401839857664",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+					"url": "https://t.co/CVDDwthfBw",
+					"display_url": "pic.twitter.com/CVDDwthfBw",
+					"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/884771589769842688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 884771589769842700,
+					"source_status_id_str": "884771589769842688",
+					"source_user_id": 2370627199,
+					"source_user_id_str": "2370627199"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 884771401839857700,
+					"id_str": "884771401839857664",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+					"url": "https://t.co/CVDDwthfBw",
+					"display_url": "pic.twitter.com/CVDDwthfBw",
+					"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/884771589769842688/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 884771589769842700,
+					"source_status_id_str": "884771589769842688",
+					"source_user_id": 2370627199,
+					"source_user_id_str": "2370627199",
+					"video_info": {
+						"aspect_ratio": [
+							19,
+							26
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DEdW5voW0AAFiWA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 505,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9510,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871447740357672961/fvo44w3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 13 21:57:25 +0000 2017",
+			"id": 885619199221137400,
+			"id_str": "885619199221137409",
+			"text": "Think I've found my favourite ever GIF https://t.co/CVDDwthfBw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 884771401839857700,
+						"id_str": "884771401839857664",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+						"url": "https://t.co/CVDDwthfBw",
+						"display_url": "pic.twitter.com/CVDDwthfBw",
+						"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/884771589769842688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 266,
+								"h": 364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 266,
+								"h": 364,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 266,
+								"h": 364,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 884771589769842700,
+						"source_status_id_str": "884771589769842688",
+						"source_user_id": 2370627199,
+						"source_user_id_str": "2370627199"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 884771401839857700,
+						"id_str": "884771401839857664",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEdW5voW0AAFiWA.jpg",
+						"url": "https://t.co/CVDDwthfBw",
+						"display_url": "pic.twitter.com/CVDDwthfBw",
+						"expanded_url": "https://twitter.com/CUTEFUNNYANIMAL/status/884771589769842688/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 266,
+								"h": 364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 266,
+								"h": 364,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 266,
+								"h": 364,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 884771589769842700,
+						"source_status_id_str": "884771589769842688",
+						"source_user_id": 2370627199,
+						"source_user_id_str": "2370627199",
+						"video_info": {
+							"aspect_ratio": [
+								19,
+								26
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DEdW5voW0AAFiWA.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2294322683,
+				"id_str": "2294322683",
+				"name": "'",
+				"screen_name": "GerrardsPrime",
+				"location": "",
+				"description": "Steven Gerrard l 'The best there is, the best there was and the best there ever will be'.",
+				"url": "https://t.co/FjbOk0q2Ap",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FjbOk0q2Ap",
+								"expanded_url": "https://twitter.com/adidasuk/status/581877414499880961",
+								"display_url": "twitter.com/adidasuk/statu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5813,
+				"friends_count": 587,
+				"listed_count": 59,
+				"created_at": "Mon Jan 20 22:07:20 +0000 2014",
+				"favourites_count": 35231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44485,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724911358244958209/6erW97GG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724911358244958209/6erW97GG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2294322683/1492712603",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54594,
+			"favorite_count": 91967,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 54594,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 14 14:56:23 +0000 2017",
 		"id": 885875628276305900,
 		"id_str": "885875628276305921",
