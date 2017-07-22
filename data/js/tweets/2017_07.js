@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 21 08:19:54 +0000 2017",
+		"id": 888312566174240800,
+		"id_str": "888312566174240768",
+		"text": "RT @theJeremyVine: As the father of two young girls, I hope they won't understand this cartoon by the time they start work https://t.co/mUb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theJeremyVine",
+					"name": "Jeremy Vine",
+					"id": 331672974,
+					"id_str": "331672974",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1590,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9528,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 07:14:13 +0000 2017",
+			"id": 887933649567592400,
+			"id_str": "887933649567592448",
+			"text": "As the father of two young girls, I hope they won't understand this cartoon by the time they start work https://t.co/mUbxKs0gE0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 887933535100833800,
+						"id_str": "887933535100833793",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DFKS2H_XkAEacv8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFKS2H_XkAEacv8.jpg",
+						"url": "https://t.co/mUbxKs0gE0",
+						"display_url": "pic.twitter.com/mUbxKs0gE0",
+						"expanded_url": "https://twitter.com/theJeremyVine/status/887933649567592448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 450,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 499,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 450,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887933535100833800,
+						"id_str": "887933535100833793",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DFKS2H_XkAEacv8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFKS2H_XkAEacv8.jpg",
+						"url": "https://t.co/mUbxKs0gE0",
+						"display_url": "pic.twitter.com/mUbxKs0gE0",
+						"expanded_url": "https://twitter.com/theJeremyVine/status/887933649567592448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 450,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 499,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 450,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331672974,
+				"id_str": "331672974",
+				"name": "Jeremy Vine",
+				"screen_name": "theJeremyVine",
+				"location": "London, England",
+				"description": "I do the election graphics with a certain amount of covfefe",
+				"url": "https://t.co/815Y0HFES0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/815Y0HFES0",
+								"expanded_url": "http://www.jeremyvine.tv",
+								"display_url": "jeremyvine.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634886,
+				"friends_count": 7333,
+				"listed_count": 1846,
+				"created_at": "Fri Jul 08 15:01:21 +0000 2011",
+				"favourites_count": 17565,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39875,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607457079226454016/Vi6KarLo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607457079226454016/Vi6KarLo.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867292789431820288/8tQdwUXs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867292789431820288/8tQdwUXs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331672974/1496515334",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 863,
+			"favorite_count": 2448,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 863,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 20 17:38:54 +0000 2017",
 		"id": 888090854082179100,
 		"id_str": "888090854082179072",
