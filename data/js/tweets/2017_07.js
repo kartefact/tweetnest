@@ -1,6 +1,3269 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 01:46:47 +0000 2017",
+		"id": 890025576056078300,
+		"id_str": "890025576056078336",
+		"text": "RT @HeaIthHacks: How To Get Thinner Legs Even If You're Lazy https://t.co/9NitH9APkK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HeaIthHacks",
+					"name": "Health Hacks",
+					"id": 2501350286,
+					"id_str": "2501350286",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 889923645589663700,
+					"id_str": "889923645589663744",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+					"url": "https://t.co/9NitH9APkK",
+					"display_url": "pic.twitter.com/9NitH9APkK",
+					"expanded_url": "https://twitter.com/awkwardgoogle/status/889923847692185600/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889923847692185600,
+					"source_status_id_str": "889923847692185600",
+					"source_user_id": 476199422,
+					"source_user_id_str": "476199422"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889923645589663700,
+					"id_str": "889923645589663744",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+					"url": "https://t.co/9NitH9APkK",
+					"display_url": "pic.twitter.com/9NitH9APkK",
+					"expanded_url": "https://twitter.com/awkwardgoogle/status/889923847692185600/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889923847692185600,
+					"source_status_id_str": "889923847692185600",
+					"source_user_id": 476199422,
+					"source_user_id_str": "476199422",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 115774,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/889923645589663744/pu/pl/p0okfr3w5dkEEAV1.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/889923645589663744/pu/vid/240x240/oD6BuVKlQbaNB84m.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 476199422,
+							"id_str": "476199422",
+							"name": "Tips & Tricks",
+							"screen_name": "awkwardgoogle",
+							"location": "Turn On Post Notification",
+							"description": "Money-saving hacks and DIYs for upgrading your home and life. We do not own the pictures/videos in our tweets. Request DMCA removal 📧awkwardgxxgle@gmail.com",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2339570,
+							"friends_count": 96,
+							"listed_count": 3039,
+							"created_at": "Fri Jan 27 21:43:58 +0000 2012",
+							"favourites_count": 573,
+							"utc_offset": -10800,
+							"time_zone": "Brasilia",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2915,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455681254768119808/bLws4_Xe.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455681254768119808/bLws4_Xe.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/772081219680997377/94gOHSK8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/772081219680997377/94gOHSK8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/476199422/1459801579",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 23:08:20 +0000 2017",
+			"id": 889985698937290800,
+			"id_str": "889985698937290753",
+			"text": "How To Get Thinner Legs Even If You're Lazy https://t.co/9NitH9APkK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 889923645589663700,
+						"id_str": "889923645589663744",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+						"url": "https://t.co/9NitH9APkK",
+						"display_url": "pic.twitter.com/9NitH9APkK",
+						"expanded_url": "https://twitter.com/awkwardgoogle/status/889923847692185600/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 889923847692185600,
+						"source_status_id_str": "889923847692185600",
+						"source_user_id": 476199422,
+						"source_user_id_str": "476199422"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889923645589663700,
+						"id_str": "889923645589663744",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/889923645589663744/pu/img/GALTuaAtE_tZV1Ra.jpg",
+						"url": "https://t.co/9NitH9APkK",
+						"display_url": "pic.twitter.com/9NitH9APkK",
+						"expanded_url": "https://twitter.com/awkwardgoogle/status/889923847692185600/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 889923847692185600,
+						"source_status_id_str": "889923847692185600",
+						"source_user_id": 476199422,
+						"source_user_id_str": "476199422",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 115774,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/889923645589663744/pu/pl/p0okfr3w5dkEEAV1.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/889923645589663744/pu/vid/240x240/oD6BuVKlQbaNB84m.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 476199422,
+								"id_str": "476199422",
+								"name": "Tips & Tricks",
+								"screen_name": "awkwardgoogle",
+								"location": "Turn On Post Notification",
+								"description": "Money-saving hacks and DIYs for upgrading your home and life. We do not own the pictures/videos in our tweets. Request DMCA removal 📧awkwardgxxgle@gmail.com",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2339570,
+								"friends_count": 96,
+								"listed_count": 3039,
+								"created_at": "Fri Jan 27 21:43:58 +0000 2012",
+								"favourites_count": 573,
+								"utc_offset": -10800,
+								"time_zone": "Brasilia",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2915,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455681254768119808/bLws4_Xe.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455681254768119808/bLws4_Xe.jpeg",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/772081219680997377/94gOHSK8_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/772081219680997377/94gOHSK8_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/476199422/1459801579",
+								"profile_link_color": "3B94D9",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2501350286,
+				"id_str": "2501350286",
+				"name": "Health Hacks",
+				"screen_name": "HeaIthHacks",
+				"location": "",
+				"description": "We will present to you simple daily life hacks to be healthy and to remain healthy.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 252101,
+				"friends_count": 8396,
+				"listed_count": 494,
+				"created_at": "Sat May 17 11:41:20 +0000 2014",
+				"favourites_count": 5,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848939684197781504/A3AXTQVR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848939684197781504/A3AXTQVR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2501350286/1491299797",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2443,
+			"favorite_count": 5693,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2443,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:40:44 +0000 2017",
+		"id": 890024052416331800,
+		"id_str": "890024052416331778",
+		"text": "Me at the end of last week. https://t.co/2L8uT3EZag",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2L8uT3EZag",
+					"expanded_url": "https://twitter.com/PupsPorn/status/890001481449054209",
+					"display_url": "twitter.com/PupsPorn/statu…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 890001481449054200,
+		"quoted_status_id_str": "890001481449054209",
+		"quoted_status": {
+			"created_at": "Wed Jul 26 00:11:03 +0000 2017",
+			"id": 890001481449054200,
+			"id_str": "890001481449054209",
+			"text": "When is this week going to be over... https://t.co/5wqZ4jpXSe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 471799376734859260,
+						"id_str": "471799376734859264",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/BowrCI-IMAAJfhW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BowrCI-IMAAJfhW.jpg",
+						"url": "https://t.co/5wqZ4jpXSe",
+						"display_url": "pic.twitter.com/5wqZ4jpXSe",
+						"expanded_url": "https://twitter.com/iLovePupsDaily/status/471799376869097472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 667,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 667,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 471799376869097500,
+						"source_status_id_str": "471799376869097472",
+						"source_user_id": 1723310646,
+						"source_user_id_str": "1723310646"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 471799376734859260,
+						"id_str": "471799376734859264",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/BowrCI-IMAAJfhW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BowrCI-IMAAJfhW.jpg",
+						"url": "https://t.co/5wqZ4jpXSe",
+						"display_url": "pic.twitter.com/5wqZ4jpXSe",
+						"expanded_url": "https://twitter.com/iLovePupsDaily/status/471799376869097472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 667,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 667,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 471799376869097500,
+						"source_status_id_str": "471799376869097472",
+						"source_user_id": 1723310646,
+						"source_user_id_str": "1723310646"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/UdeEocHVSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdeEocHVSI",
+								"expanded_url": "https://www.facebook.com/PupsPorn",
+								"display_url": "facebook.com/PupsPorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 755376,
+				"friends_count": 12633,
+				"listed_count": 801,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 96315,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 345,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:40:10 +0000 2017",
+		"id": 890023908434247700,
+		"id_str": "890023908434247681",
+		"text": "@mudnsky https://t.co/i9Gz2oWYlJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i9Gz2oWYlJ",
+					"expanded_url": "https://twitter.com/PupsPorn/status/889953684406325254",
+					"display_url": "twitter.com/PupsPorn/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 889953684406325200,
+		"quoted_status_id_str": "889953684406325254",
+		"quoted_status": {
+			"created_at": "Tue Jul 25 21:01:07 +0000 2017",
+			"id": 889953684406325200,
+			"id_str": "889953684406325254",
+			"text": "Everything will be ok my friend https://t.co/WQaE21oyaA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 618052449220345900,
+						"id_str": "618052449220345857",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CJPDbZBWwAEDsZb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CJPDbZBWwAEDsZb.jpg",
+						"url": "https://t.co/WQaE21oyaA",
+						"display_url": "pic.twitter.com/WQaE21oyaA",
+						"expanded_url": "https://twitter.com/OhAnimals/status/618052449312620544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 499,
+								"h": 341,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 499,
+								"h": 341,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 232,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 618052449312620500,
+						"source_status_id_str": "618052449312620544",
+						"source_user_id": 302748777,
+						"source_user_id_str": "302748777"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 618052449220345900,
+						"id_str": "618052449220345857",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CJPDbZBWwAEDsZb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CJPDbZBWwAEDsZb.jpg",
+						"url": "https://t.co/WQaE21oyaA",
+						"display_url": "pic.twitter.com/WQaE21oyaA",
+						"expanded_url": "https://twitter.com/OhAnimals/status/618052449312620544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 499,
+								"h": 341,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 499,
+								"h": 341,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 232,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 618052449312620500,
+						"source_status_id_str": "618052449312620544",
+						"source_user_id": 302748777,
+						"source_user_id_str": "302748777"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/UdeEocHVSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdeEocHVSI",
+								"expanded_url": "https://www.facebook.com/PupsPorn",
+								"display_url": "facebook.com/PupsPorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 755376,
+				"friends_count": 12633,
+				"listed_count": 801,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 96315,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 157,
+			"favorite_count": 406,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jul 26 01:39:22 +0000 2017",
+		"id": 890023709829759000,
+		"id_str": "890023709829758976",
+		"text": "RT @CuteOverloads: just want to leave this here for you https://t.co/7tOwNb0RDZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CuteOverloads",
+					"name": "Cute Overloads",
+					"id": 70009161,
+					"id_str": "70009161",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7tOwNb0RDZ",
+					"expanded_url": "https://vine.co/v/ea0OwvPTx9l",
+					"display_url": "vine.co/v/ea0OwvPTx9l",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 20:20:11 +0000 2017",
+			"id": 889943383870812200,
+			"id_str": "889943383870812160",
+			"text": "just want to leave this here for you https://t.co/7tOwNb0RDZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7tOwNb0RDZ",
+						"expanded_url": "https://vine.co/v/ea0OwvPTx9l",
+						"display_url": "vine.co/v/ea0OwvPTx9l",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70009161,
+				"id_str": "70009161",
+				"name": "Cute Overloads",
+				"screen_name": "CuteOverloads",
+				"location": "",
+				"description": "we DO NOT own content posted. Everything is submissions. Content will be immediately removed or credited by owners request. Enjoy!",
+				"url": "https://t.co/0UI615SniQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UI615SniQ",
+								"expanded_url": "http://instagram.com/cuteoverload.s",
+								"display_url": "instagram.com/cuteoverload.s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3129392,
+				"friends_count": 162,
+				"listed_count": 2001,
+				"created_at": "Sun Aug 30 01:00:50 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18705,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70009161/1399149211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFD5B0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 560,
+			"favorite_count": 1741,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 560,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:39:03 +0000 2017",
+		"id": 890023626354729000,
+		"id_str": "890023626354728962",
+		"text": "RT @CuteOverloads: When ur dog is the only one u trust https://t.co/QQhKoVlUvn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CuteOverloads",
+					"name": "Cute Overloads",
+					"id": 70009161,
+					"id_str": "70009161",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 727116743936725000,
+					"id_str": "727116743936724992",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+					"url": "https://t.co/QQhKoVlUvn",
+					"display_url": "pic.twitter.com/QQhKoVlUvn",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/727116758163832832/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 727116758163832800,
+					"source_status_id_str": "727116758163832832",
+					"source_user_id": 1372975219,
+					"source_user_id_str": "1372975219"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 727116743936725000,
+					"id_str": "727116743936724992",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+					"url": "https://t.co/QQhKoVlUvn",
+					"display_url": "pic.twitter.com/QQhKoVlUvn",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/727116758163832832/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 727116758163832800,
+					"source_status_id_str": "727116758163832832",
+					"source_user_id": 1372975219,
+					"source_user_id_str": "1372975219",
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 2949,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/727116743936724992/pu/vid/178x320/KAEZWBf4xxT9h8dI.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/727116743936724992/pu/vid/358x640/n-tthboChtvdZaEq.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/727116743936724992/pu/pl/lSaMjPEXWc1UOmtI.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1372975219,
+							"id_str": "1372975219",
+							"name": "Baby Animals",
+							"screen_name": "BabyAnimalPics",
+							"location": "",
+							"description": "The cutest tweets imaginable. Follow us for instant happiness! 💕 *We own no content posted* ✉️: r@babyanimalvids.com",
+							"url": "https://t.co/fGsZDMkw5t",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/fGsZDMkw5t",
+											"expanded_url": "http://Instagram.com/babyanimalvids",
+											"display_url": "Instagram.com/babyanimalvids",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2010180,
+							"friends_count": 58,
+							"listed_count": 4196,
+							"created_at": "Mon Apr 22 19:48:40 +0000 2013",
+							"favourites_count": 34404,
+							"utc_offset": -10800,
+							"time_zone": "Atlantic Time (Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 31765,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372975219/1389947904",
+							"profile_link_color": "FA2828",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 22:43:01 +0000 2017",
+			"id": 889979326384484400,
+			"id_str": "889979326384484352",
+			"text": "When ur dog is the only one u trust https://t.co/QQhKoVlUvn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 727116743936725000,
+						"id_str": "727116743936724992",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+						"url": "https://t.co/QQhKoVlUvn",
+						"display_url": "pic.twitter.com/QQhKoVlUvn",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/727116758163832832/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 727116758163832800,
+						"source_status_id_str": "727116758163832832",
+						"source_user_id": 1372975219,
+						"source_user_id_str": "1372975219"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 727116743936725000,
+						"id_str": "727116743936724992",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/727116743936724992/pu/img/IaOitOnFDgHVNffg.jpg",
+						"url": "https://t.co/QQhKoVlUvn",
+						"display_url": "pic.twitter.com/QQhKoVlUvn",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/727116758163832832/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 727116758163832800,
+						"source_status_id_str": "727116758163832832",
+						"source_user_id": 1372975219,
+						"source_user_id_str": "1372975219",
+						"video_info": {
+							"aspect_ratio": [
+								101,
+								180
+							],
+							"duration_millis": 2949,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/727116743936724992/pu/vid/178x320/KAEZWBf4xxT9h8dI.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/727116743936724992/pu/vid/358x640/n-tthboChtvdZaEq.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/727116743936724992/pu/pl/lSaMjPEXWc1UOmtI.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1372975219,
+								"id_str": "1372975219",
+								"name": "Baby Animals",
+								"screen_name": "BabyAnimalPics",
+								"location": "",
+								"description": "The cutest tweets imaginable. Follow us for instant happiness! 💕 *We own no content posted* ✉️: r@babyanimalvids.com",
+								"url": "https://t.co/fGsZDMkw5t",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/fGsZDMkw5t",
+												"expanded_url": "http://Instagram.com/babyanimalvids",
+												"display_url": "Instagram.com/babyanimalvids",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2010180,
+								"friends_count": 58,
+								"listed_count": 4196,
+								"created_at": "Mon Apr 22 19:48:40 +0000 2013",
+								"favourites_count": 34404,
+								"utc_offset": -10800,
+								"time_zone": "Atlantic Time (Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 31765,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/674018647833075712/4AnZjeut_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372975219/1389947904",
+								"profile_link_color": "FA2828",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70009161,
+				"id_str": "70009161",
+				"name": "Cute Overloads",
+				"screen_name": "CuteOverloads",
+				"location": "",
+				"description": "we DO NOT own content posted. Everything is submissions. Content will be immediately removed or credited by owners request. Enjoy!",
+				"url": "https://t.co/0UI615SniQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UI615SniQ",
+								"expanded_url": "http://instagram.com/cuteoverload.s",
+								"display_url": "instagram.com/cuteoverload.s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3129392,
+				"friends_count": 162,
+				"listed_count": 2001,
+				"created_at": "Sun Aug 30 01:00:50 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18705,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70009161/1399149211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFD5B0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 593,
+			"favorite_count": 1838,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:38:32 +0000 2017",
+		"id": 890023497447071700,
+		"id_str": "890023497447071744",
+		"text": "RT @PupsPorn: I WANT ONE!!! https://t.co/Ck0oHcczo5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PupsPorn",
+					"name": "Puppy Lover",
+					"id": 835083097,
+					"id_str": "835083097",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 664162121106632700,
+					"id_str": "664162121106632704",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+					"url": "https://t.co/Ck0oHcczo5",
+					"display_url": "pic.twitter.com/Ck0oHcczo5",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/664162154115784704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 664162154115784700,
+					"source_status_id_str": "664162154115784704",
+					"source_user_id": 568825492,
+					"source_user_id_str": "568825492"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 664162121106632700,
+					"id_str": "664162121106632704",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+					"url": "https://t.co/Ck0oHcczo5",
+					"display_url": "pic.twitter.com/Ck0oHcczo5",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/664162154115784704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 664162154115784700,
+					"source_status_id_str": "664162154115784704",
+					"source_user_id": 568825492,
+					"source_user_id_str": "568825492",
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							59
+						],
+						"duration_millis": 5040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/664162121106632704/pu/pl/kxowfMvVG3W1hsM5.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/664162121106632704/pu/vid/298x320/1CatkqdB-Brk0qoR.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 568825492,
+							"id_str": "568825492",
+							"name": "Cute Emergency",
+							"screen_name": "CuteEmergency",
+							"location": "",
+							"description": "Critiquing the cutest animals online! SUBMIT YOUR PHOTOS HERE: https://t.co/ZsoPEd3gyZ",
+							"url": "https://t.co/oTurq8OHFQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/oTurq8OHFQ",
+											"expanded_url": "http://Instagram.com/cuteemergency",
+											"display_url": "Instagram.com/cuteemergency",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/ZsoPEd3gyZ",
+											"expanded_url": "http://goo.gl/Buqy3f",
+											"display_url": "goo.gl/Buqy3f",
+											"indices": [
+												63,
+												86
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 5553588,
+							"friends_count": 38,
+							"listed_count": 5394,
+							"created_at": "Wed May 02 05:28:46 +0000 2012",
+							"favourites_count": 3012,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 42864,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+							"profile_link_color": "2BB4E6",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 20:05:05 +0000 2017",
+			"id": 889939584108429300,
+			"id_str": "889939584108429312",
+			"text": "I WANT ONE!!! https://t.co/Ck0oHcczo5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 664162121106632700,
+						"id_str": "664162121106632704",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+						"url": "https://t.co/Ck0oHcczo5",
+						"display_url": "pic.twitter.com/Ck0oHcczo5",
+						"expanded_url": "https://twitter.com/CuteEmergency/status/664162154115784704/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 590,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 590,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 664162154115784700,
+						"source_status_id_str": "664162154115784704",
+						"source_user_id": 568825492,
+						"source_user_id_str": "568825492"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 664162121106632700,
+						"id_str": "664162121106632704",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/664162121106632704/pu/img/C6MvOIODDKoTLgZt.jpg",
+						"url": "https://t.co/Ck0oHcczo5",
+						"display_url": "pic.twitter.com/Ck0oHcczo5",
+						"expanded_url": "https://twitter.com/CuteEmergency/status/664162154115784704/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 590,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 590,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 664162154115784700,
+						"source_status_id_str": "664162154115784704",
+						"source_user_id": 568825492,
+						"source_user_id_str": "568825492",
+						"video_info": {
+							"aspect_ratio": [
+								55,
+								59
+							],
+							"duration_millis": 5040,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/664162121106632704/pu/pl/kxowfMvVG3W1hsM5.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/664162121106632704/pu/vid/298x320/1CatkqdB-Brk0qoR.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 568825492,
+								"id_str": "568825492",
+								"name": "Cute Emergency",
+								"screen_name": "CuteEmergency",
+								"location": "",
+								"description": "Critiquing the cutest animals online! SUBMIT YOUR PHOTOS HERE: https://t.co/ZsoPEd3gyZ",
+								"url": "https://t.co/oTurq8OHFQ",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/oTurq8OHFQ",
+												"expanded_url": "http://Instagram.com/cuteemergency",
+												"display_url": "Instagram.com/cuteemergency",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/ZsoPEd3gyZ",
+												"expanded_url": "http://goo.gl/Buqy3f",
+												"display_url": "goo.gl/Buqy3f",
+												"indices": [
+													63,
+													86
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 5553588,
+								"friends_count": 38,
+								"listed_count": 5394,
+								"created_at": "Wed May 02 05:28:46 +0000 2012",
+								"favourites_count": 3012,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 42864,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+								"profile_link_color": "2BB4E6",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/UdeEocHVSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdeEocHVSI",
+								"expanded_url": "https://www.facebook.com/PupsPorn",
+								"display_url": "facebook.com/PupsPorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 755376,
+				"friends_count": 12633,
+				"listed_count": 801,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 96315,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 246,
+			"favorite_count": 788,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:29:50 +0000 2017",
+		"id": 890021309228265500,
+		"id_str": "890021309228265473",
+		"text": "Happy Wednesday! https://t.co/Slf62lqSuX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Slf62lqSuX",
+					"expanded_url": "https://twitter.com/CuteOverloads/status/889694216166813696",
+					"display_url": "twitter.com/CuteOverloads/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 889694216166813700,
+		"quoted_status_id_str": "889694216166813696",
+		"quoted_status": {
+			"created_at": "Tue Jul 25 03:50:05 +0000 2017",
+			"id": 889694216166813700,
+			"id_str": "889694216166813696",
+			"text": "Wish I could relate to this: https://t.co/nGFlSDXqqy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 727250313657327600,
+						"id_str": "727250313657327617",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/Che2TqBWIAEPm2y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Che2TqBWIAEPm2y.jpg",
+						"url": "https://t.co/nGFlSDXqqy",
+						"display_url": "pic.twitter.com/nGFlSDXqqy",
+						"expanded_url": "https://twitter.com/CuteOverloads/status/727250314219388929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 564,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 319,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 891,
+								"h": 837,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 727250314219388900,
+						"source_status_id_str": "727250314219388929",
+						"source_user_id": 70009161,
+						"source_user_id_str": "70009161"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 727250313657327600,
+						"id_str": "727250313657327617",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/Che2TqBWIAEPm2y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Che2TqBWIAEPm2y.jpg",
+						"url": "https://t.co/nGFlSDXqqy",
+						"display_url": "pic.twitter.com/nGFlSDXqqy",
+						"expanded_url": "https://twitter.com/CuteOverloads/status/727250314219388929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 564,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 319,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 891,
+								"h": 837,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 727250314219388900,
+						"source_status_id_str": "727250314219388929",
+						"source_user_id": 70009161,
+						"source_user_id_str": "70009161"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70009161,
+				"id_str": "70009161",
+				"name": "Cute Overloads",
+				"screen_name": "CuteOverloads",
+				"location": "",
+				"description": "we DO NOT own content posted. Everything is submissions. Content will be immediately removed or credited by owners request. Enjoy!",
+				"url": "https://t.co/0UI615SniQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UI615SniQ",
+								"expanded_url": "http://instagram.com/cuteoverload.s",
+								"display_url": "instagram.com/cuteoverload.s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3129392,
+				"friends_count": 162,
+				"listed_count": 2001,
+				"created_at": "Sun Aug 30 01:00:50 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18705,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70009161/1399149211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFD5B0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 227,
+			"favorite_count": 1125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:29:30 +0000 2017",
+		"id": 890021222980788200,
+		"id_str": "890021222980788224",
+		"text": "Good morning, world! https://t.co/8DsIDBitDZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8DsIDBitDZ",
+					"expanded_url": "https://twitter.com/dog_rates/status/889880896479866881",
+					"display_url": "twitter.com/dog_rates/stat…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 889880896479866900,
+		"quoted_status_id_str": "889880896479866881",
+		"quoted_status": {
+			"created_at": "Tue Jul 25 16:11:53 +0000 2017",
+			"id": 889880896479866900,
+			"id_str": "889880896479866881",
+			"text": "This is Bruno. He is a service shark. Only gets out of the water to assist you. 13/10 terrifyingly good boy https://t.co/u1XPQMl29g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 889880888800096300,
+						"id_str": "889880888800096258",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DFl99B1WsAITKsg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFl99B1WsAITKsg.jpg",
+						"url": "https://t.co/u1XPQMl29g",
+						"display_url": "pic.twitter.com/u1XPQMl29g",
+						"expanded_url": "https://twitter.com/dog_rates/status/889880896479866881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 895,
+								"h": 971,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 895,
+								"h": 971,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 627,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889880888800096300,
+						"id_str": "889880888800096258",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DFl99B1WsAITKsg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFl99B1WsAITKsg.jpg",
+						"url": "https://t.co/u1XPQMl29g",
+						"display_url": "pic.twitter.com/u1XPQMl29g",
+						"expanded_url": "https://twitter.com/dog_rates/status/889880896479866881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 895,
+								"h": 971,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 895,
+								"h": 971,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 627,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4196983835,
+				"id_str": "4196983835",
+				"name": "WeRateDogs™",
+				"screen_name": "dog_rates",
+				"location": "DM YOUR DOGS, WE WILL RATE",
+				"description": "#1 Source for Professional Dog Ratings | STORE: @ShopWeRateDogs | IG, FB & SC: WeRateDogs MOBILE APP: @GoodDogsGame | Business: dogratingtwitter@gmail.com",
+				"url": "https://t.co/N7sNNHAEXS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N7sNNHAEXS",
+								"expanded_url": "http://weratedogs.com",
+								"display_url": "weratedogs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2855686,
+				"friends_count": 105,
+				"listed_count": 2834,
+				"created_at": "Sun Nov 15 21:41:29 +0000 2015",
+				"favourites_count": 110376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5008,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861415328504569856/R2xOOfwe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861415328504569856/R2xOOfwe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4196983835/1490311003",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4852,
+			"favorite_count": 26308,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:28:36 +0000 2017",
+		"id": 890020998556270600,
+		"id_str": "890020998556270597",
+		"text": "@_curses Are Fruits of wisdom बाल-கனி ?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_curses",
+					"name": "Harish",
+					"id": 135064320,
+					"id_str": "135064320",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 889769229242597400,
+		"in_reply_to_status_id_str": "889769229242597377",
+		"in_reply_to_user_id": 135064320,
+		"in_reply_to_user_id_str": "135064320",
+		"in_reply_to_screen_name": "_curses",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:25:05 +0000 2017",
+		"id": 890020112723398700,
+		"id_str": "890020112723398656",
+		"text": "This thread. 👇 https://t.co/x2rWXN3QPx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x2rWXN3QPx",
+					"expanded_url": "https://twitter.com/Karaboondi/status/889975268319911936",
+					"display_url": "twitter.com/Karaboondi/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 889975268319912000,
+		"quoted_status_id_str": "889975268319911936",
+		"quoted_status": {
+			"created_at": "Tue Jul 25 22:26:53 +0000 2017",
+			"id": 889975268319912000,
+			"id_str": "889975268319911936",
+			"text": "My whole TL was ARR based today , thanks to @krtgrphr . And thanks to all those tweets on ARR , I ended up putting together a list",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "krtgrphr",
+						"name": "krtgrphr",
+						"id": 15400426,
+						"id_str": "15400426",
+						"indices": [
+							44,
+							53
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 398860199,
+				"id_str": "398860199",
+				"name": "Thiruttu Sundari",
+				"screen_name": "Karaboondi",
+				"location": "Wisconsin",
+				"description": "chellapottiya Kaanom",
+				"url": "https://t.co/7mRO2hh8zy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7mRO2hh8zy",
+								"expanded_url": "https://theyellowedparchment.com",
+								"display_url": "theyellowedparchment.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 744,
+				"friends_count": 588,
+				"listed_count": 20,
+				"created_at": "Wed Oct 26 17:05:52 +0000 2011",
+				"favourites_count": 1505,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888267643756531712/AD8NJqKl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888267643756531712/AD8NJqKl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/398860199/1499122229",
+				"profile_link_color": "192490",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:21:49 +0000 2017",
+		"id": 890019290031599600,
+		"id_str": "890019290031599616",
+		"text": "@The_Ajan I used to listen to audio books while riding. Used to be a much better experience. I never used to feel stressed.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "The_Ajan",
+					"name": "Ajan",
+					"id": 149229717,
+					"id_str": "149229717",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 889936045793398800,
+		"in_reply_to_status_id_str": "889936045793398784",
+		"in_reply_to_user_id": 149229717,
+		"in_reply_to_user_id_str": "149229717",
+		"in_reply_to_screen_name": "The_Ajan",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 01:21:06 +0000 2017",
+		"id": 890019109219352600,
+		"id_str": "890019109219352578",
+		"text": "@The_Ajan Exactly. I think that stress is what affects our brain functioning. I'm not an expert. This is just my own hunch.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "The_Ajan",
+					"name": "Ajan",
+					"id": 149229717,
+					"id_str": "149229717",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 889936618617884700,
+		"in_reply_to_status_id_str": "889936618617884672",
+		"in_reply_to_user_id": 149229717,
+		"in_reply_to_user_id_str": "149229717",
+		"in_reply_to_screen_name": "The_Ajan",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9547,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 25 08:39:35 +0000 2017",
 		"id": 889767069499113500,
 		"id_str": "889767069499113472",
