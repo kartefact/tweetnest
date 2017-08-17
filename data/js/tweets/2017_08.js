@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 02:23:19 +0000 2017",
+		"id": 897644915399708700,
+		"id_str": "897644915399708673",
+		"text": "RT @KKarthik: #trafficSignal Hand-in-hand #love #Vienna https://t.co/3DnfPny6Qk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "trafficSignal",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"text": "love",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "Vienna",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KKarthik",
+					"name": "Karthik",
+					"id": 10965892,
+					"id_str": "10965892",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897535621681614800,
+					"id_str": "897535621681614848",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+					"url": "https://t.co/3DnfPny6Qk",
+					"display_url": "pic.twitter.com/3DnfPny6Qk",
+					"expanded_url": "https://twitter.com/KKarthik/status/897535634365173760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1942,
+							"h": 1942,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897535634365173800,
+					"source_status_id_str": "897535634365173760",
+					"source_user_id": 10965892,
+					"source_user_id_str": "10965892"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897535621681614800,
+					"id_str": "897535621681614848",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+					"url": "https://t.co/3DnfPny6Qk",
+					"display_url": "pic.twitter.com/3DnfPny6Qk",
+					"expanded_url": "https://twitter.com/KKarthik/status/897535634365173760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1942,
+							"h": 1942,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897535634365173800,
+					"source_status_id_str": "897535634365173760",
+					"source_user_id": 10965892,
+					"source_user_id_str": "10965892"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1599,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9603,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 19:09:05 +0000 2017",
+			"id": 897535634365173800,
+			"id_str": "897535634365173760",
+			"text": "#trafficSignal Hand-in-hand #love #Vienna https://t.co/3DnfPny6Qk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "trafficSignal",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"text": "love",
+						"indices": [
+							28,
+							33
+						]
+					},
+					{
+						"text": "Vienna",
+						"indices": [
+							34,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897535621681614800,
+						"id_str": "897535621681614848",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+						"url": "https://t.co/3DnfPny6Qk",
+						"display_url": "pic.twitter.com/3DnfPny6Qk",
+						"expanded_url": "https://twitter.com/KKarthik/status/897535634365173760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1942,
+								"h": 1942,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897535621681614800,
+						"id_str": "897535621681614848",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHSv5H-XkAAniH0.jpg",
+						"url": "https://t.co/3DnfPny6Qk",
+						"display_url": "pic.twitter.com/3DnfPny6Qk",
+						"expanded_url": "https://twitter.com/KKarthik/status/897535634365173760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1942,
+								"h": 1942,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10965892,
+				"id_str": "10965892",
+				"name": "Karthik",
+				"screen_name": "KKarthik",
+				"location": "Where the wild things are",
+				"description": "Leave me alone, I know what I’m doing",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 559,
+				"listed_count": 20,
+				"created_at": "Sat Dec 08 09:23:28 +0000 2007",
+				"favourites_count": 789,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465163561707139072/chCRccnZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465163561707139072/chCRccnZ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863621407317647361/xs8B0zYn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863621407317647361/xs8B0zYn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10965892/1496490514",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 17:30:01 +0000 2017",
 		"id": 897510703497527300,
 		"id_str": "897510703497527296",
