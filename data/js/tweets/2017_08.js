@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 05:29:59 +0000 2017",
+		"id": 898054278446596100,
+		"id_str": "898054278446596096",
+		"text": "@mazit27 @v1rupa Just the other day @mudnsky was mentioning how most of our gestures are similar to how we swat mosquitoes. :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazit27",
+					"name": "Gautam Joshi",
+					"id": 763928115911417900,
+					"id_str": "763928115911417857",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "v1rupa",
+					"name": "Virupa Kantamneni",
+					"id": 93417060,
+					"id_str": "93417060",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 896233881099149300,
+		"in_reply_to_status_id_str": "896233881099149312",
+		"in_reply_to_user_id": 763928115911417900,
+		"in_reply_to_user_id_str": "763928115911417857",
+		"in_reply_to_screen_name": "mazit27",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1600,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9606,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 05:27:55 +0000 2017",
+		"id": 898053755890946000,
+		"id_str": "898053755890946050",
+		"text": "RT @LEMacKz: This lab chemical has strong opinions about international relations https://t.co/Xhjr7TXr4C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LEMacKz",
+					"name": "Lewis MacKenzie",
+					"id": 1432748821,
+					"id_str": "1432748821",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897751802392834000,
+					"id_str": "897751802392834048",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+					"url": "https://t.co/Xhjr7TXr4C",
+					"display_url": "pic.twitter.com/Xhjr7TXr4C",
+					"expanded_url": "https://twitter.com/LEMacKz/status/897751814954725376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897751814954725400,
+					"source_status_id_str": "897751814954725376",
+					"source_user_id": 1432748821,
+					"source_user_id_str": "1432748821"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897751802392834000,
+					"id_str": "897751802392834048",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+					"url": "https://t.co/Xhjr7TXr4C",
+					"display_url": "pic.twitter.com/Xhjr7TXr4C",
+					"expanded_url": "https://twitter.com/LEMacKz/status/897751814954725376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897751814954725400,
+					"source_status_id_str": "897751814954725376",
+					"source_user_id": 1432748821,
+					"source_user_id_str": "1432748821"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1600,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9606,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 09:28:06 +0000 2017",
+			"id": 897751814954725400,
+			"id_str": "897751814954725376",
+			"text": "This lab chemical has strong opinions about international relations https://t.co/Xhjr7TXr4C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897751802392834000,
+						"id_str": "897751802392834048",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+						"url": "https://t.co/Xhjr7TXr4C",
+						"display_url": "pic.twitter.com/Xhjr7TXr4C",
+						"expanded_url": "https://twitter.com/LEMacKz/status/897751814954725376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897751802392834000,
+						"id_str": "897751802392834048",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHV0gf4XcAAkh0Q.jpg",
+						"url": "https://t.co/Xhjr7TXr4C",
+						"display_url": "pic.twitter.com/Xhjr7TXr4C",
+						"expanded_url": "https://twitter.com/LEMacKz/status/897751814954725376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1432748821,
+				"id_str": "1432748821",
+				"name": "Lewis MacKenzie",
+				"screen_name": "LEMacKz",
+				"location": "Leeds, UK. Relocating to Durham in October.",
+				"description": "Biophysicist @UniversityLeeds. Interests: optics, imaging, biosensors, blood oxygen, nanotech, and #scicomm.",
+				"url": "https://t.co/RyprgZn1rZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RyprgZn1rZ",
+								"expanded_url": "http://www.lewismackenzie.science",
+								"display_url": "lewismackenzie.science",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2417,
+				"friends_count": 4603,
+				"listed_count": 110,
+				"created_at": "Thu May 16 10:36:20 +0000 2013",
+				"favourites_count": 23718,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14270,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880730397075787776/iA1c_AjC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880730397075787776/iA1c_AjC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1432748821/1421950772",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 149,
+			"favorite_count": 460,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 16 02:23:19 +0000 2017",
 		"id": 897644915399708700,
 		"id_str": "897644915399708673",
