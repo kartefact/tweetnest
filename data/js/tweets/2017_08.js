@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 19 08:07:58 +0000 2017",
+		"id": 898818812711059500,
+		"id_str": "898818812711059457",
+		"text": "I can never understand permanent tatoos. I get bored too frequently for tatoos. This is a good alternative for peop… https://t.co/lXm6yM2ZHY",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lXm6yM2ZHY",
+					"expanded_url": "https://twitter.com/i/web/status/898818812711059457",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1600,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9611,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 898816824535535600,
+		"quoted_status_id_str": "898816824535535616",
+		"quoted_status": {
+			"created_at": "Sat Aug 19 08:00:04 +0000 2017",
+			"id": 898816824535535600,
+			"id_str": "898816824535535616",
+			"text": "This tiny gadget can print any temporary tattoo you want in just a few seconds https://t.co/b3QelP6Oup",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 887052958990352400,
+						"id_str": "887052958990352384",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/887052958990352384/img/2PwVIqd5wkIV1PIJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/887052958990352384/img/2PwVIqd5wkIV1PIJ.jpg",
+						"url": "https://t.co/b3QelP6Oup",
+						"display_url": "pic.twitter.com/b3QelP6Oup",
+						"expanded_url": "https://twitter.com/mashable/status/898816824535535616/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887052958990352400,
+						"id_str": "887052958990352384",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/887052958990352384/img/2PwVIqd5wkIV1PIJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/887052958990352384/img/2PwVIqd5wkIV1PIJ.jpg",
+						"url": "https://t.co/b3QelP6Oup",
+						"display_url": "pic.twitter.com/b3QelP6Oup",
+						"expanded_url": "https://twitter.com/mashable/status/898816824535535616/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 92826,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/887052958990352384/vid/320x180/5fvHdVNm5wkhHkku.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/887052958990352384/vid/1280x720/UF8pTJBFKsQkeWHp.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/887052958990352384/vid/640x360/aZlBjLHk5VArSF3U.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/887052958990352384/pl/IcMSNclmgEAOViLU.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Temporary tattoo printer",
+							"description": "'Prinker' is a temporary tattoo printer that uses cosmetic grade ink to apply a design on to your skin in seconds. The company says the tattoo can last for up to 3 days and will wash off with soap.",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://www.youtube.com/channel/UC9jj-YYSGUXvY2J2nYw9dNQ"
+								}
+							},
+							"embeddable": false,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972651,
+				"id_str": "972651",
+				"name": "Mashable",
+				"screen_name": "mashable",
+				"location": "",
+				"description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.",
+				"url": "http://t.co/1Gm8aVACKn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1Gm8aVACKn",
+								"expanded_url": "http://mashable.com",
+								"display_url": "mashable.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9217647,
+				"friends_count": 2838,
+				"listed_count": 129360,
+				"created_at": "Mon Mar 12 01:28:01 +0000 2007",
+				"favourites_count": 699,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 248695,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884451753940451333/XjbzDyYL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884451753940451333/XjbzDyYL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+				"profile_link_color": "00AEEF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "88DBF4",
+				"profile_text_color": "3B3B3B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 19 07:50:52 +0000 2017",
+		"id": 898814507639644200,
+		"id_str": "898814507639644164",
+		"text": "RT @amabirdman: Happy World Photography Day!\n\nCommon Kingfishers in love.\n#NSFW.... well, if you are a Kingfisher :P https://t.co/vJxalQUBbu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NSFW",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898803274865811500,
+					"id_str": "898803274865811457",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+					"url": "https://t.co/vJxalQUBbu",
+					"display_url": "pic.twitter.com/vJxalQUBbu",
+					"expanded_url": "https://twitter.com/amabirdman/status/898804571388076032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898804571388076000,
+					"source_status_id_str": "898804571388076032",
+					"source_user_id": 67494533,
+					"source_user_id_str": "67494533"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898803274865811500,
+					"id_str": "898803274865811457",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+					"url": "https://t.co/vJxalQUBbu",
+					"display_url": "pic.twitter.com/vJxalQUBbu",
+					"expanded_url": "https://twitter.com/amabirdman/status/898804571388076032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898804571388076000,
+					"source_status_id_str": "898804571388076032",
+					"source_user_id": 67494533,
+					"source_user_id_str": "67494533"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1600,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9611,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 19 07:11:23 +0000 2017",
+			"id": 898804571388076000,
+			"id_str": "898804571388076032",
+			"text": "Happy World Photography Day!\n\nCommon Kingfishers in love.\n#NSFW.... well, if you are a Kingfisher :P https://t.co/vJxalQUBbu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NSFW",
+						"indices": [
+							58,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 898803274865811500,
+						"id_str": "898803274865811457",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+						"url": "https://t.co/vJxalQUBbu",
+						"display_url": "pic.twitter.com/vJxalQUBbu",
+						"expanded_url": "https://twitter.com/amabirdman/status/898804571388076032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898803274865811500,
+						"id_str": "898803274865811457",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHkw0QFVoAEM2mt.jpg",
+						"url": "https://t.co/vJxalQUBbu",
+						"display_url": "pic.twitter.com/vJxalQUBbu",
+						"expanded_url": "https://twitter.com/amabirdman/status/898804571388076032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67494533,
+				"id_str": "67494533",
+				"name": "I am a Birdman",
+				"screen_name": "amabirdman",
+				"location": "Bangalore, India",
+				"description": "Musician ~ Bird-watcher ~ Naturalist ~ Photographer ~ Fan of AR Rahman, Sachin & Federer.",
+				"url": "https://t.co/fLT7eTH16h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fLT7eTH16h",
+								"expanded_url": "http://amabirdman.sarahah.com",
+								"display_url": "amabirdman.sarahah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2985,
+				"friends_count": 285,
+				"listed_count": 50,
+				"created_at": "Fri Aug 21 02:12:26 +0000 2009",
+				"favourites_count": 320,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57044,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863284582/17b033d033f1fccec0d6ef839fae0da7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863284582/17b033d033f1fccec0d6ef839fae0da7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879706083731791872/GteNTcM8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879706083731791872/GteNTcM8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67494533/1483679348",
+				"profile_link_color": "FF6B21",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF09E",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 16:53:23 +0000 2017",
 		"id": 898588648676900900,
 		"id_str": "898588648676900864",
