@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 24 10:14:46 +0000 2017",
+		"id": 900662661377015800,
+		"id_str": "900662661377015809",
+		"text": "@mudnsky 😬😇",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 900595994999402500,
+		"in_reply_to_status_id_str": "900595994999402496",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9620,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Aug 24 05:31:02 +0000 2017",
+		"id": 900591254903193600,
+		"id_str": "900591254903193600",
+		"text": "RT @amabirdman: A juice company dumped orange peels in a national park. Here's what it looks like now.\nhttps://t.co/OHezHXYmH4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OHezHXYmH4",
+					"expanded_url": "http://www.upworthy.com/a-juice-company-dumped-orange-peels-in-a-national-park-heres-what-it-looks-like-now?c=ufb1",
+					"display_url": "upworthy.com/a-juice-compan…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9620,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 03:36:25 +0000 2017",
+			"id": 900562412864065500,
+			"id_str": "900562412864065536",
+			"text": "A juice company dumped orange peels in a national park. Here's what it looks like now.\nhttps://t.co/OHezHXYmH4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OHezHXYmH4",
+						"expanded_url": "http://www.upworthy.com/a-juice-company-dumped-orange-peels-in-a-national-park-heres-what-it-looks-like-now?c=ufb1",
+						"display_url": "upworthy.com/a-juice-compan…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67494533,
+				"id_str": "67494533",
+				"name": "I am a Birdman",
+				"screen_name": "amabirdman",
+				"location": "Bangalore, India",
+				"description": "Musician ~ Bird-watcher ~ Naturalist ~ Photographer ~ Fan of AR Rahman, Sachin & Federer.",
+				"url": "https://t.co/fLT7eTH16h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fLT7eTH16h",
+								"expanded_url": "http://amabirdman.sarahah.com",
+								"display_url": "amabirdman.sarahah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2995,
+				"friends_count": 284,
+				"listed_count": 51,
+				"created_at": "Fri Aug 21 02:12:26 +0000 2009",
+				"favourites_count": 333,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57152,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863284582/17b033d033f1fccec0d6ef839fae0da7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863284582/17b033d033f1fccec0d6ef839fae0da7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879706083731791872/GteNTcM8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879706083731791872/GteNTcM8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67494533/1483679348",
+				"profile_link_color": "FF6B21",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF09E",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 05:25:56 +0000 2017",
+		"id": 900589971521757200,
+		"id_str": "900589971521757184",
+		"text": "RT @marynmck: Is no one paying attention to this? A university has been shut down over threats. https://t.co/YbACcDpcf3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marynmck",
+					"name": "Maryn McKenna",
+					"id": 15684633,
+					"id_str": "15684633",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YbACcDpcf3",
+					"expanded_url": "https://twitter.com/BrandeisU/status/900402734381355009",
+					"display_url": "twitter.com/BrandeisU/stat…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9620,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 23 17:57:55 +0000 2017",
+			"id": 900416828262023200,
+			"id_str": "900416828262023171",
+			"text": "Is no one paying attention to this? A university has been shut down over threats. https://t.co/YbACcDpcf3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YbACcDpcf3",
+						"expanded_url": "https://twitter.com/BrandeisU/status/900402734381355009",
+						"display_url": "twitter.com/BrandeisU/stat…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15684633,
+				"id_str": "15684633",
+				"name": "Maryn McKenna",
+				"screen_name": "marynmck",
+				"location": "ATL, BGR, CDG",
+				"description": "Journalist, @SchusterInst senior fellow, TED speaker | mmck@protonmail.com | New book (preorder now!): BIG CHICKEN, on antibiotics and agriculture.",
+				"url": "https://t.co/LFwyp4rl2v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LFwyp4rl2v",
+								"expanded_url": "http://marynmckenna.com",
+								"display_url": "marynmckenna.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34410,
+				"friends_count": 3496,
+				"listed_count": 1840,
+				"created_at": "Fri Aug 01 02:57:59 +0000 2008",
+				"favourites_count": 9306,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45957,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762456237086617600/jQ_4nPEi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762456237086617600/jQ_4nPEi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15684633/1408806776",
+				"profile_link_color": "4F10F4",
+				"profile_sidebar_border_color": "1ECC2C",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "07000F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 900402734381355000,
+			"quoted_status_id_str": "900402734381355009",
+			"quoted_status": {
+				"created_at": "Wed Aug 23 17:01:55 +0000 2017",
+				"id": 900402734381355000,
+				"id_str": "900402734381355009",
+				"text": "UPDATE: Students on campus are safe &amp; in secured indoor location where they are being provided food &amp; drinks. Campus remains closed today.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 900375885152477200,
+				"in_reply_to_status_id_str": "900375885152477184",
+				"in_reply_to_user_id": 19546529,
+				"in_reply_to_user_id_str": "19546529",
+				"in_reply_to_screen_name": "BrandeisU",
+				"user": {
+					"id": 19546529,
+					"id_str": "19546529",
+					"name": "Brandeis University",
+					"screen_name": "BrandeisU",
+					"location": "Waltham, Massachusetts, USA",
+					"description": "Brandeis combines the faculty and resources of a world-class research institution with the intimacy and personal attention of a small liberal arts college.",
+					"url": "http://t.co/LHTvDLDwHh",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/LHTvDLDwHh",
+									"expanded_url": "http://brandeis.edu/",
+									"display_url": "brandeis.edu",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 18672,
+					"friends_count": 5107,
+					"listed_count": 570,
+					"created_at": "Mon Jan 26 17:49:47 +0000 2009",
+					"favourites_count": 3814,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8402,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "2B628D",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/137376426/scc.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/137376426/scc.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/529817303/4-inch-72dpi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/529817303/4-inch-72dpi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19546529/1401397330",
+					"profile_link_color": "2B638D",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 29,
+				"favorite_count": 31,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 74,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 900402734381355000,
+		"quoted_status_id_str": "900402734381355009",
+		"retweet_count": 74,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 05:25:12 +0000 2017",
+		"id": 900589789610508300,
+		"id_str": "900589789610508288",
+		"text": "RT @Junglefushimi: My mom made this meme don't let her down https://t.co/AjjMAW97pS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Junglefushimi",
+					"name": "Fusushi 🍣",
+					"id": 2692308140,
+					"id_str": "2692308140",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 899773940431806500,
+					"id_str": "899773940431806464",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"url": "https://t.co/AjjMAW97pS",
+					"display_url": "pic.twitter.com/AjjMAW97pS",
+					"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 899773945976692700,
+					"source_status_id_str": "899773945976692736",
+					"source_user_id": 2692308140,
+					"source_user_id_str": "2692308140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899773940431806500,
+					"id_str": "899773940431806464",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"url": "https://t.co/AjjMAW97pS",
+					"display_url": "pic.twitter.com/AjjMAW97pS",
+					"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 899773945976692700,
+					"source_status_id_str": "899773945976692736",
+					"source_user_id": 2692308140,
+					"source_user_id_str": "2692308140"
+				},
+				{
+					"id": 899773940435955700,
+					"id_str": "899773940435955712",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+					"url": "https://t.co/AjjMAW97pS",
+					"display_url": "pic.twitter.com/AjjMAW97pS",
+					"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 639,
+							"h": 620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 899773945976692700,
+					"source_status_id_str": "899773945976692736",
+					"source_user_id": 2692308140,
+					"source_user_id_str": "2692308140"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9620,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 23:23:20 +0000 2017",
+			"id": 899773945976692700,
+			"id_str": "899773945976692736",
+			"text": "My mom made this meme don't let her down https://t.co/AjjMAW97pS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 899773940431806500,
+						"id_str": "899773940431806464",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"url": "https://t.co/AjjMAW97pS",
+						"display_url": "pic.twitter.com/AjjMAW97pS",
+						"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 899773940431806500,
+						"id_str": "899773940431806464",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"url": "https://t.co/AjjMAW97pS",
+						"display_url": "pic.twitter.com/AjjMAW97pS",
+						"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 899773940435955700,
+						"id_str": "899773940435955712",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+						"url": "https://t.co/AjjMAW97pS",
+						"display_url": "pic.twitter.com/AjjMAW97pS",
+						"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 620,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2692308140,
+				"id_str": "2692308140",
+				"name": "Fusushi 🍣",
+				"screen_name": "Junglefushimi",
+				"location": "she/her/they/them",
+				"description": "✨Sasha | 20 | FL | Eng/Sp OK!✨I yell about things with personal stuff sprinkled in here and there",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1201,
+				"friends_count": 599,
+				"listed_count": 39,
+				"created_at": "Wed Jul 30 09:30:31 +0000 2014",
+				"favourites_count": 21429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17227,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880047495643930624/mkeczEKL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880047495643930624/mkeczEKL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2692308140/1500543742",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91610,
+			"favorite_count": 210042,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 91610,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 02:49:56 +0000 2017",
 		"id": 899463549344301000,
 		"id_str": "899463549344301056",
