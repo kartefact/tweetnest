@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 27 04:28:09 +0000 2017",
+		"id": 901662594225733600,
+		"id_str": "901662594225733632",
+		"text": "RT @blrcitytraffic: Even Lord Ganesha obliges with traffic rules !! Happy Ganesh Chaturthi!! https://t.co/0bneaJf93i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blrcitytraffic",
+					"name": "BTP",
+					"id": 1851545900,
+					"id_str": "1851545900",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 901059088758358000,
+					"id_str": "901059088758358016",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+					"url": "https://t.co/0bneaJf93i",
+					"display_url": "pic.twitter.com/0bneaJf93i",
+					"expanded_url": "https://twitter.com/blrcitytraffic/status/901059118080733184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901059118080733200,
+					"source_status_id_str": "901059118080733184",
+					"source_user_id": 1851545900,
+					"source_user_id_str": "1851545900"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 901059088758358000,
+					"id_str": "901059088758358016",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+					"url": "https://t.co/0bneaJf93i",
+					"display_url": "pic.twitter.com/0bneaJf93i",
+					"expanded_url": "https://twitter.com/blrcitytraffic/status/901059118080733184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901059118080733200,
+					"source_status_id_str": "901059118080733184",
+					"source_user_id": 1851545900,
+					"source_user_id_str": "1851545900"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9616,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 12:30:09 +0000 2017",
+			"id": 901059118080733200,
+			"id_str": "901059118080733184",
+			"text": "Even Lord Ganesha obliges with traffic rules !! Happy Ganesh Chaturthi!! https://t.co/0bneaJf93i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 901059088758358000,
+						"id_str": "901059088758358016",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+						"url": "https://t.co/0bneaJf93i",
+						"display_url": "pic.twitter.com/0bneaJf93i",
+						"expanded_url": "https://twitter.com/blrcitytraffic/status/901059118080733184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 901059088758358000,
+						"id_str": "901059088758358016",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIE0d5sUQAAIByg.jpg",
+						"url": "https://t.co/0bneaJf93i",
+						"display_url": "pic.twitter.com/0bneaJf93i",
+						"expanded_url": "https://twitter.com/blrcitytraffic/status/901059118080733184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1851545900,
+				"id_str": "1851545900",
+				"name": "BTP",
+				"screen_name": "blrcitytraffic",
+				"location": "Bengaluru-560001",
+				"description": "Bengaluru City Traffic police is on the threshold of major technological breakthrough to manage the congestion and chaos on the roads in an efficient manner.",
+				"url": "http://t.co/7N8APV4ywz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7N8APV4ywz",
+								"expanded_url": "http://www.bangaloretrafficpolice.gov.in",
+								"display_url": "bangaloretrafficpolice.gov.in",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 375572,
+				"friends_count": 83,
+				"listed_count": 233,
+				"created_at": "Tue Sep 10 13:44:16 +0000 2013",
+				"favourites_count": 8022,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 46646,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "25618F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465757988469215232/ZUcRWQPG.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465757988469215232/ZUcRWQPG.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000472528007/7e3d601acd34222cd0e1accff4b92d2a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000472528007/7e3d601acd34222cd0e1accff4b92d2a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1851545900/1487575918",
+				"profile_link_color": "009CB8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 153,
+			"favorite_count": 549,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 27 03:34:20 +0000 2017",
+		"id": 901649051329871900,
+		"id_str": "901649051329871873",
+		"text": "RT @TexasHumor: \"Forgot my charger\" https://t.co/IwJGZGQQ7D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TexasHumor",
+					"name": "Texas Humor",
+					"id": 202409095,
+					"id_str": "202409095",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 901127297708765200,
+					"id_str": "901127297708765185",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+					"url": "https://t.co/IwJGZGQQ7D",
+					"display_url": "pic.twitter.com/IwJGZGQQ7D",
+					"expanded_url": "https://twitter.com/TexasHumor/status/901127300347031552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 668,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901127300347031600,
+					"source_status_id_str": "901127300347031552",
+					"source_user_id": 202409095,
+					"source_user_id_str": "202409095"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 901127297708765200,
+					"id_str": "901127297708765185",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+					"url": "https://t.co/IwJGZGQQ7D",
+					"display_url": "pic.twitter.com/IwJGZGQQ7D",
+					"expanded_url": "https://twitter.com/TexasHumor/status/901127300347031552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 668,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901127300347031600,
+					"source_status_id_str": "901127300347031552",
+					"source_user_id": 202409095,
+					"source_user_id_str": "202409095"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9616,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886655834943442944/_96VrJPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1497288569",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 17:01:05 +0000 2017",
+			"id": 901127300347031600,
+			"id_str": "901127300347031552",
+			"text": "\"Forgot my charger\" https://t.co/IwJGZGQQ7D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 901127297708765200,
+						"id_str": "901127297708765185",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+						"url": "https://t.co/IwJGZGQQ7D",
+						"display_url": "pic.twitter.com/IwJGZGQQ7D",
+						"expanded_url": "https://twitter.com/TexasHumor/status/901127300347031552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 668,
+								"h": 387,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 668,
+								"h": 387,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 668,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 901127297708765200,
+						"id_str": "901127297708765185",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIFygL1WsAEXICv.jpg",
+						"url": "https://t.co/IwJGZGQQ7D",
+						"display_url": "pic.twitter.com/IwJGZGQQ7D",
+						"expanded_url": "https://twitter.com/TexasHumor/status/901127300347031552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 668,
+								"h": 387,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 668,
+								"h": 387,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 668,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 202409095,
+				"id_str": "202409095",
+				"name": "Texas Humor",
+				"screen_name": "TexasHumor",
+				"location": "Texas",
+				"description": "Texas forever y'all!",
+				"url": "https://t.co/HMcUD5lusw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HMcUD5lusw",
+								"expanded_url": "https://txhumor.com",
+								"display_url": "txhumor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 777644,
+				"friends_count": 211,
+				"listed_count": 1089,
+				"created_at": "Thu Oct 14 00:06:39 +0000 2010",
+				"favourites_count": 5932,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26459,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662645502/9okjxgb5sktdsa7k41vp.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662645502/9okjxgb5sktdsa7k41vp.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776655138043801600/pmY4AB3Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776655138043801600/pmY4AB3Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/202409095/1438836166",
+				"profile_link_color": "C73E0C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12167,
+			"favorite_count": 26851,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12167,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 25 01:12:51 +0000 2017",
 		"id": 900888668960825300,
 		"id_str": "900888668960825344",
