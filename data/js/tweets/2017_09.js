@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 06 04:17:14 +0000 2017",
+		"id": 905283727420469200,
+		"id_str": "905283727420469248",
+		"text": "RT @StigAbell: This is just lovely. Cheer yourself up with it. https://t.co/z1fSgYcjyF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StigAbell",
+					"name": "Stig Abell",
+					"id": 509212441,
+					"id_str": "509212441",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903845215919800300,
+					"id_str": "903845215919800320",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+					"url": "https://t.co/z1fSgYcjyF",
+					"display_url": "pic.twitter.com/z1fSgYcjyF",
+					"expanded_url": "https://twitter.com/theipaper/status/903845249235259394/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903845249235259400,
+					"source_status_id_str": "903845249235259394",
+					"source_user_id": 205770556,
+					"source_user_id_str": "205770556"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903845215919800300,
+					"id_str": "903845215919800320",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+					"url": "https://t.co/z1fSgYcjyF",
+					"display_url": "pic.twitter.com/z1fSgYcjyF",
+					"expanded_url": "https://twitter.com/theipaper/status/903845249235259394/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903845249235259400,
+					"source_status_id_str": "903845249235259394",
+					"source_user_id": 205770556,
+					"source_user_id_str": "205770556",
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 44560,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/903845215919800320/pu/vid/320x180/ojRUfftN3oqfgeMZ.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/903845215919800320/pu/vid/640x360/1Q9cXK35lzpmcaz-.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/903845215919800320/pu/pl/mUOOn9IIyjDF6BmR.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 205770556,
+							"id_str": "205770556",
+							"name": "i newspaper",
+							"screen_name": "theipaper",
+							"location": "",
+							"description": "Your essential daily briefing. Follow us on Facebook: https://t.co/UJnQ5LprCs and Instagram: https://t.co/L7S8qoOGoU",
+							"url": "https://t.co/Qf0fDuw0ec",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Qf0fDuw0ec",
+											"expanded_url": "http://www.inews.co.uk",
+											"display_url": "inews.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/UJnQ5LprCs",
+											"expanded_url": "https://www.facebook.com/theipaper",
+											"display_url": "facebook.com/theipaper",
+											"indices": [
+												54,
+												77
+											]
+										},
+										{
+											"url": "https://t.co/L7S8qoOGoU",
+											"expanded_url": "https://www.instagram.com/theipaper/",
+											"display_url": "instagram.com/theipaper/",
+											"indices": [
+												93,
+												116
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 92952,
+							"friends_count": 4548,
+							"listed_count": 1889,
+							"created_at": "Thu Oct 21 15:30:14 +0000 2010",
+							"favourites_count": 1404,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 84306,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082666942/8067ae79523b8a644d1281ea5025a36f.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082666942/8067ae79523b8a644d1281ea5025a36f.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/719483244283043842/Ll1rLb-T_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/719483244283043842/Ll1rLb-T_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/205770556/1483965170",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 507,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9637,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 04 18:03:54 +0000 2017",
+			"id": 904766987330621400,
+			"id_str": "904766987330621440",
+			"text": "This is just lovely. Cheer yourself up with it. https://t.co/z1fSgYcjyF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 903845215919800300,
+						"id_str": "903845215919800320",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+						"url": "https://t.co/z1fSgYcjyF",
+						"display_url": "pic.twitter.com/z1fSgYcjyF",
+						"expanded_url": "https://twitter.com/theipaper/status/903845249235259394/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 903845249235259400,
+						"source_status_id_str": "903845249235259394",
+						"source_user_id": 205770556,
+						"source_user_id_str": "205770556"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903845215919800300,
+						"id_str": "903845215919800320",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/903845215919800320/pu/img/VbypQcnLMG8W67vE.jpg",
+						"url": "https://t.co/z1fSgYcjyF",
+						"display_url": "pic.twitter.com/z1fSgYcjyF",
+						"expanded_url": "https://twitter.com/theipaper/status/903845249235259394/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 903845249235259400,
+						"source_status_id_str": "903845249235259394",
+						"source_user_id": 205770556,
+						"source_user_id_str": "205770556",
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 44560,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/903845215919800320/pu/vid/320x180/ojRUfftN3oqfgeMZ.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/903845215919800320/pu/vid/640x360/1Q9cXK35lzpmcaz-.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/903845215919800320/pu/pl/mUOOn9IIyjDF6BmR.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 205770556,
+								"id_str": "205770556",
+								"name": "i newspaper",
+								"screen_name": "theipaper",
+								"location": "",
+								"description": "Your essential daily briefing. Follow us on Facebook: https://t.co/UJnQ5LprCs and Instagram: https://t.co/L7S8qoOGoU",
+								"url": "https://t.co/Qf0fDuw0ec",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/Qf0fDuw0ec",
+												"expanded_url": "http://www.inews.co.uk",
+												"display_url": "inews.co.uk",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/UJnQ5LprCs",
+												"expanded_url": "https://www.facebook.com/theipaper",
+												"display_url": "facebook.com/theipaper",
+												"indices": [
+													54,
+													77
+												]
+											},
+											{
+												"url": "https://t.co/L7S8qoOGoU",
+												"expanded_url": "https://www.instagram.com/theipaper/",
+												"display_url": "instagram.com/theipaper/",
+												"indices": [
+													93,
+													116
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 92952,
+								"friends_count": 4548,
+								"listed_count": 1889,
+								"created_at": "Thu Oct 21 15:30:14 +0000 2010",
+								"favourites_count": 1404,
+								"utc_offset": 3600,
+								"time_zone": "London",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 84306,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082666942/8067ae79523b8a644d1281ea5025a36f.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082666942/8067ae79523b8a644d1281ea5025a36f.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/719483244283043842/Ll1rLb-T_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/719483244283043842/Ll1rLb-T_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/205770556/1483965170",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 509212441,
+				"id_str": "509212441",
+				"name": "Stig Abell",
+				"screen_name": "StigAbell",
+				"location": "London, England",
+				"description": "Editor and Publisher of the Times Literary Supplement @theTLS. Listen to me every Sunday on @LBC 3-6pm. TLS podcast: @fbfm_podcast",
+				"url": "https://t.co/VyvBv6nP3I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VyvBv6nP3I",
+								"expanded_url": "http://www.the-tls.co.uk",
+								"display_url": "the-tls.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46643,
+				"friends_count": 953,
+				"listed_count": 607,
+				"created_at": "Wed Feb 29 20:42:09 +0000 2012",
+				"favourites_count": 2928,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19417,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3D8DB8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000003405243/fa2f7df1b1482742a55575625ee83156.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000003405243/fa2f7df1b1482742a55575625ee83156.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000091687220/0da4de74e28259ab7a9e6834e7a8ccc9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000091687220/0da4de74e28259ab7a9e6834e7a8ccc9_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/509212441/1478191076",
+				"profile_link_color": "241E24",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7010,
+			"favorite_count": 17954,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7010,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 06 04:15:39 +0000 2017",
+		"id": 905283327615262700,
+		"id_str": "905283327615262722",
+		"text": "@Jejunekid @mudnsky Enlightenment :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jejunekid",
+					"name": "Crackjack",
+					"id": 226891975,
+					"id_str": "226891975",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 905165987476938800,
+		"in_reply_to_status_id_str": "905165987476938752",
+		"in_reply_to_user_id": 226891975,
+		"in_reply_to_user_id_str": "226891975",
+		"in_reply_to_screen_name": "Jejunekid",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 507,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9637,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 05 05:45:07 +0000 2017",
 		"id": 904943456363085800,
 		"id_str": "904943456363085824",
