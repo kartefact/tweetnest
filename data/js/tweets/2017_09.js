@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 07 16:41:32 +0000 2017",
+		"id": 905833424300019700,
+		"id_str": "905833424300019712",
+		"text": "RT @indiantweeter: What an amazing click this is. https://t.co/eg0aHPeCXp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "indiantweeter",
+					"name": "अंकित जैन",
+					"id": 46062566,
+					"id_str": "46062566",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 905304280969523200,
+					"id_str": "905304280969523200",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+					"url": "https://t.co/eg0aHPeCXp",
+					"display_url": "pic.twitter.com/eg0aHPeCXp",
+					"expanded_url": "https://twitter.com/indiantweeter/status/905304290004054016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 787,
+							"h": 524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 787,
+							"h": 524,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 905304290004054000,
+					"source_status_id_str": "905304290004054016",
+					"source_user_id": 46062566,
+					"source_user_id_str": "46062566"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 905304280969523200,
+					"id_str": "905304280969523200",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+					"url": "https://t.co/eg0aHPeCXp",
+					"display_url": "pic.twitter.com/eg0aHPeCXp",
+					"expanded_url": "https://twitter.com/indiantweeter/status/905304290004054016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 787,
+							"h": 524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 787,
+							"h": 524,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 905304290004054000,
+					"source_status_id_str": "905304290004054016",
+					"source_user_id": 46062566,
+					"source_user_id_str": "46062566"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9635,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 06 05:38:57 +0000 2017",
+			"id": 905304290004054000,
+			"id_str": "905304290004054016",
+			"text": "What an amazing click this is. https://t.co/eg0aHPeCXp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 905304280969523200,
+						"id_str": "905304280969523200",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+						"url": "https://t.co/eg0aHPeCXp",
+						"display_url": "pic.twitter.com/eg0aHPeCXp",
+						"expanded_url": "https://twitter.com/indiantweeter/status/905304290004054016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 787,
+								"h": 524,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 787,
+								"h": 524,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 905304280969523200,
+						"id_str": "905304280969523200",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJBJcnDUMAAl2Bh.jpg",
+						"url": "https://t.co/eg0aHPeCXp",
+						"display_url": "pic.twitter.com/eg0aHPeCXp",
+						"expanded_url": "https://twitter.com/indiantweeter/status/905304290004054016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 787,
+								"h": 524,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 787,
+								"h": 524,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46062566,
+				"id_str": "46062566",
+				"name": "अंकित जैन",
+				"screen_name": "indiantweeter",
+				"location": "Delhi ",
+				"description": "diamonds, joblessness and contributor at @unbumf @Opindia_com",
+				"url": "https://t.co/MPlbAxlE3K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MPlbAxlE3K",
+								"expanded_url": "http://www.opindia.com/author/jainankit/",
+								"display_url": "opindia.com/author/jainank…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36162,
+				"friends_count": 940,
+				"listed_count": 345,
+				"created_at": "Wed Jun 10 07:45:44 +0000 2009",
+				"favourites_count": 16048,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 274548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/337312431/twilk_background_4e81a8de21656.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/337312431/twilk_background_4e81a8de21656.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902212768257892352/-kVh0wUQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902212768257892352/-kVh0wUQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46062566/1487216746",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "317fcc4b21a604d5",
+				"url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json",
+				"place_type": "city",
+				"name": "New Delhi",
+				"full_name": "New Delhi, India",
+				"country_code": "IN",
+				"country": "India",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								76.84252,
+								28.397657
+							],
+							[
+								77.347652,
+								28.397657
+							],
+							[
+								77.347652,
+								28.879322
+							],
+							[
+								76.84252,
+								28.879322
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4838,
+			"favorite_count": 10269,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4838,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 07 15:41:12 +0000 2017",
+		"id": 905818239397093400,
+		"id_str": "905818239397093376",
+		"text": "BBC News - Kate Millett, Sexual Politics author, dies at 82 https://t.co/xghwyWIofN NYT called it \"the Bible of Women's Liberation\".",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xghwyWIofN",
+					"expanded_url": "http://www.bbc.com/news/world-us-canada-41192087",
+					"display_url": "bbc.com/news/world-us-…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9635,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 07 14:05:24 +0000 2017",
+		"id": 905794132374839300,
+		"id_str": "905794132374839297",
+		"text": "RT @florenthus: misery adds to one's empathy\nhappiness steals a little bit of it.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "florenthus",
+					"name": "Parul_S",
+					"id": 92078917,
+					"id_str": "92078917",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1598,
+			"friends_count": 508,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9635,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903478469329207297/c7DkYfFp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 06 16:23:55 +0000 2017",
+			"id": 905466604309299200,
+			"id_str": "905466604309299200",
+			"text": "misery adds to one's empathy\nhappiness steals a little bit of it.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 92078917,
+				"id_str": "92078917",
+				"name": "Parul_S",
+				"screen_name": "florenthus",
+				"location": "coimbatore ",
+				"description": "geneticist/plant breeding/botany/flora enthusiast/books/music",
+				"url": "https://t.co/KaIsZ4AmH4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KaIsZ4AmH4",
+								"expanded_url": "http://treebreeder.blogspot.com/",
+								"display_url": "treebreeder.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248,
+				"friends_count": 413,
+				"listed_count": 6,
+				"created_at": "Mon Nov 23 18:19:48 +0000 2009",
+				"favourites_count": 1261,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4598,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905390582880546817/dCnib_Xg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905390582880546817/dCnib_Xg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/92078917/1504617119",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 06 04:17:14 +0000 2017",
 		"id": 905283727420469200,
 		"id_str": "905283727420469248",
