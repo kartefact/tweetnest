@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 15:39:34 +0000 2017",
+		"id": 910166483665326100,
+		"id_str": "910166483665326080",
+		"text": "#DateNight with @mudnsky\nMe: \"Paan flavouuuuur\"\nShe: All mine!\" Mr: \"Noooooooo!\"\n#Pabrai #IceCream… https://t.co/D85KaqRt4N",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DateNight",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Pabrai",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D85KaqRt4N",
+					"expanded_url": "https://twitter.com/i/web/status/910166483665326080",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 510,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9695,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 19 13:58:20 +0000 2017",
+		"id": 910141006837841900,
+		"id_str": "910141006837841920",
+		"text": "First visit to the #beach with wife @mudnsky and sparks flying.… https://t.co/nsnpTWQTFz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "beach",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nsnpTWQTFz",
+					"expanded_url": "https://www.instagram.com/p/BZOaERkliu0Tn3X68JfQdl82cY400XIJDA3S940/",
+					"display_url": "instagram.com/p/BZOaERkliu0T…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 510,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9695,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				12.999529,
+				80.272411
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				80.272411,
+				12.999529
+			]
+		},
+		"place": {
+			"id": "03b7ea94ef68e9d7",
+			"url": "https://api.twitter.com/1.1/geo/id/03b7ea94ef68e9d7.json",
+			"place_type": "city",
+			"name": "Mylapore Tiruvallike",
+			"full_name": "Mylapore Tiruvallike, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							80.2348852,
+							12.970918
+						],
+						[
+							80.288726,
+							12.970918
+						],
+						[
+							80.288726,
+							13.0778711
+						],
+						[
+							80.2348852,
+							13.0778711
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 19 05:41:26 +0000 2017",
+		"id": 910015960630915100,
+		"id_str": "910015960630915072",
+		"text": "@mudnsky Our First flight together. (@ Kempegowda International Airport in Bengaluru, Karnataka) https://t.co/96AvJs9MZK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/96AvJs9MZK",
+					"expanded_url": "https://www.swarmapp.com/c/4d0SCm9qWpA",
+					"display_url": "swarmapp.com/c/4d0SCm9qWpA",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 510,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9695,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				13.20046899,
+				77.70923347
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				77.70923347,
+				13.20046899
+			]
+		},
+		"place": {
+			"id": "7631956ba2a1ed11",
+			"url": "https://api.twitter.com/1.1/geo/id/7631956ba2a1ed11.json",
+			"place_type": "admin",
+			"name": "Karnataka",
+			"full_name": "Karnataka, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							74.050963,
+							11.582378
+						],
+						[
+							78.588295,
+							11.582378
+						],
+						[
+							78.588295,
+							18.476736
+						],
+						[
+							74.050963,
+							18.476736
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 16 19:58:03 +0000 2017",
 		"id": 909144368589635600,
 		"id_str": "909144368589635584",
