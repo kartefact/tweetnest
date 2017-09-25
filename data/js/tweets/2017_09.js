@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 24 13:38:31 +0000 2017",
+		"id": 911947961071919100,
+		"id_str": "911947961071919104",
+		"text": "RT @pickover: Palindrome in the Garden of Eden.  Like it? https://t.co/CTKiPJjMUi https://t.co/JBsxGEX9Pb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pickover",
+					"name": "Cliff Pickover",
+					"id": 16176754,
+					"id_str": "16176754",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CTKiPJjMUi",
+					"expanded_url": "http://bit.ly/2xWn2kK",
+					"display_url": "bit.ly/2xWn2kK",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 911235059172048900,
+					"id_str": "911235059172048896",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+					"url": "https://t.co/JBsxGEX9Pb",
+					"display_url": "pic.twitter.com/JBsxGEX9Pb",
+					"expanded_url": "https://twitter.com/pickover/status/911235088565882881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911235088565882900,
+					"source_status_id_str": "911235088565882881",
+					"source_user_id": 16176754,
+					"source_user_id_str": "16176754"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911235059172048900,
+					"id_str": "911235059172048896",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+					"url": "https://t.co/JBsxGEX9Pb",
+					"display_url": "pic.twitter.com/JBsxGEX9Pb",
+					"expanded_url": "https://twitter.com/pickover/status/911235088565882881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911235088565882900,
+					"source_status_id_str": "911235088565882881",
+					"source_user_id": 16176754,
+					"source_user_id_str": "16176754"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 510,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9707,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 22 14:25:49 +0000 2017",
+			"id": 911235088565882900,
+			"id_str": "911235088565882881",
+			"text": "Palindrome in the Garden of Eden.  Like it? https://t.co/CTKiPJjMUi https://t.co/JBsxGEX9Pb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CTKiPJjMUi",
+						"expanded_url": "http://bit.ly/2xWn2kK",
+						"display_url": "bit.ly/2xWn2kK",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 911235059172048900,
+						"id_str": "911235059172048896",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+						"url": "https://t.co/JBsxGEX9Pb",
+						"display_url": "pic.twitter.com/JBsxGEX9Pb",
+						"expanded_url": "https://twitter.com/pickover/status/911235088565882881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911235059172048900,
+						"id_str": "911235059172048896",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKVbdVjVAAANsXq.jpg",
+						"url": "https://t.co/JBsxGEX9Pb",
+						"display_url": "pic.twitter.com/JBsxGEX9Pb",
+						"expanded_url": "https://twitter.com/pickover/status/911235088565882881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 880,
+								"h": 440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16176754,
+				"id_str": "16176754",
+				"name": "Cliff Pickover",
+				"screen_name": "pickover",
+				"location": "New York",
+				"description": "Increase your sense of wonder. Author of 50 books & 401 patents. Yale Ph.D. Create/Innovate. \"Pickover contemplates realms beyond our known reality.\" ~NY Times",
+				"url": "http://t.co/t3Z2fp6vBu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/t3Z2fp6vBu",
+								"expanded_url": "http://www.pickover.com",
+								"display_url": "pickover.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28404,
+				"friends_count": 50,
+				"listed_count": 1442,
+				"created_at": "Mon Sep 08 01:27:56 +0000 2008",
+				"favourites_count": 1091,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41581,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593227519/wq7q7afedv29659z49dh.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593227519/wq7q7afedv29659z49dh.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/69072946/twitter3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/69072946/twitter3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16176754/1398256311",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "8EA8F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 24 13:24:05 +0000 2017",
+		"id": 911944328494403600,
+		"id_str": "911944328494403584",
+		"text": "Wedding saree dedicated to how I asked @mudnsky out the very first time - \"Will you be my Kundavai?\" #twitter… https://t.co/orofs4qM3R",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitter",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/orofs4qM3R",
+					"expanded_url": "https://twitter.com/i/web/status/911944328494403584",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 510,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9707,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 23 12:32:57 +0000 2017",
 		"id": 911569073690964000,
 		"id_str": "911569073690963969",
