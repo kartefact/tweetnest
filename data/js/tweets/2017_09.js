@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 30 03:05:00 +0000 2017",
+		"id": 913962856462245900,
+		"id_str": "913962856462245888",
+		"text": "RT @KabirTaneja: Incredible. USAF general tells racists, bigots in his institution to “get out”. An Indian version of this is needed. https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KabirTaneja",
+					"name": "Kabir Taneja",
+					"id": 51003218,
+					"id_str": "51003218",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 509,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9714,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908762691505975302/J6I0fWK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1504241143",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 29 04:47:06 +0000 2017",
+			"id": 913626164001882100,
+			"id_str": "913626164001882112",
+			"text": "Incredible. USAF general tells racists, bigots in his institution to “get out”. An Indian version of this is needed. https://t.co/P9g76iMgpp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 913539519277883400,
+						"id_str": "913539519277883393",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DK2MqLbXUAALa8N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DK2MqLbXUAALa8N.jpg",
+						"url": "https://t.co/P9g76iMgpp",
+						"display_url": "pic.twitter.com/P9g76iMgpp",
+						"expanded_url": "https://twitter.com/usairforce/status/913541082637578240/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 913541082637578200,
+						"source_status_id_str": "913541082637578240",
+						"source_user_id": 19611483,
+						"source_user_id_str": "19611483"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 913539519277883400,
+						"id_str": "913539519277883393",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DK2MqLbXUAALa8N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DK2MqLbXUAALa8N.jpg",
+						"url": "https://t.co/P9g76iMgpp",
+						"display_url": "pic.twitter.com/P9g76iMgpp",
+						"expanded_url": "https://twitter.com/usairforce/status/913541082637578240/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 913541082637578200,
+						"source_status_id_str": "913541082637578240",
+						"source_user_id": 19611483,
+						"source_user_id_str": "19611483",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 329764,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/913539519277883393/vid/320x180/8DLLXdoHi4odUqg0.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/913539519277883393/vid/1280x720/Uo-AvVlfoT4ce2Wc.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/913539519277883393/vid/640x360/N3cl2z_Z_fB_Rywg.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/913539519277883393/pl/Dsvf4gaBE-_M4YMD.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 19611483,
+								"id_str": "19611483",
+								"name": "U.S. Air Force",
+								"screen_name": "usairforce",
+								"location": "Air, Space and Cyberspace",
+								"description": "Official U.S. Air Force Twitter (Following, RTs & links ≠ endorsement) #AirForce",
+								"url": "http://t.co/RSyffiBLEx",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/RSyffiBLEx",
+												"expanded_url": "http://www.af.mil",
+												"display_url": "af.mil",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 862883,
+								"friends_count": 494,
+								"listed_count": 5891,
+								"created_at": "Tue Jan 27 19:48:52 +0000 2009",
+								"favourites_count": 982,
+								"utc_offset": -18000,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 35493,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000050064486/e481724556060cb90cc57dce16ba552c.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000050064486/e481724556060cb90cc57dce16ba552c.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/875377950861950976/WDv6YJ5d_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/875377950861950976/WDv6YJ5d_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/19611483/1506601418",
+								"profile_link_color": "0018B3",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EDF7FB",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51003218,
+				"id_str": "51003218",
+				"name": "Kabir Taneja",
+				"screen_name": "KabirTaneja",
+				"location": "Republic of South Delhi",
+				"description": "Associate Fellow at @orfonline. Foreign policy, Middle East & terrorism. Coffee fan awake since the 90s. Guitarist. All views here personal.",
+				"url": "https://t.co/YtDdXAXCk0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YtDdXAXCk0",
+								"expanded_url": "http://www.orfonline.org/people-expert/kabir-taneja/",
+								"display_url": "orfonline.org/people-expert/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6033,
+				"friends_count": 659,
+				"listed_count": 210,
+				"created_at": "Fri Jun 26 10:20:39 +0000 2009",
+				"favourites_count": 1986,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 87864,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/84906210/weather-picture-photo-mist-rain-RedDeath.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/84906210/weather-picture-photo-mist-rain-RedDeath.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890812341138276355/5iBwAMjA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890812341138276355/5iBwAMjA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51003218/1497551089",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 150,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 29 20:29:38 +0000 2017",
 		"id": 913863360982114300,
 		"id_str": "913863360982114304",
