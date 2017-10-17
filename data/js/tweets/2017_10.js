@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 16 13:15:39 +0000 2017",
+		"id": 919914737365913600,
+		"id_str": "919914737365913600",
+		"text": "Irudhayangal ondraana tharunathil, engal iruvarukkul naduve pagirndhu konda vaarthaigal. #Tamil #Vows #MarriedLife…… https://t.co/3EYCporDWr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tamil",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "Vows",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "MarriedLife",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3EYCporDWr",
+					"expanded_url": "https://twitter.com/i/web/status/919914737365913600",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1603,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9749,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1506862031",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et"
+	},
+	{
+		"created_at": "Mon Oct 16 12:07:46 +0000 2017",
+		"id": 919897654875734000,
+		"id_str": "919897654875734016",
+		"text": "RT @sanitarypanels: https://t.co/rYs09d2i67",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sanitarypanels",
+					"name": "Sanitary Panels",
+					"id": 2569178924,
+					"id_str": "2569178924",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919520430725013500,
+					"id_str": "919520430725013504",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+					"url": "https://t.co/rYs09d2i67",
+					"display_url": "pic.twitter.com/rYs09d2i67",
+					"expanded_url": "https://twitter.com/sanitarypanels/status/919520470948503552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919520470948503600,
+					"source_status_id_str": "919520470948503552",
+					"source_user_id": 2569178924,
+					"source_user_id_str": "2569178924"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919520430725013500,
+					"id_str": "919520430725013504",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+					"url": "https://t.co/rYs09d2i67",
+					"display_url": "pic.twitter.com/rYs09d2i67",
+					"expanded_url": "https://twitter.com/sanitarypanels/status/919520470948503552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919520470948503600,
+					"source_status_id_str": "919520470948503552",
+					"source_user_id": 2569178924,
+					"source_user_id_str": "2569178924"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1603,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9749,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1506862031",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 15 11:08:58 +0000 2017",
+			"id": 919520470948503600,
+			"id_str": "919520470948503552",
+			"text": "https://t.co/rYs09d2i67",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 919520430725013500,
+						"id_str": "919520430725013504",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+						"url": "https://t.co/rYs09d2i67",
+						"display_url": "pic.twitter.com/rYs09d2i67",
+						"expanded_url": "https://twitter.com/sanitarypanels/status/919520470948503552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1640,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919520430725013500,
+						"id_str": "919520430725013504",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMLK9b0UIAAq63C.jpg",
+						"url": "https://t.co/rYs09d2i67",
+						"display_url": "pic.twitter.com/rYs09d2i67",
+						"expanded_url": "https://twitter.com/sanitarypanels/status/919520470948503552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1640,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2569178924,
+				"id_str": "2569178924",
+				"name": "Sanitary Panels",
+				"screen_name": "sanitarypanels",
+				"location": "",
+				"description": "I make comics.\nWrite to me at sanitarypanels [at] gmail [dot] com. \nBy @visualfumble",
+				"url": "https://t.co/wIQqmbEQ1V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIQqmbEQ1V",
+								"expanded_url": "https://www.sanitarypanels.com/",
+								"display_url": "sanitarypanels.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1901,
+				"friends_count": 97,
+				"listed_count": 24,
+				"created_at": "Sun Jun 15 15:12:11 +0000 2014",
+				"favourites_count": 177,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 303,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704161583497244672/eLijPcN9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704161583497244672/eLijPcN9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2569178924/1456720072",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 767,
+			"favorite_count": 967,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 767,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Oct 15 19:07:47 +0000 2017",
 		"id": 919640967874953200,
 		"id_str": "919640967874953216",
