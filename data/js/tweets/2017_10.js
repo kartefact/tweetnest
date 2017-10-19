@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 18 13:43:24 +0000 2017",
+		"id": 920646497972056000,
+		"id_str": "920646497972056064",
+		"text": "RT @thereversefIash: \"India is a boring place\"\n\nFirst of all, have you been to Mumbai ? https://t.co/oETeRM11ub",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thereversefIash",
+					"name": "Vikram",
+					"id": 522053695,
+					"id_str": "522053695",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 920176916006449200,
+					"id_str": "920176916006449152",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+					"url": "https://t.co/oETeRM11ub",
+					"display_url": "pic.twitter.com/oETeRM11ub",
+					"expanded_url": "https://twitter.com/thereversefIash/status/920177142947725312/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 920177142947725300,
+					"source_status_id_str": "920177142947725312",
+					"source_user_id": 522053695,
+					"source_user_id_str": "522053695"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 920176916006449200,
+					"id_str": "920176916006449152",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+					"url": "https://t.co/oETeRM11ub",
+					"display_url": "pic.twitter.com/oETeRM11ub",
+					"expanded_url": "https://twitter.com/thereversefIash/status/920177142947725312/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 920177142947725300,
+					"source_status_id_str": "920177142947725312",
+					"source_user_id": 522053695,
+					"source_user_id_str": "522053695",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 19367,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/920176916006449152/pu/pl/T1ptFYbC7Dg-YVGt.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/920176916006449152/pu/vid/512x640/lw8M2-OL2dxDuOWf.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/920176916006449152/pu/vid/256x320/XTNoh6XOXEJaot6U.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 522053695,
+							"id_str": "522053695",
+							"name": "Vikram",
+							"screen_name": "thereversefIash",
+							"location": "Middle Earth and Bangalore",
+							"description": "Football Fanatic, Superhero Scholar, Anime Aficionado in that order. Into the business of making ads you don't see because you have adblock on #MUFC",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3169,
+							"friends_count": 961,
+							"listed_count": 67,
+							"created_at": "Mon Mar 12 07:51:26 +0000 2012",
+							"favourites_count": 1412,
+							"utc_offset": 19800,
+							"time_zone": "New Delhi",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 7880,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450235022448939008/FwnKQC9U.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450235022448939008/FwnKQC9U.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/904187758545035264/KcOC9Akz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/904187758545035264/KcOC9Akz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/522053695/1506081503",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9750,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1506862031",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 17 06:38:21 +0000 2017",
+			"id": 920177142947725300,
+			"id_str": "920177142947725312",
+			"text": "\"India is a boring place\"\n\nFirst of all, have you been to Mumbai ? https://t.co/oETeRM11ub",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 920176916006449200,
+						"id_str": "920176916006449152",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+						"url": "https://t.co/oETeRM11ub",
+						"display_url": "pic.twitter.com/oETeRM11ub",
+						"expanded_url": "https://twitter.com/thereversefIash/status/920177142947725312/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 920176916006449200,
+						"id_str": "920176916006449152",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920176916006449152/pu/img/c53auq6vlo2J-Kwa.jpg",
+						"url": "https://t.co/oETeRM11ub",
+						"display_url": "pic.twitter.com/oETeRM11ub",
+						"expanded_url": "https://twitter.com/thereversefIash/status/920177142947725312/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 19367,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/920176916006449152/pu/pl/T1ptFYbC7Dg-YVGt.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/920176916006449152/pu/vid/512x640/lw8M2-OL2dxDuOWf.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/920176916006449152/pu/vid/256x320/XTNoh6XOXEJaot6U.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 522053695,
+				"id_str": "522053695",
+				"name": "Vikram",
+				"screen_name": "thereversefIash",
+				"location": "Middle Earth and Bangalore",
+				"description": "Football Fanatic, Superhero Scholar, Anime Aficionado in that order. Into the business of making ads you don't see because you have adblock on #MUFC",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3169,
+				"friends_count": 961,
+				"listed_count": 67,
+				"created_at": "Mon Mar 12 07:51:26 +0000 2012",
+				"favourites_count": 1412,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7880,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450235022448939008/FwnKQC9U.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450235022448939008/FwnKQC9U.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904187758545035264/KcOC9Akz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904187758545035264/KcOC9Akz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/522053695/1506081503",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2900,
+			"favorite_count": 3461,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2900,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 18 13:37:36 +0000 2017",
+		"id": 920645036869427200,
+		"id_str": "920645036869427200",
+		"text": "@Stethoskaapi @_curses @Eml_a Thank you 😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stethoskaapi",
+					"name": "Sinamocha",
+					"id": 72873000,
+					"id_str": "72873000",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "_curses",
+					"name": "Harish",
+					"id": 135064320,
+					"id_str": "135064320",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "Eml_a",
+					"name": "Mrudula Aaduru",
+					"id": 96157376,
+					"id_str": "96157376",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 920464460766048300,
+		"in_reply_to_status_id_str": "920464460766048256",
+		"in_reply_to_user_id": 72873000,
+		"in_reply_to_user_id_str": "72873000",
+		"in_reply_to_screen_name": "Stethoskaapi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9750,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914473879443087361/1qM_zwba_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1506862031",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 17 19:07:44 +0000 2017",
 		"id": 920365732055040000,
 		"id_str": "920365732055040000",
