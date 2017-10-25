@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 24 11:21:29 +0000 2017",
+		"id": 922785109773664300,
+		"id_str": "922785109773664256",
+		"text": "RT @thevirdas: Best piece of advice I've ever heard: Work hard enough that people complain about how lucky you got.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thevirdas",
+					"name": "Vir Das",
+					"id": 108252113,
+					"id_str": "108252113",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9760,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 22 14:54:14 +0000 2017",
+			"id": 922113875935457300,
+			"id_str": "922113875935457281",
+			"text": "Best piece of advice I've ever heard: Work hard enough that people complain about how lucky you got.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108252113,
+				"id_str": "108252113",
+				"name": "Vir Das",
+				"screen_name": "thevirdas",
+				"location": "Mumbai, Maharashtra",
+				"description": "Comedian/Actor/Weirdass MY SPECIAL 'ABROAD UNDERSTANDING' is now on NETFLIX Worldwide here: https://t.co/McGQocWtYN WEBSITE: https://t.co/mE7EMYlqM9",
+				"url": "https://t.co/fFDIM1U6gH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fFDIM1U6gH",
+								"expanded_url": "http://www.weirdasscomedy.com",
+								"display_url": "weirdasscomedy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/McGQocWtYN",
+								"expanded_url": "http://bit.ly/Vir_AbroadUnderstanding",
+								"display_url": "bit.ly/Vir_AbroadUnde…",
+								"indices": [
+									92,
+									115
+								]
+							},
+							{
+								"url": "https://t.co/mE7EMYlqM9",
+								"expanded_url": "http://www.virdas.in",
+								"display_url": "virdas.in",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6731442,
+				"friends_count": 261,
+				"listed_count": 1200,
+				"created_at": "Mon Jan 25 10:08:35 +0000 2010",
+				"favourites_count": 683,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18522,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/549841542341357568/aHnUBJqJ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/549841542341357568/aHnUBJqJ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815441747165769728/khFpidBO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815441747165769728/khFpidBO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108252113/1508421194",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7929cea6bd5b32bd",
+				"url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+				"place_type": "city",
+				"name": "Mumbai",
+				"full_name": "Mumbai, India",
+				"country_code": "IN",
+				"country": "India",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								72.74484,
+								18.845343
+							],
+							[
+								73.003648,
+								18.845343
+							],
+							[
+								73.003648,
+								19.502937
+							],
+							[
+								72.74484,
+								19.502937
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 921,
+			"favorite_count": 2534,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 921,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 23 06:16:36 +0000 2017",
 		"id": 922345995970605000,
 		"id_str": "922345995970605056",
