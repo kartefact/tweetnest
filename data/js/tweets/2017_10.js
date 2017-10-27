@@ -1,6 +1,1782 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 26 17:58:43 +0000 2017",
+		"id": 923609851539812400,
+		"id_str": "923609851539812352",
+		"text": "RT @MyBookJacket: Bring this to India please 😭 https://t.co/hMVuKZPxoq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyBookJacket",
+					"name": "Chitra",
+					"id": 3112308932,
+					"id_str": "3112308932",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hMVuKZPxoq",
+					"expanded_url": "https://twitter.com/attn/status/923359588895793152",
+					"display_url": "twitter.com/attn/status/92…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9768,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 26 17:31:40 +0000 2017",
+			"id": 923603046407422000,
+			"id_str": "923603046407421957",
+			"text": "Bring this to India please 😭 https://t.co/hMVuKZPxoq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hMVuKZPxoq",
+						"expanded_url": "https://twitter.com/attn/status/923359588895793152",
+						"display_url": "twitter.com/attn/status/92…",
+						"indices": [
+							29,
+							52
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3112308932,
+				"id_str": "3112308932",
+				"name": "Chitra",
+				"screen_name": "MyBookJacket",
+				"location": "India",
+				"description": "I sometimes play powerful classical music while I'm chopping vegetables and pretend I'm Hannibal. I'm also a #BookBlogger #BookstagramChat #FemmeFriday",
+				"url": "https://t.co/7MCUuOtX8D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MCUuOtX8D",
+								"expanded_url": "http://booksandstrips.wordpress.com",
+								"display_url": "booksandstrips.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2684,
+				"friends_count": 471,
+				"listed_count": 206,
+				"created_at": "Sat Mar 28 06:27:03 +0000 2015",
+				"favourites_count": 38936,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 99353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921375991645085696/Sll3U273_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921375991645085696/Sll3U273_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3112308932/1492136127",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 923359588895793200,
+			"quoted_status_id_str": "923359588895793152",
+			"quoted_status": {
+				"created_at": "Thu Oct 26 01:24:15 +0000 2017",
+				"id": 923359588895793200,
+				"id_str": "923359588895793152",
+				"text": "It's amazing what happens when boys are actually taught to respect women. https://t.co/IbjdtAPyRD",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 923358927311421400,
+							"id_str": "923358927311421440",
+							"indices": [
+								74,
+								97
+							],
+							"media_url": "http://pbs.twimg.com/media/DNBumZtVAAEngR9.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DNBumZtVAAEngR9.jpg",
+							"url": "https://t.co/IbjdtAPyRD",
+							"display_url": "pic.twitter.com/IbjdtAPyRD",
+							"expanded_url": "https://twitter.com/attn/status/923359588895793152/video/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 923358927311421400,
+							"id_str": "923358927311421440",
+							"indices": [
+								74,
+								97
+							],
+							"media_url": "http://pbs.twimg.com/media/DNBumZtVAAEngR9.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DNBumZtVAAEngR9.jpg",
+							"url": "https://t.co/IbjdtAPyRD",
+							"display_url": "pic.twitter.com/IbjdtAPyRD",
+							"expanded_url": "https://twitter.com/attn/status/923359588895793152/video/1",
+							"type": "video",
+							"sizes": {
+								"medium": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1080,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 67943,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/923358927311421440/vid/480x480/eVcN9zWhvqE2S0QG.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/923358927311421440/pl/9DUAooQvCZ3fI2hA.m3u8"
+									},
+									{
+										"bitrate": 1280000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/923358927311421440/vid/720x720/_6-8Z33T9M8b9p_A.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/923358927311421440/vid/240x240/YknnjLF2r4YsXc4g.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "",
+								"description": "",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 214112621,
+					"id_str": "214112621",
+					"name": "ATTN:",
+					"screen_name": "attn",
+					"location": "USA",
+					"description": "Stories worth your ATTN: | P.S. It's pronounced attention.",
+					"url": "https://t.co/9u6zfQoLLU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9u6zfQoLLU",
+									"expanded_url": "http://www.attn.com",
+									"display_url": "attn.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 117094,
+					"friends_count": 455,
+					"listed_count": 1670,
+					"created_at": "Wed Nov 10 16:05:45 +0000 2010",
+					"favourites_count": 3909,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 25589,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FEFEFE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/898337217495445505/gv5Ye0Qx_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/898337217495445505/gv5Ye0Qx_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/214112621/1503015244",
+					"profile_link_color": "F06140",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 21743,
+				"favorite_count": 29167,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 923359588895793200,
+		"quoted_status_id_str": "923359588895793152",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 26 16:49:08 +0000 2017",
+		"id": 923592342711369700,
+		"id_str": "923592342711369729",
+		"text": "Exclusive: Microsoft Has Stopped Manufacturing The Kinect https://t.co/T9d9rtlXoi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T9d9rtlXoi",
+					"expanded_url": "https://www.fastcodesign.com/90147868/exclusive-microsoft-has-stopped-manufacturing-the-kinect",
+					"display_url": "fastcodesign.com/90147868/exclu…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9768,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 26 07:13:56 +0000 2017",
+		"id": 923447587805335600,
+		"id_str": "923447587805335552",
+		"text": "RT @Gunmaster_G9: TIL there is a skyscraper in London which melts cars https://t.co/qJNcJsg6pt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gunmaster_G9",
+					"name": "Yungwan",
+					"id": 18134578,
+					"id_str": "18134578",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qJNcJsg6pt",
+					"expanded_url": "http://www.bbc.com/news/uk-england-london-23930675",
+					"display_url": "bbc.com/news/uk-englan…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9768,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 05:29:32 +0000 2017",
+			"id": 923058927712985100,
+			"id_str": "923058927712985089",
+			"text": "TIL there is a skyscraper in London which melts cars https://t.co/qJNcJsg6pt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qJNcJsg6pt",
+						"expanded_url": "http://www.bbc.com/news/uk-england-london-23930675",
+						"display_url": "bbc.com/news/uk-englan…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18134578,
+				"id_str": "18134578",
+				"name": "Yungwan",
+				"screen_name": "Gunmaster_G9",
+				"location": "",
+				"description": "Loves travel, books, good food and having whimsical conversations. Sings Surangaani with someone special. Saving India from Giant Locusts and Mad Scientists",
+				"url": "https://t.co/WgVPT42x4m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WgVPT42x4m",
+								"expanded_url": "http://turingtest2010.wordpress.com",
+								"display_url": "turingtest2010.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3032,
+				"friends_count": 211,
+				"listed_count": 105,
+				"created_at": "Mon Dec 15 10:49:34 +0000 2008",
+				"favourites_count": 8084,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 277716,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886104805457801216/iCvhXuiA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886104805457801216/iCvhXuiA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18134578/1473499832",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 26 07:05:48 +0000 2017",
+		"id": 923445543371661300,
+		"id_str": "923445543371661312",
+		"text": "RT @BIUK: Japanese artists use this amazing technique to paint beautiful dragons using a single stroke of a paintbrush. https://t.co/R1mwNf…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BIUK",
+					"name": "Business Insider UK",
+					"id": 294176860,
+					"id_str": "294176860",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9768,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 15:00:02 +0000 2017",
+			"id": 923202497866432500,
+			"id_str": "923202497866432513",
+			"text": "Japanese artists use this amazing technique to paint beautiful dragons using a single stroke of a paintbrush. https://t.co/R1mwNf8ot4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900002391784915000,
+						"id_str": "900002391784914944",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/900002391784914944/img/oGd-axiTY_KZmyPq.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/900002391784914944/img/oGd-axiTY_KZmyPq.jpg",
+						"url": "https://t.co/R1mwNf8ot4",
+						"display_url": "pic.twitter.com/R1mwNf8ot4",
+						"expanded_url": "https://twitter.com/BIUK/status/923202497866432513/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900002391784915000,
+						"id_str": "900002391784914944",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/900002391784914944/img/oGd-axiTY_KZmyPq.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/900002391784914944/img/oGd-axiTY_KZmyPq.jpg",
+						"url": "https://t.co/R1mwNf8ot4",
+						"display_url": "pic.twitter.com/R1mwNf8ot4",
+						"expanded_url": "https://twitter.com/BIUK/status/923202497866432513/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"additional_media_info": {
+							"title": "Artists paints dragons with one brush stroke",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://uk.businessinsider.com/"
+								}
+							},
+							"embeddable": false,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 294176860,
+				"id_str": "294176860",
+				"name": "Business Insider UK",
+				"screen_name": "BIUK",
+				"location": "London",
+				"description": "The latest @BusinessInsider news and views from Europe.",
+				"url": "http://t.co/aPhMlddjMV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aPhMlddjMV",
+								"expanded_url": "http://uk.businessinsider.com",
+								"display_url": "uk.businessinsider.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63071,
+				"friends_count": 56,
+				"listed_count": 1106,
+				"created_at": "Fri May 06 17:21:24 +0000 2011",
+				"favourites_count": 673,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 102163,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890152475067650048/6MuA0NTT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890152475067650048/6MuA0NTT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/294176860/1469780010",
+				"profile_link_color": "185F7C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 409,
+			"favorite_count": 779,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 409,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 26 07:03:34 +0000 2017",
+		"id": 923444980240212000,
+		"id_str": "923444980240211970",
+		"text": "RT @iBakasura: Hey Bangalore, please copy this first :) https://t.co/rYEPWvTGS4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iBakasura",
+					"name": "Tj",
+					"id": 115513801,
+					"id_str": "115513801",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rYEPWvTGS4",
+					"expanded_url": "https://twitter.com/AddlCPTraffic/status/923370978989584384",
+					"display_url": "twitter.com/AddlCPTraffic/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9768,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 26 04:06:27 +0000 2017",
+			"id": 923400407191130100,
+			"id_str": "923400407191130112",
+			"text": "Hey Bangalore, please copy this first :) https://t.co/rYEPWvTGS4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rYEPWvTGS4",
+						"expanded_url": "https://twitter.com/AddlCPTraffic/status/923370978989584384",
+						"display_url": "twitter.com/AddlCPTraffic/…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115513801,
+				"id_str": "115513801",
+				"name": "Tj",
+				"screen_name": "iBakasura",
+				"location": "Bangalore/India",
+				"description": "Bear with a camera in skeletoes on a cycle. \nFoodie. Veggie. Herekai bajji. Hippie. ENFP.  Cofounder and tech guy @eventosaur140",
+				"url": "https://t.co/QrIdhZF1LF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QrIdhZF1LF",
+								"expanded_url": "http://eventosaur.com",
+								"display_url": "eventosaur.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1536,
+				"friends_count": 686,
+				"listed_count": 54,
+				"created_at": "Thu Feb 18 22:38:09 +0000 2010",
+				"favourites_count": 3689,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54239,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907564289745076224/C-xt5IVA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907564289745076224/C-xt5IVA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115513801/1409636545",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 923370978989584400,
+			"quoted_status_id_str": "923370978989584384",
+			"quoted_status": {
+				"created_at": "Thu Oct 26 02:09:31 +0000 2017",
+				"id": 923370978989584400,
+				"id_str": "923370978989584384",
+				"text": "Singapore freezes private car ownership to fight congestion https://t.co/MQITxOwSBS",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/MQITxOwSBS",
+							"expanded_url": "https://arstechnica.com/?post_type=post&p=1192581",
+							"display_url": "arstechnica.com/?post_type=pos…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2809164276,
+					"id_str": "2809164276",
+					"name": "R  Hithendra, IPS.",
+					"screen_name": "AddlCPTraffic",
+					"location": "Bengaluru, India",
+					"description": "Additional Commissioner of Police - Traffic, Bengaluru City. addlcptrafficbcp@gmail.com ; For emergency dial 100 traffic helpline ext 2.",
+					"url": "https://t.co/vFgQUAbuhj",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/vFgQUAbuhj",
+									"expanded_url": "http://www.bangaloretrafficpolice.gov.in/",
+									"display_url": "bangaloretrafficpolice.gov.in",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 69186,
+					"friends_count": 93,
+					"listed_count": 99,
+					"created_at": "Sun Sep 14 10:32:04 +0000 2014",
+					"favourites_count": 178,
+					"utc_offset": 19800,
+					"time_zone": "New Delhi",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 3922,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/776347674861723648/bFsdLf_a_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/776347674861723648/bFsdLf_a_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2809164276/1430813225",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 46,
+				"favorite_count": 117,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 923370978989584400,
+		"quoted_status_id_str": "923370978989584384",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 26 07:01:48 +0000 2017",
+		"id": 923444536449286100,
+		"id_str": "923444536449286144",
+		"text": "RT @planetepics: This is truly incredible.\n\n https://t.co/221RFxHOI7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "planetepics",
+					"name": "Life on Earth",
+					"id": 954590804,
+					"id_str": "954590804",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 914526786985140200,
+					"id_str": "914526786985140226",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+					"url": "https://t.co/221RFxHOI7",
+					"display_url": "pic.twitter.com/221RFxHOI7",
+					"expanded_url": "https://twitter.com/FMoniteau/status/914527299420262401/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 914527299420262400,
+					"source_status_id_str": "914527299420262401",
+					"source_user_id": 788417346092183600,
+					"source_user_id_str": "788417346092183552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 914526786985140200,
+					"id_str": "914526786985140226",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+					"url": "https://t.co/221RFxHOI7",
+					"display_url": "pic.twitter.com/221RFxHOI7",
+					"expanded_url": "https://twitter.com/FMoniteau/status/914527299420262401/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 914527299420262400,
+					"source_status_id_str": "914527299420262401",
+					"source_user_id": 788417346092183600,
+					"source_user_id_str": "788417346092183552",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/914526786985140226/pu/pl/ZPE-_T8mOitwdP_u.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/914526786985140226/pu/vid/240x240/i2s1WUb_d-9Bzrit.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/914526786985140226/pu/vid/480x480/wnibo10cJmJSfxJ3.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 788417346092183600,
+							"id_str": "788417346092183552",
+							"name": "Fredon Moniteau",
+							"screen_name": "FMoniteau",
+							"location": "United States",
+							"description": "Diluted Droplets of Drollery\n#TheResistance",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9499,
+							"friends_count": 8157,
+							"listed_count": 44,
+							"created_at": "Tue Oct 18 16:31:58 +0000 2016",
+							"favourites_count": 2917,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 4463,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/903320057345826816/uao6N6nH_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/903320057345826816/uao6N6nH_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "The only superpower that humans need is empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 513,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9768,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921451030037983232/hERhhFh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1508524698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 07:20:00 +0000 2017",
+			"id": 923086726695997400,
+			"id_str": "923086726695997440",
+			"text": "This is truly incredible.\n\n https://t.co/221RFxHOI7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 914526786985140200,
+						"id_str": "914526786985140226",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+						"url": "https://t.co/221RFxHOI7",
+						"display_url": "pic.twitter.com/221RFxHOI7",
+						"expanded_url": "https://twitter.com/FMoniteau/status/914527299420262401/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 914527299420262400,
+						"source_status_id_str": "914527299420262401",
+						"source_user_id": 788417346092183600,
+						"source_user_id_str": "788417346092183552"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 914526786985140200,
+						"id_str": "914526786985140226",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/914526786985140226/pu/img/0BBLRC8fN5PDkLyJ.jpg",
+						"url": "https://t.co/221RFxHOI7",
+						"display_url": "pic.twitter.com/221RFxHOI7",
+						"expanded_url": "https://twitter.com/FMoniteau/status/914527299420262401/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 914527299420262400,
+						"source_status_id_str": "914527299420262401",
+						"source_user_id": 788417346092183600,
+						"source_user_id_str": "788417346092183552",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/914526786985140226/pu/pl/ZPE-_T8mOitwdP_u.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/914526786985140226/pu/vid/240x240/i2s1WUb_d-9Bzrit.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/914526786985140226/pu/vid/480x480/wnibo10cJmJSfxJ3.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 788417346092183600,
+								"id_str": "788417346092183552",
+								"name": "Fredon Moniteau",
+								"screen_name": "FMoniteau",
+								"location": "United States",
+								"description": "Diluted Droplets of Drollery\n#TheResistance",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 9499,
+								"friends_count": 8157,
+								"listed_count": 44,
+								"created_at": "Tue Oct 18 16:31:58 +0000 2016",
+								"favourites_count": 2917,
+								"utc_offset": -18000,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 4463,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/903320057345826816/uao6N6nH_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/903320057345826816/uao6N6nH_normal.jpg",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 954590804,
+				"id_str": "954590804",
+				"name": "Life on Earth",
+				"screen_name": "planetepics",
+				"location": "planetepics@gmail.com",
+				"description": "Amazing pictures of animals, places, people and nature. https://t.co/46sgqTMbYS",
+				"url": "https://t.co/tvpsR8FKQi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tvpsR8FKQi",
+								"expanded_url": "http://themindcircle.com/",
+								"display_url": "themindcircle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/46sgqTMbYS",
+								"expanded_url": "http://facebook.com/planetepics/",
+								"display_url": "facebook.com/planetepics/",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4801340,
+				"friends_count": 5349,
+				"listed_count": 6056,
+				"created_at": "Sun Nov 18 00:50:35 +0000 2012",
+				"favourites_count": 2189,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43480,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080808",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463495027600015360/_Jyj6WD6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463495027600015360/_Jyj6WD6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/954590804/1415154628",
+				"profile_link_color": "017F8A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5641,
+			"favorite_count": 9665,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5641,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 25 19:25:27 +0000 2017",
 		"id": 923269294082768900,
 		"id_str": "923269294082768896",
