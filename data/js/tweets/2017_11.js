@@ -1,6 +1,1554 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 06 17:15:31 +0000 2017",
+		"id": 927585249155936300,
+		"id_str": "927585249155936256",
+		"text": "@Ashvala Yeah? Have always been a desktop warrior. Laptops are only for office work. :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ashvala",
+					"name": "Ashvala Vinay",
+					"id": 12313032,
+					"id_str": "12313032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 927584629753749500,
+		"in_reply_to_status_id_str": "927584629753749504",
+		"in_reply_to_user_id": 12313032,
+		"in_reply_to_user_id_str": "12313032",
+		"in_reply_to_screen_name": "Ashvala",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 17:13:22 +0000 2017",
+		"id": 927584707436408800,
+		"id_str": "927584707436408832",
+		"text": "@Ashvala Yep! Sorry, did I say Intel CPUs? I meant AMD. Then AMD banned them from making chipsets &amp; they strayed &amp;… https://t.co/CJpIbkNymL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ashvala",
+					"name": "Ashvala Vinay",
+					"id": 12313032,
+					"id_str": "12313032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CJpIbkNymL",
+					"expanded_url": "https://twitter.com/i/web/status/927584707436408832",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 927584234084057100,
+		"in_reply_to_status_id_str": "927584234084057088",
+		"in_reply_to_user_id": 12313032,
+		"in_reply_to_user_id_str": "12313032",
+		"in_reply_to_screen_name": "Ashvala",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 17:10:42 +0000 2017",
+		"id": 927584034984566800,
+		"id_str": "927584034984566784",
+		"text": "@Ashvala Remember nForce? Damn! they were good.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ashvala",
+					"name": "Ashvala Vinay",
+					"id": 12313032,
+					"id_str": "12313032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 927583605563441200,
+		"in_reply_to_status_id_str": "927583605563441152",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 17:08:59 +0000 2017",
+		"id": 927583605563441200,
+		"id_str": "927583605563441152",
+		"text": "@Ashvala Reminds me of the time when nvidia made chipsets for intel CPUs. Sigh. Those were the good times. :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ashvala",
+					"name": "Ashvala Vinay",
+					"id": 12313032,
+					"id_str": "12313032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 927583269113151500,
+		"in_reply_to_status_id_str": "927583269113151488",
+		"in_reply_to_user_id": 12313032,
+		"in_reply_to_user_id_str": "12313032",
+		"in_reply_to_screen_name": "Ashvala",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 17:07:45 +0000 2017",
+		"id": 927583292030779400,
+		"id_str": "927583292030779392",
+		"text": "@Ashvala Was never Intel's domain. They were always an after-thought or aimed at budget PCs that just had to run a display.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ashvala",
+					"name": "Ashvala Vinay",
+					"id": 12313032,
+					"id_str": "12313032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 927582973829955600,
+		"in_reply_to_status_id_str": "927582973829955584",
+		"in_reply_to_user_id": 12313032,
+		"in_reply_to_user_id_str": "12313032",
+		"in_reply_to_screen_name": "Ashvala",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 17:03:09 +0000 2017",
+		"id": 927582137838059500,
+		"id_str": "927582137838059520",
+		"text": "@Ashvala and Intel some decent integrated graphics performance. Why is not the question. I just wonder how.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ashvala",
+					"name": "Ashvala Vinay",
+					"id": 12313032,
+					"id_str": "12313032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 927575766916722700,
+		"in_reply_to_status_id_str": "927575766916722688",
+		"in_reply_to_user_id": 12313032,
+		"in_reply_to_user_id_str": "12313032",
+		"in_reply_to_screen_name": "Ashvala",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 16:36:48 +0000 2017",
+		"id": 927575502889480200,
+		"id_str": "927575502889480194",
+		"text": "A friend pinged me this link: Data visualization inspiration - https://t.co/I49HbjSikJ  #Fascinating",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fascinating",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I49HbjSikJ",
+					"expanded_url": "http://informationisbeautiful.net",
+					"display_url": "informationisbeautiful.net",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 16:30:16 +0000 2017",
+		"id": 927573859011723300,
+		"id_str": "927573859011723265",
+		"text": "What the what! https://t.co/iEuptVPwjN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iEuptVPwjN",
+					"expanded_url": "https://twitter.com/arstechnica/status/927572956062109697",
+					"display_url": "twitter.com/arstechnica/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 927572956062109700,
+		"quoted_status_id_str": "927572956062109697",
+		"quoted_status": {
+			"created_at": "Mon Nov 06 16:26:40 +0000 2017",
+			"id": 927572956062109700,
+			"id_str": "927572956062109697",
+			"text": "Intel will ship processors with integrated AMD graphics and memory https://t.co/Fw8g1oOWTm by @drpizza",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrPizza",
+						"name": "Pᴇᴛᴇʀ Bʀɪɢʜᴛ 👨‍⚕️🍕",
+						"id": 11375732,
+						"id_str": "11375732",
+						"indices": [
+							94,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Fw8g1oOWTm",
+						"expanded_url": "http://arstechnica.com/gadgets/2017/11/intel-will-ship-processors-with-integrated-amd-graphics-and-memory/",
+						"display_url": "arstechnica.com/gadgets/2017/1…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://arstechnica.com\" rel=\"nofollow\">Ars tweetbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717313,
+				"id_str": "717313",
+				"name": "Ars Technica",
+				"screen_name": "arstechnica",
+				"location": "NYC - Boston - Chicago - SF",
+				"description": "Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.",
+				"url": "http://t.co/Ul1NPoX9hd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ul1NPoX9hd",
+								"expanded_url": "http://arstechnica.com",
+								"display_url": "arstechnica.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1173022,
+				"friends_count": 964,
+				"listed_count": 28895,
+				"created_at": "Sun Jan 28 01:58:49 +0000 2007",
+				"favourites_count": 5331,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 84169,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "201F25",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466605732079472640/493K_B_1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/466605732079472640/493K_B_1.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717313/1407516523",
+				"profile_link_color": "FF5B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 15:12:50 +0000 2017",
+		"id": 927554372099174400,
+		"id_str": "927554372099174400",
+		"text": "RT @XboxAustralia: The world’s most powerful console has arrived! Happy #XboxOneX Day, Australia! https://t.co/XIsoCLSCN9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "XboxOneX",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XboxAustralia",
+					"name": "Xbox Australia",
+					"id": 18182371,
+					"id_str": "18182371",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927404748688441300,
+					"id_str": "927404748688441345",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+					"url": "https://t.co/XIsoCLSCN9",
+					"display_url": "pic.twitter.com/XIsoCLSCN9",
+					"expanded_url": "https://twitter.com/XboxAustralia/status/927520957530488832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 927520957530488800,
+					"source_status_id_str": "927520957530488832",
+					"source_user_id": 18182371,
+					"source_user_id_str": "18182371"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927404748688441300,
+					"id_str": "927404748688441345",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+					"url": "https://t.co/XIsoCLSCN9",
+					"display_url": "pic.twitter.com/XIsoCLSCN9",
+					"expanded_url": "https://twitter.com/XboxAustralia/status/927520957530488832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 927520957530488800,
+					"source_status_id_str": "927520957530488832",
+					"source_user_id": 18182371,
+					"source_user_id_str": "18182371"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 13:00:03 +0000 2017",
+			"id": 927520957530488800,
+			"id_str": "927520957530488832",
+			"text": "The world’s most powerful console has arrived! Happy #XboxOneX Day, Australia! https://t.co/XIsoCLSCN9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "XboxOneX",
+						"indices": [
+							53,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 927404748688441300,
+						"id_str": "927404748688441345",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+						"url": "https://t.co/XIsoCLSCN9",
+						"display_url": "pic.twitter.com/XIsoCLSCN9",
+						"expanded_url": "https://twitter.com/XboxAustralia/status/927520957530488832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927404748688441300,
+						"id_str": "927404748688441345",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN7NtJCVwAEaE_I.jpg",
+						"url": "https://t.co/XIsoCLSCN9",
+						"display_url": "pic.twitter.com/XIsoCLSCN9",
+						"expanded_url": "https://twitter.com/XboxAustralia/status/927520957530488832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18182371,
+				"id_str": "18182371",
+				"name": "Xbox Australia",
+				"screen_name": "XboxAustralia",
+				"location": "Australia",
+				"description": "The official Xbox Twitter feed for Australia. For technical support contact @XboxSupport",
+				"url": "http://t.co/0TaDXVEBTD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0TaDXVEBTD",
+								"expanded_url": "http://xbox.com.au",
+								"display_url": "xbox.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47118,
+				"friends_count": 1006,
+				"listed_count": 389,
+				"created_at": "Wed Dec 17 04:39:57 +0000 2008",
+				"favourites_count": 2324,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "107C10",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464267275319533568/Lc4RQQ3r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464267275319533568/Lc4RQQ3r.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877345529952321537/gd9xtKIB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877345529952321537/gd9xtKIB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18182371/1507695246",
+				"profile_link_color": "107C10",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 416,
+			"favorite_count": 2232,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 06:51:13 +0000 2017",
+		"id": 927428139248058400,
+		"id_str": "927428139248058369",
+		"text": "RT @PupsPorn: gimme that toot toot, lemme give you that beep beep https://t.co/99zizLdfRf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PupsPorn",
+					"name": "Puppy Lover",
+					"id": 835083097,
+					"id_str": "835083097",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 837030195995545600,
+					"id_str": "837030195995545606",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+					"url": "https://t.co/99zizLdfRf",
+					"display_url": "pic.twitter.com/99zizLdfRf",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/837030198025588741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 981,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 981,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 837030198025588700,
+					"source_status_id_str": "837030198025588741",
+					"source_user_id": 1372975219,
+					"source_user_id_str": "1372975219"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 837030195995545600,
+					"id_str": "837030195995545606",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+					"url": "https://t.co/99zizLdfRf",
+					"display_url": "pic.twitter.com/99zizLdfRf",
+					"expanded_url": "https://twitter.com/BabyAnimalPics/status/837030198025588741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 981,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 981,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 837030198025588700,
+					"source_status_id_str": "837030198025588741",
+					"source_user_id": 1372975219,
+					"source_user_id_str": "1372975219"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 514,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926444346013974528/FhLJav6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 06:02:01 +0000 2017",
+			"id": 927415754726584300,
+			"id_str": "927415754726584320",
+			"text": "gimme that toot toot, lemme give you that beep beep https://t.co/99zizLdfRf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 837030195995545600,
+						"id_str": "837030195995545606",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+						"url": "https://t.co/99zizLdfRf",
+						"display_url": "pic.twitter.com/99zizLdfRf",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/837030198025588741/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 981,
+								"h": 647,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 981,
+								"h": 647,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 837030198025588700,
+						"source_status_id_str": "837030198025588741",
+						"source_user_id": 1372975219,
+						"source_user_id_str": "1372975219"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 837030195995545600,
+						"id_str": "837030195995545606",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C526h0qXEAYUkrb.jpg",
+						"url": "https://t.co/99zizLdfRf",
+						"display_url": "pic.twitter.com/99zizLdfRf",
+						"expanded_url": "https://twitter.com/BabyAnimalPics/status/837030198025588741/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 981,
+								"h": 647,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 981,
+								"h": 647,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 837030198025588700,
+						"source_status_id_str": "837030198025588741",
+						"source_user_id": 1372975219,
+						"source_user_id_str": "1372975219"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/UdeEocHVSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdeEocHVSI",
+								"expanded_url": "https://www.facebook.com/PupsPorn",
+								"display_url": "facebook.com/PupsPorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1359164,
+				"friends_count": 12562,
+				"listed_count": 879,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 98576,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 333,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 05 16:52:26 +0000 2017",
 		"id": 927217052540067800,
 		"id_str": "927217052540067840",
