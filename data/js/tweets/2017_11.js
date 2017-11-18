@@ -1,6 +1,1019 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 17 18:49:50 +0000 2017",
+		"id": 931595249327095800,
+		"id_str": "931595249327095808",
+		"text": "RT @thegiantbrain: @dog_rates It's the dog of Christmas Past! https://t.co/qiwjSM11Yc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thegiantbrain",
+					"name": "Iain McAllister",
+					"id": 19570258,
+					"id_str": "19570258",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "dog_rates",
+					"name": "WeRateDogs™",
+					"id": 4196983835,
+					"id_str": "4196983835",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931593878360215600,
+					"id_str": "931593878360215554",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+					"url": "https://t.co/qiwjSM11Yc",
+					"display_url": "pic.twitter.com/qiwjSM11Yc",
+					"expanded_url": "https://twitter.com/thegiantbrain/status/931593899042377728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931593899042377700,
+					"source_status_id_str": "931593899042377728",
+					"source_user_id": 19570258,
+					"source_user_id_str": "19570258"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931593878360215600,
+					"id_str": "931593878360215554",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+					"url": "https://t.co/qiwjSM11Yc",
+					"display_url": "pic.twitter.com/qiwjSM11Yc",
+					"expanded_url": "https://twitter.com/thegiantbrain/status/931593899042377728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931593899042377700,
+					"source_status_id_str": "931593899042377728",
+					"source_user_id": 19570258,
+					"source_user_id_str": "19570258"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9836,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 18:44:28 +0000 2017",
+			"id": 931593899042377700,
+			"id_str": "931593899042377728",
+			"text": "@dog_rates It's the dog of Christmas Past! https://t.co/qiwjSM11Yc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dog_rates",
+						"name": "WeRateDogs™",
+						"id": 4196983835,
+						"id_str": "4196983835",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 931593878360215600,
+						"id_str": "931593878360215554",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+						"url": "https://t.co/qiwjSM11Yc",
+						"display_url": "pic.twitter.com/qiwjSM11Yc",
+						"expanded_url": "https://twitter.com/thegiantbrain/status/931593899042377728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931593878360215600,
+						"id_str": "931593878360215554",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO2vslKW0AIPs-_.jpg",
+						"url": "https://t.co/qiwjSM11Yc",
+						"display_url": "pic.twitter.com/qiwjSM11Yc",
+						"expanded_url": "https://twitter.com/thegiantbrain/status/931593899042377728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 4196983835,
+			"in_reply_to_user_id_str": "4196983835",
+			"in_reply_to_screen_name": "dog_rates",
+			"user": {
+				"id": 19570258,
+				"id_str": "19570258",
+				"name": "Iain McAllister",
+				"screen_name": "thegiantbrain",
+				"location": "Edinburgh, Scotland",
+				"description": "Games Review, Design and Critique. Message me if you would like me to review a game. I'm especially interested in Indie publishers.",
+				"url": "https://t.co/YOFj4T98gL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YOFj4T98gL",
+								"expanded_url": "http://www.giantbrain.co.uk",
+								"display_url": "giantbrain.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 320,
+				"listed_count": 19,
+				"created_at": "Tue Jan 27 01:16:44 +0000 2009",
+				"favourites_count": 323,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1824,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/78477227/giant_brain_logo_medium_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/78477227/giant_brain_logo_medium_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 18:46:23 +0000 2017",
+		"id": 931594382976860200,
+		"id_str": "931594382976860160",
+		"text": "RT @KarissaTy: @dog_rates His top priority was how to get the towels without us noticing. https://t.co/A5X5pZR35n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarissaTy",
+					"name": "Karissa Ty",
+					"id": 37126682,
+					"id_str": "37126682",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "dog_rates",
+					"name": "WeRateDogs™",
+					"id": 4196983835,
+					"id_str": "4196983835",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931591030524207100,
+					"id_str": "931591030524207104",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+					"url": "https://t.co/A5X5pZR35n",
+					"display_url": "pic.twitter.com/A5X5pZR35n",
+					"expanded_url": "https://twitter.com/KarissaTy/status/931591032952598528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931591032952598500,
+					"source_status_id_str": "931591032952598528",
+					"source_user_id": 37126682,
+					"source_user_id_str": "37126682"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931591030524207100,
+					"id_str": "931591030524207104",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+					"url": "https://t.co/A5X5pZR35n",
+					"display_url": "pic.twitter.com/A5X5pZR35n",
+					"expanded_url": "https://twitter.com/KarissaTy/status/931591032952598528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931591032952598500,
+					"source_status_id_str": "931591032952598528",
+					"source_user_id": 37126682,
+					"source_user_id_str": "37126682"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9836,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 18:33:05 +0000 2017",
+			"id": 931591032952598500,
+			"id_str": "931591032952598528",
+			"text": "@dog_rates His top priority was how to get the towels without us noticing. https://t.co/A5X5pZR35n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dog_rates",
+						"name": "WeRateDogs™",
+						"id": 4196983835,
+						"id_str": "4196983835",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 931591030524207100,
+						"id_str": "931591030524207104",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+						"url": "https://t.co/A5X5pZR35n",
+						"display_url": "pic.twitter.com/A5X5pZR35n",
+						"expanded_url": "https://twitter.com/KarissaTy/status/931591032952598528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931591030524207100,
+						"id_str": "931591030524207104",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO2tG0JV4AANhxC.jpg",
+						"url": "https://t.co/A5X5pZR35n",
+						"display_url": "pic.twitter.com/A5X5pZR35n",
+						"expanded_url": "https://twitter.com/KarissaTy/status/931591032952598528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 931587553689526300,
+			"in_reply_to_status_id_str": "931587553689526278",
+			"in_reply_to_user_id": 4196983835,
+			"in_reply_to_user_id_str": "4196983835",
+			"in_reply_to_screen_name": "dog_rates",
+			"user": {
+				"id": 37126682,
+				"id_str": "37126682",
+				"name": "Karissa Ty",
+				"screen_name": "KarissaTy",
+				"location": "Southern California",
+				"description": "|-/ • Instagram : karissaty • 🐶 Instagram : stuart_the_golden",
+				"url": "https://t.co/B1E6yvcFn5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B1E6yvcFn5",
+								"expanded_url": "http://www.ktyphoto.tumblr.com",
+								"display_url": "ktyphoto.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 237,
+				"friends_count": 108,
+				"listed_count": 8,
+				"created_at": "Sat May 02 03:17:25 +0000 2009",
+				"favourites_count": 6866,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777615973176086528/o6ASO6MF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777615973176086528/o6ASO6MF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37126682/1439400472",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 09:23:28 +0000 2017",
+		"id": 931452717414826000,
+		"id_str": "931452717414825985",
+		"text": "@mudnsky Oh I see. Had used it a couple of years ago. Was ok then. May be it's become bad now.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 931451635041124400,
+		"in_reply_to_status_id_str": "931451635041124352",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9836,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 09:22:50 +0000 2017",
+		"id": 931452558773690400,
+		"id_str": "931452558773690369",
+		"text": "@ah_imsai @MrSandhubaadh Sulamangalam sisters version is what I listen to everyday. The entire album. Skanda Sashti… https://t.co/GhC4SoyCJH",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ah_imsai",
+					"name": "^..^__$",
+					"id": 3301703856,
+					"id_str": "3301703856",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MrSandhubaadh",
+					"name": "Balaji",
+					"id": 328975275,
+					"id_str": "328975275",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GhC4SoyCJH",
+					"expanded_url": "https://twitter.com/i/web/status/931452558773690369",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 931401259906682900,
+		"in_reply_to_status_id_str": "931401259906682881",
+		"in_reply_to_user_id": 3301703856,
+		"in_reply_to_user_id_str": "3301703856",
+		"in_reply_to_screen_name": "ah_imsai",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9836,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 09:18:07 +0000 2017",
+		"id": 931451373245173800,
+		"id_str": "931451373245173760",
+		"text": "@mudnsky Magzter has most magazines of all languages",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 931188832069853200,
+		"in_reply_to_status_id_str": "931188832069853184",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9836,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930621983670308864/NApQG5c0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1509287980",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 16 16:47:39 +0000 2017",
 		"id": 931202112712687600,
 		"id_str": "931202112712687616",
