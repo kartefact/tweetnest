@@ -1,6 +1,2657 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 19 15:26:56 +0000 2017",
+		"id": 932268964368982000,
+		"id_str": "932268964368982018",
+		"text": "RT @perfectbabies: Baby talk https://t.co/OUDxVgWDHf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perfectbabies",
+					"name": "Perfect Babies",
+					"id": 1319755279,
+					"id_str": "1319755279",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931982015070654500,
+					"id_str": "931982015070654465",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+					"url": "https://t.co/OUDxVgWDHf",
+					"display_url": "pic.twitter.com/OUDxVgWDHf",
+					"expanded_url": "https://twitter.com/perfectbabies/status/931982062164246528/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931982062164246500,
+					"source_status_id_str": "931982062164246528",
+					"source_user_id": 1319755279,
+					"source_user_id_str": "1319755279"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931982015070654500,
+					"id_str": "931982015070654465",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+					"url": "https://t.co/OUDxVgWDHf",
+					"display_url": "pic.twitter.com/OUDxVgWDHf",
+					"expanded_url": "https://twitter.com/perfectbabies/status/931982062164246528/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931982062164246500,
+					"source_status_id_str": "931982062164246528",
+					"source_user_id": 1319755279,
+					"source_user_id_str": "1319755279",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/931982015070654465/pu/pl/7q5T8IN-RXuUIvNi.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/931982015070654465/pu/vid/240x240/K6ushX5IDWXjdcb9.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/931982015070654465/pu/vid/480x480/dl6fRPHf7EgQC1Y7.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1319755279,
+							"id_str": "1319755279",
+							"name": "Perfect Babies",
+							"screen_name": "perfectbabies",
+							"location": "perfectbabiestwit@gmail.com",
+							"description": "Perfect Babies and everything cute ❤️ We own nothing shared. Content can be taken down by request of the owner.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 628179,
+							"friends_count": 195,
+							"listed_count": 1205,
+							"created_at": "Mon Apr 01 06:02:04 +0000 2013",
+							"favourites_count": 98,
+							"utc_offset": 28800,
+							"time_zone": "Singapore",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 11490,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319755279/1429627217",
+							"profile_link_color": "ED9CD1",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "FF0000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 20:26:53 +0000 2017",
+			"id": 931982062164246500,
+			"id_str": "931982062164246528",
+			"text": "Baby talk https://t.co/OUDxVgWDHf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931982015070654500,
+						"id_str": "931982015070654465",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+						"url": "https://t.co/OUDxVgWDHf",
+						"display_url": "pic.twitter.com/OUDxVgWDHf",
+						"expanded_url": "https://twitter.com/perfectbabies/status/931982062164246528/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931982015070654500,
+						"id_str": "931982015070654465",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931982015070654465/pu/img/c5fAUkDg6iMJDk9c.jpg",
+						"url": "https://t.co/OUDxVgWDHf",
+						"display_url": "pic.twitter.com/OUDxVgWDHf",
+						"expanded_url": "https://twitter.com/perfectbabies/status/931982062164246528/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15100,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/931982015070654465/pu/pl/7q5T8IN-RXuUIvNi.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/931982015070654465/pu/vid/240x240/K6ushX5IDWXjdcb9.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/931982015070654465/pu/vid/480x480/dl6fRPHf7EgQC1Y7.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1319755279,
+				"id_str": "1319755279",
+				"name": "Perfect Babies",
+				"screen_name": "perfectbabies",
+				"location": "perfectbabiestwit@gmail.com",
+				"description": "Perfect Babies and everything cute ❤️ We own nothing shared. Content can be taken down by request of the owner.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 628179,
+				"friends_count": 195,
+				"listed_count": 1205,
+				"created_at": "Mon Apr 01 06:02:04 +0000 2013",
+				"favourites_count": 98,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11490,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319755279/1429627217",
+				"profile_link_color": "ED9CD1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "FF0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3147,
+			"favorite_count": 5838,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3147,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 15:26:07 +0000 2017",
+		"id": 932268757832970200,
+		"id_str": "932268757832970240",
+		"text": "RT @perfectbabies: The cutest thing ever https://t.co/nsA0d0zo4K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perfectbabies",
+					"name": "Perfect Babies",
+					"id": 1319755279,
+					"id_str": "1319755279",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931720448810688500,
+					"id_str": "931720448810688513",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+					"url": "https://t.co/nsA0d0zo4K",
+					"display_url": "pic.twitter.com/nsA0d0zo4K",
+					"expanded_url": "https://twitter.com/perfectbabies/status/931720494507847681/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931720494507847700,
+					"source_status_id_str": "931720494507847681",
+					"source_user_id": 1319755279,
+					"source_user_id_str": "1319755279"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931720448810688500,
+					"id_str": "931720448810688513",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+					"url": "https://t.co/nsA0d0zo4K",
+					"display_url": "pic.twitter.com/nsA0d0zo4K",
+					"expanded_url": "https://twitter.com/perfectbabies/status/931720494507847681/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931720494507847700,
+					"source_status_id_str": "931720494507847681",
+					"source_user_id": 1319755279,
+					"source_user_id_str": "1319755279",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/931720448810688513/pu/vid/240x240/iSS8itD1c4A9UxIj.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/931720448810688513/pu/vid/480x480/LIfnmSrK8F4IoJnP.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/931720448810688513/pu/pl/aunO1WVd8uRFkJri.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1319755279,
+							"id_str": "1319755279",
+							"name": "Perfect Babies",
+							"screen_name": "perfectbabies",
+							"location": "perfectbabiestwit@gmail.com",
+							"description": "Perfect Babies and everything cute ❤️ We own nothing shared. Content can be taken down by request of the owner.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 628179,
+							"friends_count": 195,
+							"listed_count": 1205,
+							"created_at": "Mon Apr 01 06:02:04 +0000 2013",
+							"favourites_count": 98,
+							"utc_offset": 28800,
+							"time_zone": "Singapore",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 11490,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319755279/1429627217",
+							"profile_link_color": "ED9CD1",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "FF0000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 03:07:31 +0000 2017",
+			"id": 931720494507847700,
+			"id_str": "931720494507847681",
+			"text": "The cutest thing ever https://t.co/nsA0d0zo4K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931720448810688500,
+						"id_str": "931720448810688513",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+						"url": "https://t.co/nsA0d0zo4K",
+						"display_url": "pic.twitter.com/nsA0d0zo4K",
+						"expanded_url": "https://twitter.com/perfectbabies/status/931720494507847681/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931720448810688500,
+						"id_str": "931720448810688513",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/931720448810688513/pu/img/USrWbObvAQ489N1I.jpg",
+						"url": "https://t.co/nsA0d0zo4K",
+						"display_url": "pic.twitter.com/nsA0d0zo4K",
+						"expanded_url": "https://twitter.com/perfectbabies/status/931720494507847681/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/931720448810688513/pu/vid/240x240/iSS8itD1c4A9UxIj.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/931720448810688513/pu/vid/480x480/LIfnmSrK8F4IoJnP.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/931720448810688513/pu/pl/aunO1WVd8uRFkJri.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1319755279,
+				"id_str": "1319755279",
+				"name": "Perfect Babies",
+				"screen_name": "perfectbabies",
+				"location": "perfectbabiestwit@gmail.com",
+				"description": "Perfect Babies and everything cute ❤️ We own nothing shared. Content can be taken down by request of the owner.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 628179,
+				"friends_count": 195,
+				"listed_count": 1205,
+				"created_at": "Mon Apr 01 06:02:04 +0000 2013",
+				"favourites_count": 98,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11490,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169838298/tnEQcRZT.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530127470331035649/qlBh6xzX_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319755279/1429627217",
+				"profile_link_color": "ED9CD1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "FF0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8792,
+			"favorite_count": 18950,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8792,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 15:09:22 +0000 2017",
+		"id": 932264544126124000,
+		"id_str": "932264544126124032",
+		"text": "\"A guess is not right based on whether it is true for the other person or not. A guess is right based on whether it… https://t.co/kzMP17TfIo",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kzMP17TfIo",
+					"expanded_url": "https://twitter.com/i/web/status/932264544126124032",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 11:32:04 +0000 2017",
+		"id": 932209860355153900,
+		"id_str": "932209860355153920",
+		"text": "RT @WorldAndScience: The size of a tornado compared to the size of wind turbines https://t.co/oIvl2j2Iwn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WorldAndScience",
+					"name": "World and Science",
+					"id": 511402689,
+					"id_str": "511402689",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931598215278772200,
+					"id_str": "931598215278772225",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+					"url": "https://t.co/oIvl2j2Iwn",
+					"display_url": "pic.twitter.com/oIvl2j2Iwn",
+					"expanded_url": "https://twitter.com/WorldAndScience/status/931598218491777024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 931598218491777000,
+					"source_status_id_str": "931598218491777024",
+					"source_user_id": 511402689,
+					"source_user_id_str": "511402689"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931598215278772200,
+					"id_str": "931598215278772225",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+					"url": "https://t.co/oIvl2j2Iwn",
+					"display_url": "pic.twitter.com/oIvl2j2Iwn",
+					"expanded_url": "https://twitter.com/WorldAndScience/status/931598218491777024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 931598218491777000,
+					"source_status_id_str": "931598218491777024",
+					"source_user_id": 511402689,
+					"source_user_id_str": "511402689"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 19:01:38 +0000 2017",
+			"id": 931598218491777000,
+			"id_str": "931598218491777024",
+			"text": "The size of a tornado compared to the size of wind turbines https://t.co/oIvl2j2Iwn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931598215278772200,
+						"id_str": "931598215278772225",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+						"url": "https://t.co/oIvl2j2Iwn",
+						"display_url": "pic.twitter.com/oIvl2j2Iwn",
+						"expanded_url": "https://twitter.com/WorldAndScience/status/931598218491777024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931598215278772200,
+						"id_str": "931598215278772225",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO2zpBcUQAEW5uM.jpg",
+						"url": "https://t.co/oIvl2j2Iwn",
+						"display_url": "pic.twitter.com/oIvl2j2Iwn",
+						"expanded_url": "https://twitter.com/WorldAndScience/status/931598218491777024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 511402689,
+				"id_str": "511402689",
+				"name": "World and Science",
+				"screen_name": "WorldAndScience",
+				"location": "New York, NY",
+				"description": "Please like our new facebook page: https://t.co/AkJzxNJLNo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AkJzxNJLNo",
+								"expanded_url": "https://www.facebook.com/World-and-Science-1856579771232780/",
+								"display_url": "facebook.com/World-and-Scie…",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1444004,
+				"friends_count": 8484,
+				"listed_count": 3962,
+				"created_at": "Fri Mar 02 05:14:54 +0000 2012",
+				"favourites_count": 600,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2279,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "021117",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000098174427/a73bfc9619b4f504fe0bf0eb0adb0437.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000098174427/a73bfc9619b4f504fe0bf0eb0adb0437.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1866445064/and2disk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1866445064/and2disk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/511402689/1422419896",
+				"profile_link_color": "375899",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 436,
+			"favorite_count": 1506,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 436,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 11:31:47 +0000 2017",
+		"id": 932209787969798100,
+		"id_str": "932209787969798145",
+		"text": "RT @GabbyyMartinez: Someone tell me why I thought this lady’s hair was a dog wearing sunglasses 🤦🏻‍♀️😂 https://t.co/rqrEoPg4RQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GabbyyMartinez",
+					"name": "gab",
+					"id": 1938690979,
+					"id_str": "1938690979",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931281037077856300,
+					"id_str": "931281037077856256",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+					"url": "https://t.co/rqrEoPg4RQ",
+					"display_url": "pic.twitter.com/rqrEoPg4RQ",
+					"expanded_url": "https://twitter.com/GabbyyMartinez/status/931281047743901696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931281047743901700,
+					"source_status_id_str": "931281047743901696",
+					"source_user_id": 1938690979,
+					"source_user_id_str": "1938690979"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931281037077856300,
+					"id_str": "931281037077856256",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+					"url": "https://t.co/rqrEoPg4RQ",
+					"display_url": "pic.twitter.com/rqrEoPg4RQ",
+					"expanded_url": "https://twitter.com/GabbyyMartinez/status/931281047743901696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931281047743901700,
+					"source_status_id_str": "931281047743901696",
+					"source_user_id": 1938690979,
+					"source_user_id_str": "1938690979"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 16 22:01:18 +0000 2017",
+			"id": 931281047743901700,
+			"id_str": "931281047743901696",
+			"text": "Someone tell me why I thought this lady’s hair was a dog wearing sunglasses 🤦🏻‍♀️😂 https://t.co/rqrEoPg4RQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931281037077856300,
+						"id_str": "931281037077856256",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+						"url": "https://t.co/rqrEoPg4RQ",
+						"display_url": "pic.twitter.com/rqrEoPg4RQ",
+						"expanded_url": "https://twitter.com/GabbyyMartinez/status/931281047743901696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931281037077856300,
+						"id_str": "931281037077856256",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOyTK0kVQAAPu1n.jpg",
+						"url": "https://t.co/rqrEoPg4RQ",
+						"display_url": "pic.twitter.com/rqrEoPg4RQ",
+						"expanded_url": "https://twitter.com/GabbyyMartinez/status/931281047743901696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1938690979,
+				"id_str": "1938690979",
+				"name": "gab",
+				"screen_name": "GabbyyMartinez",
+				"location": "pending location",
+				"description": "",
+				"url": "https://t.co/eGUoH6bx9q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eGUoH6bx9q",
+								"expanded_url": "https://www.instagram.com/_gabbyymartinez/",
+								"display_url": "instagram.com/_gabbyymartine…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 589,
+				"friends_count": 131,
+				"listed_count": 28,
+				"created_at": "Sat Oct 05 19:38:46 +0000 2013",
+				"favourites_count": 11420,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919103759073943552/W1-tZTiD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919103759073943552/W1-tZTiD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1938690979/1507966389",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27635,
+			"favorite_count": 56971,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27635,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 11:30:08 +0000 2017",
+		"id": 932209370414202900,
+		"id_str": "932209370414202880",
+		"text": "@mudnsky Hugs.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 932191356159533000,
+		"in_reply_to_status_id_str": "932191356159533056",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 07:59:50 +0000 2017",
+		"id": 932156448221536300,
+		"id_str": "932156448221536256",
+		"text": "Just realised that being Materialistic needn't mean wanting only tangible/physical things.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 06:07:34 +0000 2017",
+		"id": 932128196861890600,
+		"id_str": "932128196861890560",
+		"text": "RT @PupsPorn: goldens make me happy https://t.co/cNxrKVIddH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PupsPorn",
+					"name": "Puppy Lover",
+					"id": 835083097,
+					"id_str": "835083097",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cNxrKVIddH",
+					"expanded_url": "https://vine.co/v/ibX0PO0FQlp",
+					"display_url": "vine.co/v/ibX0PO0FQlp",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 19 06:02:01 +0000 2017",
+			"id": 932126797113757700,
+			"id_str": "932126797113757696",
+			"text": "goldens make me happy https://t.co/cNxrKVIddH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cNxrKVIddH",
+						"expanded_url": "https://vine.co/v/ibX0PO0FQlp",
+						"display_url": "vine.co/v/ibX0PO0FQlp",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/UdeEocHVSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdeEocHVSI",
+								"expanded_url": "https://www.facebook.com/PupsPorn",
+								"display_url": "facebook.com/PupsPorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1436940,
+				"friends_count": 12553,
+				"listed_count": 916,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 98782,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 319,
+			"favorite_count": 951,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 04:30:07 +0000 2017",
+		"id": 932103671113957400,
+		"id_str": "932103671113957376",
+		"text": "RT @trollpwnde: What if Telsa semi-truck was in #Bangalore right now? https://t.co/uhbbQAlLlO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bangalore",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trollpwnde",
+					"name": "Ashwin Deshpande",
+					"id": 86944266,
+					"id_str": "86944266",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931876384158265300,
+					"id_str": "931876384158265345",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+					"url": "https://t.co/uhbbQAlLlO",
+					"display_url": "pic.twitter.com/uhbbQAlLlO",
+					"expanded_url": "https://twitter.com/trollpwnde/status/931876475225063424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931876475225063400,
+					"source_status_id_str": "931876475225063424",
+					"source_user_id": 86944266,
+					"source_user_id_str": "86944266"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931876384158265300,
+					"id_str": "931876384158265345",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+					"url": "https://t.co/uhbbQAlLlO",
+					"display_url": "pic.twitter.com/uhbbQAlLlO",
+					"expanded_url": "https://twitter.com/trollpwnde/status/931876475225063424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931876475225063400,
+					"source_status_id_str": "931876475225063424",
+					"source_user_id": 86944266,
+					"source_user_id_str": "86944266"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 13:27:19 +0000 2017",
+			"id": 931876475225063400,
+			"id_str": "931876475225063424",
+			"text": "What if Telsa semi-truck was in #Bangalore right now? https://t.co/uhbbQAlLlO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Bangalore",
+						"indices": [
+							32,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931876384158265300,
+						"id_str": "931876384158265345",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+						"url": "https://t.co/uhbbQAlLlO",
+						"display_url": "pic.twitter.com/uhbbQAlLlO",
+						"expanded_url": "https://twitter.com/trollpwnde/status/931876475225063424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931876384158265300,
+						"id_str": "931876384158265345",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO6wolRUMAEMCEj.jpg",
+						"url": "https://t.co/uhbbQAlLlO",
+						"display_url": "pic.twitter.com/uhbbQAlLlO",
+						"expanded_url": "https://twitter.com/trollpwnde/status/931876475225063424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86944266,
+				"id_str": "86944266",
+				"name": "Ashwin Deshpande",
+				"screen_name": "trollpwnde",
+				"location": "Bengaluru, Karnataka",
+				"description": "Hunan Being.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1546,
+				"friends_count": 925,
+				"listed_count": 38,
+				"created_at": "Mon Nov 02 13:41:04 +0000 2009",
+				"favourites_count": 18417,
+				"utc_offset": 19800,
+				"time_zone": "Chennai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927855756950437888/zfmDg1QN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927855756950437888/zfmDg1QN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86944266/1485585379",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 186,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 04:16:37 +0000 2017",
+		"id": 932100274193178600,
+		"id_str": "932100274193178624",
+		"text": "RT @halophoenix: This is so infuriating I can barely see straight.  https://t.co/iSChc9386T",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "halophoenix",
+					"name": "Alan Henry",
+					"id": 20097713,
+					"id_str": "20097713",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iSChc9386T",
+					"expanded_url": "https://twitter.com/katierosman/status/931538230708768769",
+					"display_url": "twitter.com/katierosman/st…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9843,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 15:11:51 +0000 2017",
+			"id": 931540394575360000,
+			"id_str": "931540394575360001",
+			"text": "This is so infuriating I can barely see straight.  https://t.co/iSChc9386T",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iSChc9386T",
+						"expanded_url": "https://twitter.com/katierosman/status/931538230708768769",
+						"display_url": "twitter.com/katierosman/st…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20097713,
+				"id_str": "20097713",
+				"name": "Alan Henry",
+				"screen_name": "halophoenix",
+				"location": "New York, NY",
+				"description": "Currently: @nytimes. Formerly: EiC @Lifehacker. Forever: yours. Recovering physicist, dorky hobbyist, severely opinionated. Classiest geek you'll ever meet.",
+				"url": "https://t.co/I9yTQ1uDin",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I9yTQ1uDin",
+								"expanded_url": "http://www.novawerks.net",
+								"display_url": "novawerks.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12507,
+				"friends_count": 753,
+				"listed_count": 651,
+				"created_at": "Wed Feb 04 21:44:41 +0000 2009",
+				"favourites_count": 25924,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 33273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/57667118/274077.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/57667118/274077.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/584726239/0905090214b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/584726239/0905090214b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20097713/1357344097",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 931538230708768800,
+			"quoted_status_id_str": "931538230708768769",
+			"quoted_status": {
+				"created_at": "Fri Nov 17 15:03:16 +0000 2017",
+				"id": 931538230708768800,
+				"id_str": "931538230708768769",
+				"text": "To the actually intelligent people at Condé Nast, I share the mortification you must feel in reading this. https://t.co/ubUDId1WGR",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ubUDId1WGR",
+							"expanded_url": "http://wwd.com/business-news/media/vanity-fair-fashion-staff-nonplussed-new-editor-personal-style-11051422/amp/",
+							"display_url": "wwd.com/business-news/…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 18083797,
+					"id_str": "18083797",
+					"name": "katie rosman",
+					"screen_name": "katierosman",
+					"location": "New York via Detroit #goblue",
+					"description": "NYT SundayStyles reporter; WSJ alum; mom, techie, yogi, DIYer, author of the memoir If You Knew Suzy.",
+					"url": "https://t.co/3OMvlva9gL",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/3OMvlva9gL",
+									"expanded_url": "http://nyti.ms/1Hi3rHk",
+									"display_url": "nyti.ms/1Hi3rHk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 17089,
+					"friends_count": 1086,
+					"listed_count": 706,
+					"created_at": "Fri Dec 12 19:38:12 +0000 2008",
+					"favourites_count": 9626,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 38228,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/125250098/n582846754_900611_1314_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/125250098/n582846754_900611_1314_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/18083797/1486996251",
+					"profile_link_color": "6300FF",
+					"profile_sidebar_border_color": "86A4A6",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 120,
+				"favorite_count": 467,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 931538230708768800,
+		"quoted_status_id_str": "931538230708768769",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 18 13:45:30 +0000 2017",
 		"id": 931881049918865400,
 		"id_str": "931881049918865408",
