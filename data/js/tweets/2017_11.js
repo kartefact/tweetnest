@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 21 19:06:42 +0000 2017",
+		"id": 933049048268804100,
+		"id_str": "933049048268804096",
+		"text": "@OldMathsy @diligentcandy Awww! :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OldMathsy",
+					"name": "Old Mathsy",
+					"id": 1576112322,
+					"id_str": "1576112322",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "diligentcandy",
+					"name": "📚Amrita Das",
+					"id": 2649094489,
+					"id_str": "2649094489",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 933023110865084400,
+		"in_reply_to_status_id_str": "933023110865084423",
+		"in_reply_to_user_id": 1576112322,
+		"in_reply_to_user_id_str": "1576112322",
+		"in_reply_to_screen_name": "OldMathsy",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1609,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9851,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Nov 21 05:29:18 +0000 2017",
+		"id": 932843340923621400,
+		"id_str": "932843340923621376",
+		"text": "@mudnsky 😁 https://t.co/dYYYscI2pz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dYYYscI2pz",
+					"expanded_url": "https://twitter.com/PupsPorn/status/932821120910266368",
+					"display_url": "twitter.com/PupsPorn/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1609,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9851,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 932821120910266400,
+		"quoted_status_id_str": "932821120910266368",
+		"quoted_status": {
+			"created_at": "Tue Nov 21 04:01:00 +0000 2017",
+			"id": 932821120910266400,
+			"id_str": "932821120910266368",
+			"text": "This hedgehog is cheering for you because you can do anything https://t.co/q2VMIXrzLu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852948582105845800,
+						"id_str": "852948582105845761",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C9ZIN2AXkAECtaP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9ZIN2AXkAECtaP.jpg",
+						"url": "https://t.co/q2VMIXrzLu",
+						"display_url": "pic.twitter.com/q2VMIXrzLu",
+						"expanded_url": "https://twitter.com/CuteEmergency/status/852948584966365184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852948584966365200,
+						"source_status_id_str": "852948584966365184",
+						"source_user_id": 568825492,
+						"source_user_id_str": "568825492"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852948582105845800,
+						"id_str": "852948582105845761",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C9ZIN2AXkAECtaP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9ZIN2AXkAECtaP.jpg",
+						"url": "https://t.co/q2VMIXrzLu",
+						"display_url": "pic.twitter.com/q2VMIXrzLu",
+						"expanded_url": "https://twitter.com/CuteEmergency/status/852948584966365184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852948584966365200,
+						"source_status_id_str": "852948584966365184",
+						"source_user_id": 568825492,
+						"source_user_id_str": "568825492"
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/UdeEocHVSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdeEocHVSI",
+								"expanded_url": "https://www.facebook.com/PupsPorn",
+								"display_url": "facebook.com/PupsPorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1450561,
+				"friends_count": 12551,
+				"listed_count": 889,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 98817,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 185,
+			"favorite_count": 548,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Nov 19 15:26:56 +0000 2017",
 		"id": 932268964368982000,
 		"id_str": "932268964368982018",
@@ -1294,7 +1670,7 @@ Grailbird.data.tweets_2017_11 =
 		"created_at": "Sun Nov 19 11:31:47 +0000 2017",
 		"id": 932209787969798100,
 		"id_str": "932209787969798145",
-		"text": "RT @GabbyyMartinez: Someone tell me why I thought this lady’s hair was a dog wearing sunglasses 🤦🏻‍♀️😂 https://t.co/rqrEoPg4RQ",
+		"text": "RT @GabbyyMartinez: Someone tell me why I thought this lady’s hair was a dog wearing sunglasses 🤦🏻♀️😂 https://t.co/rqrEoPg4RQ",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -1461,7 +1837,7 @@ Grailbird.data.tweets_2017_11 =
 			"created_at": "Thu Nov 16 22:01:18 +0000 2017",
 			"id": 931281047743901700,
 			"id_str": "931281047743901696",
-			"text": "Someone tell me why I thought this lady’s hair was a dog wearing sunglasses 🤦🏻‍♀️😂 https://t.co/rqrEoPg4RQ",
+			"text": "Someone tell me why I thought this lady’s hair was a dog wearing sunglasses 🤦🏻♀️😂 https://t.co/rqrEoPg4RQ",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
