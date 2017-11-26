@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 25 10:01:53 +0000 2017",
+		"id": 934361491964280800,
+		"id_str": "934361491964280832",
+		"text": "RT @CopThatCooks: Dog saves woman during attempted street robbery.\n\nNot all heroes wear capes, some have paws and sharp teeth. What a good…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CopThatCooks",
+					"name": "PC Dave Wise",
+					"id": 4112753247,
+					"id_str": "4112753247",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9862,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 24 16:36:56 +0000 2017",
+			"id": 934098520260390900,
+			"id_str": "934098520260390912",
+			"text": "Dog saves woman during attempted street robbery.\n\nNot all heroes wear capes, some have paws and sharp teeth. What a… https://t.co/K4qhu7IZIm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K4qhu7IZIm",
+						"expanded_url": "https://twitter.com/i/web/status/934098520260390912",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4112753247,
+				"id_str": "4112753247",
+				"name": "PC Dave Wise",
+				"screen_name": "CopThatCooks",
+				"location": "Worcester, England",
+				"description": "▪#Police Constable in #Worcester, UK▪ Cooking, Tweeting and Policing▪Trainee Detective▪AKA @HistoryCop▪Creator of Peeler the Dog▪#CopThatCooks™▪",
+				"url": "https://t.co/0FZ6z1nKfu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0FZ6z1nKfu",
+								"expanded_url": "http://www.westmercia.police.uk",
+								"display_url": "westmercia.police.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9858,
+				"friends_count": 6309,
+				"listed_count": 174,
+				"created_at": "Wed Nov 04 15:17:01 +0000 2015",
+				"favourites_count": 19154,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11998,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931073226322710528/MO2JC-mC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931073226322710528/MO2JC-mC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4112753247/1483835844",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60820,
+			"favorite_count": 126490,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 60820,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 25 10:01:09 +0000 2017",
+		"id": 934361307532345300,
+		"id_str": "934361307532345344",
+		"text": "RT @sahilk: Finally Amazon has gotten back with an answer. Any govt photo ID works. It is mandatory for orders from the global store (impor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sahilk",
+					"name": "Sahil Khan",
+					"id": 14277764,
+					"id_str": "14277764",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9862,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 04:46:50 +0000 2017",
+			"id": 934282206284980200,
+			"id_str": "934282206284980224",
+			"text": "Finally Amazon has gotten back with an answer. Any govt photo ID works. It is mandatory for orders from the global… https://t.co/R37v2cPMiZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R37v2cPMiZ",
+						"expanded_url": "https://twitter.com/i/web/status/934282206284980224",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 934030757030387700,
+			"in_reply_to_status_id_str": "934030757030387712",
+			"in_reply_to_user_id": 14277764,
+			"in_reply_to_user_id_str": "14277764",
+			"in_reply_to_screen_name": "sahilk",
+			"user": {
+				"id": 14277764,
+				"id_str": "14277764",
+				"name": "Sahil Khan",
+				"screen_name": "sahilk",
+				"location": "Pune, India",
+				"description": "Food. Design. Startups. What's your stance on bhindi?",
+				"url": "https://t.co/jtO1bfav3z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jtO1bfav3z",
+								"expanded_url": "https://threenovember.com",
+								"display_url": "threenovember.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6834,
+				"friends_count": 827,
+				"listed_count": 398,
+				"created_at": "Tue Apr 01 20:25:12 +0000 2008",
+				"favourites_count": 1640,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 182767,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CBCBCB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/42991967/twt.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/42991967/twt.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930100011085438976/HnlMAjnR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930100011085438976/HnlMAjnR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14277764/1510389600",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 18,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 25 09:57:51 +0000 2017",
+		"id": 934360474174419000,
+		"id_str": "934360474174418944",
+		"text": "RT @TaoEssentials: \"Doing nothing is better than being busy doing nothing.\"\n                     — Taoist Proverb\n|\n#Tao #Taoism #quotes",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tao",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "Taoism",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaoEssentials",
+					"name": "Tao Essentials",
+					"id": 192700558,
+					"id_str": "192700558",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9862,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 25 01:58:09 +0000 2017",
+			"id": 934239753159004200,
+			"id_str": "934239753159004160",
+			"text": "\"Doing nothing is better than being busy doing nothing.\"\n                     — Taoist Proverb\n|\n#Tao #Taoism #quotes",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tao",
+						"indices": [
+							97,
+							101
+						]
+					},
+					{
+						"text": "Taoism",
+						"indices": [
+							102,
+							109
+						]
+					},
+					{
+						"text": "quotes",
+						"indices": [
+							110,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 192700558,
+				"id_str": "192700558",
+				"name": "Tao Essentials",
+				"screen_name": "TaoEssentials",
+				"location": "http://bit.ly/taobenefits",
+				"description": "Understanding others is knowledge, Understanding oneself is enlightenment. ~ Lao Tzu",
+				"url": "http://t.co/9bFIllU1IA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9bFIllU1IA",
+								"expanded_url": "http://bit.ly/taoess",
+								"display_url": "bit.ly/taoess",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46100,
+				"friends_count": 4586,
+				"listed_count": 791,
+				"created_at": "Sun Sep 19 22:33:04 +0000 2010",
+				"favourites_count": 9,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26927,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/405720205/taoback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/405720205/taoback.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590185196101750784/hi8CGGUk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590185196101750784/hi8CGGUk_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/192700558/1429545158",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 363,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 16:06:47 +0000 2017",
 		"id": 934090931636072400,
 		"id_str": "934090931636072448",
