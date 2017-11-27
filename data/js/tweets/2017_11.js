@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 26 16:09:08 +0000 2017",
+		"id": 934816300768968700,
+		"id_str": "934816300768968705",
+		"text": "RT @rathna_k: looking to procure some customized merchandise such as backpacks, travel kits, sweat shirts, headphones etc.. min qty 50+.. a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rathna_k",
+					"name": "Rathna Kumar",
+					"id": 15178533,
+					"id_str": "15178533",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9866,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 26 08:25:38 +0000 2017",
+			"id": 934699656843370500,
+			"id_str": "934699656843370496",
+			"text": "looking to procure some customized merchandise such as backpacks, travel kits, sweat shirts, headphones etc.. min qty 50+.. any leads??",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15178533,
+				"id_str": "15178533",
+				"name": "Rathna Kumar",
+				"screen_name": "rathna_k",
+				"location": "Chennai",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 319,
+				"listed_count": 8,
+				"created_at": "Fri Jun 20 10:33:39 +0000 2008",
+				"favourites_count": 318,
+				"utc_offset": -18000,
+				"time_zone": "Indiana (East)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534637861/531453_10150839614437905_709077904_11528224_2118475682_n.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534637861/531453_10150839614437905_709077904_11528224_2118475682_n.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000387861747/e930226e572be0cbfa57dc7697c9aedf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000387861747/e930226e572be0cbfa57dc7697c9aedf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15178533/1353395672",
+				"profile_link_color": "544C45",
+				"profile_sidebar_border_color": "4F606E",
+				"profile_sidebar_fill_color": "0D0806",
+				"profile_text_color": "332D23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 26 09:41:26 +0000 2017",
+		"id": 934718731812352000,
+		"id_str": "934718731812352000",
+		"text": "RT @shilpaanand: Someone said it. Phew. Helps that someone is an HBS Prof. https://t.co/FchyUFFu1r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shilpaanand",
+					"name": "Shilpa Anand",
+					"id": 17917144,
+					"id_str": "17917144",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 934617887653863400,
+					"id_str": "934617887653863429",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+					"url": "https://t.co/FchyUFFu1r",
+					"display_url": "pic.twitter.com/FchyUFFu1r",
+					"expanded_url": "https://twitter.com/shilpaanand/status/934617891428712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 328,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934617891428712400,
+					"source_status_id_str": "934617891428712448",
+					"source_user_id": 17917144,
+					"source_user_id_str": "17917144"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934617887653863400,
+					"id_str": "934617887653863429",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+					"url": "https://t.co/FchyUFFu1r",
+					"display_url": "pic.twitter.com/FchyUFFu1r",
+					"expanded_url": "https://twitter.com/shilpaanand/status/934617891428712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 328,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934617891428712400,
+					"source_status_id_str": "934617891428712448",
+					"source_user_id": 17917144,
+					"source_user_id_str": "17917144"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9866,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932204832265453569/gHOv0jk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 26 03:00:44 +0000 2017",
+			"id": 934617891428712400,
+			"id_str": "934617891428712448",
+			"text": "Someone said it. Phew. Helps that someone is an HBS Prof. https://t.co/FchyUFFu1r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 934617887653863400,
+						"id_str": "934617887653863429",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+						"url": "https://t.co/FchyUFFu1r",
+						"display_url": "pic.twitter.com/FchyUFFu1r",
+						"expanded_url": "https://twitter.com/shilpaanand/status/934617891428712448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 328,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 310,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934617887653863400,
+						"id_str": "934617887653863429",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPhuBFpVoAU9Bl9.jpg",
+						"url": "https://t.co/FchyUFFu1r",
+						"display_url": "pic.twitter.com/FchyUFFu1r",
+						"expanded_url": "https://twitter.com/shilpaanand/status/934617891428712448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 328,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 310,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17917144,
+				"id_str": "17917144",
+				"name": "Shilpa Anand",
+				"screen_name": "shilpaanand",
+				"location": "",
+				"description": "Much to see, much to learn, much to hear.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2006,
+				"friends_count": 770,
+				"listed_count": 74,
+				"created_at": "Sat Dec 06 05:14:21 +0000 2008",
+				"favourites_count": 1062,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27631,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540065423702507520/EGbou3R3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540065423702507520/EGbou3R3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1237169415/7a38e968-f23a-4e88-9b9d-57e1c0d1623c_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237169415/7a38e968-f23a-4e88-9b9d-57e1c0d1623c_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17917144/1386920294",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 25 10:01:53 +0000 2017",
 		"id": 934361491964280800,
 		"id_str": "934361491964280832",
