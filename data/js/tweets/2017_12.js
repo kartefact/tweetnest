@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 07 12:54:15 +0000 2017",
+		"id": 938753523210059800,
+		"id_str": "938753523210059776",
+		"text": "cc: @EnthuPotato @Falooly @rajpvish @_Drunkenmunk @Abiraame @PuneerSoda https://t.co/BTPYiRRp1X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EnthuPotato",
+					"name": "Madhumitha",
+					"id": 541105479,
+					"id_str": "541105479",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"screen_name": "Falooly",
+					"name": "Loolie",
+					"id": 31174174,
+					"id_str": "31174174",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "rajpvish",
+					"name": "Rajkumar Viswanathan",
+					"id": 111424239,
+					"id_str": "111424239",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "_Drunkenmunk",
+					"name": "Munk",
+					"id": 232860827,
+					"id_str": "232860827",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "Abiraame",
+					"name": "Abiraame",
+					"id": 61225855,
+					"id_str": "61225855",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BTPYiRRp1X",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/938321595222843394",
+					"display_url": "twitter.com/AMAZlNGNATURE/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9938,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98733,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937336318635286528/Dq3q-3vY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937336318635286528/Dq3q-3vY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 938321595222843400,
+		"quoted_status_id_str": "938321595222843394",
+		"quoted_status": {
+			"created_at": "Wed Dec 06 08:17:56 +0000 2017",
+			"id": 938321595222843400,
+			"id_str": "938321595222843394",
+			"text": "Mother Elephant Can't Wake Sleepy Baby https://t.co/CrRtu2KbSz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 881976348071280600,
+						"id_str": "881976348071280641",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/881976348071280641/pu/img/uKNGAVtTFNTGki9k.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/881976348071280641/pu/img/uKNGAVtTFNTGki9k.jpg",
+						"url": "https://t.co/CrRtu2KbSz",
+						"display_url": "pic.twitter.com/CrRtu2KbSz",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/881977112227217408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 881977112227217400,
+						"source_status_id_str": "881977112227217408",
+						"source_user_id": 2828212668,
+						"source_user_id_str": "2828212668"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 881976348071280600,
+						"id_str": "881976348071280641",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/881976348071280641/pu/img/uKNGAVtTFNTGki9k.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/881976348071280641/pu/img/uKNGAVtTFNTGki9k.jpg",
+						"url": "https://t.co/CrRtu2KbSz",
+						"display_url": "pic.twitter.com/CrRtu2KbSz",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/881977112227217408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 881977112227217400,
+						"source_status_id_str": "881977112227217408",
+						"source_user_id": 2828212668,
+						"source_user_id_str": "2828212668",
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 52920,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/881976348071280641/pu/vid/320x180/ROX9h92wIQDjFdAC.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/881976348071280641/pu/vid/640x360/mCLdtuv4Jg_SrJgb.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/881976348071280641/pu/pl/bsktxFTG65hnLKZY.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2828212668,
+								"id_str": "2828212668",
+								"name": "Nature is Amazing 🌿🍃",
+								"screen_name": "AMAZlNGNATURE",
+								"location": "🌍",
+								"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 221089,
+								"friends_count": 0,
+								"listed_count": 1292,
+								"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+								"favourites_count": 252,
+								"utc_offset": 19800,
+								"time_zone": "Asia/Calcutta",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 3656,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/935887780659437569/3sV3cuJA_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/935887780659437569/3sV3cuJA_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1508652451",
+								"profile_link_color": "FF691F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828212668,
+				"id_str": "2828212668",
+				"name": "Nature is Amazing 🌿🍃",
+				"screen_name": "AMAZlNGNATURE",
+				"location": "🌍",
+				"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 221089,
+				"friends_count": 0,
+				"listed_count": 1292,
+				"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+				"favourites_count": 252,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3656,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935887780659437569/3sV3cuJA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935887780659437569/3sV3cuJA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1508652451",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 282,
+			"favorite_count": 765,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Dec 07 12:51:33 +0000 2017",
+		"id": 938752844282323000,
+		"id_str": "938752844282322944",
+		"text": "RT @dorseyshaw: Fixed https://t.co/uUTmyNYBEa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dorseyshaw",
+					"name": "dorsey.mp4",
+					"id": 18380182,
+					"id_str": "18380182",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938485754812141600,
+					"id_str": "938485754812141568",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+					"url": "https://t.co/uUTmyNYBEa",
+					"display_url": "pic.twitter.com/uUTmyNYBEa",
+					"expanded_url": "https://twitter.com/dorseyshaw/status/938485896713789441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938485896713789400,
+					"source_status_id_str": "938485896713789441",
+					"source_user_id": 18380182,
+					"source_user_id_str": "18380182"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938485754812141600,
+					"id_str": "938485754812141568",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+					"url": "https://t.co/uUTmyNYBEa",
+					"display_url": "pic.twitter.com/uUTmyNYBEa",
+					"expanded_url": "https://twitter.com/dorseyshaw/status/938485896713789441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938485896713789400,
+					"source_status_id_str": "938485896713789441",
+					"source_user_id": 18380182,
+					"source_user_id_str": "18380182",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15700,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/720x1280/853gmfDbUb04qFWP.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/360x640/pgCasE79htZcXlHV.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/180x320/oi42ofRLMLiBM7h2.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/pl/PlF3SMdmUf7f5fay.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 18380182,
+							"id_str": "18380182",
+							"name": "dorsey.mp4",
+							"screen_name": "dorseyshaw",
+							"location": "New York, NY",
+							"description": "Producer. Lots of retweeting 🚮 dorsey@buzzfeed.com",
+							"url": "https://t.co/GoSz2n5EIi",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/GoSz2n5EIi",
+											"expanded_url": "http://buzzfeed.com/dorsey",
+											"display_url": "buzzfeed.com/dorsey",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 17381,
+							"friends_count": 2275,
+							"listed_count": 781,
+							"created_at": "Thu Dec 25 22:25:58 +0000 2008",
+							"favourites_count": 20264,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 54573,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "CC14CC",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580855051838607360/tuZDrZ0V.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580855051838607360/tuZDrZ0V.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/914121768469745664/YSoASdpt_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/914121768469745664/YSoASdpt_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18380182/1511838617",
+							"profile_link_color": "228AD4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "080808",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9938,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98733,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937336318635286528/Dq3q-3vY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937336318635286528/Dq3q-3vY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 06 19:10:48 +0000 2017",
+			"id": 938485896713789400,
+			"id_str": "938485896713789441",
+			"text": "Fixed https://t.co/uUTmyNYBEa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 938485754812141600,
+						"id_str": "938485754812141568",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+						"url": "https://t.co/uUTmyNYBEa",
+						"display_url": "pic.twitter.com/uUTmyNYBEa",
+						"expanded_url": "https://twitter.com/dorseyshaw/status/938485896713789441/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938485754812141600,
+						"id_str": "938485754812141568",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938485754812141568/pu/img/hqZ7V3CLEbEum9F3.jpg",
+						"url": "https://t.co/uUTmyNYBEa",
+						"display_url": "pic.twitter.com/uUTmyNYBEa",
+						"expanded_url": "https://twitter.com/dorseyshaw/status/938485896713789441/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 15700,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/720x1280/853gmfDbUb04qFWP.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/360x640/pgCasE79htZcXlHV.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/180x320/oi42ofRLMLiBM7h2.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/938485754812141568/pu/pl/PlF3SMdmUf7f5fay.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18380182,
+				"id_str": "18380182",
+				"name": "dorsey.mp4",
+				"screen_name": "dorseyshaw",
+				"location": "New York, NY",
+				"description": "Producer. Lots of retweeting 🚮 dorsey@buzzfeed.com",
+				"url": "https://t.co/GoSz2n5EIi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GoSz2n5EIi",
+								"expanded_url": "http://buzzfeed.com/dorsey",
+								"display_url": "buzzfeed.com/dorsey",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17381,
+				"friends_count": 2275,
+				"listed_count": 781,
+				"created_at": "Thu Dec 25 22:25:58 +0000 2008",
+				"favourites_count": 20264,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CC14CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580855051838607360/tuZDrZ0V.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580855051838607360/tuZDrZ0V.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914121768469745664/YSoASdpt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914121768469745664/YSoASdpt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18380182/1511838617",
+				"profile_link_color": "228AD4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105846,
+			"favorite_count": 214719,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 105846,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 06 17:07:40 +0000 2017",
 		"id": 938454908499411000,
 		"id_str": "938454908499410944",
