@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 14 09:42:13 +0000 2017",
+		"id": 941241910215114800,
+		"id_str": "941241910215114752",
+		"text": "RT @labhopping: Science folk, name the woman scientist working in India whose work you are most inspired by. Pls reply and RT #WomenInScien…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "labhopping",
+					"name": "The Life of Science",
+					"id": 706108149174939600,
+					"id_str": "706108149174939650",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9992,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 06:27:26 +0000 2017",
+			"id": 940830501849456600,
+			"id_str": "940830501849456640",
+			"text": "Science folk, name the woman scientist working in India whose work you are most inspired by. Pls reply and RT… https://t.co/tkvKJBkb0i",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tkvKJBkb0i",
+						"expanded_url": "https://twitter.com/i/web/status/940830501849456640",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 706108149174939600,
+				"id_str": "706108149174939650",
+				"name": "The Life of Science",
+				"screen_name": "labhopping",
+				"location": "India",
+				"description": "A project focusing on women in Indian science. Season-2 is here!",
+				"url": "https://t.co/6Kr5wslhDP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Kr5wslhDP",
+								"expanded_url": "http://thelifeofscience.com",
+								"display_url": "thelifeofscience.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1240,
+				"friends_count": 2,
+				"listed_count": 25,
+				"created_at": "Sat Mar 05 13:24:36 +0000 2016",
+				"favourites_count": 240,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1697,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903554252634603522/WoY0UTJT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903554252634603522/WoY0UTJT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/706108149174939650/1504258941",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 21,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 14 09:40:10 +0000 2017",
+		"id": 941241393342644200,
+		"id_str": "941241393342644225",
+		"text": "RT @SarahCAndersen: https://t.co/g47utttA9t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahCAndersen",
+					"name": "Sarah Andersen",
+					"id": 916031611,
+					"id_str": "916031611",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 940967285354721300,
+					"id_str": "940967285354721280",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+					"url": "https://t.co/g47utttA9t",
+					"display_url": "pic.twitter.com/g47utttA9t",
+					"expanded_url": "https://twitter.com/SarahCAndersen/status/940967297526661120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 503,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 503,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940967297526661100,
+					"source_status_id_str": "940967297526661120",
+					"source_user_id": 916031611,
+					"source_user_id_str": "916031611"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 940967285354721300,
+					"id_str": "940967285354721280",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+					"url": "https://t.co/g47utttA9t",
+					"display_url": "pic.twitter.com/g47utttA9t",
+					"expanded_url": "https://twitter.com/SarahCAndersen/status/940967297526661120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 503,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 503,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940967297526661100,
+					"source_status_id_str": "940967297526661120",
+					"source_user_id": 916031611,
+					"source_user_id_str": "916031611"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9992,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 15:31:00 +0000 2017",
+			"id": 940967297526661100,
+			"id_str": "940967297526661120",
+			"text": "https://t.co/g47utttA9t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940967285354721300,
+						"id_str": "940967285354721280",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+						"url": "https://t.co/g47utttA9t",
+						"display_url": "pic.twitter.com/g47utttA9t",
+						"expanded_url": "https://twitter.com/SarahCAndersen/status/940967297526661120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 503,
+								"h": 796,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 503,
+								"h": 796,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 430,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940967285354721300,
+						"id_str": "940967285354721280",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQ78wrTU8AAXZJd.jpg",
+						"url": "https://t.co/g47utttA9t",
+						"display_url": "pic.twitter.com/g47utttA9t",
+						"expanded_url": "https://twitter.com/SarahCAndersen/status/940967297526661120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 503,
+								"h": 796,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 503,
+								"h": 796,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 430,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 916031611,
+				"id_str": "916031611",
+				"name": "Sarah Andersen",
+				"screen_name": "SarahCAndersen",
+				"location": "",
+				"description": "Cartoonist, secret illustrator",
+				"url": "http://t.co/ymP6bQWoZb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ymP6bQWoZb",
+								"expanded_url": "http://sarahcandersen.com",
+								"display_url": "sarahcandersen.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 424709,
+				"friends_count": 682,
+				"listed_count": 2175,
+				"created_at": "Wed Oct 31 03:07:20 +0000 2012",
+				"favourites_count": 5483,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854693702341722112/_hJKbYmW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854693702341722112/_hJKbYmW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/916031611/1505498240",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9162,
+			"favorite_count": 26214,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9162,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Dec 14 03:58:52 +0000 2017",
+		"id": 941155503719186400,
+		"id_str": "941155503719186432",
+		"text": "The Back thanks me. #GodsGhost #Backpack #Toughness #Organization https://t.co/eOp7eplC4V https://t.co/E2TTXgfa6X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GodsGhost",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "Backpack",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "Toughness",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "Organization",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eOp7eplC4V",
+					"expanded_url": "http://ift.tt/2C4gL4s",
+					"display_url": "ift.tt/2C4gL4s",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 941155501496307700,
+					"id_str": "941155501496307713",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DQ-n8TEXkAEsXEG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQ-n8TEXkAEsXEG.jpg",
+					"url": "https://t.co/E2TTXgfa6X",
+					"display_url": "pic.twitter.com/E2TTXgfa6X",
+					"expanded_url": "https://twitter.com/kartefact/status/941155503719186432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941155501496307700,
+					"id_str": "941155501496307713",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DQ-n8TEXkAEsXEG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQ-n8TEXkAEsXEG.jpg",
+					"url": "https://t.co/E2TTXgfa6X",
+					"display_url": "pic.twitter.com/E2TTXgfa6X",
+					"expanded_url": "https://twitter.com/kartefact/status/941155503719186432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 9992,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 13 07:43:45 +0000 2017",
 		"id": 940849708158857200,
 		"id_str": "940849708158857218",
