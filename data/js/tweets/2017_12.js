@@ -1,6 +1,1365 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 20 17:18:22 +0000 2017",
+		"id": 943531030421504000,
+		"id_str": "943531030421504005",
+		"text": "RT @thekaipullai: I want to buy 50 rs sim Card : Aadhar mandatory\n\nI want to buy 750 rs Gas cylinder : Aadhar Mandatory\n\nI want to buy 5 cr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thekaipullai",
+					"name": "The Kaipullai",
+					"id": 360155647,
+					"id_str": "360155647",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10008,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 14:49:56 +0000 2017",
+			"id": 943131290345259000,
+			"id_str": "943131290345259008",
+			"text": "I want to buy 50 rs sim Card : Aadhar mandatory\n\nI want to buy 750 rs Gas cylinder : Aadhar Mandatory\n\nI want to bu… https://t.co/xejxkzw0EK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xejxkzw0EK",
+						"expanded_url": "https://twitter.com/i/web/status/943131290345259008",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 360155647,
+				"id_str": "360155647",
+				"name": "The Kaipullai",
+				"screen_name": "thekaipullai",
+				"location": "",
+				"description": "Not Worth for a Bio, or a physics or a chemistry. Or anything for that matter.\n\n\n\nhttps://t.co/dCtUjf6NC8",
+				"url": "https://t.co/mF6DxjeNdT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mF6DxjeNdT",
+								"expanded_url": "http://www.kaipullai.com",
+								"display_url": "kaipullai.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dCtUjf6NC8",
+								"expanded_url": "http://facebook.com/thekaipullai/",
+								"display_url": "facebook.com/thekaipullai/",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6268,
+				"friends_count": 609,
+				"listed_count": 75,
+				"created_at": "Mon Aug 22 19:37:47 +0000 2011",
+				"favourites_count": 396,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18874,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/653048768095350784/mOLTCrBy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/653048768095350784/mOLTCrBy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/360155647/1379795142",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 943071255602720800,
+			"quoted_status_id_str": "943071255602720768",
+			"quoted_status": {
+				"created_at": "Tue Dec 19 10:51:23 +0000 2017",
+				"id": 943071255602720800,
+				"id_str": "943071255602720768",
+				"text": "No proposal to make #Aadhaar linkage mandatory for property deals\n#realestate #BenamiProperty\nhttps://t.co/j0bEXTvXb5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Aadhaar",
+							"indices": [
+								20,
+								28
+							]
+						},
+						{
+							"text": "realestate",
+							"indices": [
+								66,
+								77
+							]
+						},
+						{
+							"text": "BenamiProperty",
+							"indices": [
+								78,
+								93
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/j0bEXTvXb5",
+							"expanded_url": "https://goo.gl/LusS73",
+							"display_url": "goo.gl/LusS73",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 81091668,
+					"id_str": "81091668",
+					"name": "ET Wealth",
+					"screen_name": "ET_Wealth",
+					"location": "New Delhi, India",
+					"description": "Keep track of the latest updates on #EPF, #wealth, #tax, #money on #ETWealth | A Times Internet Product",
+					"url": "https://t.co/Xa8SjtOXnK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Xa8SjtOXnK",
+									"expanded_url": "http://economictimes.indiatimes.com/personal-finance",
+									"display_url": "economictimes.indiatimes.com/personal-finan…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 45470,
+					"friends_count": 32,
+					"listed_count": 549,
+					"created_at": "Fri Oct 09 12:00:07 +0000 2009",
+					"favourites_count": 163,
+					"utc_offset": 19800,
+					"time_zone": "New Delhi",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 20427,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/904662304775585792/EViLthKU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/904662304775585792/EViLthKU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/81091668/1513568798",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 156,
+				"favorite_count": 140,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3121,
+			"favorite_count": 2982,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 943071255602720800,
+		"quoted_status_id_str": "943071255602720768",
+		"retweet_count": 3121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 17:17:32 +0000 2017",
+		"id": 943530822283300900,
+		"id_str": "943530822283300864",
+		"text": "'Tis the season to be jolly. It's that time of the year when...\n\nYou submit your investment proofs and hope to get… https://t.co/FBcrGOwjkA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FBcrGOwjkA",
+					"expanded_url": "https://twitter.com/i/web/status/943530822283300864",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10008,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 03:06:56 +0000 2017",
+		"id": 943316760459014100,
+		"id_str": "943316760459014144",
+		"text": "RT @xtahzy: Coorg, Mysore, Mangaluru, Uttara Kannada, Belagavi... keep a count of the number of places that burn before elections. I fear w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xtahzy",
+					"name": "Taz",
+					"id": 117139453,
+					"id_str": "117139453",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10008,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 12:40:55 +0000 2017",
+			"id": 943098822938435600,
+			"id_str": "943098822938435584",
+			"text": "Coorg, Mysore, Mangaluru, Uttara Kannada, Belagavi... keep a count of the number of places that burn before electio… https://t.co/Oq8viKiZWH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Oq8viKiZWH",
+						"expanded_url": "https://twitter.com/i/web/status/943098822938435584",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117139453,
+				"id_str": "117139453",
+				"name": "Taz",
+				"screen_name": "xtahzy",
+				"location": "",
+				"description": "Manu Joseph and Dipak Misra fan. Have full faith in our secular liberal institutions, democratic values, free and fair judiciary. Constitution is supreme.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6123,
+				"friends_count": 437,
+				"listed_count": 124,
+				"created_at": "Wed Feb 24 17:19:32 +0000 2010",
+				"favourites_count": 42155,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 149747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/216985452/DSC03703.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/216985452/DSC03703.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937057197560758272/MdPJsWlN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937057197560758272/MdPJsWlN_normal.jpg",
+				"profile_link_color": "009499",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "242024",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 943087831949262800,
+			"quoted_status_id_str": "943087831949262848",
+			"quoted_status": {
+				"created_at": "Tue Dec 19 11:57:15 +0000 2017",
+				"id": 943087831949262800,
+				"id_str": "943087831949262848",
+				"text": "#BREAKING: Situation tense in Belagavi, #Karnataka after  2 groups clashed on Monday night. Reason for clash unknow… https://t.co/EHwJcMMKy0",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "BREAKING",
+							"indices": [
+								0,
+								9
+							]
+						},
+						{
+							"text": "Karnataka",
+							"indices": [
+								40,
+								50
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/EHwJcMMKy0",
+							"expanded_url": "https://twitter.com/i/web/status/943087831949262848",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3638215945,
+					"id_str": "3638215945",
+					"name": "Mirror Now",
+					"screen_name": "MirrorNow",
+					"location": "India",
+					"description": "Mirror Now's Mission: Demand accountability from the powers that be and relentlessly drive improvement by addressing everyday issues.",
+					"url": "https://t.co/8difQlUFOU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8difQlUFOU",
+									"expanded_url": "http://www.timesnownews.com/mirrornow",
+									"display_url": "timesnownews.com/mirrornow",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 24633,
+					"friends_count": 23,
+					"listed_count": 201,
+					"created_at": "Mon Sep 21 13:31:19 +0000 2015",
+					"favourites_count": 44,
+					"utc_offset": 19800,
+					"time_zone": "Asia/Calcutta",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 35741,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3638215945/1513594297",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 20,
+				"favorite_count": 27,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 404,
+			"favorite_count": 315,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 943087831949262800,
+		"quoted_status_id_str": "943087831949262848",
+		"retweet_count": 404,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 03:01:18 +0000 2017",
+		"id": 943315345267232800,
+		"id_str": "943315345267232768",
+		"text": "RT @AMAZlNGNATURE: CAT WAITS FOR GREEN LIGHT TO CROSS 🚦🚦 https://t.co/XaQ8z7jpQC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMAZlNGNATURE",
+					"name": "Nature is Amazing 🌿",
+					"id": 2828212668,
+					"id_str": "2828212668",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 942979056017989600,
+					"id_str": "942979056017989633",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+					"url": "https://t.co/XaQ8z7jpQC",
+					"display_url": "pic.twitter.com/XaQ8z7jpQC",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/942979854923788289/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942979854923788300,
+					"source_status_id_str": "942979854923788289",
+					"source_user_id": 2828212668,
+					"source_user_id_str": "2828212668"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 942979056017989600,
+					"id_str": "942979056017989633",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+					"url": "https://t.co/XaQ8z7jpQC",
+					"display_url": "pic.twitter.com/XaQ8z7jpQC",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/942979854923788289/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942979854923788300,
+					"source_status_id_str": "942979854923788289",
+					"source_user_id": 2828212668,
+					"source_user_id_str": "2828212668",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59900,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/942979056017989633/pu/vid/480x480/jEQKgLzePq6T1i9h.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/942979056017989633/pu/vid/240x240/Y7t43BjIYVZ-yCOc.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/942979056017989633/pu/pl/Q_lnm9uqkS-pqe08.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2828212668,
+							"id_str": "2828212668",
+							"name": "Nature is Amazing 🌿",
+							"screen_name": "AMAZlNGNATURE",
+							"location": "🌍",
+							"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 235760,
+							"friends_count": 0,
+							"listed_count": 1475,
+							"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+							"favourites_count": 259,
+							"utc_offset": 19800,
+							"time_zone": "Asia/Calcutta",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 3924,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/942022115565256705/B7TRkzcT_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/942022115565256705/B7TRkzcT_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1508652451",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10008,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 04:48:11 +0000 2017",
+			"id": 942979854923788300,
+			"id_str": "942979854923788289",
+			"text": "CAT WAITS FOR GREEN LIGHT TO CROSS 🚦🚦 https://t.co/XaQ8z7jpQC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 942979056017989600,
+						"id_str": "942979056017989633",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+						"url": "https://t.co/XaQ8z7jpQC",
+						"display_url": "pic.twitter.com/XaQ8z7jpQC",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/942979854923788289/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 942979056017989600,
+						"id_str": "942979056017989633",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942979056017989633/pu/img/TgUkJkP0ti1alWW7.jpg",
+						"url": "https://t.co/XaQ8z7jpQC",
+						"display_url": "pic.twitter.com/XaQ8z7jpQC",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/942979854923788289/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 59900,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/942979056017989633/pu/vid/480x480/jEQKgLzePq6T1i9h.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/942979056017989633/pu/vid/240x240/Y7t43BjIYVZ-yCOc.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/942979056017989633/pu/pl/Q_lnm9uqkS-pqe08.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828212668,
+				"id_str": "2828212668",
+				"name": "Nature is Amazing 🌿",
+				"screen_name": "AMAZlNGNATURE",
+				"location": "🌍",
+				"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235760,
+				"friends_count": 0,
+				"listed_count": 1475,
+				"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+				"favourites_count": 259,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3924,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942022115565256705/B7TRkzcT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942022115565256705/B7TRkzcT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1508652451",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1413,
+			"favorite_count": 2649,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1413,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 02:59:25 +0000 2017",
+		"id": 943314869159313400,
+		"id_str": "943314869159313408",
+		"text": "RT @mnot: “Just a @elonmusk stunt” they said, yet it’s already affecting the whole Australian electricity market. https://t.co/Be4MmckeWU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mnot",
+					"name": "Mark Nottingham",
+					"id": 5832482,
+					"id_str": "5832482",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Be4MmckeWU",
+					"expanded_url": "http://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/",
+					"display_url": "reneweconomy.com.au/tesla-big-batt…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10008,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 13:37:04 +0000 2017",
+			"id": 943112950033862700,
+			"id_str": "943112950033862657",
+			"text": "“Just a @elonmusk stunt” they said, yet it’s already affecting the whole Australian electricity market. https://t.co/Be4MmckeWU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elonmusk",
+						"name": "Elon Musk",
+						"id": 44196397,
+						"id_str": "44196397",
+						"indices": [
+							8,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Be4MmckeWU",
+						"expanded_url": "http://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/",
+						"display_url": "reneweconomy.com.au/tesla-big-batt…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5832482,
+				"id_str": "5832482",
+				"name": "Mark Nottingham",
+				"screen_name": "mnot",
+				"location": "Melbourne, Victoria",
+				"description": "I try to do things to the Web.",
+				"url": "https://t.co/xHjvBei78g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xHjvBei78g",
+								"expanded_url": "https://www.mnot.net/",
+								"display_url": "mnot.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6561,
+				"friends_count": 332,
+				"listed_count": 322,
+				"created_at": "Mon May 07 13:29:44 +0000 2007",
+				"favourites_count": 6370,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16310,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3BFD1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621768827836211200/yS9x0FO5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621768827836211200/yS9x0FO5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712785847058178048/Na0n8zCV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712785847058178048/Na0n8zCV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5832482/1398311550",
+				"profile_link_color": "307B9C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BABDCF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2873,
+			"favorite_count": 9077,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2873,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 19 14:10:21 +0000 2017",
 		"id": 943121329103847400,
 		"id_str": "943121329103847425",
