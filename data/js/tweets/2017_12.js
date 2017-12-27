@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 04:56:45 +0000 2017",
+		"id": 945518725997850600,
+		"id_str": "945518725997850624",
+		"text": "RT @varungrover: Ashamed &amp; sorry to be on this cover. Gross neglect of so many terrific female comics all over India. The journalist called…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "varungrover",
+					"name": "वरुण",
+					"id": 18861574,
+					"id_str": "18861574",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10025,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98819,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 09:09:32 +0000 2017",
+			"id": 945219950834339800,
+			"id_str": "945219950834339840",
+			"text": "Ashamed &amp; sorry to be on this cover. Gross neglect of so many terrific female comics all over India. The journalist… https://t.co/iGkPk91Xtr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iGkPk91Xtr",
+						"expanded_url": "https://twitter.com/i/web/status/945219950834339840",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18861574,
+				"id_str": "18861574",
+				"name": "वरुण",
+				"screen_name": "varungrover",
+				"location": "Mumbai",
+				"description": "\"All the world's a Mahesh Bhatt film. We are but Avtar Gills in it.\" Proud Milky Way-ian.",
+				"url": "https://t.co/ExGK6NoH5n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ExGK6NoH5n",
+								"expanded_url": "http://thesinglescreen.wordpress.com",
+								"display_url": "thesinglescreen.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182012,
+				"friends_count": 601,
+				"listed_count": 398,
+				"created_at": "Sun Jan 11 08:46:52 +0000 2009",
+				"favourites_count": 2646,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 66716,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834769756104241153/DBaM6Nkg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834769756104241153/DBaM6Nkg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18861574/1496686161",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 945213673466880000,
+			"quoted_status_id_str": "945213673466880000",
+			"quoted_status": {
+				"created_at": "Mon Dec 25 08:44:35 +0000 2017",
+				"id": 945213673466880000,
+				"id_str": "945213673466880000",
+				"text": "So @TheWeek did a profile of Indian stand-up comedy. They spoke to 9 men and 1 woman (@awryaditi). The 9 men made i… https://t.co/aqZzGywiUL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TheWeek",
+							"name": "The Week",
+							"id": 16439471,
+							"id_str": "16439471",
+							"indices": [
+								3,
+								11
+							]
+						},
+						{
+							"screen_name": "awryaditi",
+							"name": "Aditi",
+							"id": 18538525,
+							"id_str": "18538525",
+							"indices": [
+								86,
+								96
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/aqZzGywiUL",
+							"expanded_url": "https://twitter.com/i/web/status/945213673466880000",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2996232492,
+					"id_str": "2996232492",
+					"name": "brown nosed reindeer",
+					"screen_name": "jimanish",
+					"location": "New Delhi, India",
+					"description": "'tis the season",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1151,
+					"friends_count": 218,
+					"listed_count": 51,
+					"created_at": "Sun Jan 25 22:30:59 +0000 2015",
+					"favourites_count": 19700,
+					"utc_offset": 19800,
+					"time_zone": "Mumbai",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 36427,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/944970777064902658/VGt0iYFM_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/944970777064902658/VGt0iYFM_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2996232492/1474543454",
+					"profile_link_color": "E81C4F",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 283,
+				"favorite_count": 258,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 183,
+			"favorite_count": 451,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 945213673466880000,
+		"quoted_status_id_str": "945213673466880000",
+		"retweet_count": 183,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 04:56:45 +0000 2017",
+		"id": 945518724814999600,
+		"id_str": "945518724814999553",
+		"text": "RT @zenrainman: Affection is a neck rub https://t.co/RCrSy0gRrM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zenrainman",
+					"name": "zenrainman",
+					"id": 18285948,
+					"id_str": "18285948",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945185298073264100,
+					"id_str": "945185298073264129",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+					"url": "https://t.co/RCrSy0gRrM",
+					"display_url": "pic.twitter.com/RCrSy0gRrM",
+					"expanded_url": "https://twitter.com/zenrainman/status/945185308185829376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945185308185829400,
+					"source_status_id_str": "945185308185829376",
+					"source_user_id": 18285948,
+					"source_user_id_str": "18285948"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945185298073264100,
+					"id_str": "945185298073264129",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+					"url": "https://t.co/RCrSy0gRrM",
+					"display_url": "pic.twitter.com/RCrSy0gRrM",
+					"expanded_url": "https://twitter.com/zenrainman/status/945185308185829376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945185308185829400,
+					"source_status_id_str": "945185308185829376",
+					"source_user_id": 18285948,
+					"source_user_id_str": "18285948"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10025,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98819,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940539250080018432/VYoEiMIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1511089734",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 06:51:52 +0000 2017",
+			"id": 945185308185829400,
+			"id_str": "945185308185829376",
+			"text": "Affection is a neck rub https://t.co/RCrSy0gRrM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945185298073264100,
+						"id_str": "945185298073264129",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+						"url": "https://t.co/RCrSy0gRrM",
+						"display_url": "pic.twitter.com/RCrSy0gRrM",
+						"expanded_url": "https://twitter.com/zenrainman/status/945185308185829376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945185298073264100,
+						"id_str": "945185298073264129",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR35BVKUIAEkFDn.jpg",
+						"url": "https://t.co/RCrSy0gRrM",
+						"display_url": "pic.twitter.com/RCrSy0gRrM",
+						"expanded_url": "https://twitter.com/zenrainman/status/945185308185829376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18285948,
+				"id_str": "18285948",
+				"name": "zenrainman",
+				"screen_name": "zenrainman",
+				"location": "Bengaluru India",
+				"description": "the only zen you will find here is the zen you bring.. Nevermind....",
+				"url": "https://t.co/tRCdU0dRFI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tRCdU0dRFI",
+								"expanded_url": "http://www.rainwaterclub.org",
+								"display_url": "rainwaterclub.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9511,
+				"friends_count": 6878,
+				"listed_count": 289,
+				"created_at": "Sun Dec 21 15:23:43 +0000 2008",
+				"favourites_count": 20604,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 97912,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/811997963/141e53c1bcc5c83011140b3f8df7760e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/811997963/141e53c1bcc5c83011140b3f8df7760e.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18285948/1411998782",
+				"profile_link_color": "4CD12A",
+				"profile_sidebar_border_color": "4CD12A",
+				"profile_sidebar_fill_color": "843B06",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1b8680cd52a711cb",
+				"url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+				"place_type": "city",
+				"name": "Bengaluru",
+				"full_name": "Bengaluru, India",
+				"country_code": "IN",
+				"country": "India",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								77.373474,
+								12.919037
+							],
+							[
+								77.739371,
+								12.919037
+							],
+							[
+								77.739371,
+								13.231381
+							],
+							[
+								77.373474,
+								13.231381
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 32,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 25 16:18:57 +0000 2017",
 		"id": 945328017089364000,
 		"id_str": "945328017089363968",
