@@ -1,6 +1,1278 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 16:40:24 +0000 2018",
+		"id": 950044458736795600,
+		"id_str": "950044458736795649",
+		"text": "RT @VlNCHY: i thought this lady was fuckin staring at me for 5 minutes till i realized it was a magazine https://t.co/eb0gLWvf6i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VlNCHY",
+					"name": "vince",
+					"id": 3284573576,
+					"id_str": "3284573576",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 949836784384405500,
+					"id_str": "949836784384405504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+					"url": "https://t.co/eb0gLWvf6i",
+					"display_url": "pic.twitter.com/eb0gLWvf6i",
+					"expanded_url": "https://twitter.com/VlNCHY/status/949836803493707776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 699,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 699,
+							"h": 584,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949836803493707800,
+					"source_status_id_str": "949836803493707776",
+					"source_user_id": 3284573576,
+					"source_user_id_str": "3284573576"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949836784384405500,
+					"id_str": "949836784384405504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+					"url": "https://t.co/eb0gLWvf6i",
+					"display_url": "pic.twitter.com/eb0gLWvf6i",
+					"expanded_url": "https://twitter.com/VlNCHY/status/949836803493707776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 699,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 699,
+							"h": 584,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949836803493707800,
+					"source_status_id_str": "949836803493707776",
+					"source_user_id": 3284573576,
+					"source_user_id_str": "3284573576"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10013,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1514742828",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 02:55:15 +0000 2018",
+			"id": 949836803493707800,
+			"id_str": "949836803493707776",
+			"text": "i thought this lady was fuckin staring at me for 5 minutes till i realized it was a magazine https://t.co/eb0gLWvf6i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 949836784384405500,
+						"id_str": "949836784384405504",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+						"url": "https://t.co/eb0gLWvf6i",
+						"display_url": "pic.twitter.com/eb0gLWvf6i",
+						"expanded_url": "https://twitter.com/VlNCHY/status/949836803493707776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 699,
+								"h": 584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 568,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 699,
+								"h": 584,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949836784384405500,
+						"id_str": "949836784384405504",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS5_hd_U8AA2GzS.jpg",
+						"url": "https://t.co/eb0gLWvf6i",
+						"display_url": "pic.twitter.com/eb0gLWvf6i",
+						"expanded_url": "https://twitter.com/VlNCHY/status/949836803493707776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 699,
+								"h": 584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 568,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 699,
+								"h": 584,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3284573576,
+				"id_str": "3284573576",
+				"name": "vince",
+				"screen_name": "VlNCHY",
+				"location": "erhs - Riverside, CA",
+				"description": "pls b my girlfriend i already told my mom | personal acc: @WOKEASlAN | snap: vinchyyy | dm for promo $",
+				"url": "https://t.co/WNsNt4Qkxd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNsNt4Qkxd",
+								"expanded_url": "https://youtu.be/r6eiLRWXi0o",
+								"display_url": "youtu.be/r6eiLRWXi0o",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17121,
+				"friends_count": 3728,
+				"listed_count": 994,
+				"created_at": "Sun Jul 19 17:51:39 +0000 2015",
+				"favourites_count": 19337,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948875331313713153/jRlvoP_T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948875331313713153/jRlvoP_T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3284573576/1515064694",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59895,
+			"favorite_count": 152854,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 59895,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 08:48:43 +0000 2018",
+		"id": 949925756989161500,
+		"id_str": "949925756989161473",
+		"text": "RT @AMAZlNGNATURE: Penguin falls down resulting in best sound ever 😂 https://t.co/4SoHDqZAD0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMAZlNGNATURE",
+					"name": "Nature is Amazing 🌿",
+					"id": 2828212668,
+					"id_str": "2828212668",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 865003270275686400,
+					"id_str": "865003270275686400",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+					"url": "https://t.co/4SoHDqZAD0",
+					"display_url": "pic.twitter.com/4SoHDqZAD0",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/865003463352111106/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865003463352111100,
+					"source_status_id_str": "865003463352111106",
+					"source_user_id": 2828212668,
+					"source_user_id_str": "2828212668"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 865003270275686400,
+					"id_str": "865003270275686400",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+					"url": "https://t.co/4SoHDqZAD0",
+					"display_url": "pic.twitter.com/4SoHDqZAD0",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/865003463352111106/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865003463352111100,
+					"source_status_id_str": "865003463352111106",
+					"source_user_id": 2828212668,
+					"source_user_id_str": "2828212668",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11917,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/865003270275686400/pu/vid/240x240/8jnsiu82RRuslyY0.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/865003270275686400/pu/vid/480x480/JDoMF6vpQGMIlpCs.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/865003270275686400/pu/pl/vE4BTp2tFqXVbMxq.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2828212668,
+							"id_str": "2828212668",
+							"name": "Nature is Amazing 🌿",
+							"screen_name": "AMAZlNGNATURE",
+							"location": "🌍",
+							"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 284146,
+							"friends_count": 0,
+							"listed_count": 1427,
+							"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+							"favourites_count": 280,
+							"utc_offset": 19800,
+							"time_zone": "Asia/Calcutta",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 4289,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10013,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1514742828",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 05 13:17:47 +0000 2018",
+			"id": 949268693929812000,
+			"id_str": "949268693929811969",
+			"text": "Penguin falls down resulting in best sound ever 😂 https://t.co/4SoHDqZAD0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 865003270275686400,
+						"id_str": "865003270275686400",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+						"url": "https://t.co/4SoHDqZAD0",
+						"display_url": "pic.twitter.com/4SoHDqZAD0",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/865003463352111106/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 865003463352111100,
+						"source_status_id_str": "865003463352111106",
+						"source_user_id": 2828212668,
+						"source_user_id_str": "2828212668"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865003270275686400,
+						"id_str": "865003270275686400",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865003270275686400/pu/img/USRseG41R0nYU_9G.jpg",
+						"url": "https://t.co/4SoHDqZAD0",
+						"display_url": "pic.twitter.com/4SoHDqZAD0",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/865003463352111106/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 865003463352111100,
+						"source_status_id_str": "865003463352111106",
+						"source_user_id": 2828212668,
+						"source_user_id_str": "2828212668",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 11917,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/865003270275686400/pu/vid/240x240/8jnsiu82RRuslyY0.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/865003270275686400/pu/vid/480x480/JDoMF6vpQGMIlpCs.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/865003270275686400/pu/pl/vE4BTp2tFqXVbMxq.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2828212668,
+								"id_str": "2828212668",
+								"name": "Nature is Amazing 🌿",
+								"screen_name": "AMAZlNGNATURE",
+								"location": "🌍",
+								"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 284146,
+								"friends_count": 0,
+								"listed_count": 1427,
+								"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+								"favourites_count": 280,
+								"utc_offset": 19800,
+								"time_zone": "Asia/Calcutta",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 4289,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+								"profile_link_color": "FF691F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828212668,
+				"id_str": "2828212668",
+				"name": "Nature is Amazing 🌿",
+				"screen_name": "AMAZlNGNATURE",
+				"location": "🌍",
+				"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284146,
+				"friends_count": 0,
+				"listed_count": 1427,
+				"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+				"favourites_count": 280,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4289,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84765,
+			"favorite_count": 180050,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 84765,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 08:48:15 +0000 2018",
+		"id": 949925636990095400,
+		"id_str": "949925636990095361",
+		"text": "RT @AMAZlNGNATURE: Duck landing on ice 🦆 https://t.co/bYjKEYzhSp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMAZlNGNATURE",
+					"name": "Nature is Amazing 🌿",
+					"id": 2828212668,
+					"id_str": "2828212668",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 949718143387107300,
+					"id_str": "949718143387107328",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+					"url": "https://t.co/bYjKEYzhSp",
+					"display_url": "pic.twitter.com/bYjKEYzhSp",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949718254846488600,
+					"source_status_id_str": "949718254846488576",
+					"source_user_id": 2828212668,
+					"source_user_id_str": "2828212668"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949718143387107300,
+					"id_str": "949718143387107328",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+					"url": "https://t.co/bYjKEYzhSp",
+					"display_url": "pic.twitter.com/bYjKEYzhSp",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949718254846488600,
+					"source_status_id_str": "949718254846488576",
+					"source_user_id": 2828212668,
+					"source_user_id_str": "2828212668",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 5706,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/1280x720/aYRlRJkcYaGD0HW5.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/640x360/gzeekTWwXTfI9yEk.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/320x180/sPnkmjiY_r1yMFY9.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/pl/W0eTl65UjdLFA6Nc.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2828212668,
+							"id_str": "2828212668",
+							"name": "Nature is Amazing 🌿",
+							"screen_name": "AMAZlNGNATURE",
+							"location": "🌍",
+							"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 284146,
+							"friends_count": 0,
+							"listed_count": 1427,
+							"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+							"favourites_count": 280,
+							"utc_offset": 19800,
+							"time_zone": "Asia/Calcutta",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 4289,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 515,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10013,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1514742828",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 19:04:11 +0000 2018",
+			"id": 949718254846488600,
+			"id_str": "949718254846488576",
+			"text": "Duck landing on ice 🦆 https://t.co/bYjKEYzhSp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 949718143387107300,
+						"id_str": "949718143387107328",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"url": "https://t.co/bYjKEYzhSp",
+						"display_url": "pic.twitter.com/bYjKEYzhSp",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949718143387107300,
+						"id_str": "949718143387107328",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"url": "https://t.co/bYjKEYzhSp",
+						"display_url": "pic.twitter.com/bYjKEYzhSp",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 5706,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/1280x720/aYRlRJkcYaGD0HW5.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/640x360/gzeekTWwXTfI9yEk.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/320x180/sPnkmjiY_r1yMFY9.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/pl/W0eTl65UjdLFA6Nc.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828212668,
+				"id_str": "2828212668",
+				"name": "Nature is Amazing 🌿",
+				"screen_name": "AMAZlNGNATURE",
+				"location": "🌍",
+				"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284146,
+				"friends_count": 0,
+				"listed_count": 1427,
+				"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+				"favourites_count": 280,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Calcutta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4289,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101828,
+			"favorite_count": 254052,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 101828,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 06 07:03:28 +0000 2018",
 		"id": 949536881481433100,
 		"id_str": "949536881481433089",
