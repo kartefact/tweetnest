@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 14 08:01:07 +0000 2018",
+		"id": 952450490951848000,
+		"id_str": "952450490951847936",
+		"text": "@mudnsky @Karaboondi &lt;Changes the channel&gt; 😳",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Karaboondi",
+					"name": "Thiruttu Sundari",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 952450177377321000,
+		"in_reply_to_status_id_str": "952450177377320960",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10054,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1514742828",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 14 07:50:02 +0000 2018",
+		"id": 952447703874658300,
+		"id_str": "952447703874658306",
+		"text": "@Karaboondi @mudnsky May be that's why she fought with me 😑 #changethechannel",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "changethechannel",
+					"indices": [
+						60,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Karaboondi",
+					"name": "Thiruttu Sundari",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 952447194820313100,
+		"in_reply_to_status_id_str": "952447194820313088",
+		"in_reply_to_user_id": 398860199,
+		"in_reply_to_user_id_str": "398860199",
+		"in_reply_to_screen_name": "Karaboondi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10054,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1514742828",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 14 06:45:55 +0000 2018",
+		"id": 952431565224620000,
+		"id_str": "952431565224620032",
+		"text": "RT @yogthos: 2 unit tests\n0 integration tests https://t.co/95RoYKy96b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yogthos",
+					"name": "Dmitri Sotnikov ⚛",
+					"id": 217225618,
+					"id_str": "217225618",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 951901664021241900,
+					"id_str": "951901664021241857",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+					"url": "https://t.co/95RoYKy96b",
+					"display_url": "pic.twitter.com/95RoYKy96b",
+					"expanded_url": "https://twitter.com/yogthos/status/951905438727057408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951905438727057400,
+					"source_status_id_str": "951905438727057408",
+					"source_user_id": 217225618,
+					"source_user_id_str": "217225618"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951901664021241900,
+					"id_str": "951901664021241857",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+					"url": "https://t.co/95RoYKy96b",
+					"display_url": "pic.twitter.com/95RoYKy96b",
+					"expanded_url": "https://twitter.com/yogthos/status/951905438727057408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951905438727057400,
+					"source_status_id_str": "951905438727057408",
+					"source_user_id": 217225618,
+					"source_user_id_str": "217225618",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11400,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/vid/720x720/fLbjesxS7Mjuebl5.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/vid/240x240/Bx7GML890WxfPX2Q.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/vid/480x480/oaJ9iIjDbWD3yHNv.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/pl/z3Z9j7g6k99zcfF-.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 217225618,
+							"id_str": "217225618",
+							"name": "Dmitri Sotnikov ⚛",
+							"screen_name": "yogthos",
+							"location": "Toronto, Canada",
+							"description": "A sentience trapped in a prison of meat.",
+							"url": "https://t.co/grlJTj2kyw",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/grlJTj2kyw",
+											"expanded_url": "http://yogthos.net",
+											"display_url": "yogthos.net",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2054,
+							"friends_count": 666,
+							"listed_count": 297,
+							"created_at": "Thu Nov 18 22:50:30 +0000 2010",
+							"favourites_count": 36344,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 42167,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/584540586818084864/EqAtA7iY_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/584540586818084864/EqAtA7iY_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/217225618/1510924418",
+							"profile_link_color": "162C58",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10054,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1514742828",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 12 19:55:16 +0000 2018",
+			"id": 951905438727057400,
+			"id_str": "951905438727057408",
+			"text": "2 unit tests\n0 integration tests https://t.co/95RoYKy96b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 951901664021241900,
+						"id_str": "951901664021241857",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+						"url": "https://t.co/95RoYKy96b",
+						"display_url": "pic.twitter.com/95RoYKy96b",
+						"expanded_url": "https://twitter.com/yogthos/status/951905438727057408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951901664021241900,
+						"id_str": "951901664021241857",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/951901664021241857/pu/img/W_ACez7-06J4mXT8.jpg",
+						"url": "https://t.co/95RoYKy96b",
+						"display_url": "pic.twitter.com/95RoYKy96b",
+						"expanded_url": "https://twitter.com/yogthos/status/951905438727057408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 11400,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/vid/720x720/fLbjesxS7Mjuebl5.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/vid/240x240/Bx7GML890WxfPX2Q.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/vid/480x480/oaJ9iIjDbWD3yHNv.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/951901664021241857/pu/pl/z3Z9j7g6k99zcfF-.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 217225618,
+				"id_str": "217225618",
+				"name": "Dmitri Sotnikov ⚛",
+				"screen_name": "yogthos",
+				"location": "Toronto, Canada",
+				"description": "A sentience trapped in a prison of meat.",
+				"url": "https://t.co/grlJTj2kyw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/grlJTj2kyw",
+								"expanded_url": "http://yogthos.net",
+								"display_url": "yogthos.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2054,
+				"friends_count": 666,
+				"listed_count": 297,
+				"created_at": "Thu Nov 18 22:50:30 +0000 2010",
+				"favourites_count": 36344,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/584540586818084864/EqAtA7iY_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/584540586818084864/EqAtA7iY_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/217225618/1510924418",
+				"profile_link_color": "162C58",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13906,
+			"favorite_count": 24918,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13906,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 13 15:17:01 +0000 2018",
 		"id": 952197800346796000,
 		"id_str": "952197800346796034",
