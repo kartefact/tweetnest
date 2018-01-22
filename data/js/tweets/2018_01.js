@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 21 21:33:59 +0000 2018",
+		"id": 955191770844819500,
+		"id_str": "955191770844819457",
+		"text": "03:03",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Jan 21 19:48:13 +0000 2018",
+		"id": 955165152969543700,
+		"id_str": "955165152969543685",
+		"text": "RT @VishnuNDTV: India first 3 women fighter pilots, now trained and combat ready.. https://t.co/LAWGWYIdNV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VishnuNDTV",
+					"name": "Vishnu Som",
+					"id": 83531741,
+					"id_str": "83531741",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 954581796020039700,
+					"id_str": "954581796020039680",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+					"url": "https://t.co/LAWGWYIdNV",
+					"display_url": "pic.twitter.com/LAWGWYIdNV",
+					"expanded_url": "https://twitter.com/VishnuNDTV/status/954581819168497664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954581819168497700,
+					"source_status_id_str": "954581819168497664",
+					"source_user_id": 83531741,
+					"source_user_id_str": "83531741"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954581796020039700,
+					"id_str": "954581796020039680",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+					"url": "https://t.co/LAWGWYIdNV",
+					"display_url": "pic.twitter.com/LAWGWYIdNV",
+					"expanded_url": "https://twitter.com/VishnuNDTV/status/954581819168497664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954581819168497700,
+					"source_status_id_str": "954581819168497664",
+					"source_user_id": 83531741,
+					"source_user_id_str": "83531741"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 20 05:10:15 +0000 2018",
+			"id": 954581819168497700,
+			"id_str": "954581819168497664",
+			"text": "India first 3 women fighter pilots, now trained and combat ready.. https://t.co/LAWGWYIdNV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 954581796020039700,
+						"id_str": "954581796020039680",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+						"url": "https://t.co/LAWGWYIdNV",
+						"display_url": "pic.twitter.com/LAWGWYIdNV",
+						"expanded_url": "https://twitter.com/VishnuNDTV/status/954581819168497664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 966,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 906,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954581796020039700,
+						"id_str": "954581796020039680",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT9bFfzUMAAJt9d.jpg",
+						"url": "https://t.co/LAWGWYIdNV",
+						"display_url": "pic.twitter.com/LAWGWYIdNV",
+						"expanded_url": "https://twitter.com/VishnuNDTV/status/954581819168497664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 966,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 906,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83531741,
+				"id_str": "83531741",
+				"name": "Vishnu Som",
+				"screen_name": "VishnuNDTV",
+				"location": "New Delhi",
+				"description": "NDTV Defence Editor and Principal Anchor - Inspired by Indian Armed Forces. Anchor, The Buck Stops Here (Mon-Thu at 10 pm).",
+				"url": "https://t.co/4D2Y1aITRT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4D2Y1aITRT",
+								"expanded_url": "http://www.ndtv.com",
+								"display_url": "ndtv.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16664,
+				"friends_count": 1241,
+				"listed_count": 287,
+				"created_at": "Mon Oct 19 05:44:20 +0000 2009",
+				"favourites_count": 768,
+				"utc_offset": 19800,
+				"time_zone": "Kolkata",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950175515423293440/8gfH7TSE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950175515423293440/8gfH7TSE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83531741/1516424845",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2666,
+			"favorite_count": 6744,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2666,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 21 10:21:31 +0000 2018",
+		"id": 955022538068828200,
+		"id_str": "955022538068828161",
+		"text": "RT @badechote: When your friend returns from abroad with a fake accent https://t.co/gupmlLal7r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "badechote",
+					"name": "Bade Chote",
+					"id": 2479293032,
+					"id_str": "2479293032",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 954633031016366100,
+					"id_str": "954633031016366080",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+					"url": "https://t.co/gupmlLal7r",
+					"display_url": "pic.twitter.com/gupmlLal7r",
+					"expanded_url": "https://twitter.com/badechote/status/954668074178957312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954668074178957300,
+					"source_status_id_str": "954668074178957312",
+					"source_user_id": 2479293032,
+					"source_user_id_str": "2479293032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954633031016366100,
+					"id_str": "954633031016366080",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+					"url": "https://t.co/gupmlLal7r",
+					"display_url": "pic.twitter.com/gupmlLal7r",
+					"expanded_url": "https://twitter.com/badechote/status/954668074178957312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954668074178957300,
+					"source_status_id_str": "954668074178957312",
+					"source_user_id": 2479293032,
+					"source_user_id_str": "2479293032"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 518,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 20 10:53:00 +0000 2018",
+			"id": 954668074178957300,
+			"id_str": "954668074178957312",
+			"text": "When your friend returns from abroad with a fake accent https://t.co/gupmlLal7r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 954633031016366100,
+						"id_str": "954633031016366080",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+						"url": "https://t.co/gupmlLal7r",
+						"display_url": "pic.twitter.com/gupmlLal7r",
+						"expanded_url": "https://twitter.com/badechote/status/954668074178957312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 550,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 970,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954633031016366100,
+						"id_str": "954633031016366080",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT-JrxCVwAA1J-U.jpg",
+						"url": "https://t.co/gupmlLal7r",
+						"display_url": "pic.twitter.com/gupmlLal7r",
+						"expanded_url": "https://twitter.com/badechote/status/954668074178957312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 550,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 970,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2479293032,
+				"id_str": "2479293032",
+				"name": "Bade Chote",
+				"screen_name": "badechote",
+				"location": "India",
+				"description": "The F-UNofficial account of 9XM's bade-chote. Managed by Chote",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217794,
+				"friends_count": 164,
+				"listed_count": 41,
+				"created_at": "Tue May 06 05:17:10 +0000 2014",
+				"favourites_count": 1264,
+				"utc_offset": 19800,
+				"time_zone": "Mumbai",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3488,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/488621164558704640/dgj6pS60.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/488621164558704640/dgj6pS60.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502332424286531584/136Aoavb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502332424286531584/136Aoavb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2479293032/1408600338",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3080,
+			"favorite_count": 5238,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3080,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 19 04:34:10 +0000 2018",
 		"id": 954210350051704800,
 		"id_str": "954210350051704833",
