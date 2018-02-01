@@ -1,6 +1,1345 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 31 13:58:32 +0000 2018",
+		"id": 958701033672372200,
+		"id_str": "958701033672372224",
+		"text": "#SuperBlueBloodMoon. #teamoneplus3 https://t.co/FaTIrUmV2K https://t.co/1bB47AVwUw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperBlueBloodMoon",
+					"indices": [
+						0,
+						19
+					]
+				},
+				{
+					"text": "teamoneplus3",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FaTIrUmV2K",
+					"expanded_url": "http://ift.tt/2Er5td9",
+					"display_url": "ift.tt/2Er5td9",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 958701030774132700,
+					"id_str": "958701030774132742",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DU39ghEX0AYZIMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU39ghEX0AYZIMC.jpg",
+					"url": "https://t.co/1bB47AVwUw",
+					"display_url": "pic.twitter.com/1bB47AVwUw",
+					"expanded_url": "https://twitter.com/kartefact/status/958701033672372224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 577,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 577,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958701030774132700,
+					"id_str": "958701030774132742",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DU39ghEX0AYZIMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU39ghEX0AYZIMC.jpg",
+					"url": "https://t.co/1bB47AVwUw",
+					"display_url": "pic.twitter.com/1bB47AVwUw",
+					"expanded_url": "https://twitter.com/kartefact/status/958701033672372224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 577,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 577,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1617,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10113,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jan 31 11:10:34 +0000 2018",
+		"id": 958658762725777400,
+		"id_str": "958658762725777408",
+		"text": "RT @sandygrains: The whole #SuperBlueBloodMoon lasts ~3 hrs although the full eclipse is only for an hour.\n\nIndia beginning timings (PM):…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperBlueBloodMoon",
+					"indices": [
+						27,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandygrains",
+					"name": "Sandhya Ramesh",
+					"id": 158451341,
+					"id_str": "158451341",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1617,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10113,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 30 06:00:59 +0000 2018",
+			"id": 958218464144998400,
+			"id_str": "958218464144998400",
+			"text": "The whole #SuperBlueBloodMoon lasts ~3 hrs although the full eclipse is only for an hour.\n\nIndia beginning timings… https://t.co/GVGyOQM1nD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SuperBlueBloodMoon",
+						"indices": [
+							10,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GVGyOQM1nD",
+						"expanded_url": "https://twitter.com/i/web/status/958218464144998400",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 958218462077247500,
+			"in_reply_to_status_id_str": "958218462077247488",
+			"in_reply_to_user_id": 158451341,
+			"in_reply_to_user_id_str": "158451341",
+			"in_reply_to_screen_name": "sandygrains",
+			"user": {
+				"id": 158451341,
+				"id_str": "158451341",
+				"name": "Sandhya Ramesh",
+				"screen_name": "sandygrains",
+				"location": "Bengaluru, India",
+				"description": "Freelance science writer: astro, geo. Admin @GeoSciTweeps,  @NewSpaceIndia. RTs are not endorphins. #Esperanto komencanto,diru saluton! ✉️sandhya@dinosaurs.sexy",
+				"url": "https://t.co/fKFg2c19xT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fKFg2c19xT",
+								"expanded_url": "http://sandhyaramesh.com",
+								"display_url": "sandhyaramesh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18831,
+				"friends_count": 1187,
+				"listed_count": 360,
+				"created_at": "Tue Jun 22 18:46:51 +0000 2010",
+				"favourites_count": 6057,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 122312,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437200623700680704/q_njJouz.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437200623700680704/q_njJouz.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949271199581745153/wS9oVBVo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949271199581745153/wS9oVBVo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158451341/1512126974",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154,
+			"favorite_count": 183,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 11:10:08 +0000 2018",
+		"id": 958658652583309300,
+		"id_str": "958658652583309313",
+		"text": "RT @sandygrains: Good morning, India. A reminder that the #SuperBlueBloodMoon is tonight! Get your cameras ready. 📸 https://t.co/Fv4YhuYv79",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperBlueBloodMoon",
+					"indices": [
+						58,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandygrains",
+					"name": "Sandhya Ramesh",
+					"id": 158451341,
+					"id_str": "158451341",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fv4YhuYv79",
+					"expanded_url": "https://twitter.com/sandygrains/status/958218462077247488",
+					"display_url": "twitter.com/sandygrains/st…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1617,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10113,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 31 03:15:09 +0000 2018",
+			"id": 958539118966849500,
+			"id_str": "958539118966849537",
+			"text": "Good morning, India. A reminder that the #SuperBlueBloodMoon is tonight! Get your cameras ready. 📸 https://t.co/Fv4YhuYv79",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SuperBlueBloodMoon",
+						"indices": [
+							41,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Fv4YhuYv79",
+						"expanded_url": "https://twitter.com/sandygrains/status/958218462077247488",
+						"display_url": "twitter.com/sandygrains/st…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158451341,
+				"id_str": "158451341",
+				"name": "Sandhya Ramesh",
+				"screen_name": "sandygrains",
+				"location": "Bengaluru, India",
+				"description": "Freelance science writer: astro, geo. Admin @GeoSciTweeps,  @NewSpaceIndia. RTs are not endorphins. #Esperanto komencanto,diru saluton! ✉️sandhya@dinosaurs.sexy",
+				"url": "https://t.co/fKFg2c19xT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fKFg2c19xT",
+								"expanded_url": "http://sandhyaramesh.com",
+								"display_url": "sandhyaramesh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18831,
+				"friends_count": 1187,
+				"listed_count": 360,
+				"created_at": "Tue Jun 22 18:46:51 +0000 2010",
+				"favourites_count": 6057,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 122312,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437200623700680704/q_njJouz.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437200623700680704/q_njJouz.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949271199581745153/wS9oVBVo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949271199581745153/wS9oVBVo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158451341/1512126974",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 958218462077247500,
+			"quoted_status_id_str": "958218462077247488",
+			"quoted_status": {
+				"created_at": "Tue Jan 30 06:00:58 +0000 2018",
+				"id": 958218462077247500,
+				"id_str": "958218462077247488",
+				"text": "Tomorrow evening is the #SuperBlueBloodMoon, a once-in-a-lifetime event. \nSupermoon = moon's closest point to earth… https://t.co/k3uZniNDId",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "SuperBlueBloodMoon",
+							"indices": [
+								24,
+								43
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/k3uZniNDId",
+							"expanded_url": "https://twitter.com/i/web/status/958218462077247488",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 158451341,
+					"id_str": "158451341",
+					"name": "Sandhya Ramesh",
+					"screen_name": "sandygrains",
+					"location": "Bengaluru, India",
+					"description": "Freelance science writer: astro, geo. Admin @GeoSciTweeps,  @NewSpaceIndia. RTs are not endorphins. #Esperanto komencanto,diru saluton! ✉️sandhya@dinosaurs.sexy",
+					"url": "https://t.co/fKFg2c19xT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/fKFg2c19xT",
+									"expanded_url": "http://sandhyaramesh.com",
+									"display_url": "sandhyaramesh.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 18831,
+					"friends_count": 1187,
+					"listed_count": 360,
+					"created_at": "Tue Jun 22 18:46:51 +0000 2010",
+					"favourites_count": 6057,
+					"utc_offset": 19800,
+					"time_zone": "New Delhi",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 122312,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FCEBB6",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437200623700680704/q_njJouz.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437200623700680704/q_njJouz.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/949271199581745153/wS9oVBVo_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/949271199581745153/wS9oVBVo_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/158451341/1512126974",
+					"profile_link_color": "F58EA8",
+					"profile_sidebar_border_color": "F0A830",
+					"profile_sidebar_fill_color": "78C0A8",
+					"profile_text_color": "CE7834",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1395,
+				"favorite_count": 2211,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 34,
+			"favorite_count": 72,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 958218462077247500,
+		"quoted_status_id_str": "958218462077247488",
+		"retweet_count": 34,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 09:05:25 +0000 2018",
+		"id": 958627266497429500,
+		"id_str": "958627266497429504",
+		"text": "RT @FacesPics: What the heck are these guys looking at!? https://t.co/RGUzsbZ5GQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FacesPics",
+					"name": "Faces in Things",
+					"id": 1689419970,
+					"id_str": "1689419970",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 958065976737546200,
+					"id_str": "958065976737546240",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+					"url": "https://t.co/RGUzsbZ5GQ",
+					"display_url": "pic.twitter.com/RGUzsbZ5GQ",
+					"expanded_url": "https://twitter.com/FacesPics/status/958065979182940166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 730,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 730,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958065979182940200,
+					"source_status_id_str": "958065979182940166",
+					"source_user_id": 1689419970,
+					"source_user_id_str": "1689419970"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958065976737546200,
+					"id_str": "958065976737546240",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+					"url": "https://t.co/RGUzsbZ5GQ",
+					"display_url": "pic.twitter.com/RGUzsbZ5GQ",
+					"expanded_url": "https://twitter.com/FacesPics/status/958065979182940166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 730,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 730,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958065979182940200,
+					"source_status_id_str": "958065979182940166",
+					"source_user_id": 1689419970,
+					"source_user_id_str": "1689419970"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1617,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10113,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 29 19:55:04 +0000 2018",
+			"id": 958065979182940200,
+			"id_str": "958065979182940166",
+			"text": "What the heck are these guys looking at!? https://t.co/RGUzsbZ5GQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 958065976737546200,
+						"id_str": "958065976737546240",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+						"url": "https://t.co/RGUzsbZ5GQ",
+						"display_url": "pic.twitter.com/RGUzsbZ5GQ",
+						"expanded_url": "https://twitter.com/FacesPics/status/958065979182940166/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 730,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 730,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 958065976737546200,
+						"id_str": "958065976737546240",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUu77gbUQAAhba0.jpg",
+						"url": "https://t.co/RGUzsbZ5GQ",
+						"display_url": "pic.twitter.com/RGUzsbZ5GQ",
+						"expanded_url": "https://twitter.com/FacesPics/status/958065979182940166/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 730,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 730,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1689419970,
+				"id_str": "1689419970",
+				"name": "Faces in Things",
+				"screen_name": "FacesPics",
+				"location": "email: faces@viralspark.net",
+				"description": "Admit it, you see a face.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618014,
+				"friends_count": 9,
+				"listed_count": 3838,
+				"created_at": "Wed Aug 21 23:11:30 +0000 2013",
+				"favourites_count": 2424,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1305,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689419970/1384060472",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3345,
+			"favorite_count": 8741,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3345,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 08:53:33 +0000 2018",
+		"id": 958624281130254300,
+		"id_str": "958624281130254336",
+		"text": "RT @Muireann_Irish: I was asked to speak at an event on “what it’s like to be a woman in science”. In the spirit of transparency, I tell th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Muireann_Irish",
+					"name": "☘️Muireann Irish🧠",
+					"id": 2906420316,
+					"id_str": "2906420316",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1617,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10113,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 31 06:46:33 +0000 2018",
+			"id": 958592320798064600,
+			"id_str": "958592320798064640",
+			"text": "I was asked to speak at an event on “what it’s like to be a woman in science”. In the spirit of transparency, I tel… https://t.co/fbMZa81SkZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fbMZa81SkZ",
+						"expanded_url": "https://twitter.com/i/web/status/958592320798064640",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2906420316,
+				"id_str": "2906420316",
+				"name": "☘️Muireann Irish🧠",
+				"screen_name": "Muireann_Irish",
+				"location": "Sydney, Australia",
+				"description": "Associate Professor of Psychology @Sydney_Uni Cognitive neuroscientist investigating memory, imagination, hippocampus, dementia.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1452,
+				"friends_count": 108,
+				"listed_count": 65,
+				"created_at": "Fri Nov 21 22:48:13 +0000 2014",
+				"favourites_count": 3429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631963353447985152/daP47XCc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631963353447985152/daP47XCc_normal.jpg",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0022e3c837579650",
+				"url": "https://api.twitter.com/1.1/geo/id/0022e3c837579650.json",
+				"place_type": "city",
+				"name": "Auckland",
+				"full_name": "Auckland, New Zealand",
+				"country_code": "NZ",
+				"country": "New Zealand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								174.161834,
+								-37.292621
+							],
+							[
+								175.550653,
+								-37.292621
+							],
+							[
+								175.550653,
+								-35.898837
+							],
+							[
+								174.161834,
+								-35.898837
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3534,
+			"favorite_count": 5487,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3534,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 08:01:12 +0000 2018",
+		"id": 958611107026845700,
+		"id_str": "958611107026845696",
+		"text": "@amabirdman Hi, Nice DP :-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 958316549969858600,
+		"in_reply_to_status_id_str": "958316549969858560",
+		"in_reply_to_user_id": 67494533,
+		"in_reply_to_user_id_str": "67494533",
+		"in_reply_to_screen_name": "amabirdman",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1617,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10113,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948202831760146432/bHeHTlPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1516570530",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl"
+	},
+	{
 		"created_at": "Sun Jan 28 22:13:31 +0000 2018",
 		"id": 957738436252741600,
 		"id_str": "957738436252741633",
