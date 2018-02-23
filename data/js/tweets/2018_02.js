@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 04:51:32 +0000 2018",
+		"id": 966535907573715000,
+		"id_str": "966535907573714944",
+		"text": "RT @CuteOverloads: This is my favorite video on the entire planet oh my goodness https://t.co/lauDhnGmwW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CuteOverloads",
+					"name": "Cute Overloads",
+					"id": 70009161,
+					"id_str": "70009161",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 689229178751733800,
+					"id_str": "689229178751733760",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+					"url": "https://t.co/lauDhnGmwW",
+					"display_url": "pic.twitter.com/lauDhnGmwW",
+					"expanded_url": "https://twitter.com/TweetLikeAGirI/status/689229216022265856/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 689229216022265900,
+					"source_status_id_str": "689229216022265856",
+					"source_user_id": 891826837,
+					"source_user_id_str": "891826837"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 689229178751733800,
+					"id_str": "689229178751733760",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+					"url": "https://t.co/lauDhnGmwW",
+					"display_url": "pic.twitter.com/lauDhnGmwW",
+					"expanded_url": "https://twitter.com/TweetLikeAGirI/status/689229216022265856/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 689229216022265900,
+					"source_status_id_str": "689229216022265856",
+					"source_user_id": 891826837,
+					"source_user_id_str": "891826837",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14615,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/689229178751733760/pu/vid/240x240/zuR9WObCK9auKliE.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/689229178751733760/pu/vid/480x480/6Fl-2UUh2ZsifcwM.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/689229178751733760/pu/pl/95MQZqjs6rODRcEa.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 891826837,
+							"id_str": "891826837",
+							"name": "Tweet Like A Girl",
+							"screen_name": "TweetLikeAGirI",
+							"location": "",
+							"description": "Omg, follow me betch. *we do not own content posted*  (Parody Account)\n\nSubmit tweets: tweetlikeafemale@gmail.com",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2949212,
+							"friends_count": 0,
+							"listed_count": 2582,
+							"created_at": "Fri Oct 19 20:54:40 +0000 2012",
+							"favourites_count": 2303,
+							"utc_offset": -25200,
+							"time_zone": "Arizona",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 7493,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0099B9",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/548663567512133632/LKsK5pFj_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/548663567512133632/LKsK5pFj_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/891826837/1406575626",
+							"profile_link_color": "0099B9",
+							"profile_sidebar_border_color": "5ED4DC",
+							"profile_sidebar_fill_color": "95E8EC",
+							"profile_text_color": "3C3940",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10074,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965248439918489600/kKpoRB5G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965248439918489600/kKpoRB5G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 02:39:04 +0000 2018",
+			"id": 966502570381504500,
+			"id_str": "966502570381504512",
+			"text": "This is my favorite video on the entire planet oh my goodness https://t.co/lauDhnGmwW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 689229178751733800,
+						"id_str": "689229178751733760",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+						"url": "https://t.co/lauDhnGmwW",
+						"display_url": "pic.twitter.com/lauDhnGmwW",
+						"expanded_url": "https://twitter.com/TweetLikeAGirI/status/689229216022265856/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 689229216022265900,
+						"source_status_id_str": "689229216022265856",
+						"source_user_id": 891826837,
+						"source_user_id_str": "891826837"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 689229178751733800,
+						"id_str": "689229178751733760",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/689229178751733760/pu/img/lGrvbI1JlRJp7tpE.jpg",
+						"url": "https://t.co/lauDhnGmwW",
+						"display_url": "pic.twitter.com/lauDhnGmwW",
+						"expanded_url": "https://twitter.com/TweetLikeAGirI/status/689229216022265856/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 689229216022265900,
+						"source_status_id_str": "689229216022265856",
+						"source_user_id": 891826837,
+						"source_user_id_str": "891826837",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 14615,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/689229178751733760/pu/vid/240x240/zuR9WObCK9auKliE.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/689229178751733760/pu/vid/480x480/6Fl-2UUh2ZsifcwM.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/689229178751733760/pu/pl/95MQZqjs6rODRcEa.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 891826837,
+								"id_str": "891826837",
+								"name": "Tweet Like A Girl",
+								"screen_name": "TweetLikeAGirI",
+								"location": "",
+								"description": "Omg, follow me betch. *we do not own content posted*  (Parody Account)\n\nSubmit tweets: tweetlikeafemale@gmail.com",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2949212,
+								"friends_count": 0,
+								"listed_count": 2582,
+								"created_at": "Fri Oct 19 20:54:40 +0000 2012",
+								"favourites_count": 2303,
+								"utc_offset": -25200,
+								"time_zone": "Arizona",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 7493,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "0099B9",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/548663567512133632/LKsK5pFj_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/548663567512133632/LKsK5pFj_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/891826837/1406575626",
+								"profile_link_color": "0099B9",
+								"profile_sidebar_border_color": "5ED4DC",
+								"profile_sidebar_fill_color": "95E8EC",
+								"profile_text_color": "3C3940",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70009161,
+				"id_str": "70009161",
+				"name": "Cute Overloads",
+				"screen_name": "CuteOverloads",
+				"location": "",
+				"description": "we DO NOT own content posted. Everything is submissions. Content will be immediately removed or credited by owners request. Enjoy!",
+				"url": "https://t.co/0UI615SniQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UI615SniQ",
+								"expanded_url": "http://instagram.com/cuteoverload.s",
+								"display_url": "instagram.com/cuteoverload.s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4541613,
+				"friends_count": 177,
+				"listed_count": 2289,
+				"created_at": "Sun Aug 30 01:00:50 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685174051/bbc1110c149aca9da29f97a3f92bbd5b.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000743122475/4b1b8d56500f4bd56748282022c6341f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70009161/1399149211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFD5B0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 632,
+			"favorite_count": 2434,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 632,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 22 04:49:40 +0000 2018",
+		"id": 966535440097570800,
+		"id_str": "966535440097570816",
+		"text": "@rajupp Team viewer 😁",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajupp",
+					"name": "Raju PP",
+					"id": 16619994,
+					"id_str": "16619994",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966526277476696000,
+		"in_reply_to_status_id_str": "966526277476696064",
+		"in_reply_to_user_id": 16619994,
+		"in_reply_to_user_id_str": "16619994",
+		"in_reply_to_screen_name": "rajupp",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10074,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965248439918489600/kKpoRB5G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965248439918489600/kKpoRB5G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 21 14:03:47 +0000 2018",
 		"id": 966312499715899400,
 		"id_str": "966312499715899392",
