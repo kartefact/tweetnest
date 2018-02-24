@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 19:33:42 +0000 2018",
+		"id": 967120298473590800,
+		"id_str": "967120298473590790",
+		"text": "Angel from the sky or @mudnsky? #Goa #SunAndSand https://t.co/r6cyOt91Rv https://t.co/tQxqmLwbK5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Goa",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "SunAndSand",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r6cyOt91Rv",
+					"expanded_url": "http://ift.tt/2sQs40s",
+					"display_url": "ift.tt/2sQs40s",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 967120296703676400,
+					"id_str": "967120296703676420",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DWvmySwX0AQtMj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWvmySwX0AQtMj_.jpg",
+					"url": "https://t.co/tQxqmLwbK5",
+					"display_url": "pic.twitter.com/tQxqmLwbK5",
+					"expanded_url": "https://twitter.com/kartefact/status/967120298473590790/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 967120296703676400,
+					"id_str": "967120296703676420",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DWvmySwX0AQtMj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWvmySwX0AQtMj_.jpg",
+					"url": "https://t.co/tQxqmLwbK5",
+					"display_url": "pic.twitter.com/tQxqmLwbK5",
+					"expanded_url": "https://twitter.com/kartefact/status/967120298473590790/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1620,
+			"friends_count": 517,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10073,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965248439918489600/kKpoRB5G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965248439918489600/kKpoRB5G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 22 04:51:32 +0000 2018",
 		"id": 966535907573715000,
 		"id_str": "966535907573714944",
