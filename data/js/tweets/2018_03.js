@@ -1,6 +1,744 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 05 07:25:33 +0000 2018",
+		"id": 970560935017369600,
+		"id_str": "970560935017369600",
+		"text": "RT @PuneerSoda: How to answer random relatives when they ask 'enna yaaru nu theriyudha?' 😂 https://t.co/2MOuXuAgGs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 970455769106796500,
+					"id_str": "970455769106796545",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+					"url": "https://t.co/2MOuXuAgGs",
+					"display_url": "pic.twitter.com/2MOuXuAgGs",
+					"expanded_url": "https://twitter.com/PuneerSoda/status/970456292899872768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970456292899872800,
+					"source_status_id_str": "970456292899872768",
+					"source_user_id": 59160839,
+					"source_user_id_str": "59160839"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 970455769106796500,
+					"id_str": "970455769106796545",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+					"url": "https://t.co/2MOuXuAgGs",
+					"display_url": "pic.twitter.com/2MOuXuAgGs",
+					"expanded_url": "https://twitter.com/PuneerSoda/status/970456292899872768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970456292899872800,
+					"source_status_id_str": "970456292899872768",
+					"source_user_id": 59160839,
+					"source_user_id_str": "59160839",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25625,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/970455769106796545/pu/pl/inb5TpNltIpy3046.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/970455769106796545/pu/vid/320x180/-AkThE_7j9_2ebyg.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/970455769106796545/pu/vid/640x360/Gnz1P1Pa_3fzL_ic.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 59160839,
+							"id_str": "59160839",
+							"name": "LS",
+							"screen_name": "PuneerSoda",
+							"location": "Berlin, Germany",
+							"description": "Madridista. Hala Madrid Y Nada Mas!\n\nBad jokes | Filter Coffee | Madras | Game of Thrones | Europe | Optimism | Blogging | Puns",
+							"url": "https://t.co/3oXFhtWjeT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/3oXFhtWjeT",
+											"expanded_url": "http://guessihaveablog.wordpress.com",
+											"display_url": "guessihaveablog.wordpress.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2729,
+							"friends_count": 274,
+							"listed_count": 75,
+							"created_at": "Wed Jul 22 15:51:06 +0000 2009",
+							"favourites_count": 1508,
+							"utc_offset": 19800,
+							"time_zone": "New Delhi",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 74830,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "18240A",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/544935326/dqg6ki.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/544935326/dqg6ki.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/969750355163697153/7r0gnNxp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/969750355163697153/7r0gnNxp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/59160839/1401984178",
+							"profile_link_color": "731135",
+							"profile_sidebar_border_color": "5496BA",
+							"profile_sidebar_fill_color": "05050A",
+							"profile_text_color": "DBAEAD",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://play.google.com/store/apps/details?id=com.arthurivanets.owly\" rel=\"nofollow\">Оwly</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 526,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10106,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 05 00:29:45 +0000 2018",
+			"id": 970456292899872800,
+			"id_str": "970456292899872768",
+			"text": "How to answer random relatives when they ask 'enna yaaru nu theriyudha?' 😂 https://t.co/2MOuXuAgGs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 970455769106796500,
+						"id_str": "970455769106796545",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+						"url": "https://t.co/2MOuXuAgGs",
+						"display_url": "pic.twitter.com/2MOuXuAgGs",
+						"expanded_url": "https://twitter.com/PuneerSoda/status/970456292899872768/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 970455769106796500,
+						"id_str": "970455769106796545",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/970455769106796545/pu/img/QR4-jqiksF18YotK.jpg",
+						"url": "https://t.co/2MOuXuAgGs",
+						"display_url": "pic.twitter.com/2MOuXuAgGs",
+						"expanded_url": "https://twitter.com/PuneerSoda/status/970456292899872768/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 25625,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/970455769106796545/pu/pl/inb5TpNltIpy3046.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/970455769106796545/pu/vid/320x180/-AkThE_7j9_2ebyg.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/970455769106796545/pu/vid/640x360/Gnz1P1Pa_3fzL_ic.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59160839,
+				"id_str": "59160839",
+				"name": "LS",
+				"screen_name": "PuneerSoda",
+				"location": "Berlin, Germany",
+				"description": "Madridista. Hala Madrid Y Nada Mas!\n\nBad jokes | Filter Coffee | Madras | Game of Thrones | Europe | Optimism | Blogging | Puns",
+				"url": "https://t.co/3oXFhtWjeT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3oXFhtWjeT",
+								"expanded_url": "http://guessihaveablog.wordpress.com",
+								"display_url": "guessihaveablog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2729,
+				"friends_count": 274,
+				"listed_count": 75,
+				"created_at": "Wed Jul 22 15:51:06 +0000 2009",
+				"favourites_count": 1508,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "18240A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/544935326/dqg6ki.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/544935326/dqg6ki.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969750355163697153/7r0gnNxp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969750355163697153/7r0gnNxp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59160839/1401984178",
+				"profile_link_color": "731135",
+				"profile_sidebar_border_color": "5496BA",
+				"profile_sidebar_fill_color": "05050A",
+				"profile_text_color": "DBAEAD",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 53,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 05 07:23:42 +0000 2018",
+		"id": 970560470028464100,
+		"id_str": "970560470028464128",
+		"text": "RT @Shaitaaaaan: RT if you have stopped watching The Big Bang Theory!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaitaaaaan",
+					"name": "Amol Mathur",
+					"id": 22113134,
+					"id_str": "22113134",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://play.google.com/store/apps/details?id=com.arthurivanets.owly\" rel=\"nofollow\">Оwly</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 526,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10106,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 05 06:45:20 +0000 2018",
+			"id": 970550814669389800,
+			"id_str": "970550814669389824",
+			"text": "RT if you have stopped watching The Big Bang Theory!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22113134,
+				"id_str": "22113134",
+				"name": "Amol Mathur",
+				"screen_name": "Shaitaaaaan",
+				"location": "Chennai/Tuticorin/Gurgaon",
+				"description": "Slim yet Foodie. \n\nBeer ❤️. \n\n📱Tech Blogger.\n\n#OnePlus5",
+				"url": "https://t.co/n3pVRdTcZM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n3pVRdTcZM",
+								"expanded_url": "http://www.randomIdle.com",
+								"display_url": "randomIdle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6200,
+				"friends_count": 613,
+				"listed_count": 231,
+				"created_at": "Fri Feb 27 05:51:07 +0000 2009",
+				"favourites_count": 8107,
+				"utc_offset": 19800,
+				"time_zone": "Asia/Kolkata",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 168430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970569726425317382/gfFgT71H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970569726425317382/gfFgT71H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22113134/1508777735",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 05 05:25:27 +0000 2018",
+		"id": 970530710502207500,
+		"id_str": "970530710502207493",
+		"text": "You are the creation, but you have the power to create. Create good. Be good. Spread love. #Goa #SunAndSand  cc:… https://t.co/BdIFGDs0VM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Goa",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "SunAndSand",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BdIFGDs0VM",
+					"expanded_url": "https://twitter.com/i/web/status/970530710502207493",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 526,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10106,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 04 18:11:46 +0000 2018",
 		"id": 970361173504938000,
 		"id_str": "970361173504937986",
@@ -363,7 +1101,7 @@ Grailbird.data.tweets_2018_03 =
 			"user_mentions": [
 				{
 					"screen_name": "triketora",
-					"name": "Tracy Chou 🙅🏻‍♀️",
+					"name": "Tracy Chou 🙅🏻♀️",
 					"id": 19556080,
 					"id_str": "19556080",
 					"indices": [
@@ -617,7 +1355,7 @@ Grailbird.data.tweets_2018_03 =
 			"user": {
 				"id": 19556080,
 				"id_str": "19556080",
-				"name": "Tracy Chou 🙅🏻‍♀️",
+				"name": "Tracy Chou 🙅🏻♀️",
 				"screen_name": "triketora",
 				"location": "nyc via sf",
 				"description": "tbd. organizing w @arenasummit, @projectinclude. @homebrew advisor. prev @pinterest, @usds, @quora, @stanford. i turn coffee into code. i like yoga and running.",
