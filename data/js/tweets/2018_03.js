@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 06 17:01:01 +0000 2018",
+		"id": 971068142490398700,
+		"id_str": "971068142490398720",
+		"text": "RT @openSAP: Learn about unit testing, test-driven development &amp; test isolation techniques for new &amp; legacy #ABAP code\nhttps://t.co/sqqE3Tj…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABAP",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openSAP",
+					"name": "openSAP",
+					"id": 1396484258,
+					"id_str": "1396484258",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10108,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98875,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 06 17:00:08 +0000 2018",
+			"id": 971067920423051300,
+			"id_str": "971067920423051264",
+			"text": "Learn about unit testing, test-driven development &amp; test isolation techniques for new &amp; legacy #ABAP code… https://t.co/2S2efJhU8Z",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ABAP",
+						"indices": [
+							103,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2S2efJhU8Z",
+						"expanded_url": "https://twitter.com/i/web/status/971067920423051264",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1396484258,
+				"id_str": "1396484258",
+				"name": "openSAP",
+				"screen_name": "openSAP",
+				"location": "Ireland",
+				"description": "openSAP is @SAP's FREE open online course provider, delivering knowledge to help you succeed in the SAP ecosystem. Tweets by @claire_donelon",
+				"url": "https://t.co/lguu7RBtZg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lguu7RBtZg",
+								"expanded_url": "https://open.sap.com",
+								"display_url": "open.sap.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17140,
+				"friends_count": 1111,
+				"listed_count": 904,
+				"created_at": "Thu May 02 07:15:46 +0000 2013",
+				"favourites_count": 5368,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15154,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/858240637/4c755c8cef2249128afb4764e58a1a9e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/858240637/4c755c8cef2249128afb4764e58a1a9e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539343665697521664/9HrUOH6G_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539343665697521664/9HrUOH6G_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396484258/1503654724",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 05 07:25:33 +0000 2018",
 		"id": 970560935017369600,
 		"id_str": "970560935017369600",
