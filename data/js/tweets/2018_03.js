@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 29 14:28:21 +0000 2018",
+		"id": 979364643658457100,
+		"id_str": "979364643658457088",
+		"text": "Team dinner (@ Big Brewsky - @brewskasura in Bengaluru, BENGALURU) https://t.co/Nb87CNEZnX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Brewskasura",
+					"name": "Brewsky Breweries",
+					"id": 2209425930,
+					"id_str": "2209425930",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nb87CNEZnX",
+					"expanded_url": "https://www.swarmapp.com/c/g2t7YjEXZQD",
+					"display_url": "swarmapp.com/c/g2t7YjEXZQD",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 528,
+			"listed_count": 0,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10122,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				12.91314107,
+				77.68323318
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				77.68323318,
+				12.91314107
+			]
+		},
+		"place": {
+			"id": "5f55bb82cf16ac81",
+			"url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json",
+			"place_type": "city",
+			"name": "Bengaluru South",
+			"full_name": "Bengaluru South, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.3305776,
+							12.731936
+						],
+						[
+							77.7863188,
+							12.731936
+						],
+						[
+							77.7863188,
+							13.1142933
+						],
+						[
+							77.3305776,
+							13.1142933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Thu Mar 29 09:44:28 +0000 2018",
+		"id": 979293200362942500,
+		"id_str": "979293200362942464",
+		"text": "RT @BoringEnormous: When you lied on your CV about having previous sheepdog experience. https://t.co/I8A5L5b3DT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoringEnormous",
+					"name": "Paul Bronks",
+					"id": 20538843,
+					"id_str": "20538843",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 978325014201106400,
+					"id_str": "978325014201106432",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+					"url": "https://t.co/I8A5L5b3DT",
+					"display_url": "pic.twitter.com/I8A5L5b3DT",
+					"expanded_url": "https://twitter.com/BoringEnormous/status/978325139950571520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 978325139950571500,
+					"source_status_id_str": "978325139950571520",
+					"source_user_id": 20538843,
+					"source_user_id_str": "20538843"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 978325014201106400,
+					"id_str": "978325014201106432",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+					"url": "https://t.co/I8A5L5b3DT",
+					"display_url": "pic.twitter.com/I8A5L5b3DT",
+					"expanded_url": "https://twitter.com/BoringEnormous/status/978325139950571520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 978325139950571500,
+					"source_status_id_str": "978325139950571520",
+					"source_user_id": 20538843,
+					"source_user_id_str": "20538843",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/vid/480x480/GRu2gB68WS-NMMSM.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/vid/720x720/iwTur5PZP1-29mGA.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/pl/Fp1E_MnFZOgGf8E6.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/vid/240x240/knoDGsHwONjtAg7C.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 20538843,
+							"id_str": "20538843",
+							"name": "Paul Bronks",
+							"screen_name": "BoringEnormous",
+							"location": "Sheffield, England",
+							"description": "A mistake on the part of nature. Jew-ish. I never want to die.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 42886,
+							"friends_count": 3362,
+							"listed_count": 565,
+							"created_at": "Tue Feb 10 19:45:06 +0000 2009",
+							"favourites_count": 20048,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 19159,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "11AA11",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000158092839/AzGbUAxp.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000158092839/AzGbUAxp.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/956993798915198976/atv0n6EU_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/956993798915198976/atv0n6EU_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/20538843/1521444207",
+							"profile_link_color": "111111",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 528,
+			"listed_count": 0,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10122,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 26 17:37:44 +0000 2018",
+			"id": 978325139950571500,
+			"id_str": "978325139950571520",
+			"text": "When you lied on your CV about having previous sheepdog experience. https://t.co/I8A5L5b3DT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 978325014201106400,
+						"id_str": "978325014201106432",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+						"url": "https://t.co/I8A5L5b3DT",
+						"display_url": "pic.twitter.com/I8A5L5b3DT",
+						"expanded_url": "https://twitter.com/BoringEnormous/status/978325139950571520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 978325014201106400,
+						"id_str": "978325014201106432",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/978325014201106432/pu/img/jAWO8tpS8MyEV4Y0.jpg",
+						"url": "https://t.co/I8A5L5b3DT",
+						"display_url": "pic.twitter.com/I8A5L5b3DT",
+						"expanded_url": "https://twitter.com/BoringEnormous/status/978325139950571520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/vid/480x480/GRu2gB68WS-NMMSM.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/vid/720x720/iwTur5PZP1-29mGA.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/pl/Fp1E_MnFZOgGf8E6.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/978325014201106432/pu/vid/240x240/knoDGsHwONjtAg7C.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20538843,
+				"id_str": "20538843",
+				"name": "Paul Bronks",
+				"screen_name": "BoringEnormous",
+				"location": "Sheffield, England",
+				"description": "A mistake on the part of nature. Jew-ish. I never want to die.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42886,
+				"friends_count": 3362,
+				"listed_count": 565,
+				"created_at": "Tue Feb 10 19:45:06 +0000 2009",
+				"favourites_count": 20048,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19159,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "11AA11",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000158092839/AzGbUAxp.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000158092839/AzGbUAxp.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956993798915198976/atv0n6EU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956993798915198976/atv0n6EU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20538843/1521444207",
+				"profile_link_color": "111111",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07e9c7d1954fff64",
+				"url": "https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json",
+				"place_type": "city",
+				"name": "Sheffield",
+				"full_name": "Sheffield, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.573648,
+								53.309898
+							],
+							[
+								-1.325576,
+								53.309898
+							],
+							[
+								-1.325576,
+								53.4564311
+							],
+							[
+								-1.573648,
+								53.4564311
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93078,
+			"favorite_count": 260847,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 93078,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 29 09:43:41 +0000 2018",
+		"id": 979293007345307600,
+		"id_str": "979293007345307649",
+		"text": "@mudnsky EEE :D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 978136771299983400,
+		"in_reply_to_status_id_str": "978136771299983362",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 528,
+			"listed_count": 0,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10122,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Mar 24 11:06:18 +0000 2018",
 		"id": 977501855801577500,
 		"id_str": "977501855801577472",
