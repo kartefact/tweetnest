@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 08:30:30 +0000 2018",
+		"id": 985435180457394200,
+		"id_str": "985435180457394177",
+		"text": "RT @PupsPorn: If this doesn't make your day I don't know what will https://t.co/6AV5N679XT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PupsPorn",
+					"name": "Puppy Lover",
+					"id": 835083097,
+					"id_str": "835083097",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 806147149033521200,
+					"id_str": "806147149033521152",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+					"url": "https://t.co/6AV5N679XT",
+					"display_url": "pic.twitter.com/6AV5N679XT",
+					"expanded_url": "https://twitter.com/EpicKidFails/status/806147253840867328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806147253840867300,
+					"source_status_id_str": "806147253840867328",
+					"source_user_id": 1433318972,
+					"source_user_id_str": "1433318972"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 806147149033521200,
+					"id_str": "806147149033521152",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+					"url": "https://t.co/6AV5N679XT",
+					"display_url": "pic.twitter.com/6AV5N679XT",
+					"expanded_url": "https://twitter.com/EpicKidFails/status/806147253840867328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806147253840867300,
+					"source_status_id_str": "806147253840867328",
+					"source_user_id": 1433318972,
+					"source_user_id_str": "1433318972",
+					"video_info": {
+						"aspect_ratio": [
+							319,
+							180
+						],
+						"duration_millis": 15100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/806147149033521152/pu/pl/HKFxv9iJnZ2nCmf8.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/806147149033521152/pu/vid/318x180/1_4P_a7KyZsTReyM.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/806147149033521152/pu/vid/638x360/qAbmwv6Tpk3LW5az.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1433318972,
+							"id_str": "1433318972",
+							"name": "Epic Kid Fails",
+							"screen_name": "EpicKidFails",
+							"location": "",
+							"description": "None of the kids shown in our videos were seriously injured (WE HOPE) Promo/Business contact KIK - Handley4 or dm me. Videos will be removed by request.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 151950,
+							"friends_count": 189,
+							"listed_count": 213,
+							"created_at": "Thu May 16 15:07:59 +0000 2013",
+							"favourites_count": 3,
+							"utc_offset": 7200,
+							"time_zone": "Amsterdam",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1450,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/683958613656862720/R_fAVeNM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/683958613656862720/R_fAVeNM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1433318972/1456095252",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1622,
+			"friends_count": 527,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10123,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 16:05:09 +0000 2018",
+			"id": 985187211485343700,
+			"id_str": "985187211485343744",
+			"text": "If this doesn't make your day I don't know what will https://t.co/6AV5N679XT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 806147149033521200,
+						"id_str": "806147149033521152",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+						"url": "https://t.co/6AV5N679XT",
+						"display_url": "pic.twitter.com/6AV5N679XT",
+						"expanded_url": "https://twitter.com/EpicKidFails/status/806147253840867328/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 806147253840867300,
+						"source_status_id_str": "806147253840867328",
+						"source_user_id": 1433318972,
+						"source_user_id_str": "1433318972"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 806147149033521200,
+						"id_str": "806147149033521152",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806147149033521152/pu/img/ji_yaQTJOUrscSrp.jpg",
+						"url": "https://t.co/6AV5N679XT",
+						"display_url": "pic.twitter.com/6AV5N679XT",
+						"expanded_url": "https://twitter.com/EpicKidFails/status/806147253840867328/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 638,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 806147253840867300,
+						"source_status_id_str": "806147253840867328",
+						"source_user_id": 1433318972,
+						"source_user_id_str": "1433318972",
+						"video_info": {
+							"aspect_ratio": [
+								319,
+								180
+							],
+							"duration_millis": 15100,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/806147149033521152/pu/pl/HKFxv9iJnZ2nCmf8.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/806147149033521152/pu/vid/318x180/1_4P_a7KyZsTReyM.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/806147149033521152/pu/vid/638x360/qAbmwv6Tpk3LW5az.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1433318972,
+								"id_str": "1433318972",
+								"name": "Epic Kid Fails",
+								"screen_name": "EpicKidFails",
+								"location": "",
+								"description": "None of the kids shown in our videos were seriously injured (WE HOPE) Promo/Business contact KIK - Handley4 or dm me. Videos will be removed by request.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 151950,
+								"friends_count": 189,
+								"listed_count": 213,
+								"created_at": "Thu May 16 15:07:59 +0000 2013",
+								"favourites_count": 3,
+								"utc_offset": 7200,
+								"time_zone": "Amsterdam",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1450,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/683958613656862720/R_fAVeNM_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/683958613656862720/R_fAVeNM_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1433318972/1456095252",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/Pyjp2clSrY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Pyjp2clSrY",
+								"expanded_url": "https://www.facebook.com/PupsLoverX",
+								"display_url": "facebook.com/PupsLoverX",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1894825,
+				"friends_count": 12453,
+				"listed_count": 981,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 101474,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 884,
+			"favorite_count": 2972,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 884,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 12 18:03:02 +0000 2018",
 		"id": 984492102405980200,
 		"id_str": "984492102405980162",
