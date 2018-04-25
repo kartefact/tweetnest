@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 24 04:50:26 +0000 2018",
+		"id": 988641292749103100,
+		"id_str": "988641292749103104",
+		"text": "Heaven on earth... The #Himalayan panorama right from the balcony! #Himachal #Manali #FB https://t.co/5Aq4sFECyn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Himalayan",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "Himachal",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "Manali",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "FB",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 988641259937026000,
+					"id_str": "988641259937026049",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbhb_OTXUAE5jmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbhb_OTXUAE5jmF.jpg",
+					"url": "https://t.co/5Aq4sFECyn",
+					"display_url": "pic.twitter.com/5Aq4sFECyn",
+					"expanded_url": "https://twitter.com/kartefact/status/988641292749103104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988641259937026000,
+					"id_str": "988641259937026049",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbhb_OTXUAE5jmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbhb_OTXUAE5jmF.jpg",
+					"url": "https://t.co/5Aq4sFECyn",
+					"display_url": "pic.twitter.com/5Aq4sFECyn",
+					"expanded_url": "https://twitter.com/kartefact/status/988641292749103104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 526,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10118,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970356405625647106/_WGfMH3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1518968138",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 23 17:41:45 +0000 2018",
 		"id": 988473013258588200,
 		"id_str": "988473013258588160",
