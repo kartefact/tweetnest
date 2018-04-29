@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 28 16:38:25 +0000 2018",
+		"id": 990269013912629200,
+		"id_str": "990269013912629252",
+		"text": "#NewProfilePic with @mudnsky - Pitch of dreams. #Himalayan #roadtrip. #HPCA stadium, #Dharamshala. https://t.co/LW6N60VO7U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewProfilePic",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Himalayan",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "roadtrip",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "HPCA",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "Dharamshala",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 990268940759851000,
+					"id_str": "990268940759851008",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Db4kWt4X4AAcG4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db4kWt4X4AAcG4x.jpg",
+					"url": "https://t.co/LW6N60VO7U",
+					"display_url": "pic.twitter.com/LW6N60VO7U",
+					"expanded_url": "https://twitter.com/kartefact/status/990269013912629252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990268940759851000,
+					"id_str": "990268940759851008",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Db4kWt4X4AAcG4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db4kWt4X4AAcG4x.jpg",
+					"url": "https://t.co/LW6N60VO7U",
+					"display_url": "pic.twitter.com/LW6N60VO7U",
+					"expanded_url": "https://twitter.com/kartefact/status/990269013912629252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10117,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 28 16:09:24 +0000 2018",
+		"id": 990261709481930800,
+		"id_str": "990261709481930753",
+		"text": "Chinna chinna aasai. Mutthu mutthu aasai. #roadtrip https://t.co/qLO9Lrv9qN https://t.co/7ITQOqKdTx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "roadtrip",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qLO9Lrv9qN",
+					"expanded_url": "https://ift.tt/2HTpBZs",
+					"display_url": "ift.tt/2HTpBZs",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 990261707825180700,
+					"id_str": "990261707825180672",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Db4dxtGXcAAkKsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db4dxtGXcAAkKsG.jpg",
+					"url": "https://t.co/7ITQOqKdTx",
+					"display_url": "pic.twitter.com/7ITQOqKdTx",
+					"expanded_url": "https://twitter.com/kartefact/status/990261709481930753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990261707825180700,
+					"id_str": "990261707825180672",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Db4dxtGXcAAkKsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db4dxtGXcAAkKsG.jpg",
+					"url": "https://t.co/7ITQOqKdTx",
+					"display_url": "pic.twitter.com/7ITQOqKdTx",
+					"expanded_url": "https://twitter.com/kartefact/status/990261709481930753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10117,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hi"
+	},
+	{
+		"created_at": "Sat Apr 28 15:51:07 +0000 2018",
+		"id": 990257109500661800,
+		"id_str": "990257109500661760",
+		"text": "With my #SteelLady at the #RockGarden. #roadtrip https://t.co/ZJjlWWz3vk https://t.co/gdaG4wDvY0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SteelLady",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"text": "RockGarden",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"text": "roadtrip",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZJjlWWz3vk",
+					"expanded_url": "https://ift.tt/2HX8N3F",
+					"display_url": "ift.tt/2HX8N3F",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 990257107487416300,
+					"id_str": "990257107487416322",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Db4Zl7gX4AIXULH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db4Zl7gX4AIXULH.jpg",
+					"url": "https://t.co/gdaG4wDvY0",
+					"display_url": "pic.twitter.com/gdaG4wDvY0",
+					"expanded_url": "https://twitter.com/kartefact/status/990257109500661760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990257107487416300,
+					"id_str": "990257107487416322",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Db4Zl7gX4AIXULH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db4Zl7gX4AIXULH.jpg",
+					"url": "https://t.co/gdaG4wDvY0",
+					"display_url": "pic.twitter.com/gdaG4wDvY0",
+					"expanded_url": "https://twitter.com/kartefact/status/990257109500661760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10117,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 28 02:37:28 +0000 2018",
+		"id": 990057381408247800,
+		"id_str": "990057381408247808",
+		"text": "Yeh Haseen vaadiyaan. Yeh khula aasmaan. #Himalayan #Roadtrip #snowcap https://t.co/nwgUoESR1L https://t.co/rbXxLMYdAP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Himalayan",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "Roadtrip",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "snowcap",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nwgUoESR1L",
+					"expanded_url": "https://ift.tt/2JxTziJ",
+					"display_url": "ift.tt/2JxTziJ",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 990057379810115600,
+					"id_str": "990057379810115584",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Db1j8P7WAAAEOF5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db1j8P7WAAAEOF5.jpg",
+					"url": "https://t.co/rbXxLMYdAP",
+					"display_url": "pic.twitter.com/rbXxLMYdAP",
+					"expanded_url": "https://twitter.com/kartefact/status/990057381408247808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 405,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990057379810115600,
+					"id_str": "990057379810115584",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Db1j8P7WAAAEOF5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db1j8P7WAAAEOF5.jpg",
+					"url": "https://t.co/rbXxLMYdAP",
+					"display_url": "pic.twitter.com/rbXxLMYdAP",
+					"expanded_url": "https://twitter.com/kartefact/status/990057381408247808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 405,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10117,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990266424508661765/Zm-luJXv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hi"
+	},
+	{
 		"created_at": "Tue Apr 24 04:50:26 +0000 2018",
 		"id": 988641292749103100,
 		"id_str": "988641292749103104",
