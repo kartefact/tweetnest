@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 13 16:46:35 +0000 2018",
+		"id": 995706885679415300,
+		"id_str": "995706885679415296",
+		"text": "RT @invisibleman_17: Our dog has arthritis, so I made a bus for him 🚌 https://t.co/ZvV1GmaK5E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "invisibleman_17",
+					"name": "The Invisible Man",
+					"id": 836884481277558800,
+					"id_str": "836884481277558790",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 995229021494546400,
+					"id_str": "995229021494546432",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+					"url": "https://t.co/ZvV1GmaK5E",
+					"display_url": "pic.twitter.com/ZvV1GmaK5E",
+					"expanded_url": "https://twitter.com/invisibleman_17/status/995229117997109248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 995229117997109200,
+					"source_status_id_str": "995229117997109248",
+					"source_user_id": 836884481277558800,
+					"source_user_id_str": "836884481277558790"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 995229021494546400,
+					"id_str": "995229021494546432",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+					"url": "https://t.co/ZvV1GmaK5E",
+					"display_url": "pic.twitter.com/ZvV1GmaK5E",
+					"expanded_url": "https://twitter.com/invisibleman_17/status/995229117997109248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 995229117997109200,
+					"source_status_id_str": "995229117997109248",
+					"source_user_id": 836884481277558800,
+					"source_user_id_str": "836884481277558790",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46092,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/995229021494546432/pu/vid/240x240/F1u3LRFg6fsi1dHG.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/995229021494546432/pu/pl/6cvMhFqwiluEp-lR.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 836884481277558800,
+							"id_str": "836884481277558790",
+							"name": "The Invisible Man",
+							"screen_name": "invisibleman_17",
+							"location": "",
+							"description": "I do not claim any ownership or copyright of the videos. DM for credit/removal",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 26158,
+							"friends_count": 13173,
+							"listed_count": 259,
+							"created_at": "Wed Mar 01 10:23:03 +0000 2017",
+							"favourites_count": 171,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 3578,
+							"lang": "nl",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/995758667646619648/uEiEfDnq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/995758667646619648/uEiEfDnq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/836884481277558790/1526242309",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 524,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10123,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98851,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 12 09:08:06 +0000 2018",
+			"id": 995229117997109200,
+			"id_str": "995229117997109248",
+			"text": "Our dog has arthritis, so I made a bus for him 🚌 https://t.co/ZvV1GmaK5E",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 995229021494546400,
+						"id_str": "995229021494546432",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+						"url": "https://t.co/ZvV1GmaK5E",
+						"display_url": "pic.twitter.com/ZvV1GmaK5E",
+						"expanded_url": "https://twitter.com/invisibleman_17/status/995229117997109248/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 995229021494546400,
+						"id_str": "995229021494546432",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/995229021494546432/pu/img/Lqwi3yTSxKsYImBU.jpg",
+						"url": "https://t.co/ZvV1GmaK5E",
+						"display_url": "pic.twitter.com/ZvV1GmaK5E",
+						"expanded_url": "https://twitter.com/invisibleman_17/status/995229117997109248/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 240,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 46092,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/995229021494546432/pu/vid/240x240/F1u3LRFg6fsi1dHG.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/995229021494546432/pu/pl/6cvMhFqwiluEp-lR.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 836884481277558800,
+				"id_str": "836884481277558790",
+				"name": "The Invisible Man",
+				"screen_name": "invisibleman_17",
+				"location": "",
+				"description": "I do not claim any ownership or copyright of the videos. DM for credit/removal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26158,
+				"friends_count": 13173,
+				"listed_count": 259,
+				"created_at": "Wed Mar 01 10:23:03 +0000 2017",
+				"favourites_count": 171,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3578,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/995758667646619648/uEiEfDnq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/995758667646619648/uEiEfDnq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/836884481277558790/1526242309",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22926,
+			"favorite_count": 89555,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22926,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 12 10:31:57 +0000 2018",
 		"id": 995250217489391600,
 		"id_str": "995250217489391616",
