@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 22 15:57:35 +0000 2018",
+		"id": 998956046734458900,
+		"id_str": "998956046734458880",
+		"text": "RT @_viju: When nature and man-made things converse. https://t.co/JnwoNj679P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 998787315957813200,
+					"id_str": "998787315957813249",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+					"url": "https://t.co/JnwoNj679P",
+					"display_url": "pic.twitter.com/JnwoNj679P",
+					"expanded_url": "https://twitter.com/_viju/status/998787360841256961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998787360841257000,
+					"source_status_id_str": "998787360841256961",
+					"source_user_id": 55976257,
+					"source_user_id_str": "55976257"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 998787315957813200,
+					"id_str": "998787315957813249",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+					"url": "https://t.co/JnwoNj679P",
+					"display_url": "pic.twitter.com/JnwoNj679P",
+					"expanded_url": "https://twitter.com/_viju/status/998787360841256961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998787360841257000,
+					"source_status_id_str": "998787360841256961",
+					"source_user_id": 55976257,
+					"source_user_id_str": "55976257"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 526,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10139,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98864,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590537116137979904/ktDWab05.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 22 04:47:18 +0000 2018",
+			"id": 998787360841257000,
+			"id_str": "998787360841256961",
+			"text": "When nature and man-made things converse. https://t.co/JnwoNj679P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 998787315957813200,
+						"id_str": "998787315957813249",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+						"url": "https://t.co/JnwoNj679P",
+						"display_url": "pic.twitter.com/JnwoNj679P",
+						"expanded_url": "https://twitter.com/_viju/status/998787360841256961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 998787315957813200,
+						"id_str": "998787315957813249",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdxnxaXU0AEZGsz.jpg",
+						"url": "https://t.co/JnwoNj679P",
+						"display_url": "pic.twitter.com/JnwoNj679P",
+						"expanded_url": "https://twitter.com/_viju/status/998787360841256961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 998468396718018600,
+			"in_reply_to_status_id_str": "998468396718018560",
+			"in_reply_to_user_id": 55976257,
+			"in_reply_to_user_id_str": "55976257",
+			"in_reply_to_screen_name": "_viju",
+			"user": {
+				"id": 55976257,
+				"id_str": "55976257",
+				"name": "V",
+				"screen_name": "_viju",
+				"location": "Luru",
+				"description": "Neither a jack, nor a master. https://t.co/Spn2mmcHYj Book review blog: https://t.co/FkiXrypKaW Tweets/RTs are personal.",
+				"url": "https://t.co/2dvd7kBYvQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2dvd7kBYvQ",
+								"expanded_url": "http://untitled-thots.blogspot.com/",
+								"display_url": "untitled-thots.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Spn2mmcHYj",
+								"expanded_url": "http://rahmaniablog.wordpress.com",
+								"display_url": "rahmaniablog.wordpress.com",
+								"indices": [
+									30,
+									53
+								]
+							},
+							{
+								"url": "https://t.co/FkiXrypKaW",
+								"expanded_url": "http://thereluctantbookworm.wordpress.com",
+								"display_url": "thereluctantbookworm.wordpress.com",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1746,
+				"friends_count": 269,
+				"listed_count": 57,
+				"created_at": "Sun Jul 12 00:52:24 +0000 2009",
+				"favourites_count": 4514,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 99003,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030303",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/214288931/twilk_background_4d74feda85c95.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/214288931/twilk_background_4d74feda85c95.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912198456038408192/XxW78VHa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912198456038408192/XxW78VHa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55976257/1362089788",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B0B0B0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "38dbbfa6e1e8d770",
+				"url": "https://api.twitter.com/1.1/geo/id/38dbbfa6e1e8d770.json",
+				"place_type": "city",
+				"name": "Idukki Township",
+				"full_name": "Idukki Township, India",
+				"country_code": "IN",
+				"country": "India",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								76.970519,
+								9.841959
+							],
+							[
+								76.986098,
+								9.841959
+							],
+							[
+								76.986098,
+								9.855338
+							],
+							[
+								76.970519,
+								9.855338
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 20 12:59:35 +0000 2018",
 		"id": 998186472523075600,
 		"id_str": "998186472523075585",
