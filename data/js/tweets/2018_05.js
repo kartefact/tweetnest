@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 23 13:15:53 +0000 2018",
+		"id": 999277740586160100,
+		"id_str": "999277740586160128",
+		"text": "@mudnsky I'm always with her wherever I go ;-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 999216382482018300,
+		"in_reply_to_status_id_str": "999216382482018304",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10139,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 23 08:05:04 +0000 2018",
+		"id": 999199518544539600,
+		"id_str": "999199518544539648",
+		"text": "I'm at Sree Krishna Kafe in Bangalore, Karnataka https://t.co/wdqj1caVwD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wdqj1caVwD",
+					"expanded_url": "https://www.swarmapp.com/c/88XJB75EpG8",
+					"display_url": "swarmapp.com/c/88XJB75EpG8",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10139,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				12.93706444,
+				77.61972922
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				77.61972922,
+				12.93706444
+			]
+		},
+		"place": {
+			"id": "5f55bb82cf16ac81",
+			"url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json",
+			"place_type": "city",
+			"name": "Bengaluru South",
+			"full_name": "Bengaluru South, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.3305776,
+							12.731936
+						],
+						[
+							77.7863188,
+							12.731936
+						],
+						[
+							77.7863188,
+							13.1142933
+						],
+						[
+							77.3305776,
+							13.1142933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hi"
+	},
+	{
+		"created_at": "Wed May 23 04:44:25 +0000 2018",
+		"id": 999149024312733700,
+		"id_str": "999149024312733696",
+		"text": "RT @amix3k: The easiest way to learn C++ programming in 21 days http://t.co/rjO2DfVtfv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amix3k",
+					"name": "Amir Salihefendic",
+					"id": 1401443653,
+					"id_str": "1401443653",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 600948800795050000,
+					"id_str": "600948800795049984",
+					"indices": [
+						64,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+					"url": "http://t.co/rjO2DfVtfv",
+					"display_url": "pic.twitter.com/rjO2DfVtfv",
+					"expanded_url": "https://twitter.com/amix3k/status/600948801663332352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 744,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 600948801663332400,
+					"source_status_id_str": "600948801663332352",
+					"source_user_id": 1401443653,
+					"source_user_id_str": "1401443653"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 600948800795050000,
+					"id_str": "600948800795049984",
+					"indices": [
+						64,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+					"url": "http://t.co/rjO2DfVtfv",
+					"display_url": "pic.twitter.com/rjO2DfVtfv",
+					"expanded_url": "https://twitter.com/amix3k/status/600948801663332352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 744,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 600948801663332400,
+					"source_status_id_str": "600948801663332352",
+					"source_user_id": 1401443653,
+					"source_user_id_str": "1401443653"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 525,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10139,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 20 08:58:54 +0000 2015",
+			"id": 600948801663332400,
+			"id_str": "600948801663332352",
+			"text": "The easiest way to learn C++ programming in 21 days http://t.co/rjO2DfVtfv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 600948800795050000,
+						"id_str": "600948800795049984",
+						"indices": [
+							52,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+						"url": "http://t.co/rjO2DfVtfv",
+						"display_url": "pic.twitter.com/rjO2DfVtfv",
+						"expanded_url": "https://twitter.com/amix3k/status/600948801663332352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 583,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 744,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 744,
+								"h": 638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 600948800795050000,
+						"id_str": "600948800795049984",
+						"indices": [
+							52,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CFb_wBeWAAAkFJv.jpg",
+						"url": "http://t.co/rjO2DfVtfv",
+						"display_url": "pic.twitter.com/rjO2DfVtfv",
+						"expanded_url": "https://twitter.com/amix3k/status/600948801663332352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 583,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 744,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 744,
+								"h": 638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1401443653,
+				"id_str": "1401443653",
+				"name": "Amir Salihefendic",
+				"screen_name": "amix3k",
+				"location": "Barcelona",
+				"description": "Founder & remote-first CEO of @Doist, the company behind @Todoist and @TwistAppTeam. Born in Bosnia, grew up in Denmark, and now living in the world. New dad 😊",
+				"url": "https://t.co/aaIePOL7Vk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aaIePOL7Vk",
+								"expanded_url": "https://Doist.com",
+								"display_url": "Doist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5184,
+				"friends_count": 167,
+				"listed_count": 224,
+				"created_at": "Sat May 04 05:00:49 +0000 2013",
+				"favourites_count": 6530,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6863,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776678906401320960/KKoxD-cJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776678906401320960/KKoxD-cJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1401443653/1491051774",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 605,
+			"favorite_count": 487,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 605,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 22 15:57:35 +0000 2018",
 		"id": 998956046734458900,
 		"id_str": "998956046734458880",
