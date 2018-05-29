@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 28 16:08:41 +0000 2018",
+		"id": 1001133166713753600,
+		"id_str": "1001133166713753601",
+		"text": "RT @PupsPorn: I don't like when the ocean ruins my sand creations either. https://t.co/2EcUDN1pfZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PupsPorn",
+					"name": "Puppy Lover",
+					"id": 835083097,
+					"id_str": "835083097",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 900883111046553600,
+					"id_str": "900883111046553600",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+					"url": "https://t.co/2EcUDN1pfZ",
+					"display_url": "pic.twitter.com/2EcUDN1pfZ",
+					"expanded_url": "https://twitter.com/Lifewithcutedog/status/900883247814594564/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900883247814594600,
+					"source_status_id_str": "900883247814594564",
+					"source_user_id": 3278073097,
+					"source_user_id_str": "3278073097"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900883111046553600,
+					"id_str": "900883111046553600",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+					"url": "https://t.co/2EcUDN1pfZ",
+					"display_url": "pic.twitter.com/2EcUDN1pfZ",
+					"expanded_url": "https://twitter.com/Lifewithcutedog/status/900883247814594564/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900883247814594600,
+					"source_status_id_str": "900883247814594564",
+					"source_user_id": 3278073097,
+					"source_user_id_str": "3278073097",
+					"video_info": {
+						"aspect_ratio": [
+							359,
+							202
+						],
+						"duration_millis": 15018,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/900883111046553600/pu/vid/318x180/2nogUvNL8eb39d1h.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/900883111046553600/pu/pl/1GdFUrLrE4RXxiaY.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/900883111046553600/pu/vid/638x360/NuPvkPVieQVgRITY.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3278073097,
+							"id_str": "3278073097",
+							"name": "Adorable Dog",
+							"screen_name": "Lifewithcutedog",
+							"location": "Austin, TX",
+							"description": "Follow for daily dogs funny post. We don't own or claim to own any of the rights to media we share. Custom & Quality Dog T-shirts Store:",
+							"url": "https://t.co/6PD1FT1klA",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/6PD1FT1klA",
+											"expanded_url": "http://goo.gl/cRW6W9",
+											"display_url": "goo.gl/cRW6W9",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11993,
+							"friends_count": 9823,
+							"listed_count": 61,
+							"created_at": "Mon Jul 13 02:31:24 +0000 2015",
+							"favourites_count": 4680,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1541,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/880480197027307520/kXLp4hIs_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/880480197027307520/kXLp4hIs_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3278073097/1498758953",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1612,
+			"friends_count": 524,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10161,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 28 16:05:06 +0000 2018",
+			"id": 1001132265483702300,
+			"id_str": "1001132265483702272",
+			"text": "I don't like when the ocean ruins my sand creations either. https://t.co/2EcUDN1pfZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900883111046553600,
+						"id_str": "900883111046553600",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+						"url": "https://t.co/2EcUDN1pfZ",
+						"display_url": "pic.twitter.com/2EcUDN1pfZ",
+						"expanded_url": "https://twitter.com/Lifewithcutedog/status/900883247814594564/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 900883247814594600,
+						"source_status_id_str": "900883247814594564",
+						"source_user_id": 3278073097,
+						"source_user_id_str": "3278073097"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900883111046553600,
+						"id_str": "900883111046553600",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900883111046553600/pu/img/0ilhbg9FYm1C4d1S.jpg",
+						"url": "https://t.co/2EcUDN1pfZ",
+						"display_url": "pic.twitter.com/2EcUDN1pfZ",
+						"expanded_url": "https://twitter.com/Lifewithcutedog/status/900883247814594564/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 900883247814594600,
+						"source_status_id_str": "900883247814594564",
+						"source_user_id": 3278073097,
+						"source_user_id_str": "3278073097",
+						"video_info": {
+							"aspect_ratio": [
+								359,
+								202
+							],
+							"duration_millis": 15018,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/900883111046553600/pu/vid/318x180/2nogUvNL8eb39d1h.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/900883111046553600/pu/pl/1GdFUrLrE4RXxiaY.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/900883111046553600/pu/vid/638x360/NuPvkPVieQVgRITY.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3278073097,
+								"id_str": "3278073097",
+								"name": "Adorable Dog",
+								"screen_name": "Lifewithcutedog",
+								"location": "Austin, TX",
+								"description": "Follow for daily dogs funny post. We don't own or claim to own any of the rights to media we share. Custom & Quality Dog T-shirts Store:",
+								"url": "https://t.co/6PD1FT1klA",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/6PD1FT1klA",
+												"expanded_url": "http://goo.gl/cRW6W9",
+												"display_url": "goo.gl/cRW6W9",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 11993,
+								"friends_count": 9823,
+								"listed_count": 61,
+								"created_at": "Mon Jul 13 02:31:24 +0000 2015",
+								"favourites_count": 4680,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1541,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/880480197027307520/kXLp4hIs_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/880480197027307520/kXLp4hIs_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3278073097/1498758953",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "The cutest Puppy Pics",
+				"url": "https://t.co/Pyjp2clSrY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Pyjp2clSrY",
+								"expanded_url": "https://www.facebook.com/PupsLoverX",
+								"display_url": "facebook.com/PupsLoverX",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1896739,
+				"friends_count": 12421,
+				"listed_count": 1016,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 101904,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 299,
+			"favorite_count": 1098,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 27 05:20:06 +0000 2018",
 		"id": 1000607555482042400,
 		"id_str": "1000607555482042373",
