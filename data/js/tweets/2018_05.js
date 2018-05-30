@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 29 17:44:04 +0000 2018",
+		"id": 1001519559566876700,
+		"id_str": "1001519559566876672",
+		"text": "RT @pups_world: Adroble Husky🐶 https://t.co/vjBvQO8EN5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pups_world",
+					"name": "Pups World",
+					"id": 2745656729,
+					"id_str": "2745656729",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1000571885719978000,
+					"id_str": "1000571885719977984",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+					"url": "https://t.co/vjBvQO8EN5",
+					"display_url": "pic.twitter.com/vjBvQO8EN5",
+					"expanded_url": "https://twitter.com/pups_world/status/1000572280768839680/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000572280768839700,
+					"source_status_id_str": "1000572280768839680",
+					"source_user_id": 2745656729,
+					"source_user_id_str": "2745656729"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1000571885719978000,
+					"id_str": "1000571885719977984",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+					"url": "https://t.co/vjBvQO8EN5",
+					"display_url": "pic.twitter.com/vjBvQO8EN5",
+					"expanded_url": "https://twitter.com/pups_world/status/1000572280768839680/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000572280768839700,
+					"source_status_id_str": "1000572280768839680",
+					"source_user_id": 2745656729,
+					"source_user_id_str": "2745656729",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60033,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1000571885719977984/pu/vid/240x240/qdUHpgvms25991XA.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1000571885719977984/pu/pl/oQssul2webH5GeWl.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1000571885719977984/pu/vid/480x480/Z0TcSHbd2VVDcNvH.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2745656729,
+							"id_str": "2745656729",
+							"name": "Pups World",
+							"screen_name": "pups_world",
+							"location": "",
+							"description": "Sharing Photos & Video Of Cute and Small Pups.🐶",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 67949,
+							"friends_count": 2,
+							"listed_count": 100,
+							"created_at": "Sun Aug 17 19:59:57 +0000 2014",
+							"favourites_count": 62,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1213,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/999497172398714880/_NKmlg2R_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/999497172398714880/_NKmlg2R_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2745656729/1527133669",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1612,
+			"friends_count": 524,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10166,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 27 02:59:56 +0000 2018",
+			"id": 1000572280768839700,
+			"id_str": "1000572280768839680",
+			"text": "Adroble Husky🐶 https://t.co/vjBvQO8EN5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000571885719978000,
+						"id_str": "1000571885719977984",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+						"url": "https://t.co/vjBvQO8EN5",
+						"display_url": "pic.twitter.com/vjBvQO8EN5",
+						"expanded_url": "https://twitter.com/pups_world/status/1000572280768839680/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000571885719978000,
+						"id_str": "1000571885719977984",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1000571885719977984/pu/img/lmIXnkAOlFhb4sg8.jpg",
+						"url": "https://t.co/vjBvQO8EN5",
+						"display_url": "pic.twitter.com/vjBvQO8EN5",
+						"expanded_url": "https://twitter.com/pups_world/status/1000572280768839680/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60033,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1000571885719977984/pu/vid/240x240/qdUHpgvms25991XA.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1000571885719977984/pu/pl/oQssul2webH5GeWl.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1000571885719977984/pu/vid/480x480/Z0TcSHbd2VVDcNvH.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2745656729,
+				"id_str": "2745656729",
+				"name": "Pups World",
+				"screen_name": "pups_world",
+				"location": "",
+				"description": "Sharing Photos & Video Of Cute and Small Pups.🐶",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67949,
+				"friends_count": 2,
+				"listed_count": 100,
+				"created_at": "Sun Aug 17 19:59:57 +0000 2014",
+				"favourites_count": 62,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999497172398714880/_NKmlg2R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999497172398714880/_NKmlg2R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2745656729/1527133669",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1741,
+			"favorite_count": 4153,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1741,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Tue May 29 17:34:02 +0000 2018",
+		"id": 1001517033287225300,
+		"id_str": "1001517033287225345",
+		"text": "RT @imloti: Help me out Twitter. How many of you can do even some basic sewing (sewing on a button, mending a hem), and are under 50, pleas…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imloti",
+					"name": "Ruthie Rayne",
+					"id": 2465510239,
+					"id_str": "2465510239",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1612,
+			"friends_count": 524,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10166,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 29 07:44:11 +0000 2018",
+			"id": 1001368590900187100,
+			"id_str": "1001368590900187136",
+			"text": "Help me out Twitter. How many of you can do even some basic sewing (sewing on a button, mending a hem), and are und… https://t.co/SFA79amyUF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SFA79amyUF",
+						"expanded_url": "https://twitter.com/i/web/status/1001368590900187136",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2465510239,
+				"id_str": "2465510239",
+				"name": "Ruthie Rayne",
+				"screen_name": "imloti",
+				"location": "The Interdimensional Rift",
+				"description": "VI, copyeditor, cats, sc, tech, luv hubby @blindbites, proud agnostic & political fence sitter. Follow backs not automatic.",
+				"url": "https://t.co/wSDw7Ezzwa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wSDw7Ezzwa",
+								"expanded_url": "http://www.ruthiestyle.weebly.com",
+								"display_url": "ruthiestyle.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 435,
+				"friends_count": 139,
+				"listed_count": 37,
+				"created_at": "Sun Apr 27 03:56:00 +0000 2014",
+				"favourites_count": 25250,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37522,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936707905285263360/_bnJmI1l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936707905285263360/_bnJmI1l_normal.jpg",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33882,
+			"favorite_count": 119695,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33882,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 29 17:33:18 +0000 2018",
+		"id": 1001516846351376400,
+		"id_str": "1001516846351376384",
+		"text": "RT @simongerman600: I’m an urban geographer by trade and have mad respect for good street art as a way to improve the urban landscape. Arti…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simongerman600",
+					"name": "Simon Kuestenmacher",
+					"id": 359188534,
+					"id_str": "359188534",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1612,
+			"friends_count": 524,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10166,
+			"utc_offset": 19800,
+			"time_zone": "Asia/Calcutta",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 29 13:00:01 +0000 2018",
+			"id": 1001448074609381400,
+			"id_str": "1001448074609381376",
+			"text": "I’m an urban geographer by trade and have mad respect for good street art as a way to improve the urban landscape.… https://t.co/cuKDZJod8G",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cuKDZJod8G",
+						"expanded_url": "https://twitter.com/i/web/status/1001448074609381376",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 359188534,
+				"id_str": "359188534",
+				"name": "Simon Kuestenmacher",
+				"screen_name": "simongerman600",
+				"location": "Melbourne, Victoria",
+				"description": "German #geographer and #demographer in #Melbourne. Love #maps and #data that explain how the #world works. Views my own.",
+				"url": "https://t.co/APWKPC24kC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/APWKPC24kC",
+								"expanded_url": "http://TheDemographicsGroup.com.au",
+								"display_url": "TheDemographicsGroup.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88343,
+				"friends_count": 88154,
+				"listed_count": 1346,
+				"created_at": "Sun Aug 21 04:53:55 +0000 2011",
+				"favourites_count": 34658,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13808,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916213395422035968/__3Ac2dP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916213395422035968/__3Ac2dP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/359188534/1401688094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 440,
+			"favorite_count": 1553,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 440,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 28 16:08:41 +0000 2018",
 		"id": 1001133166713753600,
 		"id_str": "1001133166713753601",
