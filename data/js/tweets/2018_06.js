@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 00:48:46 +0000 2018",
+		"id": 1003800763758403600,
+		"id_str": "1003800763758403584",
+		"text": "RT @suraiya95: It's here! The Delhi Transport app, now on both Android and iOS, for everything Transport you'll ever need to do! Needless t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suraiya95",
+					"name": "Varsha Joshi",
+					"id": 207457144,
+					"id_str": "207457144",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 526,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 04:27:04 +0000 2018",
+			"id": 1003493313620525000,
+			"id_str": "1003493313620525056",
+			"text": "It's here! The Delhi Transport app, now on both Android and iOS, for everything Transport you'll ever need to do! N… https://t.co/VG5RfAlAZG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VG5RfAlAZG",
+						"expanded_url": "https://twitter.com/i/web/status/1003493313620525056",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207457144,
+				"id_str": "207457144",
+				"name": "Varsha Joshi",
+				"screen_name": "suraiya95",
+				"location": "Delhi",
+				"description": "IAS. Secretary Power & Commissioner Transport, GNCT Delhi. Eternal question asker. Tweets personal.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8103,
+				"friends_count": 317,
+				"listed_count": 140,
+				"created_at": "Mon Oct 25 11:03:35 +0000 2010",
+				"favourites_count": 5704,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21942,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C15D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815742236654641152/GS6zRBqA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815742236654641152/GS6zRBqA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207457144/1483241125",
+				"profile_link_color": "1A0D80",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1003347489984921600,
+			"quoted_status_id_str": "1003347489984921600",
+			"quoted_status": {
+				"created_at": "Sun Jun 03 18:47:37 +0000 2018",
+				"id": 1003347489984921600,
+				"id_str": "1003347489984921600",
+				"text": "App that can help you apply for driving licence, get info on buses https://t.co/YBM6oCQCrB",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/YBM6oCQCrB",
+							"expanded_url": "http://toi.in/6syxUY",
+							"display_url": "toi.in/6syxUY",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.toi.in\" rel=\"nofollow\">cmssocialservice</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 30859883,
+					"id_str": "30859883",
+					"name": "TOI Delhi",
+					"screen_name": "TOIDelhi",
+					"location": "New Delhi, India",
+					"description": "Your city. Your neighborhood. Your block. Covered for you by https://t.co/VSKi1mkZBr",
+					"url": "http://t.co/fVH9J9NoJJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/fVH9J9NoJJ",
+									"expanded_url": "http://timesofindia.indiatimes.com/city/delhi",
+									"display_url": "timesofindia.indiatimes.com/city/delhi",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/VSKi1mkZBr",
+									"expanded_url": "http://timesofindia.com",
+									"display_url": "timesofindia.com",
+									"indices": [
+										61,
+										84
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 39970,
+					"friends_count": 76,
+					"listed_count": 302,
+					"created_at": "Mon Apr 13 13:00:35 +0000 2009",
+					"favourites_count": 30,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 92231,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1282402835/icon_512_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282402835/icon_512_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/30859883/1504093354",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 17,
+			"favorite_count": 29,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1003347489984921600,
+		"quoted_status_id_str": "1003347489984921600",
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 03 03:25:22 +0000 2018",
 		"id": 1003115397762019300,
 		"id_str": "1003115397762019328",
