@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 28 17:50:12 +0000 2018",
+		"id": 1012392736543199200,
+		"id_str": "1012392736543199233",
+		"text": "@r3dash @tsuvik @varundubey Hehehe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r3dash",
+					"name": "Ershad Kaleebullah",
+					"id": 106728983,
+					"id_str": "106728983",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "tsuvik",
+					"name": "Vikas SN",
+					"id": 15272262,
+					"id_str": "15272262",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"screen_name": "varundubey",
+					"name": "Varun Dubey",
+					"id": 14333863,
+					"id_str": "14333863",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1012374194456277000,
+		"in_reply_to_status_id_str": "1012374194456276993",
+		"in_reply_to_user_id": 106728983,
+		"in_reply_to_user_id_str": "106728983",
+		"in_reply_to_screen_name": "r3dash",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Thu Jun 28 16:30:31 +0000 2018",
+		"id": 1012372683575701500,
+		"id_str": "1012372683575701505",
+		"text": "@r3dash @tsuvik @varundubey Shankar Bhel house on wheeler road, cox town?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r3dash",
+					"name": "Ershad Kaleebullah",
+					"id": 106728983,
+					"id_str": "106728983",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "tsuvik",
+					"name": "Vikas SN",
+					"id": 15272262,
+					"id_str": "15272262",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"screen_name": "varundubey",
+					"name": "Varun Dubey",
+					"id": 14333863,
+					"id_str": "14333863",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1012363534896943100,
+		"in_reply_to_status_id_str": "1012363534896943104",
+		"in_reply_to_user_id": 106728983,
+		"in_reply_to_user_id_str": "106728983",
+		"in_reply_to_screen_name": "r3dash",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 28 16:29:14 +0000 2018",
+		"id": 1012372360173903900,
+		"id_str": "1012372360173903872",
+		"text": "RT @CarlForrest: Students designs a “mobile airbag” for your phone when it’s dropped.\n\nSHUT UP AND TAKE MY MONEY https://t.co/WVmfzqR5lz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarlForrest",
+					"name": "Carl Forrest",
+					"id": 50397179,
+					"id_str": "50397179",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1012042265710063600,
+					"id_str": "1012042265710063618",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+					"url": "https://t.co/WVmfzqR5lz",
+					"display_url": "pic.twitter.com/WVmfzqR5lz",
+					"expanded_url": "https://twitter.com/CarlForrest/status/1012042308823539712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1012042308823539700,
+					"source_status_id_str": "1012042308823539712",
+					"source_user_id": 50397179,
+					"source_user_id_str": "50397179"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1012042265710063600,
+					"id_str": "1012042265710063618",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+					"url": "https://t.co/WVmfzqR5lz",
+					"display_url": "pic.twitter.com/WVmfzqR5lz",
+					"expanded_url": "https://twitter.com/CarlForrest/status/1012042308823539712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1012042308823539700,
+					"source_status_id_str": "1012042308823539712",
+					"source_user_id": 50397179,
+					"source_user_id_str": "50397179",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31040,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1012042265710063618/pu/vid/320x180/nl4B_zooCLPy6MLP.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1012042265710063618/pu/vid/640x360/MsSWJF5qtEG5sv56.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1012042265710063618/pu/pl/thYCzQYj3N9lbBNZ.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 50397179,
+							"id_str": "50397179",
+							"name": "Carl Forrest",
+							"screen_name": "CarlForrest",
+							"location": "Austin, TX",
+							"description": "I work in Tech | Just a 6.5 Creedmoor guy in a 30-30 world | Email📧: Carl.Forrest3105@gmail.com",
+							"url": "https://t.co/QkRq4TkU09",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/QkRq4TkU09",
+											"expanded_url": "http://bit.ly/Twitch-Citizen-Hush",
+											"display_url": "bit.ly/Twitch-Citizen…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 78943,
+							"friends_count": 65889,
+							"listed_count": 806,
+							"created_at": "Wed Jun 24 18:55:16 +0000 2009",
+							"favourites_count": 308876,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 22417,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "27252A",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/990774502056497152/ykn7hCZp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/990774502056497152/ykn7hCZp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/50397179/1450475432",
+							"profile_link_color": "91D2FA",
+							"profile_sidebar_border_color": "F4DFFF",
+							"profile_sidebar_fill_color": "E9D7C6",
+							"profile_text_color": "C8C289",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994252033669713920/FE0YLfLq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1524933578",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 27 18:37:43 +0000 2018",
+			"id": 1012042308823539700,
+			"id_str": "1012042308823539712",
+			"text": "Students designs a “mobile airbag” for your phone when it’s dropped.\n\nSHUT UP AND TAKE MY MONEY https://t.co/WVmfzqR5lz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1012042265710063600,
+						"id_str": "1012042265710063618",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+						"url": "https://t.co/WVmfzqR5lz",
+						"display_url": "pic.twitter.com/WVmfzqR5lz",
+						"expanded_url": "https://twitter.com/CarlForrest/status/1012042308823539712/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1012042265710063600,
+						"id_str": "1012042265710063618",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1012042265710063618/pu/img/E1S2-OP_VwUhthTi.jpg",
+						"url": "https://t.co/WVmfzqR5lz",
+						"display_url": "pic.twitter.com/WVmfzqR5lz",
+						"expanded_url": "https://twitter.com/CarlForrest/status/1012042308823539712/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 31040,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1012042265710063618/pu/vid/320x180/nl4B_zooCLPy6MLP.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1012042265710063618/pu/vid/640x360/MsSWJF5qtEG5sv56.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1012042265710063618/pu/pl/thYCzQYj3N9lbBNZ.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50397179,
+				"id_str": "50397179",
+				"name": "Carl Forrest",
+				"screen_name": "CarlForrest",
+				"location": "Austin, TX",
+				"description": "I work in Tech | Just a 6.5 Creedmoor guy in a 30-30 world | Email📧: Carl.Forrest3105@gmail.com",
+				"url": "https://t.co/QkRq4TkU09",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QkRq4TkU09",
+								"expanded_url": "http://bit.ly/Twitch-Citizen-Hush",
+								"display_url": "bit.ly/Twitch-Citizen…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78943,
+				"friends_count": 65889,
+				"listed_count": 806,
+				"created_at": "Wed Jun 24 18:55:16 +0000 2009",
+				"favourites_count": 308876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22417,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "27252A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990774502056497152/ykn7hCZp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990774502056497152/ykn7hCZp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50397179/1450475432",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "F4DFFF",
+				"profile_sidebar_fill_color": "E9D7C6",
+				"profile_text_color": "C8C289",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c3f37afa9efcf94b",
+				"url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+				"place_type": "city",
+				"name": "Austin",
+				"full_name": "Austin, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.928935,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.5187994
+							],
+							[
+								-97.928935,
+								30.5187994
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38140,
+			"favorite_count": 65868,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38140,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 27 17:40:33 +0000 2018",
 		"id": 1012027920234242000,
 		"id_str": "1012027920234242048",
