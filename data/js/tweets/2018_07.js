@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 07 09:10:36 +0000 2018",
+		"id": 1015523465619824600,
+		"id_str": "1015523465619824641",
+		"text": "RT @Aparna: Twitter thread about an incredible young woman I met in #mangalore. Shilpa - a standard 10 grad- hails from Hasan and was marri…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mangalore",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Aparna",
+					"name": "Aparna Jain",
+					"id": 17675013,
+					"id_str": "17675013",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 530,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015272590041124864/kTM4AMB8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015272590041124864/kTM4AMB8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 12:50:44 +0000 2018",
+			"id": 1015216476310130700,
+			"id_str": "1015216476310130688",
+			"text": "Twitter thread about an incredible young woman I met in #mangalore. Shilpa - a standard 10 grad- hails from Hasan a… https://t.co/VuNb8tH7rR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mangalore",
+						"indices": [
+							56,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VuNb8tH7rR",
+						"expanded_url": "https://twitter.com/i/web/status/1015216476310130688",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17675013,
+				"id_str": "17675013",
+				"name": "Aparna Jain",
+				"screen_name": "Aparna",
+				"location": "New Delhi | Mumbai",
+				"description": "leadership coach | d+i advocate | author - #LikeaGirl on indian women \nicons | https://t.co/MA5e06rHzk |  #OwnIt | |https://t.co/n0YlfgAXNX|",
+				"url": "https://t.co/QzCIL6znRU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QzCIL6znRU",
+								"expanded_url": "http://www.zebraa.in",
+								"display_url": "zebraa.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MA5e06rHzk",
+								"expanded_url": "https://amzn.to/2Iky3Ch",
+								"display_url": "amzn.to/2Iky3Ch",
+								"indices": [
+									79,
+									102
+								]
+							},
+							{
+								"url": "https://t.co/n0YlfgAXNX",
+								"expanded_url": "http://bit.ly/OwnItbook",
+								"display_url": "bit.ly/OwnItbook",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9831,
+				"friends_count": 1887,
+				"listed_count": 275,
+				"created_at": "Thu Nov 27 10:46:48 +0000 2008",
+				"favourites_count": 8064,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "612156",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010456277925924864/sis1wCSb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010456277925924864/sis1wCSb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17675013/1529746529",
+				"profile_link_color": "C72E6B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CD84BB",
+				"profile_text_color": "AB659A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 783,
+			"favorite_count": 1098,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 783,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 06 02:20:49 +0000 2018",
 		"id": 1015057951789322200,
 		"id_str": "1015057951789322240",
