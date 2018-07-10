@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 09 10:56:41 +0000 2018",
+		"id": 1016274939052257300,
+		"id_str": "1016274939052257282",
+		"text": "@soumyadip @Paytm @Paytmcare Faced the same problem. The agent insisted that I give AADHAAR. I refused. They sent a… https://t.co/hnmwLnW2Cq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soumyadip",
+					"name": "Soumyadip Choudhury",
+					"id": 15106517,
+					"id_str": "15106517",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Paytm",
+					"name": "Paytm",
+					"id": 144792607,
+					"id_str": "144792607",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "Paytmcare",
+					"name": "Paytm Care",
+					"id": 2475273985,
+					"id_str": "2475273985",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hnmwLnW2Cq",
+					"expanded_url": "https://twitter.com/i/web/status/1016274939052257282",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1016219983117013000,
+		"in_reply_to_status_id_str": "1016219983117012992",
+		"in_reply_to_user_id": 15106517,
+		"in_reply_to_user_id_str": "15106517",
+		"in_reply_to_screen_name": "soumyadip",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 09 02:25:13 +0000 2018",
+		"id": 1016146223139565600,
+		"id_str": "1016146223139565569",
+		"text": "RT @sbaroncohen: If an autistic child can't talk but is showing high levels of self-injury, he/she may have painful gut problems. Asking a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbaroncohen",
+					"name": "Simon Baron-Cohen",
+					"id": 308151547,
+					"id_str": "308151547",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 14:11:25 +0000 2018",
+			"id": 1015961558256701400,
+			"id_str": "1015961558256701440",
+			"text": "If an autistic child can't talk but is showing high levels of self-injury, he/she may have painful gut problems. As… https://t.co/CFxcsRh65x",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CFxcsRh65x",
+						"expanded_url": "https://twitter.com/i/web/status/1015961558256701440",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 308151547,
+				"id_str": "308151547",
+				"name": "Simon Baron-Cohen",
+				"screen_name": "sbaroncohen",
+				"location": "Cambridge",
+				"description": "cognitive neuroscientist;\n\nauthor 'Zero Degrees of Empathy' (Penguin), 'The Essential Difference' (Penguin), and 'Mindblindness' (MIT Press)",
+				"url": "http://t.co/nTj3KL7eUJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nTj3KL7eUJ",
+								"expanded_url": "http://www.autismresearchcentre.com",
+								"display_url": "autismresearchcentre.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36184,
+				"friends_count": 81,
+				"listed_count": 872,
+				"created_at": "Mon May 30 22:36:06 +0000 2011",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 731,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929624728544927745/BtTyc-lc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929624728544927745/BtTyc-lc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/308151547/1510475967",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 600,
+			"favorite_count": 1086,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 600,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 08 10:59:20 +0000 2018",
 		"id": 1015913215690203100,
 		"id_str": "1015913215690203136",
