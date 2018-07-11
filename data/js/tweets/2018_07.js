@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 10 02:38:54 +0000 2018",
+		"id": 1016512056223289300,
+		"id_str": "1016512056223289344",
+		"text": "@Karaboondi Thank you :-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Karaboondi",
+					"name": "Boondi",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1016510709902045200,
+		"in_reply_to_status_id_str": "1016510709902045185",
+		"in_reply_to_user_id": 398860199,
+		"in_reply_to_user_id_str": "398860199",
+		"in_reply_to_screen_name": "Karaboondi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 02:07:16 +0000 2018",
+		"id": 1016504092577943600,
+		"id_str": "1016504092577943553",
+		"text": "RT @dog_rates: This is Dario. He likes to chomp on tables. A common pupper move. Hopes you’ll forgive him, for his self control is nonexist…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dog_rates",
+					"name": "WeRateDogs™",
+					"id": 4196983835,
+					"id_str": "4196983835",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 16:42:13 +0000 2018",
+			"id": 1016361896428097500,
+			"id_str": "1016361896428097536",
+			"text": "This is Dario. He likes to chomp on tables. A common pupper move. Hopes you’ll forgive him, for his self control is… https://t.co/LusLL9FpBz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LusLL9FpBz",
+						"expanded_url": "https://twitter.com/i/web/status/1016361896428097536",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4196983835,
+				"id_str": "4196983835",
+				"name": "WeRateDogs™",
+				"screen_name": "dog_rates",
+				"location": "𝓶𝓮𝓻𝓬𝓱 ↴      DM YOUR DOGS",
+				"description": "Your Only Source for Pawfessional Dog Ratings STORE: @ShopWeRateDogs | IG, FB & SC: WeRateDogs | MOBILE APP: @GoodDogsGame Business: dogratingtwitter@gmail.com",
+				"url": "https://t.co/N7sNNHSfPq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N7sNNHSfPq",
+								"expanded_url": "http://weratedogs.com",
+								"display_url": "weratedogs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7074191,
+				"friends_count": 9,
+				"listed_count": 4644,
+				"created_at": "Sun Nov 15 21:41:29 +0000 2015",
+				"favourites_count": 135255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7306,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948761950363664385/Fpr2Oz35_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948761950363664385/Fpr2Oz35_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4196983835/1525830435",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18161,
+			"favorite_count": 133070,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18161,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 02:06:52 +0000 2018",
+		"id": 1016503994024415200,
+		"id_str": "1016503994024415238",
+		"text": "RT @Calvinn_Hobbes: Good advice for a Monday. https://t.co/8h2iSyMqNS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Calvinn_Hobbes",
+					"name": "Calvin and Hobbes",
+					"id": 1579422614,
+					"id_str": "1579422614",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016383056687464400,
+					"id_str": "1016383056687464456",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+					"url": "https://t.co/8h2iSyMqNS",
+					"display_url": "pic.twitter.com/8h2iSyMqNS",
+					"expanded_url": "https://twitter.com/Calvinn_Hobbes/status/1016383060651020288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016383060651020300,
+					"source_status_id_str": "1016383060651020288",
+					"source_user_id": 1579422614,
+					"source_user_id_str": "1579422614"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016383056687464400,
+					"id_str": "1016383056687464456",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+					"url": "https://t.co/8h2iSyMqNS",
+					"display_url": "pic.twitter.com/8h2iSyMqNS",
+					"expanded_url": "https://twitter.com/Calvinn_Hobbes/status/1016383060651020288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016383060651020300,
+					"source_status_id_str": "1016383060651020288",
+					"source_user_id": 1579422614,
+					"source_user_id_str": "1579422614"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 18:06:19 +0000 2018",
+			"id": 1016383060651020300,
+			"id_str": "1016383060651020288",
+			"text": "Good advice for a Monday. https://t.co/8h2iSyMqNS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016383056687464400,
+						"id_str": "1016383056687464456",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+						"url": "https://t.co/8h2iSyMqNS",
+						"display_url": "pic.twitter.com/8h2iSyMqNS",
+						"expanded_url": "https://twitter.com/Calvinn_Hobbes/status/1016383060651020288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016383056687464400,
+						"id_str": "1016383056687464456",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhrrAUmVAAgmg-N.jpg",
+						"url": "https://t.co/8h2iSyMqNS",
+						"display_url": "pic.twitter.com/8h2iSyMqNS",
+						"expanded_url": "https://twitter.com/Calvinn_Hobbes/status/1016383060651020288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1579422614,
+				"id_str": "1579422614",
+				"name": "Calvin and Hobbes",
+				"screen_name": "Calvinn_Hobbes",
+				"location": "Turn on tweet notifications!! ",
+				"description": "Posting all the greatest strips from the famous Calvin and Hobbes comics by Bill Watterson ©. Business inquiries/comic submissions: candhtwitter@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 529289,
+				"friends_count": 30,
+				"listed_count": 3049,
+				"created_at": "Tue Jul 09 04:37:36 +0000 2013",
+				"favourites_count": 1419,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6250,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000108017361/f9e301d3e8392fdf5c66e83b1dc680ba_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000108017361/f9e301d3e8392fdf5c66e83b1dc680ba_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1579422614/1514316526",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1263,
+			"favorite_count": 3579,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1263,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 02:05:29 +0000 2018",
+		"id": 1016503646203367400,
+		"id_str": "1016503646203367425",
+		"text": "@Karaboondi Crushed on the guy when he \"egged\" the opponent? 😁",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Karaboondi",
+					"name": "Boondi",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1016392858398609400,
+		"in_reply_to_status_id_str": "1016392858398609411",
+		"in_reply_to_user_id": 398860199,
+		"in_reply_to_user_id_str": "398860199",
+		"in_reply_to_screen_name": "Karaboondi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 01:55:18 +0000 2018",
+		"id": 1016501083131252700,
+		"id_str": "1016501083131252736",
+		"text": "@Karaboondi Could you share your playlist? I'm looking to listen to some good stuff but same things are being repea… https://t.co/oUPzDvf1zV",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Karaboondi",
+					"name": "Boondi",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oUPzDvf1zV",
+					"expanded_url": "https://twitter.com/i/web/status/1016501083131252736",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1016380565346451500,
+		"in_reply_to_status_id_str": "1016380565346451456",
+		"in_reply_to_user_id": 398860199,
+		"in_reply_to_user_id_str": "398860199",
+		"in_reply_to_screen_name": "Karaboondi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 01:52:28 +0000 2018",
+		"id": 1016500370938454000,
+		"id_str": "1016500370938454017",
+		"text": "RT @sudhamshu: \"Give an example of muscle memory.\"\n\n\"I used to be fit once upon a time.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sudhamshu",
+					"name": "Sudhamshu Hebbar",
+					"id": 15105039,
+					"id_str": "15105039",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 16:13:40 +0000 2018",
+			"id": 1016354711258083300,
+			"id_str": "1016354711258083328",
+			"text": "\"Give an example of muscle memory.\"\n\n\"I used to be fit once upon a time.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15105039,
+				"id_str": "15105039",
+				"name": "Sudhamshu Hebbar",
+				"screen_name": "sudhamshu",
+				"location": "Chennai",
+				"description": "I'm a nobody.",
+				"url": "http://t.co/1ssh341ije",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1ssh341ije",
+								"expanded_url": "http://about.me/sudhamshu",
+								"display_url": "about.me/sudhamshu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2483,
+				"friends_count": 418,
+				"listed_count": 138,
+				"created_at": "Fri Jun 13 06:56:12 +0000 2008",
+				"favourites_count": 350,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57547,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798437680878993408/fbsV1Fag_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798437680878993408/fbsV1Fag_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15105039/1398261033",
+				"profile_link_color": "30BDE8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "1B1B1D",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 09 10:56:41 +0000 2018",
 		"id": 1016274939052257300,
 		"id_str": "1016274939052257282",
