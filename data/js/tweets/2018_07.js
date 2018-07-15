@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 14 10:44:32 +0000 2018",
+		"id": 1018083819637878800,
+		"id_str": "1018083819637878784",
+		"text": "We were meant to be courageous! https://t.co/rhYqPXBQle",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rhYqPXBQle",
+					"expanded_url": "https://play.google.com/music/m/T2zuwkqrc744hp2ef5ctfdvh4ra?t=Courageous_-_Casting_Crowns",
+					"display_url": "play.google.com/music/m/T2zuwk…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 531,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 14 03:57:45 +0000 2018",
+		"id": 1017981448362524700,
+		"id_str": "1017981448362524672",
+		"text": "RT @MumbaiPolice: Such personal questions don’t need insta replies! They need to be sent insta-ntly to the police #OnlineSafety https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnlineSafety",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MumbaiPolice",
+					"name": "Mumbai Police",
+					"id": 4573405572,
+					"id_str": "4573405572",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 531,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015987143779454976/AdxMJ2o__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 13 08:10:58 +0000 2018",
+			"id": 1017682788093341700,
+			"id_str": "1017682788093341698",
+			"text": "Such personal questions don’t need insta replies! They need to be sent insta-ntly to the police #OnlineSafety https://t.co/gSUziD9Ech",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OnlineSafety",
+						"indices": [
+							96,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1017682776097615900,
+						"id_str": "1017682776097615872",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh-JF8tU8AAB0wK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh-JF8tU8AAB0wK.jpg",
+						"url": "https://t.co/gSUziD9Ech",
+						"display_url": "pic.twitter.com/gSUziD9Ech",
+						"expanded_url": "https://twitter.com/MumbaiPolice/status/1017682788093341698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1017682776097615900,
+						"id_str": "1017682776097615872",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh-JF8tU8AAB0wK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh-JF8tU8AAB0wK.jpg",
+						"url": "https://t.co/gSUziD9Ech",
+						"display_url": "pic.twitter.com/gSUziD9Ech",
+						"expanded_url": "https://twitter.com/MumbaiPolice/status/1017682788093341698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1017682777070657500,
+						"id_str": "1017682777070657536",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh-JGAVUYAA9J6y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh-JGAVUYAA9J6y.jpg",
+						"url": "https://t.co/gSUziD9Ech",
+						"display_url": "pic.twitter.com/gSUziD9Ech",
+						"expanded_url": "https://twitter.com/MumbaiPolice/status/1017682788093341698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1017682777070682100,
+						"id_str": "1017682777070682112",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh-JGAVUwAAFPJ2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh-JGAVUwAAFPJ2.jpg",
+						"url": "https://t.co/gSUziD9Ech",
+						"display_url": "pic.twitter.com/gSUziD9Ech",
+						"expanded_url": "https://twitter.com/MumbaiPolice/status/1017682788093341698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1017682776093425700,
+						"id_str": "1017682776093425664",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh-JF8sVAAAxYLc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh-JF8sVAAAxYLc.jpg",
+						"url": "https://t.co/gSUziD9Ech",
+						"display_url": "pic.twitter.com/gSUziD9Ech",
+						"expanded_url": "https://twitter.com/MumbaiPolice/status/1017682788093341698/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4573405572,
+				"id_str": "4573405572",
+				"name": "Mumbai Police",
+				"screen_name": "MumbaiPolice",
+				"location": "Mumbai, India",
+				"description": "Official account of Mumbai Police. For any emergency, Dial 100",
+				"url": "https://t.co/Z5NPyyEp51",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z5NPyyEp51",
+								"expanded_url": "https://mumbaipolice.maharashtra.gov.in/",
+								"display_url": "mumbaipolice.maharashtra.gov.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4616442,
+				"friends_count": 36,
+				"listed_count": 408,
+				"created_at": "Wed Dec 16 08:29:03 +0000 2015",
+				"favourites_count": 2233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67756,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/681175613399408640/4oFS6Qqo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/681175613399408640/4oFS6Qqo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4573405572/1525176347",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1725,
+			"favorite_count": 4970,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1725,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 13 00:55:00 +0000 2018",
 		"id": 1017573071518142500,
 		"id_str": "1017573071518142465",
