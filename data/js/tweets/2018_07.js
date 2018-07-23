@@ -1,6 +1,691 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 22 10:14:18 +0000 2018",
+		"id": 1020975316498608100,
+		"id_str": "1020975316498608128",
+		"text": "RT @ParveenKaswan: It fell a long time ago, but it never gave up. https://t.co/IBriGnBjlS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParveenKaswan",
+					"name": "Parveen Kaswan, IFS",
+					"id": 1052325553,
+					"id_str": "1052325553",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1020643825612542000,
+					"id_str": "1020643825612541955",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+					"url": "https://t.co/IBriGnBjlS",
+					"display_url": "pic.twitter.com/IBriGnBjlS",
+					"expanded_url": "https://twitter.com/ParveenKaswan/status/1020643834911338496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 783,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 783,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1020643834911338500,
+					"source_status_id_str": "1020643834911338496",
+					"source_user_id": 1052325553,
+					"source_user_id_str": "1052325553"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1020643825612542000,
+					"id_str": "1020643825612541955",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+					"url": "https://t.co/IBriGnBjlS",
+					"display_url": "pic.twitter.com/IBriGnBjlS",
+					"expanded_url": "https://twitter.com/ParveenKaswan/status/1020643834911338496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 783,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 783,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1020643834911338500,
+					"source_status_id_str": "1020643834911338496",
+					"source_user_id": 1052325553,
+					"source_user_id_str": "1052325553"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1612,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 21 12:17:07 +0000 2018",
+			"id": 1020643834911338500,
+			"id_str": "1020643834911338496",
+			"text": "It fell a long time ago, but it never gave up. https://t.co/IBriGnBjlS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1020643825612542000,
+						"id_str": "1020643825612541955",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+						"url": "https://t.co/IBriGnBjlS",
+						"display_url": "pic.twitter.com/IBriGnBjlS",
+						"expanded_url": "https://twitter.com/ParveenKaswan/status/1020643834911338496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 608,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 783,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 783,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1020643825612542000,
+						"id_str": "1020643825612541955",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DioOJtvU0AMqcY2.jpg",
+						"url": "https://t.co/IBriGnBjlS",
+						"display_url": "pic.twitter.com/IBriGnBjlS",
+						"expanded_url": "https://twitter.com/ParveenKaswan/status/1020643834911338496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 608,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 783,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 783,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1052325553,
+				"id_str": "1052325553",
+				"name": "Parveen Kaswan, IFS",
+				"screen_name": "ParveenKaswan",
+				"location": "India",
+				"description": "#IFS Officer. #MoEFCC. #IISc Bangalore Alumnus. https://t.co/In7vBJVt1H Aerospace. Masters in Engineering Designs. MSc Forestry & Environment. Reader. Explorer.",
+				"url": "https://t.co/pWLIbdCjjj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pWLIbdCjjj",
+								"expanded_url": "http://ifs.nic.in",
+								"display_url": "ifs.nic.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/In7vBJVt1H",
+								"expanded_url": "http://B.Tech",
+								"display_url": "B.Tech",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16346,
+				"friends_count": 343,
+				"listed_count": 67,
+				"created_at": "Tue Jan 01 10:32:20 +0000 2013",
+				"favourites_count": 39826,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3781,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001087005135060992/FQS9tGn6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001087005135060992/FQS9tGn6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1052325553/1511779991",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1443,
+			"favorite_count": 4116,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1443,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 22 04:49:00 +0000 2018",
+		"id": 1020893450902917100,
+		"id_str": "1020893450902917120",
+		"text": "RT @thoatta: Shilpa shetty # real inspiration behind printing new currency notes https://t.co/pZJ0jJhcP7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thoatta",
+					"name": "ஆல்தோட்டபூபதி",
+					"id": 85621956,
+					"id_str": "85621956",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1019972382075699200,
+					"id_str": "1019972382075699200",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+					"url": "https://t.co/pZJ0jJhcP7",
+					"display_url": "pic.twitter.com/pZJ0jJhcP7",
+					"expanded_url": "https://twitter.com/thoatta/status/1019972412098482176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1019972412098482200,
+					"source_status_id_str": "1019972412098482176",
+					"source_user_id": 85621956,
+					"source_user_id_str": "85621956"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1019972382075699200,
+					"id_str": "1019972382075699200",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+					"url": "https://t.co/pZJ0jJhcP7",
+					"display_url": "pic.twitter.com/pZJ0jJhcP7",
+					"expanded_url": "https://twitter.com/thoatta/status/1019972412098482176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1019972412098482200,
+					"source_status_id_str": "1019972412098482176",
+					"source_user_id": 85621956,
+					"source_user_id_str": "85621956"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1612,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 19 15:49:07 +0000 2018",
+			"id": 1019972412098482200,
+			"id_str": "1019972412098482176",
+			"text": "Shilpa shetty # real inspiration behind printing new currency notes https://t.co/pZJ0jJhcP7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1019972382075699200,
+						"id_str": "1019972382075699200",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+						"url": "https://t.co/pZJ0jJhcP7",
+						"display_url": "pic.twitter.com/pZJ0jJhcP7",
+						"expanded_url": "https://twitter.com/thoatta/status/1019972412098482176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019972382075699200,
+						"id_str": "1019972382075699200",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DierejpUwAA1KDI.jpg",
+						"url": "https://t.co/pZJ0jJhcP7",
+						"display_url": "pic.twitter.com/pZJ0jJhcP7",
+						"expanded_url": "https://twitter.com/thoatta/status/1019972412098482176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85621956,
+				"id_str": "85621956",
+				"name": "ஆல்தோட்டபூபதி",
+				"screen_name": "thoatta",
+				"location": "Pistol & Revolver :-)",
+				"description": "நெஞ்சத்தில் வஞ்சங்கள் இல்லாதவன்;\r\nவீண் வம்புக்கும் தும்புக்கும் செல்லாதவன்;\r\nயார் முன்னும் கை கட்டி வாய் பொத்தி ஆதாயம் தேடதவன்;\r\nஅந்த ஆகாயம் போல் வாழ்பவன்.!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122208,
+				"friends_count": 294,
+				"listed_count": 225,
+				"created_at": "Tue Oct 27 17:52:28 +0000 2009",
+				"favourites_count": 255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50609,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/580724122382180352/-KUEqsBP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/580724122382180352/-KUEqsBP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85621956/1358854512",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1163,
+			"favorite_count": 2212,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1163,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 21 05:50:20 +0000 2018",
 		"id": 1020546499002892300,
 		"id_str": "1020546499002892289",
