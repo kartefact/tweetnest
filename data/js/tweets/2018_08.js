@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 12 09:08:22 +0000 2018",
+		"id": 1028568866128060400,
+		"id_str": "1028568866128060417",
+		"text": "RT @GavinGarcia12: The only way I could pull these photos off is with a great support system https://t.co/EIlnh88wik",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinGarcia12",
+					"name": "ɢᴀᴠɪɴ ɢᴀʀᴄɪᴀ",
+					"id": 756835603,
+					"id_str": "756835603",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027311486467801100,
+					"id_str": "1027311486467801089",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+					"url": "https://t.co/EIlnh88wik",
+					"display_url": "pic.twitter.com/EIlnh88wik",
+					"expanded_url": "https://twitter.com/GavinGarcia12/status/1027311499277160448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027311499277160400,
+					"source_status_id_str": "1027311499277160448",
+					"source_user_id": 756835603,
+					"source_user_id_str": "756835603"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027311486467801100,
+					"id_str": "1027311486467801089",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+					"url": "https://t.co/EIlnh88wik",
+					"display_url": "pic.twitter.com/EIlnh88wik",
+					"expanded_url": "https://twitter.com/GavinGarcia12/status/1027311499277160448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027311499277160400,
+					"source_status_id_str": "1027311499277160448",
+					"source_user_id": 756835603,
+					"source_user_id_str": "756835603"
+				},
+				{
+					"id": 1027311486451036200,
+					"id_str": "1027311486451036160",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DkG-Wp-XsAAvAGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkG-Wp-XsAAvAGb.jpg",
+					"url": "https://t.co/EIlnh88wik",
+					"display_url": "pic.twitter.com/EIlnh88wik",
+					"expanded_url": "https://twitter.com/GavinGarcia12/status/1027311499277160448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027311499277160400,
+					"source_status_id_str": "1027311499277160448",
+					"source_user_id": 756835603,
+					"source_user_id_str": "756835603"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1609,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 21:52:02 +0000 2018",
+			"id": 1027311499277160400,
+			"id_str": "1027311499277160448",
+			"text": "The only way I could pull these photos off is with a great support system https://t.co/EIlnh88wik",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027311486467801100,
+						"id_str": "1027311486467801089",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+						"url": "https://t.co/EIlnh88wik",
+						"display_url": "pic.twitter.com/EIlnh88wik",
+						"expanded_url": "https://twitter.com/GavinGarcia12/status/1027311499277160448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027311486467801100,
+						"id_str": "1027311486467801089",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkG-WqCXgAEdOF8.jpg",
+						"url": "https://t.co/EIlnh88wik",
+						"display_url": "pic.twitter.com/EIlnh88wik",
+						"expanded_url": "https://twitter.com/GavinGarcia12/status/1027311499277160448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1027311486451036200,
+						"id_str": "1027311486451036160",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DkG-Wp-XsAAvAGb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkG-Wp-XsAAvAGb.jpg",
+						"url": "https://t.co/EIlnh88wik",
+						"display_url": "pic.twitter.com/EIlnh88wik",
+						"expanded_url": "https://twitter.com/GavinGarcia12/status/1027311499277160448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 756835603,
+				"id_str": "756835603",
+				"name": "ɢᴀᴠɪɴ ɢᴀʀᴄɪᴀ",
+				"screen_name": "GavinGarcia12",
+				"location": "",
+				"description": "life",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4647,
+				"friends_count": 402,
+				"listed_count": 9,
+				"created_at": "Tue Aug 14 09:28:32 +0000 2012",
+				"favourites_count": 11354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5710,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027709859574239238/aYF8RJdS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027709859574239238/aYF8RJdS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/756835603/1494281402",
+				"profile_link_color": "124D81",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9d3d75a484002",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9d3d75a484002.json",
+				"place_type": "poi",
+				"name": "Chalet du Mont Royal",
+				"full_name": "Chalet du Mont Royal",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.58732551142232,
+								45.50366184953185
+							],
+							[
+								-73.58732551142232,
+								45.50366184953185
+							],
+							[
+								-73.58732551142232,
+								45.50366184953185
+							],
+							[
+								-73.58732551142232,
+								45.50366184953185
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50130,
+			"favorite_count": 180062,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50130,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 11 07:54:59 +0000 2018",
 		"id": 1028188012688105500,
 		"id_str": "1028188012688105473",
