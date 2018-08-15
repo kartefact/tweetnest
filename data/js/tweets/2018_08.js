@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 14 14:39:56 +0000 2018",
+		"id": 1029377083217248300,
+		"id_str": "1029377083217248256",
+		"text": "RT @Vellawanti: Hi @ZomatoIN Spot the extra topping. 🤭 https://t.co/cG2zFmKBUy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vellawanti",
+					"name": "Bhagyashree",
+					"id": 187684552,
+					"id_str": "187684552",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "ZomatoIN",
+					"name": "Zomato India",
+					"id": 3282245130,
+					"id_str": "3282245130",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1029030110840553500,
+					"id_str": "1029030110840553472",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+					"url": "https://t.co/cG2zFmKBUy",
+					"display_url": "pic.twitter.com/cG2zFmKBUy",
+					"expanded_url": "https://twitter.com/Vellawanti/status/1029030124803448832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029030124803448800,
+					"source_status_id_str": "1029030124803448832",
+					"source_user_id": 187684552,
+					"source_user_id_str": "187684552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029030110840553500,
+					"id_str": "1029030110840553472",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+					"url": "https://t.co/cG2zFmKBUy",
+					"display_url": "pic.twitter.com/cG2zFmKBUy",
+					"expanded_url": "https://twitter.com/Vellawanti/status/1029030124803448832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029030124803448800,
+					"source_status_id_str": "1029030124803448832",
+					"source_user_id": 187684552,
+					"source_user_id_str": "187684552"
+				},
+				{
+					"id": 1029030110844735500,
+					"id_str": "1029030110844735488",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DkfZbwwU0AAt4tT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkfZbwwU0AAt4tT.jpg",
+					"url": "https://t.co/cG2zFmKBUy",
+					"display_url": "pic.twitter.com/cG2zFmKBUy",
+					"expanded_url": "https://twitter.com/Vellawanti/status/1029030124803448832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029030124803448800,
+					"source_status_id_str": "1029030124803448832",
+					"source_user_id": 187684552,
+					"source_user_id_str": "187684552"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1608,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 15:41:14 +0000 2018",
+			"id": 1029030124803448800,
+			"id_str": "1029030124803448832",
+			"text": "Hi @ZomatoIN Spot the extra topping. 🤭 https://t.co/cG2zFmKBUy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ZomatoIN",
+						"name": "Zomato India",
+						"id": 3282245130,
+						"id_str": "3282245130",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1029030110840553500,
+						"id_str": "1029030110840553472",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+						"url": "https://t.co/cG2zFmKBUy",
+						"display_url": "pic.twitter.com/cG2zFmKBUy",
+						"expanded_url": "https://twitter.com/Vellawanti/status/1029030124803448832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 748,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 748,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029030110840553500,
+						"id_str": "1029030110840553472",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkfZbwvVAAAdSc3.jpg",
+						"url": "https://t.co/cG2zFmKBUy",
+						"display_url": "pic.twitter.com/cG2zFmKBUy",
+						"expanded_url": "https://twitter.com/Vellawanti/status/1029030124803448832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 748,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 748,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1029030110844735500,
+						"id_str": "1029030110844735488",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DkfZbwwU0AAt4tT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkfZbwwU0AAt4tT.jpg",
+						"url": "https://t.co/cG2zFmKBUy",
+						"display_url": "pic.twitter.com/cG2zFmKBUy",
+						"expanded_url": "https://twitter.com/Vellawanti/status/1029030124803448832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 536,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 590,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 749,
+								"h": 590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187684552,
+				"id_str": "187684552",
+				"name": "Bhagyashree",
+				"screen_name": "Vellawanti",
+				"location": "New Delhi, India",
+				"description": "Get me Lindt.",
+				"url": "https://t.co/QdtDvjkbgy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QdtDvjkbgy",
+								"expanded_url": "http://nailpolishdiary.wordpress.com",
+								"display_url": "nailpolishdiary.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2072,
+				"friends_count": 256,
+				"listed_count": 49,
+				"created_at": "Mon Sep 06 22:09:07 +0000 2010",
+				"favourites_count": 1515,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28651,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/881572652363558912/Oyv9Dq5Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/881572652363558912/Oyv9Dq5Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187684552/1421003871",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 922,
+			"favorite_count": 1229,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 922,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 13 15:04:54 +0000 2018",
 		"id": 1029020979752775700,
 		"id_str": "1029020979752775680",
