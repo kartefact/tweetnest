@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 15 03:28:39 +0000 2018",
+		"id": 1029570539239735300,
+		"id_str": "1029570539239735296",
+		"text": "RT @IAF_MCC: #IndependenceDayIndia: Let's salute the Martyrs for the sacrifices they made &amp; thank them for giving us our today.\n\nThe Team I…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndependenceDayIndia",
+					"indices": [
+						13,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IAF_MCC",
+					"name": "Indian Air Force",
+					"id": 784705308832694300,
+					"id_str": "784705308832694272",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://play.google.com/store/apps/details?id=com.arthurivanets.owly\" rel=\"nofollow\">Оwly</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1574,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 15 02:10:58 +0000 2018",
+			"id": 1029550987642470400,
+			"id_str": "1029550987642470400",
+			"text": "#IndependenceDayIndia: Let's salute the Martyrs for the sacrifices they made &amp; thank them for giving us our today.… https://t.co/uLRmhJ0IGw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IndependenceDayIndia",
+						"indices": [
+							0,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uLRmhJ0IGw",
+						"expanded_url": "https://twitter.com/i/web/status/1029550987642470400",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 784705308832694300,
+				"id_str": "784705308832694272",
+				"name": "Indian Air Force",
+				"screen_name": "IAF_MCC",
+				"location": "New Delhi,India",
+				"description": "Indian Air Force - Media Co-ordination Centre",
+				"url": "https://t.co/SaLvQLB6Bf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SaLvQLB6Bf",
+								"expanded_url": "http://www.youtube.com/indianairforce_mcc",
+								"display_url": "youtube.com/indianairforce…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 177627,
+				"friends_count": 14,
+				"listed_count": 209,
+				"created_at": "Sat Oct 08 10:41:39 +0000 2016",
+				"favourites_count": 362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1478,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798477907316207617/dMQAtlFj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798477907316207617/dMQAtlFj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/784705308832694272/1519031482",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 205,
+			"favorite_count": 828,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 15 03:25:54 +0000 2018",
+		"id": 1029569845829005300,
+		"id_str": "1029569845829005312",
+		"text": "RT @elenacresci: friend: 'what are you thinking about'\nme: 'nothing'\nmy brain: https://t.co/c1iub2HoNY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elenacresci",
+					"name": "Elena Cresci",
+					"id": 47992292,
+					"id_str": "47992292",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027841787413508100,
+					"id_str": "1027841787413508096",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"url": "https://t.co/c1iub2HoNY",
+					"display_url": "pic.twitter.com/c1iub2HoNY",
+					"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027842447013904400,
+					"source_status_id_str": "1027842447013904384",
+					"source_user_id": 227619613,
+					"source_user_id_str": "227619613"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027841787413508100,
+					"id_str": "1027841787413508096",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"url": "https://t.co/c1iub2HoNY",
+					"display_url": "pic.twitter.com/c1iub2HoNY",
+					"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027842447013904400,
+					"source_status_id_str": "1027842447013904384",
+					"source_user_id": 227619613,
+					"source_user_id_str": "227619613",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60240,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/pl/INHp2YBjh32hEaU3.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/640x360/dp-cFh64ituEPFJt.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/1280x720/O7whwuRjLsBn25lP.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/320x180/Rli_IxU_ik38qLht.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 227619613,
+							"id_str": "227619613",
+							"name": "エミ",
+							"screen_name": "cnblueemi",
+							"location": "",
+							"description": "K-POP雑食(CNBLUE SF9 super junior EXO) 色んな曲聞きまくりで好きなグループ増えて大変(•ө•) 日本だとKAT-TUN大好きです！",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 296,
+							"friends_count": 83,
+							"listed_count": 3,
+							"created_at": "Fri Dec 17 09:41:12 +0000 2010",
+							"favourites_count": 4225,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 6672,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/227619613/1528095647",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1574,
+			"friends_count": 529,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 11:59:10 +0000 2018",
+			"id": 1028974240287141900,
+			"id_str": "1028974240287141888",
+			"text": "friend: 'what are you thinking about'\nme: 'nothing'\nmy brain: https://t.co/c1iub2HoNY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027841787413508100,
+						"id_str": "1027841787413508096",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"url": "https://t.co/c1iub2HoNY",
+						"display_url": "pic.twitter.com/c1iub2HoNY",
+						"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1027842447013904400,
+						"source_status_id_str": "1027842447013904384",
+						"source_user_id": 227619613,
+						"source_user_id_str": "227619613"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027841787413508100,
+						"id_str": "1027841787413508096",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"url": "https://t.co/c1iub2HoNY",
+						"display_url": "pic.twitter.com/c1iub2HoNY",
+						"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1027842447013904400,
+						"source_status_id_str": "1027842447013904384",
+						"source_user_id": 227619613,
+						"source_user_id_str": "227619613",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60240,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/pl/INHp2YBjh32hEaU3.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/640x360/dp-cFh64ituEPFJt.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/1280x720/O7whwuRjLsBn25lP.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/320x180/Rli_IxU_ik38qLht.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 227619613,
+								"id_str": "227619613",
+								"name": "エミ",
+								"screen_name": "cnblueemi",
+								"location": "",
+								"description": "K-POP雑食(CNBLUE SF9 super junior EXO) 色んな曲聞きまくりで好きなグループ増えて大変(•ө•) 日本だとKAT-TUN大好きです！",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 296,
+								"friends_count": 83,
+								"listed_count": 3,
+								"created_at": "Fri Dec 17 09:41:12 +0000 2010",
+								"favourites_count": 4225,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 6672,
+								"lang": "ja",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/227619613/1528095647",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47992292,
+				"id_str": "47992292",
+				"name": "Elena Cresci",
+				"screen_name": "elenacresci",
+				"location": "London via Cardiff",
+				"description": "I write and I fight. I also make videos and sew, but that didn't fit the rhyme. Seen @guardian @hanshs4c @bento_de @Channel4News",
+				"url": "https://t.co/TkboroVn6c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TkboroVn6c",
+								"expanded_url": "https://www.elenacresci.co.uk",
+								"display_url": "elenacresci.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12955,
+				"friends_count": 2543,
+				"listed_count": 356,
+				"created_at": "Wed Jun 17 15:16:44 +0000 2009",
+				"favourites_count": 9520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57923,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F2E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991100614565335040/wreZ3BsH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991100614565335040/wreZ3BsH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47992292/1523910024",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C32C25",
+				"profile_sidebar_fill_color": "291413",
+				"profile_text_color": "292927",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62994,
+			"favorite_count": 138400,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 62994,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 14 14:39:56 +0000 2018",
 		"id": 1029377083217248300,
 		"id_str": "1029377083217248256",
