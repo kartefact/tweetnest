@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 18 04:45:57 +0000 2018",
+		"id": 1030677155821379600,
+		"id_str": "1030677155821379585",
+		"text": "My today's daybreak gift from @mudnsky :D https://t.co/3L3rihF1rd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3L3rihF1rd",
+					"expanded_url": "https://twitter.com/Otter_News/status/1030098619033169921",
+					"display_url": "twitter.com/Otter_News/sta…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1573,
+			"friends_count": 527,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1030098619033169900,
+		"quoted_status_id_str": "1030098619033169921",
+		"quoted_status": {
+			"created_at": "Thu Aug 16 14:27:03 +0000 2018",
+			"id": 1030098619033169900,
+			"id_str": "1030098619033169921",
+			"text": "Ottermobile accident. https://t.co/yHj4M8g1vz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030098527400149000,
+						"id_str": "1030098527400148994",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1030098527400148994/pu/img/PJXZoBRQ2wfSVSDf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1030098527400148994/pu/img/PJXZoBRQ2wfSVSDf.jpg",
+						"url": "https://t.co/yHj4M8g1vz",
+						"display_url": "pic.twitter.com/yHj4M8g1vz",
+						"expanded_url": "https://twitter.com/Otter_News/status/1030098619033169921/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030098527400149000,
+						"id_str": "1030098527400148994",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1030098527400148994/pu/img/PJXZoBRQ2wfSVSDf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1030098527400148994/pu/img/PJXZoBRQ2wfSVSDf.jpg",
+						"url": "https://t.co/yHj4M8g1vz",
+						"display_url": "pic.twitter.com/yHj4M8g1vz",
+						"expanded_url": "https://twitter.com/Otter_News/status/1030098619033169921/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 5011,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1030098527400148994/pu/pl/2Gy9rH6Y3EwIFLdv.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1030098527400148994/pu/vid/480x360/WhSweYGZnSa0oxbz.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1030098527400148994/pu/vid/240x180/fAVmRcHskI1LBsPg.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1183907521,
+				"id_str": "1183907521",
+				"name": "In Otter News",
+				"screen_name": "Otter_News",
+				"location": "Down by the river.In the bar.",
+				"description": "The very best otters from around the world. I'm also friends with Steve.",
+				"url": "https://t.co/Ebd8YiOIIX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ebd8YiOIIX",
+								"expanded_url": "https://www.inotternews.co.uk",
+								"display_url": "inotternews.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70265,
+				"friends_count": 9,
+				"listed_count": 501,
+				"created_at": "Sat Feb 16 10:12:08 +0000 2013",
+				"favourites_count": 21327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4952,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3258407404/b9d8d0f6fd81a0ec254468dbbdd72a09_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3258407404/b9d8d0f6fd81a0ec254468dbbdd72a09_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1183907521/1374187127",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4791,
+			"favorite_count": 10962,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 18 03:29:28 +0000 2018",
+		"id": 1030657907485024300,
+		"id_str": "1030657907485024256",
+		"text": "RT @CarDroidusMax: Manorama has just reported that #RanniRescue is complete! Last family from Ranni taluk - one of the worst affected in #K…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RanniRescue",
+					"indices": [
+						51,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarDroidusMax",
+					"name": "The Last Caveman",
+					"id": 20494059,
+					"id_str": "20494059",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1573,
+			"friends_count": 527,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 18 02:12:44 +0000 2018",
+			"id": 1030638595433029600,
+			"id_str": "1030638595433029632",
+			"text": "Manorama has just reported that #RanniRescue is complete! Last family from Ranni taluk - one of the worst affected… https://t.co/ut0JTnkVtg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RanniRescue",
+						"indices": [
+							32,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ut0JTnkVtg",
+						"expanded_url": "https://twitter.com/i/web/status/1030638595433029632",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20494059,
+				"id_str": "20494059",
+				"name": "The Last Caveman",
+				"screen_name": "CarDroidusMax",
+				"location": "Macondo",
+				"description": "Undersecretary General of PETA (People Eating Tasty Animals) | \"Da Fuqus Mitrus?\", asked Nostradamus",
+				"url": "https://t.co/yCHpm6X3Ff",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yCHpm6X3Ff",
+								"expanded_url": "https://medium.com/@CarDroidusMax",
+								"display_url": "medium.com/@CarDroidusMax",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16813,
+				"friends_count": 1258,
+				"listed_count": 130,
+				"created_at": "Tue Feb 10 05:34:23 +0000 2009",
+				"favourites_count": 7721,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/602852893968957440/U7-EV4ue_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/602852893968957440/U7-EV4ue_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20494059/1531514389",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 256,
+			"favorite_count": 690,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 17 04:00:18 +0000 2018",
 		"id": 1030303281053134800,
 		"id_str": "1030303281053134849",
