@@ -1,6 +1,1987 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 28 02:44:29 +0000 2018",
+		"id": 1034270466456862700,
+		"id_str": "1034270466456862720",
+		"text": "RT @westr: Truth nastier than the hero image? Lisa’s book title provides the answer. \n#MeToo #Apple #SteveJobs  https://t.co/7XZdfRVZyz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MeToo",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "Apple",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "SteveJobs",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "westr",
+					"name": "Robert West PhD",
+					"id": 14267832,
+					"id_str": "14267832",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7XZdfRVZyz",
+					"expanded_url": "https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html",
+					"display_url": "finance.yahoo.com/news/memoir-st…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1571,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 26 20:13:44 +0000 2018",
+			"id": 1033809742903357400,
+			"id_str": "1033809742903357442",
+			"text": "Truth nastier than the hero image? Lisa’s book title provides the answer. \n#MeToo #Apple #SteveJobs  https://t.co/7XZdfRVZyz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MeToo",
+						"indices": [
+							75,
+							81
+						]
+					},
+					{
+						"text": "Apple",
+						"indices": [
+							82,
+							88
+						]
+					},
+					{
+						"text": "SteveJobs",
+						"indices": [
+							89,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7XZdfRVZyz",
+						"expanded_url": "https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html",
+						"display_url": "finance.yahoo.com/news/memoir-st…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14267832,
+				"id_str": "14267832",
+				"name": "Robert West PhD",
+				"screen_name": "westr",
+				"location": "Syracuse, NY",
+				"description": "Personalized Medicine evangelist #PM101. From benches to trenches of #Healthcare. SUNY emeritus prof, über patient advocate #MedEd #Asthma #Chronicpain #CSFleak",
+				"url": "https://t.co/aLf6cwbVsm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aLf6cwbVsm",
+								"expanded_url": "https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button",
+								"display_url": "linkedin.com/profile/previe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20493,
+				"friends_count": 8191,
+				"listed_count": 1455,
+				"created_at": "Mon Mar 31 17:30:33 +0000 2008",
+				"favourites_count": 17612,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 83548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000405",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/500040415697833989/p8hvJ9_i_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/500040415697833989/p8hvJ9_i_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14267832/1408054639",
+				"profile_link_color": "B80009",
+				"profile_sidebar_border_color": "775EDC",
+				"profile_sidebar_fill_color": "E9F2E9",
+				"profile_text_color": "F0091D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 28 02:38:58 +0000 2018",
+		"id": 1034269076238094300,
+		"id_str": "1034269076238094336",
+		"text": "RT @Marmel: Bill Gates walks into a room.\nA destitute person walks in to the same room.\nThe average wealth of everybody in the room is $4.9…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marmel",
+					"name": "Steve Marmel",
+					"id": 5513002,
+					"id_str": "5513002",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1571,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 21:10:23 +0000 2018",
+			"id": 1033461612957577200,
+			"id_str": "1033461612957577217",
+			"text": "Bill Gates walks into a room.\nA destitute person walks in to the same room.\nThe average wealth of everybody in the… https://t.co/aYcRkKePsA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aYcRkKePsA",
+						"expanded_url": "https://twitter.com/i/web/status/1033461612957577217",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5513002,
+				"id_str": "5513002",
+				"name": "Steve Marmel",
+				"screen_name": "Marmel",
+				"location": "Holly La La",
+				"description": "Not a journalist. Focussed on Midterms: Registration, IDs,\nOne tutu in the bugout bag, #Indivisible #SwingLeft #BlueWave #MuteMorons,#BlockMonsters",
+				"url": "https://t.co/CqfZEguj3a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CqfZEguj3a",
+								"expanded_url": "http://Fb.com/TheMarmelPage",
+								"display_url": "Fb.com/TheMarmelPage",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69699,
+				"friends_count": 2214,
+				"listed_count": 1122,
+				"created_at": "Thu Apr 26 01:08:45 +0000 2007",
+				"favourites_count": 18795,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 61917,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031252036363280385/BZjIo7I0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031252036363280385/BZjIo7I0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5513002/1479653082",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1032746651331510300,
+			"quoted_status_id_str": "1032746651331510274",
+			"quoted_status": {
+				"created_at": "Thu Aug 23 21:49:23 +0000 2018",
+				"id": 1032746651331510300,
+				"id_str": "1032746651331510274",
+				"text": "You work hard for your paycheck. You deserve to keep more of it. That's why #TaxReform lets you keep A LOT more. https://t.co/xbmIXgaC1R",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TaxReform",
+							"indices": [
+								76,
+								86
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1032746471798595600,
+							"id_str": "1032746471798595584",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DlUNccKX4AAIvyJ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DlUNccKX4AAIvyJ.jpg",
+							"url": "https://t.co/xbmIXgaC1R",
+							"display_url": "pic.twitter.com/xbmIXgaC1R",
+							"expanded_url": "https://twitter.com/RepBost/status/1032746651331510274/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1152,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1032746471798595600,
+							"id_str": "1032746471798595584",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DlUNccKX4AAIvyJ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DlUNccKX4AAIvyJ.jpg",
+							"url": "https://t.co/xbmIXgaC1R",
+							"display_url": "pic.twitter.com/xbmIXgaC1R",
+							"expanded_url": "https://twitter.com/RepBost/status/1032746651331510274/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1152,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2964877294,
+					"id_str": "2964877294",
+					"name": "Rep. Mike Bost",
+					"screen_name": "RepBost",
+					"location": "IL-12 Congressional District",
+					"description": "Member of Congress proudly representing IL-12. Serving on @transport, @HouseAgNews, and @HouseVetAffairs Committees. Find me on FB at https://t.co/cjWY9Itiyr",
+					"url": "https://t.co/4tXoH7NdiQ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4tXoH7NdiQ",
+									"expanded_url": "http://bost.house.gov",
+									"display_url": "bost.house.gov",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/cjWY9Itiyr",
+									"expanded_url": "http://www.facebook.com/RepBost",
+									"display_url": "facebook.com/RepBost",
+									"indices": [
+										134,
+										157
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 8425,
+					"friends_count": 1739,
+					"listed_count": 398,
+					"created_at": "Tue Jan 06 19:55:08 +0000 2015",
+					"favourites_count": 253,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 1488,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/553681697867575296/TbRJrmrc_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2964877294/1420574422",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 18,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1784,
+			"favorite_count": 4927,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1032746651331510300,
+		"quoted_status_id_str": "1032746651331510274",
+		"retweet_count": 1784,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 28 02:37:51 +0000 2018",
+		"id": 1034268796863819800,
+		"id_str": "1034268796863819776",
+		"text": "RT @lkigai_: The middle guy is how balanced I want my life to be  https://t.co/FDMbH6igwV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lkigai_",
+					"name": "ᴘɴᴇᴜᴍᴀᴛɪᴄ 🇸🇴",
+					"id": 772230013374566400,
+					"id_str": "772230013374566400",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1032829715197833200,
+					"id_str": "1032829715197833216",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+					"url": "https://t.co/FDMbH6igwV",
+					"display_url": "pic.twitter.com/FDMbH6igwV",
+					"expanded_url": "https://twitter.com/Campaign_Otaku/status/1032829763826540544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032829763826540500,
+					"source_status_id_str": "1032829763826540544",
+					"source_user_id": 44584770,
+					"source_user_id_str": "44584770"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1032829715197833200,
+					"id_str": "1032829715197833216",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+					"url": "https://t.co/FDMbH6igwV",
+					"display_url": "pic.twitter.com/FDMbH6igwV",
+					"expanded_url": "https://twitter.com/Campaign_Otaku/status/1032829763826540544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032829763826540500,
+					"source_status_id_str": "1032829763826540544",
+					"source_user_id": 44584770,
+					"source_user_id_str": "44584770",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29500,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/vid/180x320/-bSiDppP9-lo4Q-V.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/vid/576x1024/P4us5zjVCQBBcLRP.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/pl/2h3qoqnYi7TVmzgs.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/vid/360x640/OBl6HV9eFrbtzFR8.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 44584770,
+							"id_str": "44584770",
+							"name": "セキ ヤスヒサ",
+							"screen_name": "Campaign_Otaku",
+							"location": "Osaka",
+							"description": "仕事してるフリして世界のニュースをただ眺めて1日終わる人。フリーランス20年生。時代遅れの寵児。Master of None。テニスとボクシングと将棋を見るために全てを犠牲にする人。",
+							"url": "https://t.co/4zHRnxJvOq",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/4zHRnxJvOq",
+											"expanded_url": "http://campaign-otaku.hatenadiary.com/",
+											"display_url": "campaign-otaku.hatenadiary.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3078,
+							"friends_count": 688,
+							"listed_count": 57,
+							"created_at": "Thu Jun 04 09:57:08 +0000 2009",
+							"favourites_count": 2866,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 13463,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/521882459231641600/Vre2qTsf_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/521882459231641600/Vre2qTsf_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/44584770/1501690938",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1571,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 18:30:13 +0000 2018",
+			"id": 1033421304735694800,
+			"id_str": "1033421304735694848",
+			"text": "The middle guy is how balanced I want my life to be  https://t.co/FDMbH6igwV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1032829715197833200,
+						"id_str": "1032829715197833216",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+						"url": "https://t.co/FDMbH6igwV",
+						"display_url": "pic.twitter.com/FDMbH6igwV",
+						"expanded_url": "https://twitter.com/Campaign_Otaku/status/1032829763826540544/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1032829763826540500,
+						"source_status_id_str": "1032829763826540544",
+						"source_user_id": 44584770,
+						"source_user_id_str": "44584770"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1032829715197833200,
+						"id_str": "1032829715197833216",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032829715197833216/pu/img/gZqJCTYidCv99qwo.jpg",
+						"url": "https://t.co/FDMbH6igwV",
+						"display_url": "pic.twitter.com/FDMbH6igwV",
+						"expanded_url": "https://twitter.com/Campaign_Otaku/status/1032829763826540544/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1032829763826540500,
+						"source_status_id_str": "1032829763826540544",
+						"source_user_id": 44584770,
+						"source_user_id_str": "44584770",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 29500,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/vid/180x320/-bSiDppP9-lo4Q-V.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/vid/576x1024/P4us5zjVCQBBcLRP.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/pl/2h3qoqnYi7TVmzgs.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1032829715197833216/pu/vid/360x640/OBl6HV9eFrbtzFR8.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 44584770,
+								"id_str": "44584770",
+								"name": "セキ ヤスヒサ",
+								"screen_name": "Campaign_Otaku",
+								"location": "Osaka",
+								"description": "仕事してるフリして世界のニュースをただ眺めて1日終わる人。フリーランス20年生。時代遅れの寵児。Master of None。テニスとボクシングと将棋を見るために全てを犠牲にする人。",
+								"url": "https://t.co/4zHRnxJvOq",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/4zHRnxJvOq",
+												"expanded_url": "http://campaign-otaku.hatenadiary.com/",
+												"display_url": "campaign-otaku.hatenadiary.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3078,
+								"friends_count": 688,
+								"listed_count": 57,
+								"created_at": "Thu Jun 04 09:57:08 +0000 2009",
+								"favourites_count": 2866,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 13463,
+								"lang": "ja",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/521882459231641600/Vre2qTsf_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/521882459231641600/Vre2qTsf_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/44584770/1501690938",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772230013374566400,
+				"id_str": "772230013374566400",
+				"name": "ᴘɴᴇᴜᴍᴀᴛɪᴄ 🇸🇴",
+				"screen_name": "lkigai_",
+				"location": "England, United Kingdom",
+				"description": "Chemical Engineer| Entrepreneur| startup| a lot of sarcasm| Retweets ≠ endorsements. I’m on Twitter to escape the seriousness of reality.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5292,
+				"friends_count": 98,
+				"listed_count": 277,
+				"created_at": "Sun Sep 04 00:29:17 +0000 2016",
+				"favourites_count": 1381,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815380199412002816/GnfTtI3Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815380199412002816/GnfTtI3Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772230013374566400/1530365638",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 410418,
+			"favorite_count": 874965,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 410418,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 28 02:36:11 +0000 2018",
+		"id": 1034268377727025200,
+		"id_str": "1034268377727025152",
+		"text": "RT @HeartOfPluto_: After 15kg of wool and over 💯 hrs of knitting, I’m finally ready to fly to the UK. Now I just need to pack the entire un…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HeartOfPluto_",
+					"name": "Heart of Pluto",
+					"id": 804627711301808100,
+					"id_str": "804627711301808128",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1571,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 26 03:04:42 +0000 2018",
+			"id": 1033550777434816500,
+			"id_str": "1033550777434816512",
+			"text": "After 15kg of wool and over 💯 hrs of knitting, I’m finally ready to fly to the UK. Now I just need to pack the enti… https://t.co/qysthToyoz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qysthToyoz",
+						"expanded_url": "https://twitter.com/i/web/status/1033550777434816512",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804627711301808100,
+				"id_str": "804627711301808128",
+				"name": "Heart of Pluto",
+				"screen_name": "HeartOfPluto_",
+				"location": "Melbourne, Victoria",
+				"description": "Makers of hacked knitting, electronics and whatever else takes our fancy. Converting a domestic knitting machine into a printer! https://t.co/ez3P0DjLl3",
+				"url": "https://t.co/ez3P0DjLl3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ez3P0DjLl3",
+								"expanded_url": "http://heartofpluto.co",
+								"display_url": "heartofpluto.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ez3P0DjLl3",
+								"expanded_url": "http://heartofpluto.co",
+								"display_url": "heartofpluto.co",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3312,
+				"friends_count": 954,
+				"listed_count": 22,
+				"created_at": "Fri Dec 02 10:06:10 +0000 2016",
+				"favourites_count": 755,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 218,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877726944258703360/pnPqCaPt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877726944258703360/pnPqCaPt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804627711301808128/1480716151",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14131,
+			"favorite_count": 70707,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14131,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 28 02:35:27 +0000 2018",
+		"id": 1034268191386755100,
+		"id_str": "1034268191386755072",
+		"text": "RT @howardjeff10: This could be us but we are all waiting for the other to text first. 😭 https://t.co/kDiIQkIkHK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "howardjeff10",
+					"name": "Howard Jeff",
+					"id": 2222086986,
+					"id_str": "2222086986",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033287069450338300,
+					"id_str": "1033287069450338304",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+					"url": "https://t.co/kDiIQkIkHK",
+					"display_url": "pic.twitter.com/kDiIQkIkHK",
+					"expanded_url": "https://twitter.com/howardjeff10/status/1033287258634440704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033287258634440700,
+					"source_status_id_str": "1033287258634440704",
+					"source_user_id": 2222086986,
+					"source_user_id_str": "2222086986"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033287069450338300,
+					"id_str": "1033287069450338304",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+					"url": "https://t.co/kDiIQkIkHK",
+					"display_url": "pic.twitter.com/kDiIQkIkHK",
+					"expanded_url": "https://twitter.com/howardjeff10/status/1033287258634440704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033287258634440700,
+					"source_status_id_str": "1033287258634440704",
+					"source_user_id": 2222086986,
+					"source_user_id_str": "2222086986",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29800,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1033287069450338304/pu/vid/240x240/OBDjV7joBR8ZE2WB.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1033287069450338304/pu/pl/D5LU8hp5erfwZ3T3.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1033287069450338304/pu/vid/400x400/_nibnei2Y9GU2lMR.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2222086986,
+							"id_str": "2222086986",
+							"name": "Howard Jeff",
+							"screen_name": "howardjeff10",
+							"location": "Africa ",
+							"description": "This is absolutely terrible because I really, really want to write a good Twitter bio but I can't think of anything good to write",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 13771,
+							"friends_count": 11079,
+							"listed_count": 26,
+							"created_at": "Fri Nov 29 22:07:23 +0000 2013",
+							"favourites_count": 21227,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 9868,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1017050537810939904/1FcI-MtH_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017050537810939904/1FcI-MtH_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2222086986/1535017979",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1571,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 09:37:34 +0000 2018",
+			"id": 1033287258634440700,
+			"id_str": "1033287258634440704",
+			"text": "This could be us but we are all waiting for the other to text first. 😭 https://t.co/kDiIQkIkHK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033287069450338300,
+						"id_str": "1033287069450338304",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+						"url": "https://t.co/kDiIQkIkHK",
+						"display_url": "pic.twitter.com/kDiIQkIkHK",
+						"expanded_url": "https://twitter.com/howardjeff10/status/1033287258634440704/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033287069450338300,
+						"id_str": "1033287069450338304",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1033287069450338304/pu/img/jvztJvoQuVhFxtlU.jpg",
+						"url": "https://t.co/kDiIQkIkHK",
+						"display_url": "pic.twitter.com/kDiIQkIkHK",
+						"expanded_url": "https://twitter.com/howardjeff10/status/1033287258634440704/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 29800,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033287069450338304/pu/vid/240x240/OBDjV7joBR8ZE2WB.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1033287069450338304/pu/pl/D5LU8hp5erfwZ3T3.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033287069450338304/pu/vid/400x400/_nibnei2Y9GU2lMR.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2222086986,
+				"id_str": "2222086986",
+				"name": "Howard Jeff",
+				"screen_name": "howardjeff10",
+				"location": "Africa ",
+				"description": "This is absolutely terrible because I really, really want to write a good Twitter bio but I can't think of anything good to write",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13771,
+				"friends_count": 11079,
+				"listed_count": 26,
+				"created_at": "Fri Nov 29 22:07:23 +0000 2013",
+				"favourites_count": 21227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017050537810939904/1FcI-MtH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017050537810939904/1FcI-MtH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2222086986/1535017979",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14912,
+			"favorite_count": 19983,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14912,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 28 02:31:45 +0000 2018",
+		"id": 1034267260267970600,
+		"id_str": "1034267260267970562",
+		"text": "RT @Cavieta: India's 1st biofuel-powered flight successfully lands in Delhi. The SpiceJet aircraft running on #biofuel developed by Dehradu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "biofuel",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cavieta",
+					"name": "Kavita",
+					"id": 165305733,
+					"id_str": "165305733",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1571,
+			"friends_count": 528,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 27 07:06:26 +0000 2018",
+			"id": 1033973998781124600,
+			"id_str": "1033973998781124608",
+			"text": "India's 1st biofuel-powered flight successfully lands in Delhi. The SpiceJet aircraft running on #biofuel developed… https://t.co/0HDTiX5siF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "biofuel",
+						"indices": [
+							97,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0HDTiX5siF",
+						"expanded_url": "https://twitter.com/i/web/status/1033973998781124608",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 165305733,
+				"id_str": "165305733",
+				"name": "Kavita",
+				"screen_name": "Cavieta",
+				"location": "Uttarakhand",
+				"description": "Uttarakhandi. Pahadi. From/of/by Nainital. Daughter of my feminist Babba (father). Journalist @IndianExpress. Formerly @the_hindu",
+				"url": "https://t.co/ABv4Gn9t5L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ABv4Gn9t5L",
+								"expanded_url": "http://indianexpress.com/profile/author/kavita-upadhyay/",
+								"display_url": "indianexpress.com/profile/author…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1572,
+				"friends_count": 520,
+				"listed_count": 11,
+				"created_at": "Sun Jul 11 05:33:30 +0000 2010",
+				"favourites_count": 128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 462,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0F0F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882477858546794496/nQMJhAeI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882477858546794496/nQMJhAeI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/165305733/1398332514",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "627E91",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 63,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 26 05:41:02 +0000 2018",
 		"id": 1033590118890831900,
 		"id_str": "1033590118890831872",
