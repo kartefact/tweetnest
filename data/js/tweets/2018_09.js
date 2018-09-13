@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 12 04:16:07 +0000 2018",
+		"id": 1039729342891352000,
+		"id_str": "1039729342891352070",
+		"text": "Wow! https://t.co/2wSjceZVn8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wSjceZVn8",
+					"expanded_url": "https://twitter.com/A_aphrodisia/status/1039290083113881601",
+					"display_url": "twitter.com/A_aphrodisia/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1567,
+			"friends_count": 531,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1039290083113881600,
+		"quoted_status_id_str": "1039290083113881601",
+		"quoted_status": {
+			"created_at": "Mon Sep 10 23:10:39 +0000 2018",
+			"id": 1039290083113881600,
+			"id_str": "1039290083113881601",
+			"text": "Release the KRAKEN! \nKraken 100% chocolate  by Amaury guichon⁣ https://t.co/63wREackrl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1039289977593638900,
+						"id_str": "1039289977593638912",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039289977593638912/pu/img/cm-9dOCYlxGUWhI-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039289977593638912/pu/img/cm-9dOCYlxGUWhI-.jpg",
+						"url": "https://t.co/63wREackrl",
+						"display_url": "pic.twitter.com/63wREackrl",
+						"expanded_url": "https://twitter.com/A_aphrodisia/status/1039290083113881601/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1039289977593638900,
+						"id_str": "1039289977593638912",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039289977593638912/pu/img/cm-9dOCYlxGUWhI-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039289977593638912/pu/img/cm-9dOCYlxGUWhI-.jpg",
+						"url": "https://t.co/63wREackrl",
+						"display_url": "pic.twitter.com/63wREackrl",
+						"expanded_url": "https://twitter.com/A_aphrodisia/status/1039290083113881601/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60007,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1039289977593638912/pu/vid/480x480/pBkaNa9bc-UnG6dx.mp4?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1039289977593638912/pu/vid/640x640/-dsEef8UClmWmsB9.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1039289977593638912/pu/pl/koVcwmpBCtkyeOu6.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1039289977593638912/pu/vid/240x240/7zSGTeoUa3nb9aZj.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269395410,
+				"id_str": "269395410",
+				"name": "Apolonis Aphrodisia",
+				"screen_name": "A_aphrodisia",
+				"location": "Biarritz",
+				"description": "Team @Steampunk_T",
+				"url": "https://t.co/fsYxMz3zUX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fsYxMz3zUX",
+								"expanded_url": "https://www.facebook.com/apolonis.aphrodisia",
+								"display_url": "facebook.com/apolonis.aphro…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4887,
+				"friends_count": 76,
+				"listed_count": 68,
+				"created_at": "Sun Mar 20 17:55:58 +0000 2011",
+				"favourites_count": 3687,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4805,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010A0F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3745495835/f0bb337d953ab31254794817ab2b442d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3745495835/f0bb337d953ab31254794817ab2b442d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/269395410/1370181803",
+				"profile_link_color": "224754",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 116360,
+			"favorite_count": 316025,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Sep 11 20:25:33 +0000 2018",
 		"id": 1039610923185516500,
 		"id_str": "1039610923185516545",
@@ -2202,7 +2492,7 @@ Grailbird.data.tweets_2018_09 =
 				"name": "Ron",
 				"screen_name": "DragonfireXL17",
 				"location": "",
-				"description": "Liberal(Obviously 😏), Bisexual(Most Definitely 👨🏾‍🎤), Sole Male of the #ComiCoven. #SWRepMatters I’m nice till you’re not😎",
+				"description": "Liberal(Obviously 😏), Bisexual(Most Definitely 👨🏾🎤), Sole Male of the #ComiCoven. #SWRepMatters I’m nice till you’re not😎",
 				"url": null,
 				"entities": {
 					"description": {
