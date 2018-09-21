@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 20 20:38:22 +0000 2018",
+		"id": 1042875637768310800,
+		"id_str": "1042875637768310784",
+		"text": "@mudnsky @YayyDiv &lt;3 Agar Dil Rajee hai https://t.co/M4arC28Wkm :D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "YayyDiv",
+					"name": "Divya Shivaram",
+					"id": 895176913,
+					"id_str": "895176913",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M4arC28Wkm",
+					"expanded_url": "https://youtu.be/59mSWKsw-S0",
+					"display_url": "youtu.be/59mSWKsw-S0",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1042837453755834400,
+		"in_reply_to_status_id_str": "1042837453755834370",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1567,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hi"
+	},
+	{
+		"created_at": "Thu Sep 20 04:12:06 +0000 2018",
+		"id": 1042627437316718600,
+		"id_str": "1042627437316718592",
+		"text": "RT @Falooly: hi2all, need to have a quick chat with an SEO/SEM expert. Help?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Falooly",
+					"name": "Loolie",
+					"id": 31174174,
+					"id_str": "31174174",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1567,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 19 14:09:46 +0000 2018",
+			"id": 1042415455431008300,
+			"id_str": "1042415455431008257",
+			"text": "hi2all, need to have a quick chat with an SEO/SEM expert. Help?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31174174,
+				"id_str": "31174174",
+				"name": "Loolie",
+				"screen_name": "Falooly",
+				"location": "Mumbai, India",
+				"description": "constant suspension of disbelief.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1056,
+				"friends_count": 539,
+				"listed_count": 36,
+				"created_at": "Tue Apr 14 17:29:49 +0000 2009",
+				"favourites_count": 8192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42639,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990503836736507904/jk9KebRg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990503836736507904/jk9KebRg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31174174/1513415677",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 19 08:28:13 +0000 2018",
 		"id": 1042329500166631400,
 		"id_str": "1042329500166631424",
