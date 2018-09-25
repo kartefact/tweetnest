@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 24 19:18:17 +0000 2018",
+		"id": 1044305036208214000,
+		"id_str": "1044305036208214016",
+		"text": "RT @MrBenLHall: Those four people who always like your posts no matter what. https://t.co/Bftweuv1Ob",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrBenLHall",
+					"name": "Ben Hall",
+					"id": 361181996,
+					"id_str": "361181996",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1043895885095215100,
+					"id_str": "1043895885095215104",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+					"url": "https://t.co/Bftweuv1Ob",
+					"display_url": "pic.twitter.com/Bftweuv1Ob",
+					"expanded_url": "https://twitter.com/MrBenLHall/status/1043895934613168128/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043895934613168100,
+					"source_status_id_str": "1043895934613168128",
+					"source_user_id": 361181996,
+					"source_user_id_str": "361181996"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043895885095215100,
+					"id_str": "1043895885095215104",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+					"url": "https://t.co/Bftweuv1Ob",
+					"display_url": "pic.twitter.com/Bftweuv1Ob",
+					"expanded_url": "https://twitter.com/MrBenLHall/status/1043895934613168128/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043895934613168100,
+					"source_status_id_str": "1043895934613168128",
+					"source_user_id": 361181996,
+					"source_user_id_str": "361181996",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9567,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/vid/640x640/DgyMcU2TE5gagB05.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/pl/4j3T0_3AUrMGTd1S.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/vid/240x240/doaipDd7nLUEv04c.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/vid/480x480/mfqcfqvQOM4LOR9F.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 361181996,
+							"id_str": "361181996",
+							"name": "Ben Hall",
+							"screen_name": "MrBenLHall",
+							"location": "Follow me on instagram  ⬇️",
+							"description": "Papercut survivor. Licks the apples in tesco. Only phones people at 12:59, because I like to talk one to one. @Lashleeey 💍. Easily distracte",
+							"url": "https://t.co/qTvkOZfSzT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/qTvkOZfSzT",
+											"expanded_url": "http://Instagram.com/mrbenlhall",
+											"display_url": "Instagram.com/mrbenlhall",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 301149,
+							"friends_count": 326537,
+							"listed_count": 510,
+							"created_at": "Wed Aug 24 11:30:02 +0000 2011",
+							"favourites_count": 1108,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 7955,
+							"lang": "en-gb",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "642D8B",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/888960159518793728/BA-O0r1w_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/888960159518793728/BA-O0r1w_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/361181996/1530412012",
+							"profile_link_color": "9266CC",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "7AC3EE",
+							"profile_text_color": "3D1957",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1567,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 23 16:12:40 +0000 2018",
+			"id": 1043895934613168100,
+			"id_str": "1043895934613168128",
+			"text": "Those four people who always like your posts no matter what. https://t.co/Bftweuv1Ob",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043895885095215100,
+						"id_str": "1043895885095215104",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+						"url": "https://t.co/Bftweuv1Ob",
+						"display_url": "pic.twitter.com/Bftweuv1Ob",
+						"expanded_url": "https://twitter.com/MrBenLHall/status/1043895934613168128/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043895885095215100,
+						"id_str": "1043895885095215104",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043895885095215104/pu/img/hNewIRvIJhzcBc_5.jpg",
+						"url": "https://t.co/Bftweuv1Ob",
+						"display_url": "pic.twitter.com/Bftweuv1Ob",
+						"expanded_url": "https://twitter.com/MrBenLHall/status/1043895934613168128/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 9567,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/vid/640x640/DgyMcU2TE5gagB05.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/pl/4j3T0_3AUrMGTd1S.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/vid/240x240/doaipDd7nLUEv04c.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043895885095215104/pu/vid/480x480/mfqcfqvQOM4LOR9F.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 361181996,
+				"id_str": "361181996",
+				"name": "Ben Hall",
+				"screen_name": "MrBenLHall",
+				"location": "Follow me on instagram  ⬇️",
+				"description": "Papercut survivor. Licks the apples in tesco. Only phones people at 12:59, because I like to talk one to one. @Lashleeey 💍. Easily distracte",
+				"url": "https://t.co/qTvkOZfSzT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qTvkOZfSzT",
+								"expanded_url": "http://Instagram.com/mrbenlhall",
+								"display_url": "Instagram.com/mrbenlhall",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 301149,
+				"friends_count": 326537,
+				"listed_count": 510,
+				"created_at": "Wed Aug 24 11:30:02 +0000 2011",
+				"favourites_count": 1108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7955,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888960159518793728/BA-O0r1w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888960159518793728/BA-O0r1w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/361181996/1530412012",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42286,
+			"favorite_count": 155493,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42286,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 24 17:14:53 +0000 2018",
+		"id": 1044273982462197800,
+		"id_str": "1044273982462197760",
+		"text": "@mudnsky Mudke na dekho Dilbaro https://t.co/8jbpWOyf0D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8jbpWOyf0D",
+					"expanded_url": "https://youtu.be/WqUXVw0WlXc",
+					"display_url": "youtu.be/WqUXVw0WlXc",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1044202887360983000,
+		"in_reply_to_status_id_str": "1044202887360983042",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1567,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Mon Sep 24 17:08:46 +0000 2018",
+		"id": 1044272442204672000,
+		"id_str": "1044272442204672000",
+		"text": "RT @kayZ_04_FCB: Hey guys. I come from this small town in himachal pradesh called Kullu. The place is facing unprecedented flooding and the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kayZ_04_FCB",
+					"name": "Kshitij Sharma",
+					"id": 202578688,
+					"id_str": "202578688",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1567,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 23 16:58:37 +0000 2018",
+			"id": 1043907501035376600,
+			"id_str": "1043907501035376640",
+			"text": "Hey guys. I come from this small town in himachal pradesh called Kullu. The place is facing unprecedented flooding… https://t.co/GGHQa6gR1c",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GGHQa6gR1c",
+						"expanded_url": "https://twitter.com/i/web/status/1043907501035376640",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 202578688,
+				"id_str": "202578688",
+				"name": "Kshitij Sharma",
+				"screen_name": "kayZ_04_FCB",
+				"location": "Bengaluru, India",
+				"description": "Post rock heavy metal guy ! High on good cinema !  Love everything Bavarian and all things Bayern Munchen .",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 104,
+				"friends_count": 247,
+				"listed_count": 1,
+				"created_at": "Thu Oct 14 10:56:02 +0000 2010",
+				"favourites_count": 2141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 873,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854987693805101057/JKILa1Yz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854987693805101057/JKILa1Yz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/202578688/1465468336",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1043899047462023200,
+			"quoted_status_id_str": "1043899047462023168",
+			"quoted_status": {
+				"created_at": "Sun Sep 23 16:25:02 +0000 2018",
+				"id": 1043899047462023200,
+				"id_str": "1043899047462023168",
+				"text": "Following heavy rains, river #Beas and Phojal Nalla in spate. Phojal Nalla is flowing in its old path again after d… https://t.co/T5dEcMPdWm",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Beas",
+							"indices": [
+								29,
+								34
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/T5dEcMPdWm",
+							"expanded_url": "https://twitter.com/i/web/status/1043899047462023168",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 552608167,
+					"id_str": "552608167",
+					"name": "Himachal Watcher",
+					"screen_name": "HimachalW",
+					"location": "Shimla Urban, India",
+					"description": "Get online news, share your grievances, views, opinions, submit complaints, read about the ecology, culture, lifestyle and people from all around Himachal.",
+					"url": "https://t.co/EN5GFPBpzm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/EN5GFPBpzm",
+									"expanded_url": "http://www.himachalwatcher.com",
+									"display_url": "himachalwatcher.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3444,
+					"friends_count": 58,
+					"listed_count": 64,
+					"created_at": "Fri Apr 13 11:02:17 +0000 2012",
+					"favourites_count": 293,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5905,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/693020897683189760/7mRQ_YWf_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/693020897683189760/7mRQ_YWf_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/552608167/1454065421",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 287,
+				"favorite_count": 195,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 849,
+			"favorite_count": 330,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1043899047462023200,
+		"quoted_status_id_str": "1043899047462023168",
+		"retweet_count": 849,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 23 19:15:51 +0000 2018",
 		"id": 1043942037756805100,
 		"id_str": "1043942037756805120",
