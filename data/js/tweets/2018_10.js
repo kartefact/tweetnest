@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 04 03:51:19 +0000 2018",
+		"id": 1047695636626165800,
+		"id_str": "1047695636626165760",
+		"text": "RT @Jejunekid: More popular was the predictions at the back of the card. Many believed them to be true. https://t.co/yd6G5OyXQv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jejunekid",
+					"name": "Sodukku",
+					"id": 226891975,
+					"id_str": "226891975",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yd6G5OyXQv",
+					"expanded_url": "https://twitter.com/iAroosaAhmed/status/1047402009102618624",
+					"display_url": "twitter.com/iAroosaAhmed/s…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1569,
+			"friends_count": 530,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 03 11:24:19 +0000 2018",
+			"id": 1047447249226219500,
+			"id_str": "1047447249226219520",
+			"text": "More popular was the predictions at the back of the card. Many believed them to be true. https://t.co/yd6G5OyXQv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yd6G5OyXQv",
+						"expanded_url": "https://twitter.com/iAroosaAhmed/status/1047402009102618624",
+						"display_url": "twitter.com/iAroosaAhmed/s…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226891975,
+				"id_str": "226891975",
+				"name": "Sodukku",
+				"screen_name": "Jejunekid",
+				"location": "49.2827° N, 123.1207° W",
+				"description": "Bio will be provided upon request. Apply in triplicate.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 467,
+				"friends_count": 220,
+				"listed_count": 12,
+				"created_at": "Wed Dec 15 10:28:30 +0000 2010",
+				"favourites_count": 3284,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39028,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/533302360139780097/v-2jstXh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/533302360139780097/v-2jstXh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226891975/1451501311",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1047402009102618600,
+			"quoted_status_id_str": "1047402009102618624",
+			"quoted_status": {
+				"created_at": "Wed Oct 03 08:24:33 +0000 2018",
+				"id": 1047402009102618600,
+				"id_str": "1047402009102618624",
+				"text": "Card ticket weighing machines that were a prominent feature at suburban railway stations will now be history. Intro… https://t.co/RGdICsaxw2",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/RGdICsaxw2",
+							"expanded_url": "https://twitter.com/i/web/status/1047402009102618624",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4873990660,
+					"id_str": "4873990660",
+					"name": "Aroosa Ahmed",
+					"screen_name": "iAroosaAhmed",
+					"location": "Mumbai, India",
+					"description": "Correspondent with @htTweets , Ex @Afternoon_News . love - #Jubail & #Mumbai . for any communication email at aroosa.ahmed@htlive.com",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 434,
+					"friends_count": 329,
+					"listed_count": 33,
+					"created_at": "Wed Feb 03 13:17:33 +0000 2016",
+					"favourites_count": 2339,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2025,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1037052357224345601/0ByKgoTH_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037052357224345601/0ByKgoTH_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4873990660/1536605842",
+					"profile_link_color": "7FDBB6",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1047402009102618600,
+		"quoted_status_id_str": "1047402009102618624",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 04 03:48:59 +0000 2018",
+		"id": 1047695047628443600,
+		"id_str": "1047695047628443648",
+		"text": "RT @omgShutUpDon: Okay this is a quality meme https://t.co/AaXXa67GRl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "omgShutUpDon",
+					"name": "Don E. Dark. O",
+					"id": 776208862076555300,
+					"id_str": "776208862076555264",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047466210248409100,
+					"id_str": "1047466210248409089",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+					"url": "https://t.co/AaXXa67GRl",
+					"display_url": "pic.twitter.com/AaXXa67GRl",
+					"expanded_url": "https://twitter.com/omgShutUpDon/status/1047466232700526594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1092,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047466232700526600,
+					"source_status_id_str": "1047466232700526594",
+					"source_user_id": 776208862076555300,
+					"source_user_id_str": "776208862076555264"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047466210248409100,
+					"id_str": "1047466210248409089",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+					"url": "https://t.co/AaXXa67GRl",
+					"display_url": "pic.twitter.com/AaXXa67GRl",
+					"expanded_url": "https://twitter.com/omgShutUpDon/status/1047466232700526594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1092,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047466232700526600,
+					"source_status_id_str": "1047466232700526594",
+					"source_user_id": 776208862076555300,
+					"source_user_id_str": "776208862076555264"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1569,
+			"friends_count": 530,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 03 12:39:45 +0000 2018",
+			"id": 1047466232700526600,
+			"id_str": "1047466232700526594",
+			"text": "Okay this is a quality meme https://t.co/AaXXa67GRl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1047466210248409100,
+						"id_str": "1047466210248409089",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+						"url": "https://t.co/AaXXa67GRl",
+						"display_url": "pic.twitter.com/AaXXa67GRl",
+						"expanded_url": "https://twitter.com/omgShutUpDon/status/1047466232700526594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1092,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1092,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1047466210248409100,
+						"id_str": "1047466210248409089",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DolY9_AUwAEUFG2.jpg",
+						"url": "https://t.co/AaXXa67GRl",
+						"display_url": "pic.twitter.com/AaXXa67GRl",
+						"expanded_url": "https://twitter.com/omgShutUpDon/status/1047466232700526594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1092,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1092,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 776208862076555300,
+				"id_str": "776208862076555264",
+				"name": "Don E. Dark. O",
+				"screen_name": "omgShutUpDon",
+				"location": "Oregon, USA",
+				"description": "thoughts are my own that I unfortunately have to live with and you have to read sc:dreeder1985",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1103,
+				"friends_count": 273,
+				"listed_count": 19,
+				"created_at": "Wed Sep 14 23:59:48 +0000 2016",
+				"favourites_count": 12439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23344,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047250446430101505/REZVdwRB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047250446430101505/REZVdwRB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/776208862076555264/1527645504",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 180955,
+			"favorite_count": 575459,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 180955,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 02 00:51:51 +0000 2018",
 		"id": 1046925696608563200,
 		"id_str": "1046925696608563200",
