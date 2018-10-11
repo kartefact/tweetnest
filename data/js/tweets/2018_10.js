@@ -1,6 +1,1520 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 10 18:35:10 +0000 2018",
+		"id": 1050092390701133800,
+		"id_str": "1050092390701133824",
+		"text": "RT @EarthPix: Tunnel of pink 🌸 Photo by @saaggo https://t.co/xfykWJRi0U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EarthPix",
+					"name": "Earth Pics",
+					"id": 1152279248,
+					"id_str": "1152279248",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "saaggo",
+					"name": "Saúl Aguilar",
+					"id": 84073484,
+					"id_str": "84073484",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049559677778817000,
+					"id_str": "1049559677778817024",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+					"url": "https://t.co/xfykWJRi0U",
+					"display_url": "pic.twitter.com/xfykWJRi0U",
+					"expanded_url": "https://twitter.com/EarthPix/status/1049559684087078913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 986,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049559684087078900,
+					"source_status_id_str": "1049559684087078913",
+					"source_user_id": 1152279248,
+					"source_user_id_str": "1152279248"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049559677778817000,
+					"id_str": "1049559677778817024",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+					"url": "https://t.co/xfykWJRi0U",
+					"display_url": "pic.twitter.com/xfykWJRi0U",
+					"expanded_url": "https://twitter.com/EarthPix/status/1049559684087078913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 986,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049559684087078900,
+					"source_status_id_str": "1049559684087078913",
+					"source_user_id": 1152279248,
+					"source_user_id_str": "1152279248"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1568,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 09 07:18:23 +0000 2018",
+			"id": 1049559684087078900,
+			"id_str": "1049559684087078913",
+			"text": "Tunnel of pink 🌸 Photo by @saaggo https://t.co/xfykWJRi0U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "saaggo",
+						"name": "Saúl Aguilar",
+						"id": 84073484,
+						"id_str": "84073484",
+						"indices": [
+							26,
+							33
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049559677778817000,
+						"id_str": "1049559677778817024",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+						"url": "https://t.co/xfykWJRi0U",
+						"display_url": "pic.twitter.com/xfykWJRi0U",
+						"expanded_url": "https://twitter.com/EarthPix/status/1049559684087078913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 986,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049559677778817000,
+						"id_str": "1049559677778817024",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpDI91SUcAA6JT-.jpg",
+						"url": "https://t.co/xfykWJRi0U",
+						"display_url": "pic.twitter.com/xfykWJRi0U",
+						"expanded_url": "https://twitter.com/EarthPix/status/1049559684087078913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 986,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1152279248,
+				"id_str": "1152279248",
+				"name": "Earth Pics",
+				"screen_name": "EarthPix",
+				"location": "Instagram: @EarthPix",
+				"description": "The largest travel community w over 17M followers on SM. Inspiring people to travel by sharing the most beautiful destinations around the world #EarthPix",
+				"url": "https://t.co/SapfY7uu8P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SapfY7uu8P",
+								"expanded_url": "https://www.instagram.com/earthpix/",
+								"display_url": "instagram.com/earthpix/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3097767,
+				"friends_count": 3,
+				"listed_count": 6401,
+				"created_at": "Tue Feb 05 22:50:43 +0000 2013",
+				"favourites_count": 1781,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2738,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712703916358537217/mcOketun_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712703916358537217/mcOketun_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152279248/1530945126",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 310,
+			"favorite_count": 1641,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 10 18:34:02 +0000 2018",
+		"id": 1050092106868379600,
+		"id_str": "1050092106868379649",
+		"text": "RT @wtfbuildings: There is an office complex with a house on top of its roof in Diyarbakır, Turkey #wtfbuildings https://t.co/67ijZaQlWc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wtfbuildings",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wtfbuildings",
+					"name": "Wtf Buildings",
+					"id": 1044180930817069000,
+					"id_str": "1044180930817069056",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047707895167668200,
+					"id_str": "1047707895167668224",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+					"url": "https://t.co/67ijZaQlWc",
+					"display_url": "pic.twitter.com/67ijZaQlWc",
+					"expanded_url": "https://twitter.com/wtfbuildings/status/1047707896857993217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047707896857993200,
+					"source_status_id_str": "1047707896857993217",
+					"source_user_id": 1044180930817069000,
+					"source_user_id_str": "1044180930817069056"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047707895167668200,
+					"id_str": "1047707895167668224",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+					"url": "https://t.co/67ijZaQlWc",
+					"display_url": "pic.twitter.com/67ijZaQlWc",
+					"expanded_url": "https://twitter.com/wtfbuildings/status/1047707896857993217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047707896857993200,
+					"source_status_id_str": "1047707896857993217",
+					"source_user_id": 1044180930817069000,
+					"source_user_id_str": "1044180930817069056"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1568,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 04 04:40:02 +0000 2018",
+			"id": 1047707896857993200,
+			"id_str": "1047707896857993217",
+			"text": "There is an office complex with a house on top of its roof in Diyarbakır, Turkey #wtfbuildings https://t.co/67ijZaQlWc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wtfbuildings",
+						"indices": [
+							81,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1047707895167668200,
+						"id_str": "1047707895167668224",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+						"url": "https://t.co/67ijZaQlWc",
+						"display_url": "pic.twitter.com/67ijZaQlWc",
+						"expanded_url": "https://twitter.com/wtfbuildings/status/1047707896857993217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1047707895167668200,
+						"id_str": "1047707895167668224",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Doo0x5fXUAATbwU.jpg",
+						"url": "https://t.co/67ijZaQlWc",
+						"display_url": "pic.twitter.com/67ijZaQlWc",
+						"expanded_url": "https://twitter.com/wtfbuildings/status/1047707896857993217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1044180930817069000,
+				"id_str": "1044180930817069056",
+				"name": "Wtf Buildings",
+				"screen_name": "wtfbuildings",
+				"location": "",
+				"description": "#wtfbuildings #evilbuildings",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3490,
+				"friends_count": 18,
+				"listed_count": 15,
+				"created_at": "Mon Sep 24 11:05:08 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044185719823060993/yBnpSbga_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044185719823060993/yBnpSbga_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044180930817069056/1537788494",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 251,
+			"favorite_count": 863,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 10 18:31:38 +0000 2018",
+		"id": 1050091501928120300,
+		"id_str": "1050091501928120320",
+		"text": "RT @mudnsky: https://t.co/I18UPcFCr6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I18UPcFCr6",
+					"expanded_url": "https://twitter.com/news18dotcom/status/1049891021650182145?s=19",
+					"display_url": "twitter.com/news18dotcom/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1568,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 10 05:34:27 +0000 2018",
+			"id": 1049895916197564400,
+			"id_str": "1049895916197564418",
+			"text": "https://t.co/I18UPcFCr6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I18UPcFCr6",
+						"expanded_url": "https://twitter.com/news18dotcom/status/1049891021650182145?s=19",
+						"display_url": "twitter.com/news18dotcom/s…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1685849366,
+				"id_str": "1685849366",
+				"name": "Mud n Sky",
+				"screen_name": "mudnsky",
+				"location": "",
+				"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 277,
+				"friends_count": 230,
+				"listed_count": 34,
+				"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+				"favourites_count": 5336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30884,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020275688803389440/uFcy9dqq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020275688803389440/uFcy9dqq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1049891021650182100,
+			"quoted_status_id_str": "1049891021650182145",
+			"quoted_status": {
+				"created_at": "Wed Oct 10 05:15:00 +0000 2018",
+				"id": 1049891021650182100,
+				"id_str": "1049891021650182145",
+				"text": "Medical marvel.\n\nhttps://t.co/SxjlDoJZsS",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/SxjlDoJZsS",
+							"expanded_url": "https://www.news18.com/news/india/indias-first-skull-implant-surgery-saves-life-of-4-year-old-pune-girl-1904267.html",
+							"display_url": "news18.com/news/india/ind…",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 284920800,
+					"id_str": "284920800",
+					"name": "News18.com",
+					"screen_name": "news18dotcom",
+					"location": "India",
+					"description": "More than just news, analysis & opinion. The digital platform of @CNNnews18",
+					"url": "https://t.co/0HnxPgwuLD",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0HnxPgwuLD",
+									"expanded_url": "https://www.news18.com",
+									"display_url": "news18.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 97339,
+					"friends_count": 137,
+					"listed_count": 737,
+					"created_at": "Wed Apr 20 06:14:32 +0000 2011",
+					"favourites_count": 7,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 50902,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1047429003416678401/5RRP0_7a_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047429003416678401/5RRP0_7a_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/284920800/1538656383",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "es"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1049891021650182100,
+		"quoted_status_id_str": "1049891021650182145",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Oct 10 18:29:40 +0000 2018",
+		"id": 1050091005284835300,
+		"id_str": "1050091005284835330",
+		"text": "RT @IHLaking: anyway here’s the most carefree deer in the world prancing along the beach at dawn 🦌 https://t.co/MIKtsOtDYb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IHLaking",
+					"name": "Ian Laking",
+					"id": 2662861692,
+					"id_str": "2662861692",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049265095287562200,
+					"id_str": "1049265095287562242",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+					"url": "https://t.co/MIKtsOtDYb",
+					"display_url": "pic.twitter.com/MIKtsOtDYb",
+					"expanded_url": "https://twitter.com/IHLaking/status/1049265130498744320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049265130498744300,
+					"source_status_id_str": "1049265130498744320",
+					"source_user_id": 2662861692,
+					"source_user_id_str": "2662861692"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049265095287562200,
+					"id_str": "1049265095287562242",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+					"url": "https://t.co/MIKtsOtDYb",
+					"display_url": "pic.twitter.com/MIKtsOtDYb",
+					"expanded_url": "https://twitter.com/IHLaking/status/1049265130498744320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049265130498744300,
+					"source_status_id_str": "1049265130498744320",
+					"source_user_id": 2662861692,
+					"source_user_id_str": "2662861692",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12160,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1049265095287562242/pu/pl/pPLSnwhDo5X3-zrg.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049265095287562242/pu/vid/320x180/Q8E8VbfDWf0k1sTm.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049265095287562242/pu/vid/640x360/LC-uuKjCj9f6XKrD.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2662861692,
+							"id_str": "2662861692",
+							"name": "Ian Laking",
+							"screen_name": "IHLaking",
+							"location": "Melbourne, Victoria",
+							"description": "I write Steampunk Fantasy stories, & believe reality is best taken with a grain of salt. Click here for my free mystery novella: https://t.co/1yX7N3yuCR",
+							"url": "https://t.co/PciSLCnHim",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/PciSLCnHim",
+											"expanded_url": "http://IHLaking.com",
+											"display_url": "IHLaking.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/1yX7N3yuCR",
+											"expanded_url": "http://ow.ly/BFFTY",
+											"display_url": "ow.ly/BFFTY",
+											"indices": [
+												129,
+												152
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 24859,
+							"friends_count": 298,
+							"listed_count": 503,
+							"created_at": "Sun Jul 20 12:37:56 +0000 2014",
+							"favourites_count": 23654,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 16386,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2662861692/1509380179",
+							"profile_link_color": "B7410E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1568,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 08 11:47:56 +0000 2018",
+			"id": 1049265130498744300,
+			"id_str": "1049265130498744320",
+			"text": "anyway here’s the most carefree deer in the world prancing along the beach at dawn 🦌 https://t.co/MIKtsOtDYb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049265095287562200,
+						"id_str": "1049265095287562242",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+						"url": "https://t.co/MIKtsOtDYb",
+						"display_url": "pic.twitter.com/MIKtsOtDYb",
+						"expanded_url": "https://twitter.com/IHLaking/status/1049265130498744320/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049265095287562200,
+						"id_str": "1049265095287562242",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049265095287562242/pu/img/i2HsRr2Ud0ZuSe8X.jpg",
+						"url": "https://t.co/MIKtsOtDYb",
+						"display_url": "pic.twitter.com/MIKtsOtDYb",
+						"expanded_url": "https://twitter.com/IHLaking/status/1049265130498744320/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 12160,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1049265095287562242/pu/pl/pPLSnwhDo5X3-zrg.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049265095287562242/pu/vid/320x180/Q8E8VbfDWf0k1sTm.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049265095287562242/pu/vid/640x360/LC-uuKjCj9f6XKrD.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2662861692,
+				"id_str": "2662861692",
+				"name": "Ian Laking",
+				"screen_name": "IHLaking",
+				"location": "Melbourne, Victoria",
+				"description": "I write Steampunk Fantasy stories, & believe reality is best taken with a grain of salt. Click here for my free mystery novella: https://t.co/1yX7N3yuCR",
+				"url": "https://t.co/PciSLCnHim",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PciSLCnHim",
+								"expanded_url": "http://IHLaking.com",
+								"display_url": "IHLaking.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1yX7N3yuCR",
+								"expanded_url": "http://ow.ly/BFFTY",
+								"display_url": "ow.ly/BFFTY",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24859,
+				"friends_count": 298,
+				"listed_count": 503,
+				"created_at": "Sun Jul 20 12:37:56 +0000 2014",
+				"favourites_count": 23654,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16386,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2662861692/1509380179",
+				"profile_link_color": "B7410E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01864a8a64df9dc4",
+				"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+				"place_type": "city",
+				"name": "Melbourne",
+				"full_name": "Melbourne, Victoria",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.593741856,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-37.5112737225
+							],
+							[
+								144.593741856,
+								-37.5112737225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 136329,
+			"favorite_count": 454548,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 136329,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 06 11:51:59 +0000 2018",
 		"id": 1048541375497687000,
 		"id_str": "1048541375497687040",
