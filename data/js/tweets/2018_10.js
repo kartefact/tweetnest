@@ -145,6 +145,382 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 104944,
+			"friends_count": 3309,
+			"listed_count": 1163,
+			"created_at": "Tue Feb 10 19:45:06 +0000 2009",
+			"favourites_count": 22214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11AA11",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034829193215963136/Kl8SepGk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034829193215963136/Kl8SepGk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20538843/1535561217",
+			"profile_link_color": "111111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2363,
+		"favorite_count": 11488,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even though his drum kit had been stolen, Gary would never give up on his dream. https://t.co/8p61rZl8bP"
+	},
+	{
+		"created_at": "Thu Oct 11 14:11:50 +0000 2018",
+		"id": 1050388508345585700,
+		"id_str": "1050388508345585664",
+		"full_text": "Childhood of a coder: First time printing\n https://t.co/GOrouRsRay https://t.co/7BJDTM8uKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOrouRsRay",
+					"expanded_url": "http://www.commitstrip.com/2018/10/11/childhood-of-a-coder-first-time-printing/",
+					"display_url": "commitstrip.com/2018/10/11/chi…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050388424014946300,
+					"id_str": "1050388424014946304",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO6tNmX4AAb6CR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO6tNmX4AAb6CR.jpg",
+					"url": "https://t.co/7BJDTM8uKP",
+					"display_url": "pic.twitter.com/7BJDTM8uKP",
+					"expanded_url": "https://twitter.com/CommitStrip/status/1050388508345585664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050388424014946300,
+					"id_str": "1050388424014946304",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO6tNmX4AAb6CR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO6tNmX4AAb6CR.jpg",
+					"url": "https://t.co/7BJDTM8uKP",
+					"display_url": "pic.twitter.com/7BJDTM8uKP",
+					"expanded_url": "https://twitter.com/CommitStrip/status/1050388508345585664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2414205444,
+			"id_str": "2414205444",
+			"name": "CommitStrip",
+			"screen_name": "CommitStrip",
+			"location": "",
+			"description": "The blog relating the daily life of developers. Official english account.",
+			"url": "http://t.co/g3AKujl1OV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g3AKujl1OV",
+							"expanded_url": "http://www.commitstrip.com/en/",
+							"display_url": "commitstrip.com/en/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66117,
+			"friends_count": 7,
+			"listed_count": 1175,
+			"created_at": "Thu Mar 27 13:14:08 +0000 2014",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 731,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799176331623800832/ggd6_JbJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799176331623800832/ggd6_JbJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2414205444/1479373446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 537,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Childhood of a coder: First time printing\n https://t.co/GOrouRsRay https://t.co/7BJDTM8uKP"
+	},
+	{
+		"created_at": "Thu Oct 11 05:29:47 +0000 2018",
+		"id": 1050257130413023200,
+		"id_str": "1050257130413023233",
+		"full_text": "Even though his drum kit had been stolen, Gary would never give up on his dream. https://t.co/8p61rZl8bP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050256952201277400,
+					"id_str": "1050256952201277440",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050256952201277440/pu/img/wjkQaig-4WLrKHiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050256952201277440/pu/img/wjkQaig-4WLrKHiG.jpg",
+					"url": "https://t.co/8p61rZl8bP",
+					"display_url": "pic.twitter.com/8p61rZl8bP",
+					"expanded_url": "https://twitter.com/BoringEnormous/status/1050257130413023233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050256952201277400,
+					"id_str": "1050256952201277440",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050256952201277440/pu/img/wjkQaig-4WLrKHiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050256952201277440/pu/img/wjkQaig-4WLrKHiG.jpg",
+					"url": "https://t.co/8p61rZl8bP",
+					"display_url": "pic.twitter.com/8p61rZl8bP",
+					"expanded_url": "https://twitter.com/BoringEnormous/status/1050257130413023233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12266,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050256952201277440/pu/vid/240x240/eHxfCChDi1NE0oR3.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1050256952201277440/pu/pl/AQX3Usnc9z41uwCN.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050256952201277440/pu/vid/720x720/sGsigeaClb_U2Gl8.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050256952201277440/pu/vid/480x480/kfzIHx1Ebu5eOptR.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20538843,
+			"id_str": "20538843",
+			"name": "Paul Bronks",
+			"screen_name": "BoringEnormous",
+			"location": "",
+			"description": "Jew-ish. I do not own any of the content posted. Credit will always be given if known or if made known via DM. Complaints to @meeshyville. I dare you.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 104476,
 			"friends_count": 3309,
 			"listed_count": 1149,
