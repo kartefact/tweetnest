@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 15:25:00 +0000 2018",
+		"id": 1051856473180069900,
+		"id_str": "1051856473180069888",
+		"full_text": "Hug me 😍🐶 https://t.co/jYdJQSRWxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031162114034028500,
+					"id_str": "1031162114034028547",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031162114034028547/pu/img/Tm03VELKUjQdF-7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031162114034028547/pu/img/Tm03VELKUjQdF-7M.jpg",
+					"url": "https://t.co/jYdJQSRWxQ",
+					"display_url": "pic.twitter.com/jYdJQSRWxQ",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/1031162137459273728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031162137459273700,
+					"source_status_id_str": "1031162137459273728",
+					"source_user_id": 568825492,
+					"source_user_id_str": "568825492"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031162114034028500,
+					"id_str": "1031162114034028547",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031162114034028547/pu/img/Tm03VELKUjQdF-7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031162114034028547/pu/img/Tm03VELKUjQdF-7M.jpg",
+					"url": "https://t.co/jYdJQSRWxQ",
+					"display_url": "pic.twitter.com/jYdJQSRWxQ",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/1031162137459273728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031162137459273700,
+					"source_status_id_str": "1031162137459273728",
+					"source_user_id": 568825492,
+					"source_user_id_str": "568825492",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 7034,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031162114034028547/pu/vid/180x224/PCVRZpkg_2rSmVVb.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031162114034028547/pu/vid/576x720/nJ4GWzTgj6OeOFTT.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1031162114034028547/pu/pl/SLiSVhE7rx9N5M-c.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031162114034028547/pu/vid/360x450/5AwY1kHQqw5Ufph_.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 568825492,
+							"id_str": "568825492",
+							"name": "Cute Emergency",
+							"screen_name": "CuteEmergency",
+							"location": "",
+							"description": "Critiquing the cutest animals online!",
+							"url": "https://t.co/oTurq8OHFQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/oTurq8OHFQ",
+											"expanded_url": "http://Instagram.com/cuteemergency",
+											"display_url": "Instagram.com/cuteemergency",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9941356,
+							"friends_count": 33,
+							"listed_count": 7525,
+							"created_at": "Wed May 02 05:28:46 +0000 2012",
+							"favourites_count": 2922,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 45458,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+							"profile_link_color": "2BB4E6",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568825492,
+			"id_str": "568825492",
+			"name": "Cute Emergency",
+			"screen_name": "CuteEmergency",
+			"location": "",
+			"description": "Critiquing the cutest animals online!",
+			"url": "https://t.co/oTurq8OHFQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oTurq8OHFQ",
+							"expanded_url": "http://Instagram.com/cuteemergency",
+							"display_url": "Instagram.com/cuteemergency",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9941356,
+			"friends_count": 33,
+			"listed_count": 7525,
+			"created_at": "Wed May 02 05:28:46 +0000 2012",
+			"favourites_count": 2922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45458,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+			"profile_link_color": "2BB4E6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3822,
+		"favorite_count": 22096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hug me 😍🐶 https://t.co/jYdJQSRWxQ"
+	},
+	{
+		"created_at": "Sat Oct 13 03:00:06 +0000 2018",
+		"id": 1050944238056300500,
+		"id_str": "1050944238056300544",
+		"full_text": "Hello. Let’s talk panic attacks. I am noticing that numerous people are experiencing heightened mental distress, so I am going to try and provide some helpful ways in which you can help a friend who’s having a panic attack.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113036499,
+			"id_str": "113036499",
+			"name": "Ruchita",
+			"screen_name": "roocheetah",
+			"location": "Bombay-Chicago ",
+			"description": "trauma therapist, mental health and gender equity + equality advocate, writer for hire. email: ruchitac92@gmail.com",
+			"url": "https://t.co/Mlw1iWDDcj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mlw1iWDDcj",
+							"expanded_url": "https://medium.com/@ruchitac92",
+							"display_url": "medium.com/@ruchitac92",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1087,
+			"friends_count": 296,
+			"listed_count": 8,
+			"created_at": "Wed Feb 10 13:59:44 +0000 2010",
+			"favourites_count": 1023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5873,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950596303477669889/xod5mvvb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950596303477669889/xod5mvvb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113036499/1515474796",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1348,
+		"favorite_count": 1698,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello. Let’s talk panic attacks. I am noticing that numerous people are experiencing heightened mental distress, so I am going to try and provide some helpful ways in which you can help a friend who’s having a panic attack."
+	},
+	{
 		"created_at": "Sat Oct 13 03:00:06 +0000 2018",
 		"id": 1050944238056300500,
 		"id_str": "1050944238056300544",
