@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 03:25:21 +0000 2018",
+		"id": 1052400145512390700,
+		"id_str": "1052400145512390658",
+		"full_text": "Good morning, world! https://t.co/VAcPyRIqwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VAcPyRIqwz",
+					"expanded_url": "https://twitter.com/PhotoGhibli/status/1052363586260090881",
+					"display_url": "twitter.com/PhotoGhibli/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1563,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052363586260090900,
+		"quoted_status_id_str": "1052363586260090881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VAcPyRIqwz",
+			"expanded": "https://twitter.com/PhotoGhibli/status/1052363586260090881",
+			"display": "twitter.com/PhotoGhibli/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 01:00:05 +0000 2018",
+			"id": 1052363586260090900,
+			"id_str": "1052363586260090881",
+			"full_text": "https://t.co/a46mqlEsbo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052363487576543200,
+						"id_str": "1052363487576543232",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dpq_BCuXUAABuGL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dpq_BCuXUAABuGL.jpg",
+						"url": "https://t.co/a46mqlEsbo",
+						"display_url": "pic.twitter.com/a46mqlEsbo",
+						"expanded_url": "https://twitter.com/PhotoGhibli/status/1052363586260090881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 292,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052363487576543200,
+						"id_str": "1052363487576543232",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dpq_BCuXUAABuGL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dpq_BCuXUAABuGL.jpg",
+						"url": "https://t.co/a46mqlEsbo",
+						"display_url": "pic.twitter.com/a46mqlEsbo",
+						"expanded_url": "https://twitter.com/PhotoGhibli/status/1052363586260090881/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 292,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 292,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								135,
+								73
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dpq_BCuXUAABuGL.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4493173634,
+				"id_str": "4493173634",
+				"name": "Studio Ghibli",
+				"screen_name": "PhotoGhibli",
+				"location": "Japan",
+				"description": "Photos and Gifs dedicated for Studio Ghibli ♡",
+				"url": "https://t.co/bVxcvKHUad",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bVxcvKHUad",
+								"expanded_url": "http://Instagram.com/photoghibli/",
+								"display_url": "Instagram.com/photoghibli/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 242966,
+				"friends_count": 4,
+				"listed_count": 1131,
+				"created_at": "Tue Dec 08 04:41:53 +0000 2015",
+				"favourites_count": 100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674087029643198465/-jjKVyG2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674087029643198465/-jjKVyG2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4493173634/1450702563",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 877,
+			"favorite_count": 3255,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning, world! https://t.co/VAcPyRIqwz"
+	},
+	{
 		"created_at": "Tue Oct 16 19:32:53 +0000 2018",
 		"id": 1052281245265158100,
 		"id_str": "1052281245265158144",
