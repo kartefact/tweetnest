@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 01:36:00 +0000 2018",
+		"id": 1053459788250710000,
+		"id_str": "1053459788250710016",
+		"full_text": "A 7up advertisement from the 1970’s is still displayed in my hometown. It’s been there since I can remember https://t.co/vtBGHmW4S0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053459773637554200,
+					"id_str": "1053459773637554176",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"url": "https://t.co/vtBGHmW4S0",
+					"display_url": "pic.twitter.com/vtBGHmW4S0",
+					"expanded_url": "https://twitter.com/WhoaInteresting/status/1053459788250710016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053459773637554200,
+					"id_str": "1053459773637554176",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"url": "https://t.co/vtBGHmW4S0",
+					"display_url": "pic.twitter.com/vtBGHmW4S0",
+					"expanded_url": "https://twitter.com/WhoaInteresting/status/1053459788250710016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://zodab.com\" rel=\"nofollow\">Zodab</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882710790196916200,
+			"id_str": "882710790196916224",
+			"name": "Whoa Interesting",
+			"screen_name": "WhoaInteresting",
+			"location": "",
+			"description": "Follow for all things #interesting.",
+			"url": "https://t.co/RBr3M6gnSr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RBr3M6gnSr",
+							"expanded_url": "http://zodab.com",
+							"display_url": "zodab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3767,
+			"friends_count": 1218,
+			"listed_count": 20,
+			"created_at": "Wed Jul 05 21:20:27 +0000 2017",
+			"favourites_count": 25955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882719582774992897/BOCm1TpR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882719582774992897/BOCm1TpR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882710790196916224/1499292959",
+			"profile_link_color": "0000CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A 7up advertisement from the 1970’s is still displayed in my hometown. It’s been there since I can remember https://t.co/vtBGHmW4S0"
+	},
+	{
+		"created_at": "Fri Oct 19 04:19:29 +0000 2018",
+		"id": 1053138544225591300,
+		"id_str": "1053138544225591296",
+		"full_text": "Recognising gas lighting. Gas lighting is a very common form of psychological manipulation and abuse. It can go unnoticed or get dismissed under the umbrella of abuse because of how subtle it is. It’s also gradual in nature and easily normalised.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113036499,
+			"id_str": "113036499",
+			"name": "Ruchita",
+			"screen_name": "roocheetah",
+			"location": "Bombay-Chicago ",
+			"description": "trauma therapist, mental health and gender equity + equality advocate, writer for hire. email: ruchitac92@gmail.com",
+			"url": "https://t.co/Mlw1iWDDcj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mlw1iWDDcj",
+							"expanded_url": "https://medium.com/@ruchitac92",
+							"display_url": "medium.com/@ruchitac92",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1230,
+			"friends_count": 317,
+			"listed_count": 13,
+			"created_at": "Wed Feb 10 13:59:44 +0000 2010",
+			"favourites_count": 1096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053357891757969408/4Tz7lJAC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053357891757969408/4Tz7lJAC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113036499/1515474796",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 589,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Recognising gas lighting. Gas lighting is a very common form of psychological manipulation and abuse. It can go unnoticed or get dismissed under the umbrella of abuse because of how subtle it is. It’s also gradual in nature and easily normalised."
+	},
+	{
 		"created_at": "Wed Oct 17 03:25:21 +0000 2018",
 		"id": 1052400145512390700,
 		"id_str": "1052400145512390658",
