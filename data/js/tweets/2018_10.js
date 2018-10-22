@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 04:47:19 +0000 2018",
+		"id": 1053870322594631700,
+		"id_str": "1053870322594631680",
+		"full_text": "I love this❤️ https://t.co/wlWvB9axjP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1035631052348256300,
+					"id_str": "1035631052348256256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"url": "https://t.co/wlWvB9axjP",
+					"display_url": "pic.twitter.com/wlWvB9axjP",
+					"expanded_url": "https://twitter.com/activepuppie/status/1035631372591722496/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035631372591722500,
+					"source_status_id_str": "1035631372591722496",
+					"source_user_id": 711990981969621000,
+					"source_user_id_str": "711990981969620992"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1035631052348256300,
+					"id_str": "1035631052348256256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"url": "https://t.co/wlWvB9axjP",
+					"display_url": "pic.twitter.com/wlWvB9axjP",
+					"expanded_url": "https://twitter.com/activepuppie/status/1035631372591722496/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035631372591722500,
+					"source_status_id_str": "1035631372591722496",
+					"source_user_id": 711990981969621000,
+					"source_user_id_str": "711990981969620992",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6367,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/pl/JUBMLy73aHprXWdg.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/vid/640x640/2UsSkJhAPfn1qaqY.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/vid/240x240/qdRxRNb0iJRuvkbI.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/vid/480x480/kYQvsDxizG8Cok41.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 711990981969621000,
+							"id_str": "711990981969620992",
+							"name": "puppie🐕",
+							"screen_name": "activepuppie",
+							"location": "",
+							"description": "posting the best cute video and pics of all puppies & animals around the world. ⭐We own not content posted⭐",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 53800,
+							"friends_count": 41741,
+							"listed_count": 313,
+							"created_at": "Mon Mar 21 19:00:53 +0000 2016",
+							"favourites_count": 88,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2606,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/711990981969620992/1520479400",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 711990981969621000,
+			"id_str": "711990981969620992",
+			"name": "puppie🐕",
+			"screen_name": "activepuppie",
+			"location": "",
+			"description": "posting the best cute video and pics of all puppies & animals around the world. ⭐We own not content posted⭐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53800,
+			"friends_count": 41741,
+			"listed_count": 313,
+			"created_at": "Mon Mar 21 19:00:53 +0000 2016",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/711990981969620992/1520479400",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2353,
+		"favorite_count": 5954,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this❤️ https://t.co/wlWvB9axjP"
+	},
+	{
+		"created_at": "Sun Oct 21 14:37:28 +0000 2018",
+		"id": 1054018837610463200,
+		"id_str": "1054018837610463233",
+		"full_text": "Bangalore book festival (@ Tripura Vasini in Bangalore, Karnataka) https://t.co/pOqo0ETb6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pOqo0ETb6p",
+					"expanded_url": "https://www.swarmapp.com/c/4S72hEA0rb4",
+					"display_url": "swarmapp.com/c/4S72hEA0rb4",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1563,
+			"friends_count": 527,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99212,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				13.01087938,
+				77.58677204
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				77.58677204,
+				13.01087938
+			]
+		},
+		"place": {
+			"id": "1b8680cd52a711cb",
+			"url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+			"place_type": "city",
+			"name": "Bengaluru",
+			"full_name": "Bengaluru, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.373474,
+							12.919037
+						],
+						[
+							77.739371,
+							12.919037
+						],
+						[
+							77.739371,
+							13.231381
+						],
+						[
+							77.373474,
+							13.231381
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Bangalore book festival (@ Tripura Vasini in Bangalore, Karnataka) https://t.co/pOqo0ETb6p"
+	},
+	{
+		"created_at": "Sat Oct 20 01:36:00 +0000 2018",
+		"id": 1053459788250710000,
+		"id_str": "1053459788250710016",
+		"full_text": "A 7up advertisement from the 1970’s is still displayed in my hometown. It’s been there since I can remember https://t.co/vtBGHmW4S0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053459773637554200,
+					"id_str": "1053459773637554176",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"url": "https://t.co/vtBGHmW4S0",
+					"display_url": "pic.twitter.com/vtBGHmW4S0",
+					"expanded_url": "https://twitter.com/WhoaInteresting/status/1053459788250710016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053459773637554200,
+					"id_str": "1053459773637554176",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp6kFSjUcAAL5Gz.jpg",
+					"url": "https://t.co/vtBGHmW4S0",
+					"display_url": "pic.twitter.com/vtBGHmW4S0",
+					"expanded_url": "https://twitter.com/WhoaInteresting/status/1053459788250710016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://zodab.com\" rel=\"nofollow\">Zodab</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882710790196916200,
+			"id_str": "882710790196916224",
+			"name": "Whoa Interesting",
+			"screen_name": "WhoaInteresting",
+			"location": "",
+			"description": "Follow for all things #interesting.",
+			"url": "https://t.co/RBr3M6gnSr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RBr3M6gnSr",
+							"expanded_url": "http://zodab.com",
+							"display_url": "zodab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3783,
+			"friends_count": 1248,
+			"listed_count": 21,
+			"created_at": "Wed Jul 05 21:20:27 +0000 2017",
+			"favourites_count": 25950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882719582774992897/BOCm1TpR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882719582774992897/BOCm1TpR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882710790196916224/1499292959",
+			"profile_link_color": "0000CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A 7up advertisement from the 1970’s is still displayed in my hometown. It’s been there since I can remember https://t.co/vtBGHmW4S0"
+	},
+	{
+		"created_at": "Fri Oct 19 04:19:29 +0000 2018",
+		"id": 1053138544225591300,
+		"id_str": "1053138544225591296",
+		"full_text": "Recognising gas lighting. Gas lighting is a very common form of psychological manipulation and abuse. It can go unnoticed or get dismissed under the umbrella of abuse because of how subtle it is. It’s also gradual in nature and easily normalised.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113036499,
+			"id_str": "113036499",
+			"name": "Ruchita",
+			"screen_name": "roocheetah",
+			"location": "Bombay-Chicago ",
+			"description": "trauma therapist, mental health and gender equity + equality advocate, writer for hire. email: ruchitac92@gmail.com",
+			"url": "https://t.co/Mlw1iWDDcj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mlw1iWDDcj",
+							"expanded_url": "https://medium.com/@ruchitac92",
+							"display_url": "medium.com/@ruchitac92",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1252,
+			"friends_count": 326,
+			"listed_count": 13,
+			"created_at": "Wed Feb 10 13:59:44 +0000 2010",
+			"favourites_count": 1111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053357891757969408/4Tz7lJAC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053357891757969408/4Tz7lJAC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113036499/1515474796",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 629,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Recognising gas lighting. Gas lighting is a very common form of psychological manipulation and abuse. It can go unnoticed or get dismissed under the umbrella of abuse because of how subtle it is. It’s also gradual in nature and easily normalised."
+	},
+	{
 		"created_at": "Sat Oct 20 01:36:00 +0000 2018",
 		"id": 1053459788250710000,
 		"id_str": "1053459788250710016",
