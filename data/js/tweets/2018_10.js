@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 17:03:46 +0000 2018",
+		"id": 1054418043869282300,
+		"id_str": "1054418043869282304",
+		"full_text": "@silverlightgal Hi. I'm trying to order some more items from the wish list, but it says they may be duplicate gifts. Is the list updated or have the needs been met?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silverlightgal",
+					"name": "S G",
+					"id": 130220620,
+					"id_str": "130220620",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1031485371152982000,
+		"in_reply_to_status_id_str": "1031485371152982016",
+		"in_reply_to_user_id": 130220620,
+		"in_reply_to_user_id_str": "130220620",
+		"in_reply_to_screen_name": "silverlightgal",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1560,
+			"friends_count": 526,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@silverlightgal Hi. I'm trying to order some more items from the wish list, but it says they may be duplicate gifts. Is the list updated or have the needs been met?"
+	},
+	{
+		"created_at": "Sun Oct 21 04:47:19 +0000 2018",
+		"id": 1053870322594631700,
+		"id_str": "1053870322594631680",
+		"full_text": "I love this❤️ https://t.co/wlWvB9axjP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1035631052348256300,
+					"id_str": "1035631052348256256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"url": "https://t.co/wlWvB9axjP",
+					"display_url": "pic.twitter.com/wlWvB9axjP",
+					"expanded_url": "https://twitter.com/activepuppie/status/1035631372591722496/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035631372591722500,
+					"source_status_id_str": "1035631372591722496",
+					"source_user_id": 711990981969621000,
+					"source_user_id_str": "711990981969620992"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1035631052348256300,
+					"id_str": "1035631052348256256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035631052348256256/pu/img/VV-WU3I3W1DDT1wy.jpg",
+					"url": "https://t.co/wlWvB9axjP",
+					"display_url": "pic.twitter.com/wlWvB9axjP",
+					"expanded_url": "https://twitter.com/activepuppie/status/1035631372591722496/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035631372591722500,
+					"source_status_id_str": "1035631372591722496",
+					"source_user_id": 711990981969621000,
+					"source_user_id_str": "711990981969620992",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6367,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/pl/JUBMLy73aHprXWdg.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/vid/640x640/2UsSkJhAPfn1qaqY.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/vid/240x240/qdRxRNb0iJRuvkbI.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035631052348256256/pu/vid/480x480/kYQvsDxizG8Cok41.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 711990981969621000,
+							"id_str": "711990981969620992",
+							"name": "puppie🐕",
+							"screen_name": "activepuppie",
+							"location": "",
+							"description": "posting the best cute video and pics of all puppies & animals around the world. ⭐We own not content posted⭐",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 54092,
+							"friends_count": 42802,
+							"listed_count": 301,
+							"created_at": "Mon Mar 21 19:00:53 +0000 2016",
+							"favourites_count": 88,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2613,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/711990981969620992/1520479400",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 711990981969621000,
+			"id_str": "711990981969620992",
+			"name": "puppie🐕",
+			"screen_name": "activepuppie",
+			"location": "",
+			"description": "posting the best cute video and pics of all puppies & animals around the world. ⭐We own not content posted⭐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54092,
+			"friends_count": 42802,
+			"listed_count": 301,
+			"created_at": "Mon Mar 21 19:00:53 +0000 2016",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2613,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983977679509774336/IyXTlCKK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/711990981969620992/1520479400",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2848,
+		"favorite_count": 7350,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this❤️ https://t.co/wlWvB9axjP"
+	},
+	{
+		"created_at": "Sun Oct 21 14:37:28 +0000 2018",
+		"id": 1054018837610463200,
+		"id_str": "1054018837610463233",
+		"full_text": "Bangalore book festival (@ Tripura Vasini in Bangalore, Karnataka) https://t.co/pOqo0ETb6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pOqo0ETb6p",
+					"expanded_url": "https://www.swarmapp.com/c/4S72hEA0rb4",
+					"display_url": "swarmapp.com/c/4S72hEA0rb4",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1560,
+			"friends_count": 526,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019299741379817472/WEb5JwgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1530809083",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Bangalore book festival (@ Tripura Vasini in Bangalore, Karnataka) https://t.co/pOqo0ETb6p"
+	},
+	{
 		"created_at": "Sun Oct 21 04:47:19 +0000 2018",
 		"id": 1053870322594631700,
 		"id_str": "1053870322594631680",
