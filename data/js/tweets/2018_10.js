@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Aug 20 10:17:31 +0000 2018",
+		"id": 1031485371152982000,
+		"id_str": "1031485371152982016",
+		"full_text": "Hummingbird school in rural Assam is back in action after being ravaged by floods last year. The children of the school have a wishlist for basic items. Help us procure these items? You can directly buy &amp; send from here. Also please RT.\n\nhttps://t.co/R7McA7nshT https://t.co/driNTwOEvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R7McA7nshT",
+					"expanded_url": "https://www.amazon.in/gp/registry/wishlist/1Q33M889ZIS1S",
+					"display_url": "amazon.in/gp/registry/wi…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1031485359257878500,
+					"id_str": "1031485359257878528",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/DlCSeB2VAAAF1Tl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlCSeB2VAAAF1Tl.jpg",
+					"url": "https://t.co/driNTwOEvH",
+					"display_url": "pic.twitter.com/driNTwOEvH",
+					"expanded_url": "https://twitter.com/silverlightgal/status/1031485371152982016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031485359257878500,
+					"id_str": "1031485359257878528",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/DlCSeB2VAAAF1Tl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlCSeB2VAAAF1Tl.jpg",
+					"url": "https://t.co/driNTwOEvH",
+					"display_url": "pic.twitter.com/driNTwOEvH",
+					"expanded_url": "https://twitter.com/silverlightgal/status/1031485371152982016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130220620,
+			"id_str": "130220620",
+			"name": "S G",
+			"screen_name": "silverlightgal",
+			"location": "",
+			"description": "Technology | Films |  Writing | Food | Travel",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2325,
+			"friends_count": 1659,
+			"listed_count": 211,
+			"created_at": "Tue Apr 06 17:42:56 +0000 2010",
+			"favourites_count": 22380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86652,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932993815928905728/-TPLyAgt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932993815928905728/-TPLyAgt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130220620/1490155309",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hummingbird school in rural Assam is back in action after being ravaged by floods last year. The children of the school have a wishlist for basic items. Help us procure these items? You can directly buy &amp; send from here. Also please RT.\n\nhttps://t.co/R7McA7nshT https://t.co/driNTwOEvH"
+	},
+	{
 		"created_at": "Mon Oct 22 17:03:46 +0000 2018",
 		"id": 1054418043869282300,
 		"id_str": "1054418043869282304",
