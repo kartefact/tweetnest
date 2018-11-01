@@ -1,6 +1,866 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 31 17:29:39 +0000 2018",
+		"id": 1057686047436562400,
+		"id_str": "1057686047436562432",
+		"full_text": "@chaosofcolours My internet has also slowed down tremendously. Looks like an outage of internet across services.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chaosofcolours",
+					"name": "Sindhu",
+					"id": 93822575,
+					"id_str": "93822575",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1057684738880618500,
+		"in_reply_to_status_id_str": "1057684738880618496",
+		"in_reply_to_user_id": 93822575,
+		"in_reply_to_user_id_str": "93822575",
+		"in_reply_to_screen_name": "chaosofcolours",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1540923832",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chaosofcolours My internet has also slowed down tremendously. Looks like an outage of internet across services."
+	},
+	{
+		"created_at": "Wed Oct 31 16:47:14 +0000 2018",
+		"id": 1057675373054488600,
+		"id_str": "1057675373054488576",
+		"full_text": "@amabirdman @mudnsky Tried only with my user. Nobody else's account is configured.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1057673405745389600,
+		"in_reply_to_status_id_str": "1057673405745389570",
+		"in_reply_to_user_id": 67494533,
+		"in_reply_to_user_id_str": "67494533",
+		"in_reply_to_screen_name": "amabirdman",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1540923832",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amabirdman @mudnsky Tried only with my user. Nobody else's account is configured."
+	},
+	{
+		"created_at": "Wed Oct 31 16:38:24 +0000 2018",
+		"id": 1057673149318336500,
+		"id_str": "1057673149318336514",
+		"full_text": "@mudnsky @amabirdman Tried. \"I don't know how to help with that yet\" is what it says :(",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "amabirdman",
+					"name": "I am a Birdman",
+					"id": 67494533,
+					"id_str": "67494533",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1057143562364538900,
+		"in_reply_to_status_id_str": "1057143562364538880",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1540923832",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mudnsky @amabirdman Tried. \"I don't know how to help with that yet\" is what it says :("
+	},
+	{
+		"created_at": "Wed Oct 31 16:37:11 +0000 2018",
+		"id": 1057672845764018200,
+		"id_str": "1057672845764018176",
+		"full_text": "@Wander_Ponder @chaosofcolours Lucky you. Must've placed the order just before the systems went down. Delivery guy just got assigned after an hour.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wander_Ponder",
+					"name": "Sue!",
+					"id": 2506907803,
+					"id_str": "2506907803",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "chaosofcolours",
+					"name": "Sindhu",
+					"id": 93822575,
+					"id_str": "93822575",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1057672331160576000,
+		"in_reply_to_status_id_str": "1057672331160576001",
+		"in_reply_to_user_id": 2506907803,
+		"in_reply_to_user_id_str": "2506907803",
+		"in_reply_to_screen_name": "Wander_Ponder",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1540923832",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Wander_Ponder @chaosofcolours Lucky you. Must've placed the order just before the systems went down. Delivery guy just got assigned after an hour."
+	},
+	{
+		"created_at": "Wed Oct 31 16:32:33 +0000 2018",
+		"id": 1057671678585700400,
+		"id_str": "1057671678585700352",
+		"full_text": "@chaosofcolours Swiggy seems to be down. Placed order, but can't seem to reach customer care or cancel the order. Delivery executive not assigned either. Avoid swiggy for a few hours.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chaosofcolours",
+					"name": "Sindhu",
+					"id": 93822575,
+					"id_str": "93822575",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1057670630730944500,
+		"in_reply_to_status_id_str": "1057670630730944513",
+		"in_reply_to_user_id": 93822575,
+		"in_reply_to_user_id_str": "93822575",
+		"in_reply_to_screen_name": "chaosofcolours",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1540923832",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chaosofcolours Swiggy seems to be down. Placed order, but can't seem to reach customer care or cancel the order. Delivery executive not assigned either. Avoid swiggy for a few hours."
+	},
+	{
+		"created_at": "Wed Oct 31 16:27:07 +0000 2018",
+		"id": 1057670310642769900,
+		"id_str": "1057670310642769926",
+		"full_text": "@swiggy_in Orderd at 9:06PM. Delivery executive not assigned. Unable to reach customer care. Your site also seems to be down. If it is, at least cancel the order.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "swiggy_in",
+					"name": "Swiggy",
+					"id": 2639625036,
+					"id_str": "2639625036",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2639625036,
+		"in_reply_to_user_id_str": "2639625036",
+		"in_reply_to_screen_name": "swiggy_in",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057337109932113921/Laf-pDoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1540923832",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@swiggy_in Orderd at 9:06PM. Delivery executive not assigned. Unable to reach customer care. Your site also seems to be down. If it is, at least cancel the order."
+	},
+	{
+		"created_at": "Tue Oct 30 15:25:04 +0000 2018",
+		"id": 1057292309723787300,
+		"id_str": "1057292309723787264",
+		"full_text": "they told me I could be anything so I became an elephant 🐘\n https://t.co/kMKs23i3Po",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1040584199844114400,
+					"id_str": "1040584199844114433",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040584199844114433/pu/img/cY_81hFMsUVKc59c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040584199844114433/pu/img/cY_81hFMsUVKc59c.jpg",
+					"url": "https://t.co/kMKs23i3Po",
+					"display_url": "pic.twitter.com/kMKs23i3Po",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/1040584242634387456/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1040584242634387500,
+					"source_status_id_str": "1040584242634387456",
+					"source_user_id": 568825492,
+					"source_user_id_str": "568825492"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1040584199844114400,
+					"id_str": "1040584199844114433",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040584199844114433/pu/img/cY_81hFMsUVKc59c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040584199844114433/pu/img/cY_81hFMsUVKc59c.jpg",
+					"url": "https://t.co/kMKs23i3Po",
+					"display_url": "pic.twitter.com/kMKs23i3Po",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/1040584242634387456/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1040584242634387500,
+					"source_status_id_str": "1040584242634387456",
+					"source_user_id": 568825492,
+					"source_user_id_str": "568825492",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13300,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1040584199844114433/pu/vid/240x240/LFoIwJVSKJkMB0A2.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1040584199844114433/pu/vid/640x640/LrbI_pIkYhYBT4qw.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1040584199844114433/pu/vid/480x480/1W4YqdSoyvqajgB8.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1040584199844114433/pu/pl/LFDA6le3tWMq6SFb.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 568825492,
+							"id_str": "568825492",
+							"name": "Cute Emergency",
+							"screen_name": "CuteEmergency",
+							"location": "",
+							"description": "Critiquing the cutest animals online!",
+							"url": "https://t.co/oTurq8OHFQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/oTurq8OHFQ",
+											"expanded_url": "http://Instagram.com/cuteemergency",
+											"display_url": "Instagram.com/cuteemergency",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9947739,
+							"friends_count": 0,
+							"listed_count": 7615,
+							"created_at": "Wed May 02 05:28:46 +0000 2012",
+							"favourites_count": 2921,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 45525,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+							"profile_link_color": "2BB4E6",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568825492,
+			"id_str": "568825492",
+			"name": "Cute Emergency",
+			"screen_name": "CuteEmergency",
+			"location": "",
+			"description": "Critiquing the cutest animals online!",
+			"url": "https://t.co/oTurq8OHFQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oTurq8OHFQ",
+							"expanded_url": "http://Instagram.com/cuteemergency",
+							"display_url": "Instagram.com/cuteemergency",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9947739,
+			"friends_count": 0,
+			"listed_count": 7615,
+			"created_at": "Wed May 02 05:28:46 +0000 2012",
+			"favourites_count": 2921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+			"profile_link_color": "2BB4E6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3605,
+		"favorite_count": 18754,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "they told me I could be anything so I became an elephant 🐘\n https://t.co/kMKs23i3Po"
+	},
+	{
 		"created_at": "Tue Oct 30 15:25:04 +0000 2018",
 		"id": 1057292309723787300,
 		"id_str": "1057292309723787264",
