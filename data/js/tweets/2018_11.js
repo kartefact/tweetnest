@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 16:02:02 +0000 2018",
+		"id": 1060925490582745100,
+		"id_str": "1060925490582745089",
+		"full_text": "Hedy Lamarr was born on this day in 1914. Once celebrated as \"the most beautiful woman in the world,\" she was actually a remarkable inventor who devised a system for remote-controlling torpedoes that became the basis for bluetooth and wifi https://t.co/gN3BHekcv6 https://t.co/uqM3HhvTwh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gN3BHekcv6",
+					"expanded_url": "https://www.brainpickings.org/2011/12/08/hedys-folly/",
+					"display_url": "brainpickings.org/2011/12/08/hed…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060925488238075900,
+					"id_str": "1060925488238075907",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/DrkqHEuWoAMO6jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrkqHEuWoAMO6jx.jpg",
+					"url": "https://t.co/uqM3HhvTwh",
+					"display_url": "pic.twitter.com/uqM3HhvTwh",
+					"expanded_url": "https://twitter.com/brainpicker/status/1060925490582745089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060925488238075900,
+					"id_str": "1060925488238075907",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/DrkqHEuWoAMO6jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrkqHEuWoAMO6jx.jpg",
+					"url": "https://t.co/uqM3HhvTwh",
+					"display_url": "pic.twitter.com/uqM3HhvTwh",
+					"expanded_url": "https://twitter.com/brainpicker/status/1060925490582745089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9207632,
+			"id_str": "9207632",
+			"name": "Maria Popova",
+			"screen_name": "brainpicker",
+			"location": "Brooklyn, NY",
+			"description": "Reader. Writer.",
+			"url": "http://t.co/j1Rss5YgMu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/j1Rss5YgMu",
+							"expanded_url": "http://brainpickings.org",
+							"display_url": "brainpickings.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880809,
+			"friends_count": 316,
+			"listed_count": 26074,
+			"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+			"favourites_count": 1989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 125468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFDB00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEAE5",
+			"profile_text_color": "3F3F3F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 655,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hedy Lamarr was born on this day in 1914. Once celebrated as \"the most beautiful woman in the world,\" she was actually a remarkable inventor who devised a system for remote-controlling torpedoes that became the basis for bluetooth and wifi https://t.co/gN3BHekcv6 https://t.co/uqM3HhvTwh"
+	},
+	{
+		"created_at": "Sat Nov 03 17:14:11 +0000 2018",
+		"id": 1058769320887513100,
+		"id_str": "1058769320887513090",
+		"full_text": "We could all learn a lesson from this baby bear: Look up &amp; don't give up. https://t.co/nm0McSYeqY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1058768079839100900,
+					"id_str": "1058768079839100928",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1058768079839100928/img/RdJJqpzr2qrDRzBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1058768079839100928/img/RdJJqpzr2qrDRzBo.jpg",
+					"url": "https://t.co/nm0McSYeqY",
+					"display_url": "pic.twitter.com/nm0McSYeqY",
+					"expanded_url": "https://twitter.com/ziyatong/status/1058769320887513090/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058768079839100900,
+					"id_str": "1058768079839100928",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1058768079839100928/img/RdJJqpzr2qrDRzBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1058768079839100928/img/RdJJqpzr2qrDRzBo.jpg",
+					"url": "https://t.co/nm0McSYeqY",
+					"display_url": "pic.twitter.com/nm0McSYeqY",
+					"expanded_url": "https://twitter.com/ziyatong/status/1058769320887513090/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 167543,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1058768079839100928/vid/240x240/lq2Dvk9mpBrXBJeF.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1058768079839100928/vid/480x480/1KEmx9GAzfyIthIa.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1058768079839100928/pl/t2gwWn-PwqXXIkm8.m3u8?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1058768079839100928/vid/720x720/I0zOkfagwBkLTeDA.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948104532,
+			"id_str": "948104532",
+			"name": "IM🍑HIM",
+			"screen_name": "ziyatong",
+			"location": "Laniakea Supercluster",
+			"description": "Author of The Reality Bubble / Spring 2019, Penguin Random House. TV Presenter. Royal Canadian Geographical Society Fellow. Board Director @WWFCanada",
+			"url": "https://t.co/tLB9QwVc17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLB9QwVc17",
+							"expanded_url": "http://www.ziyatong.com",
+							"display_url": "ziyatong.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37529,
+			"friends_count": 1739,
+			"listed_count": 1047,
+			"created_at": "Wed Nov 14 17:03:42 +0000 2012",
+			"favourites_count": 28275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "09BEDE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948104532/1363741503",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186903,
+		"favorite_count": 531204,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We could all learn a lesson from this baby bear: Look up &amp; don't give up. https://t.co/nm0McSYeqY"
+	},
+	{
+		"created_at": "Mon Nov 05 04:36:08 +0000 2018",
+		"id": 1059303326871883800,
+		"id_str": "1059303326871883776",
+		"full_text": "+1 https://t.co/GI4mqKcLN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GI4mqKcLN7",
+					"expanded_url": "https://twitter.com/netrovert/status/1058930770499104769",
+					"display_url": "twitter.com/netrovert/stat…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1561,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058930770499104800,
+		"quoted_status_id_str": "1058930770499104769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GI4mqKcLN7",
+			"expanded": "https://twitter.com/netrovert/status/1058930770499104769",
+			"display": "twitter.com/netrovert/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 04 03:55:44 +0000 2018",
+			"id": 1058930770499104800,
+			"id_str": "1058930770499104769",
+			"full_text": "SIM trays should come out of phones the way disc trays do (software activated ejects). Who keeps those ejector pins around 🤷‍♂️",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2921817798,
+				"id_str": "2921817798",
+				"name": "Sarath",
+				"screen_name": "netrovert",
+				"location": "where the WiFi is",
+				"description": "Returning stolen glances to rightful owners. @ISBedu. Product Guy, Photographer, Designer, Doer. Don't follow because I followed etc.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 119,
+				"friends_count": 832,
+				"listed_count": 6,
+				"created_at": "Sun Dec 07 16:06:43 +0000 2014",
+				"favourites_count": 3278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925548426779009024/nBJK3pcS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925548426779009024/nBJK3pcS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2921817798/1509026892",
+				"profile_link_color": "60BCD3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "+1 https://t.co/GI4mqKcLN7"
+	},
+	{
+		"created_at": "Sun Nov 04 06:54:21 +0000 2018",
+		"id": 1058975720549040100,
+		"id_str": "1058975720549040128",
+		"full_text": "Does commercial street have any decorations or special arrangements for Diwali? Festive mood palpable?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1561,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Does commercial street have any decorations or special arrangements for Diwali? Festive mood palpable?"
+	},
+	{
 		"created_at": "Sat Nov 03 17:14:11 +0000 2018",
 		"id": 1058769320887513100,
 		"id_str": "1058769320887513090",
@@ -304,7 +959,7 @@ Grailbird.data.tweets_2018_11 =
 			"created_at": "Sun Nov 04 03:55:44 +0000 2018",
 			"id": 1058930770499104800,
 			"id_str": "1058930770499104769",
-			"full_text": "SIM trays should come out of phones the way disc trays do (software activated ejects). Who keeps those ejector pins around 🤷‍♂️",
+			"full_text": "SIM trays should come out of phones the way disc trays do (software activated ejects). Who keeps those ejector pins around 🤷♂️",
 			"truncated": false,
 			"display_text_range": [
 				0,
