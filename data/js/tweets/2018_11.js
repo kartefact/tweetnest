@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 01:29:35 +0000 2018",
+		"id": 1061430705878646800,
+		"id_str": "1061430705878646784",
+		"full_text": "A Japanese runner who broke her leg during a relay race.  She crawled to her partner so the team would be able to continue the race. Lets share her story with the world. https://t.co/NNiSL9Q64F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061430455466147800,
+					"id_str": "1061430455466147840",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061430455466147840/pu/img/o0OdBA4nXVu38fbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061430455466147840/pu/img/o0OdBA4nXVu38fbE.jpg",
+					"url": "https://t.co/NNiSL9Q64F",
+					"display_url": "pic.twitter.com/NNiSL9Q64F",
+					"expanded_url": "https://twitter.com/kwilli1046/status/1061430705878646784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 248,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061430455466147800,
+					"id_str": "1061430455466147840",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061430455466147840/pu/img/o0OdBA4nXVu38fbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061430455466147840/pu/img/o0OdBA4nXVu38fbE.jpg",
+					"url": "https://t.co/NNiSL9Q64F",
+					"display_url": "pic.twitter.com/NNiSL9Q64F",
+					"expanded_url": "https://twitter.com/kwilli1046/status/1061430705878646784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 248,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 248,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							31
+						],
+						"duration_millis": 91000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1061430455466147840/pu/pl/Gk33xlKPvDhVnD4w.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061430455466147840/pu/vid/290x180/o2sTkj9DaOhaFOu0.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061430455466147840/pu/vid/400x248/1fOU7VIa0L-KbPNS.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3297022953,
+			"id_str": "3297022953",
+			"name": "Kevin W",
+			"screen_name": "kwilli1046",
+			"location": "North Carolina, USA",
+			"description": "Co-Host of America Out Loud, “The Brink of Greatness” and contributor  to “Viewpoint This Sunday”. Enjoys politics and believes anyone can make a difference.",
+			"url": "https://t.co/MTbwzBQYkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MTbwzBQYkZ",
+							"expanded_url": "https://brinkofgreatness.com/",
+							"display_url": "brinkofgreatness.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164353,
+			"friends_count": 148672,
+			"listed_count": 492,
+			"created_at": "Sun May 24 21:12:09 +0000 2015",
+			"favourites_count": 5643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 181296,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036746541401350144/I5K2nZoT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036746541401350144/I5K2nZoT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3297022953/1536014485",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237421,
+		"favorite_count": 540439,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Japanese runner who broke her leg during a relay race.  She crawled to her partner so the team would be able to continue the race. Lets share her story with the world. https://t.co/NNiSL9Q64F"
+	},
+	{
 		"created_at": "Sun Nov 11 05:44:11 +0000 2018",
 		"id": 1061494779287101400,
 		"id_str": "1061494779287101440",
@@ -528,7 +728,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "zøl",
 			"screen_name": "snapfreeze",
 			"location": "London",
-			"description": "a constant state of midlife crisis | 🇪🇺 🏳️‍🌈",
+			"description": "a constant state of midlife crisis | 🇪🇺 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
