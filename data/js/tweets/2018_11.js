@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 04:24:44 +0000 2018",
+		"id": 1062561949555273700,
+		"id_str": "1062561949555273728",
+		"full_text": "@nikhiljoisr @googlemaps @xiaomi It's been fine for me - both the app and with uber. I'm on one plus 3 with stock ROM.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nikhiljoisr",
+					"name": "Nikhil Jois",
+					"id": 160809423,
+					"id_str": "160809423",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "googlemaps",
+					"name": "Google Maps",
+					"id": 31311757,
+					"id_str": "31311757",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "xiaomi",
+					"name": "Mi",
+					"id": 377228272,
+					"id_str": "377228272",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1062558599275253800,
+		"in_reply_to_status_id_str": "1062558599275253760",
+		"in_reply_to_user_id": 160809423,
+		"in_reply_to_user_id_str": "160809423",
+		"in_reply_to_screen_name": "nikhiljoisr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1561,
+			"friends_count": 527,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nikhiljoisr @googlemaps @xiaomi It's been fine for me - both the app and with uber. I'm on one plus 3 with stock ROM."
+	},
+	{
+		"created_at": "Wed Nov 14 04:08:17 +0000 2018",
+		"id": 1062557807558434800,
+		"id_str": "1062557807558434816",
+		"full_text": "@mudnsky @K_Sudarsan Hehe 😁",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "K_Sudarsan",
+					"name": "Bumbling More-on",
+					"id": 179436700,
+					"id_str": "179436700",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1062557514624106500,
+		"in_reply_to_status_id_str": "1062557514624106496",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1561,
+			"friends_count": 527,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@mudnsky @K_Sudarsan Hehe 😁"
+	},
+	{
 		"created_at": "Tue Nov 13 16:03:25 +0000 2018",
 		"id": 1062375388192665600,
 		"id_str": "1062375388192665600",
@@ -810,7 +1026,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "zøl",
 			"screen_name": "snapfreeze",
 			"location": "London",
-			"description": "a constant state of midlife crisis | 🇪🇺 🏳️‍🌈",
+			"description": "a constant state of midlife crisis | 🇪🇺 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
