@@ -46,6 +46,211 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 274,
+			"friends_count": 228,
+			"listed_count": 34,
+			"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+			"favourites_count": 5381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060206178200891393/1xESYmY7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060206178200891393/1xESYmY7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062953342798889000,
+		"quoted_status_id_str": "1062953342798888962",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n5n7GUN3Rw",
+			"expanded": "https://twitter.com/news18dotcom/status/1062953342798888962?s=19",
+			"display": "twitter.com/news18dotcom/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 15 06:20:00 +0000 2018",
+			"id": 1062953342798889000,
+			"id_str": "1062953342798888962",
+			"full_text": "New country, no baggage. \n\nhttps://t.co/r6zCnYqdHv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r6zCnYqdHv",
+						"expanded_url": "https://www.news18.com/news/buzz/airline-arrives-with-passengers-in-singapore-leaves-behind-their-luggage-in-england-1939611.html",
+						"display_url": "news18.com/news/buzz/airl…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 284920800,
+				"id_str": "284920800",
+				"name": "News18.com",
+				"screen_name": "news18dotcom",
+				"location": "India",
+				"description": "More than just news, analysis & opinion. The digital platform of @CNNnews18",
+				"url": "https://t.co/0HnxPgwuLD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0HnxPgwuLD",
+								"expanded_url": "https://www.news18.com",
+								"display_url": "news18.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98352,
+				"friends_count": 137,
+				"listed_count": 737,
+				"created_at": "Wed Apr 20 06:14:32 +0000 2011",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 55176,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047429003416678401/5RRP0_7a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047429003416678401/5RRP0_7a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/284920800/1540818273",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why I still treat air travel as a big deal and a major strain. https://t.co/n5n7GUN3Rw"
+	},
+	{
+		"created_at": "Thu Nov 15 07:22:27 +0000 2018",
+		"id": 1062969060646928400,
+		"id_str": "1062969060646928384",
+		"full_text": "Why I still treat air travel as a big deal and a major strain. https://t.co/n5n7GUN3Rw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n5n7GUN3Rw",
+					"expanded_url": "https://twitter.com/news18dotcom/status/1062953342798888962?s=19",
+					"display_url": "twitter.com/news18dotcom/s…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1685849366,
+			"id_str": "1685849366",
+			"name": "Mud n Sky",
+			"screen_name": "mudnsky",
+			"location": "",
+			"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 277,
 			"friends_count": 230,
 			"listed_count": 34,
