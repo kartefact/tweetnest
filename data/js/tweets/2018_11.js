@@ -131,6 +131,180 @@ Grailbird.data.tweets_2018_11 =
 			"friends_count": 705,
 			"listed_count": 82,
 			"created_at": "Mon Oct 29 12:55:58 +0000 2007",
+			"favourites_count": 2184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062901165896065024/XJkLPOE2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062901165896065024/XJkLPOE2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9774252/1407910372",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/AWoSc1UjIw"
+	},
+	{
+		"created_at": "Sun Nov 18 10:22:32 +0000 2018",
+		"id": 1064101540980346900,
+		"id_str": "1064101540980346880",
+		"full_text": "https://t.co/AWoSc1UjIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064101532763713500,
+					"id_str": "1064101532763713536",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DsRytMlUcAAX03U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsRytMlUcAAX03U.jpg",
+					"url": "https://t.co/AWoSc1UjIw",
+					"display_url": "pic.twitter.com/AWoSc1UjIw",
+					"expanded_url": "https://twitter.com/subatomic/status/1064101540980346880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064101532763713500,
+					"id_str": "1064101532763713536",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DsRytMlUcAAX03U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsRytMlUcAAX03U.jpg",
+					"url": "https://t.co/AWoSc1UjIw",
+					"display_url": "pic.twitter.com/AWoSc1UjIw",
+					"expanded_url": "https://twitter.com/subatomic/status/1064101540980346880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9774252,
+			"id_str": "9774252",
+			"name": "Karthi",
+			"screen_name": "subatomic",
+			"location": "Bangalore",
+			"description": "Always making new mistakes.",
+			"url": "https://t.co/7A04j7DFjj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7A04j7DFjj",
+							"expanded_url": "http://about.me/karthikeyans",
+							"display_url": "about.me/karthikeyans",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2105,
+			"friends_count": 705,
+			"listed_count": 82,
+			"created_at": "Mon Oct 29 12:55:58 +0000 2007",
 			"favourites_count": 2186,
 			"utc_offset": null,
 			"time_zone": null,
