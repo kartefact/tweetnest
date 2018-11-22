@@ -138,6 +138,272 @@ Grailbird.data.tweets_2018_11 =
 								}
 							},
 							"protected": false,
+							"followers_count": 6860,
+							"friends_count": 885,
+							"listed_count": 60,
+							"created_at": "Sun Feb 18 12:57:10 +0000 2018",
+							"favourites_count": 86077,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 90503,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1063306737103433728/_u4mZVsX_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063306737103433728/_u4mZVsX_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/965208570642837505/1542347057",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904195838,
+			"id_str": "2904195838",
+			"name": "🇷🇺Only In Russia 🇷🇺",
+			"screen_name": "CrazyinRussia",
+			"location": "",
+			"description": "Every day in Russia is crazy. We're FANS/ Parody*of the posts/videos do not claim any ownership or copywrites. Buy me a coffee @ https://t.co/23jrKX1acc TY",
+			"url": "https://t.co/zHp1eca7Z7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zHp1eca7Z7",
+							"expanded_url": "https://m.facebook.com/Crazyinrussia/",
+							"display_url": "m.facebook.com/Crazyinrussia/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/23jrKX1acc",
+							"expanded_url": "https://bit.ly/2O1S671",
+							"display_url": "bit.ly/2O1S671",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 424866,
+			"friends_count": 176,
+			"listed_count": 3046,
+			"created_at": "Wed Dec 03 19:24:24 +0000 2014",
+			"favourites_count": 795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562352063167098880/z_7T8fOy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562352063167098880/z_7T8fOy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904195838/1460512376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1374,
+		"favorite_count": 6390,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Russian guy with quick reflexes saves a dog from being hurt. https://t.co/Gtc2CHzgeS"
+	},
+	{
+		"created_at": "Mon Nov 19 14:34:03 +0000 2018",
+		"id": 1064527228791332900,
+		"id_str": "1064527228791332864",
+		"full_text": "Russian guy with quick reflexes saves a dog from being hurt. https://t.co/Gtc2CHzgeS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063342704111714300,
+					"id_str": "1063342704111714304",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063342704111714304/pu/img/ih-RvX6nb3RfwX9S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063342704111714304/pu/img/ih-RvX6nb3RfwX9S.jpg",
+					"url": "https://t.co/Gtc2CHzgeS",
+					"display_url": "pic.twitter.com/Gtc2CHzgeS",
+					"expanded_url": "https://twitter.com/sabiila44/status/1063342758188863488/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1063342758188863500,
+					"source_status_id_str": "1063342758188863488",
+					"source_user_id": 965208570642837500,
+					"source_user_id_str": "965208570642837505"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063342704111714300,
+					"id_str": "1063342704111714304",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063342704111714304/pu/img/ih-RvX6nb3RfwX9S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063342704111714304/pu/img/ih-RvX6nb3RfwX9S.jpg",
+					"url": "https://t.co/Gtc2CHzgeS",
+					"display_url": "pic.twitter.com/Gtc2CHzgeS",
+					"expanded_url": "https://twitter.com/sabiila44/status/1063342758188863488/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1063342758188863500,
+					"source_status_id_str": "1063342758188863488",
+					"source_user_id": 965208570642837500,
+					"source_user_id_str": "965208570642837505",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5967,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063342704111714304/pu/vid/320x320/JdNCjZdlhnUMGM3S.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063342704111714304/pu/vid/480x480/T2Tb6pme01fazJGp.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063342704111714304/pu/pl/9K07EKX0iJdx_igE.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 965208570642837500,
+							"id_str": "965208570642837505",
+							"name": "✨Sαხiilα ｡.⭐💘🌿",
+							"screen_name": "sabiila44",
+							"location": "",
+							"description": "I love you honey baby                                                            my tweets 🐦 @sabila_bii",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
 							"followers_count": 6780,
 							"friends_count": 885,
 							"listed_count": 63,
