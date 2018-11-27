@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 08:01:25 +0000 2018",
+		"id": 1066965133014921200,
+		"id_str": "1066965133014921217",
+		"full_text": "@pooja_LuvIndia @DeePakao @kaumc @CreativeWolf Enna oLarariyo = you're blabbering\nEno ondhu heLtha idhiya = ennavo onnu sollarae.\nWhat nonsense are you talking = Enna muttaaL-thanamaa pesarae",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pooja_LuvIndia",
+					"name": "pooja voladoddi",
+					"id": 22883150,
+					"id_str": "22883150",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DeePakao",
+					"name": "Tweepak",
+					"id": 18288806,
+					"id_str": "18288806",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "kaumc",
+					"name": "Kaushik Sunder",
+					"id": 46396324,
+					"id_str": "46396324",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"screen_name": "CreativeWolf",
+					"name": "CreativeWolf",
+					"id": 6284702,
+					"id_str": "6284702",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1066963828447932400,
+		"in_reply_to_status_id_str": "1066963828447932416",
+		"in_reply_to_user_id": 22883150,
+		"in_reply_to_user_id_str": "22883150",
+		"in_reply_to_screen_name": "pooja_LuvIndia",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1562,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "et",
+		"text": "@pooja_LuvIndia @DeePakao @kaumc @CreativeWolf Enna oLarariyo = you're blabbering\nEno ondhu heLtha idhiya = ennavo onnu sollarae.\nWhat nonsense are you talking = Enna muttaaL-thanamaa pesarae"
+	},
+	{
 		"created_at": "Sun Nov 25 17:41:30 +0000 2018",
 		"id": 1066748727115710500,
 		"id_str": "1066748727115710464",
