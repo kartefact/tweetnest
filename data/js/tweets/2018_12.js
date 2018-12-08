@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 15:57:27 +0000 2018",
+		"id": 1071071198560309200,
+		"id_str": "1071071198560309248",
+		"full_text": "Why are people shouting the command and invoking Google home? Do they presume no one else has it? 😏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1560,
+			"friends_count": 527,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Why are people shouting the command and invoking Google home? Do they presume no one else has it? 😏"
+	},
+	{
+		"created_at": "Wed Dec 05 02:50:33 +0000 2018",
+		"id": 1070148392192331800,
+		"id_str": "1070148392192331776",
+		"full_text": "By the time you turn 30 you should have at least one of the following:\n\n1. A drawer full of random cords\n\n2. Tupperware with half the lids \n     missing \n\n3. Anxiety\n\n4. A collection of plastic bags full \n     of other plastic bags\n\n5. Sleep deprivation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176609398,
+			"id_str": "176609398",
+			"name": "Kristen",
+			"screen_name": "Kica333",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/tJFlJ1k4Hg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tJFlJ1k4Hg",
+							"expanded_url": "https://www.instagram.com/kica.333/",
+							"display_url": "instagram.com/kica.333/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22914,
+			"friends_count": 7893,
+			"listed_count": 115,
+			"created_at": "Tue Aug 10 00:09:23 +0000 2010",
+			"favourites_count": 9627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5675,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069104357138972672/wJYgRHAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069104357138972672/wJYgRHAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176609398/1542248374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30054,
+		"favorite_count": 166504,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "By the time you turn 30 you should have at least one of the following:\n\n1. A drawer full of random cords\n\n2. Tupperware with half the lids \n     missing \n\n3. Anxiety\n\n4. A collection of plastic bags full \n     of other plastic bags\n\n5. Sleep deprivation"
+	},
+	{
 		"created_at": "Wed Dec 05 02:50:33 +0000 2018",
 		"id": 1070148392192331800,
 		"id_str": "1070148392192331776",
