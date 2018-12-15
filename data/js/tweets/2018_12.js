@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 18:58:04 +0000 2018",
+		"id": 1073290978344067100,
+		"id_str": "1073290978344067072",
+		"full_text": "@PlanetDr @NoahSD @AstroKatie @nadiamdrake Here's an honest attempt at representing space objects in the way that human eyes would see them (lots of caveats involved, but the artists tried; it does feature a marginally more colorful Venus): https://t.co/sUtMx61yMD https://t.co/UuWNKANaYW",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PlanetDr",
+					"name": "Dr./Prof. Sarah Hörst",
+					"id": 27978241,
+					"id_str": "27978241",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "NoahSD",
+					"name": "Noah Stephens-Davidowitz",
+					"id": 22216766,
+					"id_str": "22216766",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "AstroKatie",
+					"name": "Katie Mack",
+					"id": 33773592,
+					"id_str": "33773592",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"screen_name": "nadiamdrake",
+					"name": "Nadia Drake",
+					"id": 198020721,
+					"id_str": "198020721",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sUtMx61yMD",
+					"expanded_url": "http://www.planetary.org/blogs/emily-lakdawalla/2011/3282.html",
+					"display_url": "planetary.org/blogs/emily-la…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073290875638140900,
+					"id_str": "1073290875638140930",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/DuUYXWcUUAI8fMO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuUYXWcUUAI8fMO.jpg",
+					"url": "https://t.co/UuWNKANaYW",
+					"display_url": "pic.twitter.com/UuWNKANaYW",
+					"expanded_url": "https://twitter.com/elakdawalla/status/1073290978344067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073290875638140900,
+					"id_str": "1073290875638140930",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/DuUYXWcUUAI8fMO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuUYXWcUUAI8fMO.jpg",
+					"url": "https://t.co/UuWNKANaYW",
+					"display_url": "pic.twitter.com/UuWNKANaYW",
+					"expanded_url": "https://twitter.com/elakdawalla/status/1073290978344067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1073290158684794900,
+		"in_reply_to_status_id_str": "1073290158684794880",
+		"in_reply_to_user_id": 27978241,
+		"in_reply_to_user_id_str": "27978241",
+		"in_reply_to_screen_name": "PlanetDr",
+		"user": {
+			"id": 14807898,
+			"id_str": "14807898",
+			"name": "Emily Lakdawalla",
+			"screen_name": "elakdawalla",
+			"location": "Pasadena, CA",
+			"description": "Senior Editor & Planetary Evangelist, The Planetary Society. Planetary scientist, public speaker. Wrote a book on Curiosity rover. Asteroid 274860.",
+			"url": "http://t.co/p8pGh3SB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/p8pGh3SB27",
+							"expanded_url": "http://planetary.org/emily",
+							"display_url": "planetary.org/emily",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151057,
+			"friends_count": 2346,
+			"listed_count": 4699,
+			"created_at": "Sat May 17 04:43:01 +0000 2008",
+			"favourites_count": 4194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887722406483181568/oW78EKXI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887722406483181568/oW78EKXI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14807898/1398902050",
+			"profile_link_color": "1918CD",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 130,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@PlanetDr @NoahSD @AstroKatie @nadiamdrake Here's an honest attempt at representing space objects in the way that human eyes would see them (lots of caveats involved, but the artists tried; it does feature a marginally more colorful Venus): https://t.co/sUtMx61yMD https://t.co/UuWNKANaYW"
+	},
+	{
 		"created_at": "Wed Dec 12 14:25:08 +0000 2018",
 		"id": 1072859903759446000,
 		"id_str": "1072859903759446016",
