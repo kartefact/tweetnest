@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 20:42:57 +0000 2018",
+		"id": 1074766922024185900,
+		"id_str": "1074766922024185861",
+		"full_text": "What a reply! Not only the trouble it took and the gesture of it to reply, but the respect it showed with its seriousness towards such a topic and the depth to which it has gone. Hats off! _/\\_ https://t.co/picKIuJiAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/picKIuJiAG",
+					"expanded_url": "https://twitter.com/aatishb/status/1066884200685539328",
+					"display_url": "twitter.com/aatishb/status…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1561,
+			"friends_count": 528,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066884200685539300,
+		"quoted_status_id_str": "1066884200685539328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/picKIuJiAG",
+			"expanded": "https://twitter.com/aatishb/status/1066884200685539328",
+			"display": "twitter.com/aatishb/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 26 02:39:49 +0000 2018",
+			"id": 1066884200685539300,
+			"id_str": "1066884200685539328",
+			"full_text": "This is pretty amazing. @mathematicsprof wrote a cat food company about how they could minimize material if each can’s height equals its diameter. They wrote back with this. https://t.co/UgKJnQNLBg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mathematicsprof",
+						"name": "math prof",
+						"id": 31292265,
+						"id_str": "31292265",
+						"indices": [
+							24,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UgKJnQNLBg",
+						"expanded_url": "https://twitter.com/mathematicsprof/status/1066877975411462144",
+						"display_url": "twitter.com/mathematicspro…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 300735398,
+				"id_str": "300735398",
+				"name": "Aatish Bhatia",
+				"screen_name": "aatishb",
+				"location": "",
+				"description": "Science writer, physicist, tinkerer, teacher.\n\"Pay attention. Be astonished. Tell about it.\" – Mary Oliver",
+				"url": "https://t.co/9TW3Augceu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9TW3Augceu",
+								"expanded_url": "http://aatishb.com",
+								"display_url": "aatishb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14600,
+				"friends_count": 3024,
+				"listed_count": 591,
+				"created_at": "Wed May 18 08:22:55 +0000 2011",
+				"favourites_count": 27951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22836,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000817613002/3814bf3474aff91370d827c2f4cbdb9b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000817613002/3814bf3474aff91370d827c2f4cbdb9b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300735398/1415755653",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1066877975411462100,
+			"quoted_status_id_str": "1066877975411462144",
+			"quoted_status_permalink": {
+				"url": "https://t.co/UgKJnQNLBg",
+				"expanded": "https://twitter.com/mathematicsprof/status/1066877975411462144",
+				"display": "twitter.com/mathematicspro…"
+			},
+			"retweet_count": 930,
+			"favorite_count": 2352,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a reply! Not only the trouble it took and the gesture of it to reply, but the respect it showed with its seriousness towards such a topic and the depth to which it has gone. Hats off! _/\\_ https://t.co/picKIuJiAG"
+	},
+	{
 		"created_at": "Sat Dec 15 13:00:44 +0000 2018",
 		"id": 1073925826767392800,
 		"id_str": "1073925826767392768",
