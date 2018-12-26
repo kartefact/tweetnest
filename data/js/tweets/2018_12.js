@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 08:15:30 +0000 2018",
+		"id": 1077477923265933300,
+		"id_str": "1077477923265933312",
+		"full_text": "@iShO_o @Karaboondi @_viju @ImVHarini @mudnsky @ItsTheRedBaron Oldies would be scandalized if they watch this serial!",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iShO_o",
+					"name": "Shoooomkr",
+					"id": 350040079,
+					"id_str": "350040079",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Karaboondi",
+					"name": "Kirket Boondi",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"screen_name": "ImVHarini",
+					"name": "Harini Venkataraman",
+					"id": 413205394,
+					"id_str": "413205394",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "ItsTheRedBaron",
+					"name": "Sudarshan",
+					"id": 217923713,
+					"id_str": "217923713",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077457946362015700,
+		"in_reply_to_status_id_str": "1077457946362015746",
+		"in_reply_to_user_id": 350040079,
+		"in_reply_to_user_id_str": "350040079",
+		"in_reply_to_screen_name": "iShO_o",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iShO_o @Karaboondi @_viju @ImVHarini @mudnsky @ItsTheRedBaron Oldies would be scandalized if they watch this serial!"
+	},
+	{
+		"created_at": "Tue Dec 25 06:33:18 +0000 2018",
+		"id": 1077452205693812700,
+		"id_str": "1077452205693812738",
+		"full_text": "@Karaboondi @_viju @ImVHarini @mudnsky @ItsTheRedBaron Haha... I've been out of touch with Twitter. #WhatToDo",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhatToDo",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Karaboondi",
+					"name": "Kirket Boondi",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "ImVHarini",
+					"name": "Harini Venkataraman",
+					"id": 413205394,
+					"id_str": "413205394",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"screen_name": "ItsTheRedBaron",
+					"name": "Sudarshan",
+					"id": 217923713,
+					"id_str": "217923713",
+					"indices": [
+						39,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077451532000473100,
+		"in_reply_to_status_id_str": "1077451532000473088",
+		"in_reply_to_user_id": 398860199,
+		"in_reply_to_user_id_str": "398860199",
+		"in_reply_to_screen_name": "Karaboondi",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Karaboondi @_viju @ImVHarini @mudnsky @ItsTheRedBaron Haha... I've been out of touch with Twitter. #WhatToDo"
+	},
+	{
+		"created_at": "Tue Dec 25 06:25:17 +0000 2018",
+		"id": 1077450187369574400,
+		"id_str": "1077450187369574400",
+		"full_text": "@_viju @ImVHarini @mudnsky #smooth",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smooth",
+					"indices": [
+						27,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_viju",
+					"name": "V",
+					"id": 55976257,
+					"id_str": "55976257",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "ImVHarini",
+					"name": "Harini Venkataraman",
+					"id": 413205394,
+					"id_str": "413205394",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077446831200747500,
+		"in_reply_to_status_id_str": "1077446831200747520",
+		"in_reply_to_user_id": 55976257,
+		"in_reply_to_user_id_str": "55976257",
+		"in_reply_to_screen_name": "_viju",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@_viju @ImVHarini @mudnsky #smooth"
+	},
+	{
+		"created_at": "Tue Dec 25 06:02:42 +0000 2018",
+		"id": 1077444506641944600,
+		"id_str": "1077444506641944577",
+		"full_text": "@aswinsam @mudnsky First season - [Goes back under the rock from which he came out of]",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aswinsam",
+					"name": "Aswin",
+					"id": 34882713,
+					"id_str": "34882713",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077444251783520300,
+		"in_reply_to_status_id_str": "1077444251783520257",
+		"in_reply_to_user_id": 34882713,
+		"in_reply_to_user_id_str": "34882713",
+		"in_reply_to_screen_name": "aswinsam",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aswinsam @mudnsky First season - [Goes back under the rock from which he came out of]"
+	},
+	{
+		"created_at": "Tue Dec 25 05:52:58 +0000 2018",
+		"id": 1077442055591338000,
+		"id_str": "1077442055591337984",
+		"full_text": "@aswinsam @mudnsky Fun it is, indeed, but many things still seem far ahead of its time even for this day and age. And I'm still in the 90s in my head, so it's very enjoyable. 😉",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aswinsam",
+					"name": "Aswin",
+					"id": 34882713,
+					"id_str": "34882713",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077441245184692200,
+		"in_reply_to_status_id_str": "1077441245184692224",
+		"in_reply_to_user_id": 34882713,
+		"in_reply_to_user_id_str": "34882713",
+		"in_reply_to_screen_name": "aswinsam",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aswinsam @mudnsky Fun it is, indeed, but many things still seem far ahead of its time even for this day and age. And I'm still in the 90s in my head, so it's very enjoyable. 😉"
+	},
+	{
+		"created_at": "Tue Dec 25 05:50:00 +0000 2018",
+		"id": 1077441309869264900,
+		"id_str": "1077441309869264897",
+		"full_text": "@aswinsam @mudnsky [hides]",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aswinsam",
+					"name": "Aswin",
+					"id": 34882713,
+					"id_str": "34882713",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077440753310359600,
+		"in_reply_to_status_id_str": "1077440753310359552",
+		"in_reply_to_user_id": 34882713,
+		"in_reply_to_user_id_str": "34882713",
+		"in_reply_to_screen_name": "aswinsam",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aswinsam @mudnsky [hides]"
+	},
+	{
+		"created_at": "Tue Dec 25 05:48:29 +0000 2018",
+		"id": 1077440927646576600,
+		"id_str": "1077440927646576640",
+		"full_text": "@BLRAirport Hope the bridge between the city and the airport will be built with a metro soon.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLRAirport",
+					"name": "BLR Airport",
+					"id": 3274266002,
+					"id_str": "3274266002",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 996685465058078700,
+		"in_reply_to_status_id_str": "996685465058078720",
+		"in_reply_to_user_id": 3274266002,
+		"in_reply_to_user_id_str": "3274266002",
+		"in_reply_to_screen_name": "BLRAirport",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BLRAirport Hope the bridge between the city and the airport will be built with a metro soon."
+	},
+	{
+		"created_at": "Tue Dec 25 05:46:29 +0000 2018",
+		"id": 1077440422966952000,
+		"id_str": "1077440422966951936",
+		"full_text": "Finally getting to watch F.R.I.E.N.D.S as a series, thanks to @mudnsky. Have watched episodes before, but never continuously.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Clarity is everything!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1559,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060254984225329155/pulEkEKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1541619462",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Finally getting to watch F.R.I.E.N.D.S as a series, thanks to @mudnsky. Have watched episodes before, but never continuously."
+	},
+	{
 		"created_at": "Sat Dec 22 15:34:21 +0000 2018",
 		"id": 1076501200189734900,
 		"id_str": "1076501200189734913",
