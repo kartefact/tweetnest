@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 24 04:14:28 +0000 2018",
+		"id": 1077054877447073800,
+		"id_str": "1077054877447073792",
+		"full_text": "This is my dad. He turns 72 day after. Yesterday, I taught him how to code in @p5xjs and this Pac-Man (his design) is his first ever program. He then made a Christmas card all by himself. Today he woke up and excitedly told me that he had a programming dream! https://t.co/Wb2dhrFS9Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "p5xjs",
+					"name": "p5.js",
+					"id": 2749534722,
+					"id_str": "2749534722",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077053150639513600,
+					"id_str": "1077053150639513600",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DvJ2IlAVYAAypD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvJ2IlAVYAAypD9.jpg",
+					"url": "https://t.co/Wb2dhrFS9Y",
+					"display_url": "pic.twitter.com/Wb2dhrFS9Y",
+					"expanded_url": "https://twitter.com/aatishb/status/1077054877447073792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077053150639513600,
+					"id_str": "1077053150639513600",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DvJ2IlAVYAAypD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvJ2IlAVYAAypD9.jpg",
+					"url": "https://t.co/Wb2dhrFS9Y",
+					"display_url": "pic.twitter.com/Wb2dhrFS9Y",
+					"expanded_url": "https://twitter.com/aatishb/status/1077054877447073792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077053163893485600,
+					"id_str": "1077053163893485568",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DvJ2JWYU8AAfcIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvJ2JWYU8AAfcIf.jpg",
+					"url": "https://t.co/Wb2dhrFS9Y",
+					"display_url": "pic.twitter.com/Wb2dhrFS9Y",
+					"expanded_url": "https://twitter.com/aatishb/status/1077054877447073792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077053171409707000,
+					"id_str": "1077053171409707008",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DvJ2JyYVYAAS940.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvJ2JyYVYAAS940.jpg",
+					"url": "https://t.co/Wb2dhrFS9Y",
+					"display_url": "pic.twitter.com/Wb2dhrFS9Y",
+					"expanded_url": "https://twitter.com/aatishb/status/1077054877447073792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 300735398,
+			"id_str": "300735398",
+			"name": "Aatish Bhatia",
+			"screen_name": "aatishb",
+			"location": "",
+			"description": "Science writer, physicist, tinkerer, teacher.\n\"Pay attention. Be astonished. Tell about it.\" – Mary Oliver",
+			"url": "https://t.co/9TW3Augceu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9TW3Augceu",
+							"expanded_url": "http://aatishb.com",
+							"display_url": "aatishb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14640,
+			"friends_count": 3026,
+			"listed_count": 592,
+			"created_at": "Wed May 18 08:22:55 +0000 2011",
+			"favourites_count": 28048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000817613002/3814bf3474aff91370d827c2f4cbdb9b_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000817613002/3814bf3474aff91370d827c2f4cbdb9b_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/300735398/1415755653",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 304,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my dad. He turns 72 day after. Yesterday, I taught him how to code in @p5xjs and this Pac-Man (his design) is his first ever program. He then made a Christmas card all by himself. Today he woke up and excitedly told me that he had a programming dream! https://t.co/Wb2dhrFS9Y"
+	},
+	{
 		"created_at": "Tue Dec 25 08:15:30 +0000 2018",
 		"id": 1077477923265933300,
 		"id_str": "1077477923265933312",
