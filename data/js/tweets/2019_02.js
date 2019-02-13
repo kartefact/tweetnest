@@ -137,6 +137,700 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 668001,
+			"friends_count": 13584,
+			"listed_count": 13739,
+			"created_at": "Wed Feb 04 16:25:17 +0000 2009",
+			"favourites_count": 4468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 85117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857998780410548224/zfrtpr2E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857998780410548224/zfrtpr2E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20065936/1493403593",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Hidden Room Behind Mount Rushmore — https://t.co/9N1O9w11gm https://t.co/IGfmx4u7Sr"
+	},
+	{
+		"created_at": "Sun Feb 10 07:06:09 +0000 2019",
+		"id": 1094492701842645000,
+		"id_str": "1094492701842644992",
+		"full_text": "Desi truck painters are some next level calligraphers https://t.co/uxnxcOjuCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094491963167047700,
+					"id_str": "1094491963167047680",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1094491963167047680/pu/img/257dR0Z-aoWXGGS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1094491963167047680/pu/img/257dR0Z-aoWXGGS9.jpg",
+					"url": "https://t.co/uxnxcOjuCN",
+					"display_url": "pic.twitter.com/uxnxcOjuCN",
+					"expanded_url": "https://twitter.com/tyrantasorus/status/1094492701842644992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 582,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094491963167047700,
+					"id_str": "1094491963167047680",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1094491963167047680/pu/img/257dR0Z-aoWXGGS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1094491963167047680/pu/img/257dR0Z-aoWXGGS9.jpg",
+					"url": "https://t.co/uxnxcOjuCN",
+					"display_url": "pic.twitter.com/uxnxcOjuCN",
+					"expanded_url": "https://twitter.com/tyrantasorus/status/1094492701842644992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 582,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 582,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							96,
+							97
+						],
+						"duration_millis": 15034,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1094491963167047680/pu/pl/S4AVh4Foiy4x3KVu.m3u8?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1094491963167047680/pu/vid/320x322/dYhX9HkdCtJ5KLns.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1094491963167047680/pu/vid/576x582/EsSIvZogGtkazcnj.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1094491963167047680/pu/vid/360x362/fI8ZsknGkv5GX9lT.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179961384,
+			"id_str": "179961384",
+			"name": "Tyrantasorus",
+			"screen_name": "tyrantasorus",
+			"location": "Bangalore",
+			"description": "My superpower is listening to a song I love repeatedly until I hate it.",
+			"url": "https://t.co/cTd1EmVLaf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cTd1EmVLaf",
+							"expanded_url": "http://avatarite.tumblr.com",
+							"display_url": "avatarite.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6884,
+			"friends_count": 1410,
+			"listed_count": 203,
+			"created_at": "Wed Aug 18 14:19:13 +0000 2010",
+			"favourites_count": 8224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 318009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093342645944864773/JeXiPduE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093342645944864773/JeXiPduE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179961384/1548479207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12422,
+		"favorite_count": 29104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Desi truck painters are some next level calligraphers https://t.co/uxnxcOjuCN"
+	},
+	{
+		"created_at": "Mon Feb 11 21:12:16 +0000 2019",
+		"id": 1095068021301829600,
+		"id_str": "1095068021301829632",
+		"full_text": "😯Do they have springs instead of bones? https://t.co/iQ7QwPqaQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iQ7QwPqaQ5",
+					"expanded_url": "https://twitter.com/MKBHD/status/1095066844229259264",
+					"display_url": "twitter.com/MKBHD/status/1…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1552,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1547287803",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095066844229259300,
+		"quoted_status_id_str": "1095066844229259264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iQ7QwPqaQ5",
+			"expanded": "https://twitter.com/MKBHD/status/1095066844229259264",
+			"display": "twitter.com/MKBHD/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 11 21:07:35 +0000 2019",
+			"id": 1095066844229259300,
+			"id_str": "1095066844229259264",
+			"full_text": "Zion is not from Earth https://t.co/FuZV50xsE9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FuZV50xsE9",
+						"expanded_url": "https://twitter.com/MrMichaelLee/status/1094414755421405184",
+						"display_url": "twitter.com/MrMichaelLee/s…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29873662,
+				"id_str": "29873662",
+				"name": "Marques Brownlee",
+				"screen_name": "MKBHD",
+				"location": "NYC",
+				"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player",
+				"url": "https://t.co/zGcF5QxPBI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zGcF5QxPBI",
+								"expanded_url": "http://youtube.com/MKBHD",
+								"display_url": "youtube.com/MKBHD",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3061888,
+				"friends_count": 317,
+				"listed_count": 9069,
+				"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+				"favourites_count": 25011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43977,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1549676067",
+				"profile_link_color": "6C4585",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1094414755421405200,
+			"quoted_status_id_str": "1094414755421405184",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FuZV50xsE9",
+				"expanded": "https://twitter.com/MrMichaelLee/status/1094414755421405184",
+				"display": "twitter.com/MrMichaelLee/s…"
+			},
+			"retweet_count": 1335,
+			"favorite_count": 14917,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😯Do they have springs instead of bones? https://t.co/iQ7QwPqaQ5"
+	},
+	{
+		"created_at": "Mon Feb 11 20:34:03 +0000 2019",
+		"id": 1095058405020950500,
+		"id_str": "1095058405020950528",
+		"full_text": "Hahaha...  Database skills (Sia cheap thrills parody)😄 https://t.co/tv6fsBCQtH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tv6fsBCQtH",
+					"expanded_url": "https://youtu.be/0vPt7GI-2kc",
+					"display_url": "youtu.be/0vPt7GI-2kc",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1552,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1547287803",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hahaha...  Database skills (Sia cheap thrills parody)😄 https://t.co/tv6fsBCQtH"
+	},
+	{
+		"created_at": "Mon Feb 11 20:23:01 +0000 2019",
+		"id": 1095055629092298800,
+		"id_str": "1095055629092298758",
+		"full_text": "The Hidden Room Behind Mount Rushmore — https://t.co/9N1O9w11gm https://t.co/IGfmx4u7Sr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9N1O9w11gm",
+					"expanded_url": "http://bit.ly/2jK048P",
+					"display_url": "bit.ly/2jK048P",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095055625996910600,
+					"id_str": "1095055625996910594",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DzJrSjzWwAIsq-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzJrSjzWwAIsq-z.jpg",
+					"url": "https://t.co/IGfmx4u7Sr",
+					"display_url": "pic.twitter.com/IGfmx4u7Sr",
+					"expanded_url": "https://twitter.com/mental_floss/status/1095055629092298758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 733,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 733,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095055625996910600,
+					"id_str": "1095055625996910594",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DzJrSjzWwAIsq-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzJrSjzWwAIsq-z.jpg",
+					"url": "https://t.co/IGfmx4u7Sr",
+					"display_url": "pic.twitter.com/IGfmx4u7Sr",
+					"expanded_url": "https://twitter.com/mental_floss/status/1095055629092298758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 733,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 733,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20065936,
+			"id_str": "20065936",
+			"name": "Mental Floss",
+			"screen_name": "mental_floss",
+			"location": "New York",
+			"description": "Feel smart.",
+			"url": "https://t.co/JS1JgWpVdG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JS1JgWpVdG",
+							"expanded_url": "http://www.mentalfloss.com",
+							"display_url": "mentalfloss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 667908,
 			"friends_count": 13585,
 			"listed_count": 13746,
