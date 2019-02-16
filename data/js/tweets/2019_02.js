@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 16:06:38 +0000 2019",
+		"id": 1096440660251439100,
+		"id_str": "1096440660251439104",
+		"full_text": "@mudnsky https://t.co/GrRar083Ro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GrRar083Ro",
+					"expanded_url": "https://twitter.com/PupsPorn/status/1096440246865219584",
+					"display_url": "twitter.com/PupsPorn/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1554,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096440246865219600,
+		"quoted_status_id_str": "1096440246865219584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GrRar083Ro",
+			"expanded": "https://twitter.com/PupsPorn/status/1096440246865219584",
+			"display": "twitter.com/PupsPorn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 16:05:00 +0000 2019",
+			"id": 1096440246865219600,
+			"id_str": "1096440246865219584",
+			"full_text": "I've got my eyes on you https://t.co/2TLhXvCUW1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 935423603113373700,
+						"id_str": "935423603113373696",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"url": "https://t.co/2TLhXvCUW1",
+						"display_url": "pic.twitter.com/2TLhXvCUW1",
+						"expanded_url": "https://twitter.com/llovmydog/status/935423605793533957/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 935423605793534000,
+						"source_status_id_str": "935423605793533957",
+						"source_user_id": 752873787415269400,
+						"source_user_id_str": "752873787415269381"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 935423603113373700,
+						"id_str": "935423603113373696",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"url": "https://t.co/2TLhXvCUW1",
+						"display_url": "pic.twitter.com/2TLhXvCUW1",
+						"expanded_url": "https://twitter.com/llovmydog/status/935423605793533957/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 935423605793534000,
+						"source_status_id_str": "935423605793533957",
+						"source_user_id": 752873787415269400,
+						"source_user_id_str": "752873787415269381"
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "Partnership or Pay for a share. email:poemporn@126.com",
+				"url": "https://t.co/Pyjp2clSrY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Pyjp2clSrY",
+								"expanded_url": "https://www.facebook.com/PupsLoverX",
+								"display_url": "facebook.com/PupsLoverX",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1784251,
+				"friends_count": 12037,
+				"listed_count": 1136,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 103979,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 492,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mudnsky https://t.co/GrRar083Ro"
+	},
+	{
 		"created_at": "Thu Feb 14 17:45:47 +0000 2019",
 		"id": 1096103221049712600,
 		"id_str": "1096103221049712642",
