@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 16:35:10 +0000 2019",
+		"id": 1097172614911545300,
+		"id_str": "1097172614911545344",
+		"full_text": "I want to be a stuffed animal https://t.co/F15ZOG7idz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097172563640365000,
+					"id_str": "1097172563640365056",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"url": "https://t.co/F15ZOG7idz",
+					"display_url": "pic.twitter.com/F15ZOG7idz",
+					"expanded_url": "https://twitter.com/smolanimals/status/1097172614911545344/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097172563640365000,
+					"id_str": "1097172563640365056",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"url": "https://t.co/F15ZOG7idz",
+					"display_url": "pic.twitter.com/F15ZOG7idz",
+					"expanded_url": "https://twitter.com/smolanimals/status/1097172614911545344/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20300,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097172563640365056/pu/pl/_IgbgVqkKNrslQbu.m3u8?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097172563640365056/pu/vid/320x320/Wzt-_PW6yH6EPFWS.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097172563640365056/pu/vid/480x480/3nc--NLoo5nvHVZO.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044003942420508700,
+			"id_str": "1044003942420508672",
+			"name": "smol animals",
+			"screen_name": "smolanimals",
+			"location": "dm for credit/removal",
+			"description": "we are experts in everything smol n cute",
+			"url": "https://t.co/pP0cLX3YCC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pP0cLX3YCC",
+							"expanded_url": "http://instagram.com/chonky.animals",
+							"display_url": "instagram.com/chonky.animals",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134043,
+			"friends_count": 48,
+			"listed_count": 458,
+			"created_at": "Sun Sep 23 23:21:51 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080525524244426753/awMhOGxo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080525524244426753/awMhOGxo_normal.jpg",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2119,
+		"favorite_count": 8463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to be a stuffed animal https://t.co/F15ZOG7idz"
+	},
+	{
 		"created_at": "Fri Feb 15 16:06:38 +0000 2019",
 		"id": 1096440660251439100,
 		"id_str": "1096440660251439104",
