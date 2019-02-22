@@ -1,6 +1,1357 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 16:42:40 +0000 2019",
+		"id": 1098624052724404200,
+		"id_str": "1098624052724404228",
+		"full_text": "When you're solving cryptic crossword and all you can see is @mudnsky #HusbandLife #Twitter https://t.co/VNfiDHg8sf https://t.co/gyhnhTMg8o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HusbandLife",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VNfiDHg8sf",
+					"expanded_url": "https://ift.tt/2GTDGFn",
+					"display_url": "ift.tt/2GTDGFn",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098624051344486400,
+					"id_str": "1098624051344486401",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8YwQIWsAEx-Hg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8YwQIWsAEx-Hg.jpg",
+					"url": "https://t.co/gyhnhTMg8o",
+					"display_url": "pic.twitter.com/gyhnhTMg8o",
+					"expanded_url": "https://twitter.com/kartefact/status/1098624052724404228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098624051344486400,
+					"id_str": "1098624051344486401",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8YwQIWsAEx-Hg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8YwQIWsAEx-Hg.jpg",
+					"url": "https://t.co/gyhnhTMg8o",
+					"display_url": "pic.twitter.com/gyhnhTMg8o",
+					"expanded_url": "https://twitter.com/kartefact/status/1098624052724404228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1553,
+			"friends_count": 530,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you're solving cryptic crossword and all you can see is @mudnsky #HusbandLife #Twitter https://t.co/VNfiDHg8sf https://t.co/gyhnhTMg8o"
+	},
+	{
+		"created_at": "Wed Feb 13 17:03:31 +0000 2019",
+		"id": 1095730196626341900,
+		"id_str": "1095730196626341889",
+		"full_text": "Dear PARLE. Bring this back https://t.co/Oo792U3EJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095730188816535600,
+					"id_str": "1095730188816535552",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DzTQzSIU0AANxAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzTQzSIU0AANxAR.jpg",
+					"url": "https://t.co/Oo792U3EJM",
+					"display_url": "pic.twitter.com/Oo792U3EJM",
+					"expanded_url": "https://twitter.com/ssaig/status/1095730196626341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 637,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095730188816535600,
+					"id_str": "1095730188816535552",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DzTQzSIU0AANxAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzTQzSIU0AANxAR.jpg",
+					"url": "https://t.co/Oo792U3EJM",
+					"display_url": "pic.twitter.com/Oo792U3EJM",
+					"expanded_url": "https://twitter.com/ssaig/status/1095730196626341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 637,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55244500,
+			"id_str": "55244500",
+			"name": "𝚂𝙸𝙳𝙳𝙷𝙰𝚁𝚃𝙷 𝚂𝙰𝙸 𝙶",
+			"screen_name": "ssaig",
+			"location": "Kerala, India",
+			"description": "Amateur Astronomer. 80's Kid. 8-bit life. I just want Rola Cola",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2976,
+			"friends_count": 302,
+			"listed_count": 135,
+			"created_at": "Thu Jul 09 14:07:41 +0000 2009",
+			"favourites_count": 13354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76994,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089076998465413120/Wn3qQge0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089076998465413120/Wn3qQge0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55244500/1550582887",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 519,
+		"favorite_count": 1136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear PARLE. Bring this back https://t.co/Oo792U3EJM"
+	},
+	{
+		"created_at": "Thu Feb 14 22:30:20 +0000 2019",
+		"id": 1096174831089922000,
+		"id_str": "1096174831089922048",
+		"full_text": "This shadow looks like the old man of the mountain https://t.co/yUboVaTTRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096174829630296000,
+					"id_str": "1096174829630296064",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZlMyPWkAA69x5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZlMyPWkAA69x5.jpg",
+					"url": "https://t.co/yUboVaTTRa",
+					"display_url": "pic.twitter.com/yUboVaTTRa",
+					"expanded_url": "https://twitter.com/FacesPics/status/1096174831089922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096174829630296000,
+					"id_str": "1096174829630296064",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZlMyPWkAA69x5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZlMyPWkAA69x5.jpg",
+					"url": "https://t.co/yUboVaTTRa",
+					"display_url": "pic.twitter.com/yUboVaTTRa",
+					"expanded_url": "https://twitter.com/FacesPics/status/1096174831089922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1689419970,
+			"id_str": "1689419970",
+			"name": "Faces in Things",
+			"screen_name": "FacesPics",
+			"location": "email: faces@viralspark.net",
+			"description": "Admit it, you see a face.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 655040,
+			"friends_count": 11,
+			"listed_count": 4121,
+			"created_at": "Wed Aug 21 23:11:30 +0000 2013",
+			"favourites_count": 2357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689419970/1384060472",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 3821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This shadow looks like the old man of the mountain https://t.co/yUboVaTTRa"
+	},
+	{
+		"created_at": "Sat Feb 16 04:32:49 +0000 2019",
+		"id": 1096628442437627900,
+		"id_str": "1096628442437627905",
+		"full_text": "Well, it *is* an operating system 🤷‍♂️ https://t.co/m5DEp8bZdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096628426687930400,
+					"id_str": "1096628426687930368",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DzgBvm9UYAAIChg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzgBvm9UYAAIChg.jpg",
+					"url": "https://t.co/m5DEp8bZdH",
+					"display_url": "pic.twitter.com/m5DEp8bZdH",
+					"expanded_url": "https://twitter.com/_curses/status/1096628442437627905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 614,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096628426687930400,
+					"id_str": "1096628426687930368",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DzgBvm9UYAAIChg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzgBvm9UYAAIChg.jpg",
+					"url": "https://t.co/m5DEp8bZdH",
+					"display_url": "pic.twitter.com/m5DEp8bZdH",
+					"expanded_url": "https://twitter.com/_curses/status/1096628442437627905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 614,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135064320,
+			"id_str": "135064320",
+			"name": "Harish",
+			"screen_name": "_curses",
+			"location": "",
+			"description": "new phone, who dis?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 331,
+			"listed_count": 33,
+			"created_at": "Tue Apr 20 06:59:06 +0000 2010",
+			"favourites_count": 1705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062958273953968128/RWE_QBcJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062958273953968128/RWE_QBcJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135064320/1432293244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1132,
+		"favorite_count": 2696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, it *is* an operating system 🤷‍♂️ https://t.co/m5DEp8bZdH"
+	},
+	{
+		"created_at": "Sun Feb 17 16:35:10 +0000 2019",
+		"id": 1097172614911545300,
+		"id_str": "1097172614911545344",
+		"full_text": "I want to be a stuffed animal https://t.co/F15ZOG7idz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097172563640365000,
+					"id_str": "1097172563640365056",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"url": "https://t.co/F15ZOG7idz",
+					"display_url": "pic.twitter.com/F15ZOG7idz",
+					"expanded_url": "https://twitter.com/smolanimals/status/1097172614911545344/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097172563640365000,
+					"id_str": "1097172563640365056",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097172563640365056/pu/img/SGrIWUXJHchN4bAt.jpg",
+					"url": "https://t.co/F15ZOG7idz",
+					"display_url": "pic.twitter.com/F15ZOG7idz",
+					"expanded_url": "https://twitter.com/smolanimals/status/1097172614911545344/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20300,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097172563640365056/pu/pl/_IgbgVqkKNrslQbu.m3u8?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097172563640365056/pu/vid/320x320/Wzt-_PW6yH6EPFWS.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097172563640365056/pu/vid/480x480/3nc--NLoo5nvHVZO.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044003942420508700,
+			"id_str": "1044003942420508672",
+			"name": "smol animals",
+			"screen_name": "smolanimals",
+			"location": "dm for credit/removal",
+			"description": "we are experts in everything smol n cute",
+			"url": "https://t.co/pP0cLX3YCC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pP0cLX3YCC",
+							"expanded_url": "http://instagram.com/chonky.animals",
+							"display_url": "instagram.com/chonky.animals",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133524,
+			"friends_count": 48,
+			"listed_count": 460,
+			"created_at": "Sun Sep 23 23:21:51 +0000 2018",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080525524244426753/awMhOGxo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080525524244426753/awMhOGxo_normal.jpg",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8116,
+		"favorite_count": 25345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to be a stuffed animal https://t.co/F15ZOG7idz"
+	},
+	{
+		"created_at": "Fri Feb 15 16:06:38 +0000 2019",
+		"id": 1096440660251439100,
+		"id_str": "1096440660251439104",
+		"full_text": "@mudnsky https://t.co/GrRar083Ro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GrRar083Ro",
+					"expanded_url": "https://twitter.com/PupsPorn/status/1096440246865219584",
+					"display_url": "twitter.com/PupsPorn/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1553,
+			"friends_count": 530,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096440246865219600,
+		"quoted_status_id_str": "1096440246865219584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GrRar083Ro",
+			"expanded": "https://twitter.com/PupsPorn/status/1096440246865219584",
+			"display": "twitter.com/PupsPorn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 16:05:00 +0000 2019",
+			"id": 1096440246865219600,
+			"id_str": "1096440246865219584",
+			"full_text": "I've got my eyes on you https://t.co/2TLhXvCUW1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 935423603113373700,
+						"id_str": "935423603113373696",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"url": "https://t.co/2TLhXvCUW1",
+						"display_url": "pic.twitter.com/2TLhXvCUW1",
+						"expanded_url": "https://twitter.com/llovmydog/status/935423605793533957/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 935423605793534000,
+						"source_status_id_str": "935423605793533957",
+						"source_user_id": 752873787415269400,
+						"source_user_id_str": "752873787415269381"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 935423603113373700,
+						"id_str": "935423603113373696",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPtKz5oWsAAwZOi.jpg",
+						"url": "https://t.co/2TLhXvCUW1",
+						"display_url": "pic.twitter.com/2TLhXvCUW1",
+						"expanded_url": "https://twitter.com/llovmydog/status/935423605793533957/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 935423605793534000,
+						"source_status_id_str": "935423605793533957",
+						"source_user_id": 752873787415269400,
+						"source_user_id_str": "752873787415269381"
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835083097,
+				"id_str": "835083097",
+				"name": "Puppy Lover",
+				"screen_name": "PupsPorn",
+				"location": "",
+				"description": "Partnership or Pay for a share. email:poemporn@126.com",
+				"url": "https://t.co/Pyjp2clSrY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Pyjp2clSrY",
+								"expanded_url": "https://www.facebook.com/PupsLoverX",
+								"display_url": "facebook.com/PupsLoverX",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1783212,
+				"friends_count": 12029,
+				"listed_count": 1140,
+				"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 104007,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 674,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mudnsky https://t.co/GrRar083Ro"
+	},
+	{
+		"created_at": "Thu Feb 14 17:45:47 +0000 2019",
+		"id": 1096103221049712600,
+		"id_str": "1096103221049712642",
+		"full_text": "The #ValentinesDay gift @mudnsky and I bought, celebrating the first day we met each other. 💞 https://t.co/H1ChASVX4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ValentinesDay",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096103176539795500,
+					"id_str": "1096103176539795456",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYkCBrU8AAoOdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYkCBrU8AAoOdH.jpg",
+					"url": "https://t.co/H1ChASVX4a",
+					"display_url": "pic.twitter.com/H1ChASVX4a",
+					"expanded_url": "https://twitter.com/kartefact/status/1096103221049712642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096103176539795500,
+					"id_str": "1096103176539795456",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYkCBrU8AAoOdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYkCBrU8AAoOdH.jpg",
+					"url": "https://t.co/H1ChASVX4a",
+					"display_url": "pic.twitter.com/H1ChASVX4a",
+					"expanded_url": "https://twitter.com/kartefact/status/1096103221049712642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1553,
+			"friends_count": 530,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #ValentinesDay gift @mudnsky and I bought, celebrating the first day we met each other. 💞 https://t.co/H1ChASVX4a"
+	},
+	{
 		"created_at": "Wed Feb 13 17:03:31 +0000 2019",
 		"id": 1095730196626341900,
 		"id_str": "1095730196626341889",
@@ -326,7 +1677,7 @@ Grailbird.data.tweets_2019_02 =
 		"created_at": "Sat Feb 16 04:32:49 +0000 2019",
 		"id": 1096628442437627900,
 		"id_str": "1096628442437627905",
-		"full_text": "Well, it *is* an operating system 🤷‍♂️ https://t.co/m5DEp8bZdH",
+		"full_text": "Well, it *is* an operating system 🤷♂️ https://t.co/m5DEp8bZdH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -481,7 +1832,7 @@ Grailbird.data.tweets_2019_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Well, it *is* an operating system 🤷‍♂️ https://t.co/m5DEp8bZdH"
+		"text": "Well, it *is* an operating system 🤷♂️ https://t.co/m5DEp8bZdH"
 	},
 	{
 		"created_at": "Sun Feb 17 16:35:10 +0000 2019",
