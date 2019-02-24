@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 16:05:02 +0000 2019",
+		"id": 1099339356857339900,
+		"id_str": "1099339356857339906",
+		"full_text": "Me and my pet turtle https://t.co/mcKeuBR32z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 965277560581115900,
+					"id_str": "965277560581115905",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DWVa07wX0AEoIMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWVa07wX0AEoIMV.jpg",
+					"url": "https://t.co/mcKeuBR32z",
+					"display_url": "pic.twitter.com/mcKeuBR32z",
+					"expanded_url": "https://twitter.com/llovmydog/status/965277562841780232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965277562841780200,
+					"source_status_id_str": "965277562841780232",
+					"source_user_id": 752873787415269400,
+					"source_user_id_str": "752873787415269381"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965277560581115900,
+					"id_str": "965277560581115905",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DWVa07wX0AEoIMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWVa07wX0AEoIMV.jpg",
+					"url": "https://t.co/mcKeuBR32z",
+					"display_url": "pic.twitter.com/mcKeuBR32z",
+					"expanded_url": "https://twitter.com/llovmydog/status/965277562841780232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965277562841780200,
+					"source_status_id_str": "965277562841780232",
+					"source_user_id": 752873787415269400,
+					"source_user_id_str": "752873787415269381"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835083097,
+			"id_str": "835083097",
+			"name": "Puppy Lover",
+			"screen_name": "PupsPorn",
+			"location": "",
+			"description": "Partnership or Pay for a share. email:poemporn@126.com",
+			"url": "https://t.co/Pyjp2clSrY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pyjp2clSrY",
+							"expanded_url": "https://www.facebook.com/PupsLoverX",
+							"display_url": "facebook.com/PupsLoverX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1782860,
+			"friends_count": 12025,
+			"listed_count": 1138,
+			"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me and my pet turtle https://t.co/mcKeuBR32z"
+	},
+	{
 		"created_at": "Fri Feb 22 16:52:00 +0000 2019",
 		"id": 1098988789408555000,
 		"id_str": "1098988789408555008",
