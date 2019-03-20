@@ -1,6 +1,1345 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 19:00:09 +0000 2019",
+		"id": 1108066277992607700,
+		"id_str": "1108080736735653889",
+		"full_text": "The future of gaming is not a box. It's a place.\n\nThis is Stadia. One place for all the ways we play  → https://t.co/v2jJTUWkYz https://t.co/LlIHbjigDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v2jJTUWkYz",
+					"expanded_url": "http://stadia.com",
+					"display_url": "stadia.com",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108025641864175600,
+					"id_str": "1108025641864175616",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D2B_z6GX0AQ1cu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2B_z6GX0AQ1cu3.jpg",
+					"url": "https://t.co/LlIHbjigDR",
+					"display_url": "pic.twitter.com/LlIHbjigDR",
+					"expanded_url": "https://twitter.com/GoogleStadia/status/1108066277992607744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108025641864175600,
+					"id_str": "1108025641864175616",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D2B_z6GX0AQ1cu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2B_z6GX0AQ1cu3.jpg",
+					"url": "https://t.co/LlIHbjigDR",
+					"display_url": "pic.twitter.com/LlIHbjigDR",
+					"expanded_url": "https://twitter.com/GoogleStadia/status/1108066277992607744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52085,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1108025641864175616/vid/1280x720/kF4IDrgyzLG9yfsE.mp4?tag=11"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1108025641864175616/pl/Kv-E8cxw1sa44ZXN.m3u8?tag=11"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1108025641864175616/vid/320x180/f_uDIsE_h4ec7b1i.mp4?tag=11"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1108025641864175616/vid/640x360/S0RgKh4U2ZUKnCxd.mp4?tag=11"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Stadia Official Reveal: The Future of Gaming from Google",
+						"description": "The future of gaming is not a box. It's a place. Welcome to Stadia, an all-new gaming platform from Google for playing AAA video games across all the screens in your life. Gather around.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.stadia.com"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075893326602154000,
+			"id_str": "1075893326602153984",
+			"name": "Stadia",
+			"screen_name": "GoogleStadia",
+			"location": "GDC",
+			"description": "The future of gaming is not a box. It's a place. Welcome to #Stadia, an all-new way to play from @Google. Coming 2019. Follow to stay tuned.",
+			"url": "https://t.co/RH9otEoTXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RH9otEoTXn",
+							"expanded_url": "http://www.stadia.com",
+							"display_url": "stadia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48403,
+			"friends_count": 9,
+			"listed_count": 250,
+			"created_at": "Thu Dec 20 23:18:52 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108050688259567616/qKRunTYM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108050688259567616/qKRunTYM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075893326602153984/1553015430",
+			"profile_link_color": "9B0063",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4334,
+		"favorite_count": 9514,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The future of gaming is not a box. It's a place.\n\nThis is Stadia. One place for all the ways we play  → https://t.co/v2jJTUWkYz https://t.co/LlIHbjigDR"
+	},
+	{
+		"created_at": "Tue Mar 19 17:39:59 +0000 2019",
+		"id": 1108048496333152300,
+		"id_str": "1108060560535347200",
+		"full_text": "\"Despite knowing the journey and where it leads, I embrace it. And I welcome every moment of it.\"\n\n-- Google users trying out a new service that could very likely be dead in a few years. https://t.co/pMyExdqlsv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108048345782800400,
+					"id_str": "1108048345782800384",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CUGYxX0AADdPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CUGYxX0AADdPh.jpg",
+					"url": "https://t.co/pMyExdqlsv",
+					"display_url": "pic.twitter.com/pMyExdqlsv",
+					"expanded_url": "https://twitter.com/LordRavenscraft/status/1108048496333152262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108048345782800400,
+					"id_str": "1108048345782800384",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CUGYxX0AADdPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CUGYxX0AADdPh.jpg",
+					"url": "https://t.co/pMyExdqlsv",
+					"display_url": "pic.twitter.com/pMyExdqlsv",
+					"expanded_url": "https://twitter.com/LordRavenscraft/status/1108048496333152262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1108047732571324400,
+		"in_reply_to_status_id_str": "1108047732571324416",
+		"in_reply_to_user_id": 15913651,
+		"in_reply_to_user_id_str": "15913651",
+		"in_reply_to_screen_name": "LordRavenscraft",
+		"user": {
+			"id": 15913651,
+			"id_str": "15913651",
+			"name": "Eric Ravenscraft",
+			"screen_name": "LordRavenscraft",
+			"location": "Atlanta, GA",
+			"description": "Clearly fake name. Freelance. Bylines in @NYTimes, @PCMag, @TheDailyBeast, @GeekandSundry, @ItsTheInventory. Formerly @Lifehacker. lordravenscraft at gmail",
+			"url": "https://t.co/3kNCzsiixZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3kNCzsiixZ",
+							"expanded_url": "https://www.lordravenscraft.com/",
+							"display_url": "lordravenscraft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 694,
+			"listed_count": 181,
+			"created_at": "Wed Aug 20 03:51:23 +0000 2008",
+			"favourites_count": 5957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997113956580904960/WW1ocdtA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997113956580904960/WW1ocdtA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15913651/1347980404",
+			"profile_link_color": "222266",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Despite knowing the journey and where it leads, I embrace it. And I welcome every moment of it.\"\n\n-- Google users trying out a new service that could very likely be dead in a few years. https://t.co/pMyExdqlsv"
+	},
+	{
+		"created_at": "Tue Mar 19 17:37:39 +0000 2019",
+		"id": 1108059974448504800,
+		"id_str": "1108059974448504832",
+		"full_text": "@thesimplecrew @flirtingshadows I literally rolled on my bed laughing. HAHAHA!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thesimplecrew",
+					"name": "varun",
+					"id": 23542374,
+					"id_str": "23542374",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "flirtingshadows",
+					"name": "shruti",
+					"id": 53342165,
+					"id_str": "53342165",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1107650695216296000,
+		"in_reply_to_status_id_str": "1107650695216295936",
+		"in_reply_to_user_id": 23542374,
+		"in_reply_to_user_id_str": "23542374",
+		"in_reply_to_screen_name": "thesimplecrew",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1548,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thesimplecrew @flirtingshadows I literally rolled on my bed laughing. HAHAHA!"
+	},
+	{
+		"created_at": "Tue Mar 19 17:36:54 +0000 2019",
+		"id": 1107890601977176000,
+		"id_str": "1108059785864216576",
+		"full_text": "Mother teaching to say hello.... 👏👏 https://t.co/cGSwN5WlCn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107890529730261000,
+					"id_str": "1107890529730260992",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107890529730260992/pu/img/mo5ymbNHzNnFetXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107890529730260992/pu/img/mo5ymbNHzNnFetXm.jpg",
+					"url": "https://t.co/cGSwN5WlCn",
+					"display_url": "pic.twitter.com/cGSwN5WlCn",
+					"expanded_url": "https://twitter.com/PopularPups/status/1107890601977176065/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107890529730261000,
+					"id_str": "1107890529730260992",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107890529730260992/pu/img/mo5ymbNHzNnFetXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107890529730260992/pu/img/mo5ymbNHzNnFetXm.jpg",
+					"url": "https://t.co/cGSwN5WlCn",
+					"display_url": "pic.twitter.com/cGSwN5WlCn",
+					"expanded_url": "https://twitter.com/PopularPups/status/1107890601977176065/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6667,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107890529730260992/pu/vid/480x480/MC6gQqFX01fedSXh.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107890529730260992/pu/vid/320x320/Tl33Qje20iJnBSGu.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1107890529730260992/pu/pl/szO88GMQIjpjVi5c.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 900261083172053000,
+			"id_str": "900261083172052992",
+			"name": "Puppies 🐶",
+			"screen_name": "PopularPups",
+			"location": "",
+			"description": "Providing the best pictures, GIFs and clips of Puppies. We own no content posted. ||Content will be immediately removed or credited by owners request ||",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256204,
+			"friends_count": 91695,
+			"listed_count": 1427,
+			"created_at": "Wed Aug 23 07:39:03 +0000 2017",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958032294702231552/rl1yGIsl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958032294702231552/rl1yGIsl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/900261083172052992/1514082061",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4107,
+		"favorite_count": 17561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mother teaching to say hello.... 👏👏 https://t.co/cGSwN5WlCn"
+	},
+	{
+		"created_at": "Tue Mar 19 17:32:00 +0000 2019",
+		"id": 1107511316321726500,
+		"id_str": "1108058552411668480",
+		"full_text": "It fell a long time ago, but it never gave up. https://t.co/kQwVW1xnJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107511303717814300,
+					"id_str": "1107511303717814272",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D16rqbLUgAAsZ-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D16rqbLUgAAsZ-L.jpg",
+					"url": "https://t.co/kQwVW1xnJG",
+					"display_url": "pic.twitter.com/kQwVW1xnJG",
+					"expanded_url": "https://twitter.com/ParveenKaswan/status/1107511316321726464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 699,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 699,
+							"h": 595,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107511303717814300,
+					"id_str": "1107511303717814272",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D16rqbLUgAAsZ-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D16rqbLUgAAsZ-L.jpg",
+					"url": "https://t.co/kQwVW1xnJG",
+					"display_url": "pic.twitter.com/kQwVW1xnJG",
+					"expanded_url": "https://twitter.com/ParveenKaswan/status/1107511316321726464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 699,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 699,
+							"h": 595,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1052325553,
+			"id_str": "1052325553",
+			"name": "Parveen Kaswan, IFS",
+			"screen_name": "ParveenKaswan",
+			"location": "India",
+			"description": "#IFS Officer. #MoEFCC. #IISc Bangalore Alumnus. https://t.co/In7vBJVt1H Aerospace. Masters in Designs. MSc Forestry Environment. Member #IUCN(CEC). Explorer.",
+			"url": "https://t.co/pWLIbdCjjj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pWLIbdCjjj",
+							"expanded_url": "http://ifs.nic.in",
+							"display_url": "ifs.nic.in",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/In7vBJVt1H",
+							"expanded_url": "http://B.Tech",
+							"display_url": "B.Tech",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25921,
+			"friends_count": 342,
+			"listed_count": 84,
+			"created_at": "Tue Jan 01 10:32:20 +0000 2013",
+			"favourites_count": 47502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095292667401883650/bHxoGnmq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095292667401883650/bHxoGnmq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1052325553/1551623962",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1264,
+		"favorite_count": 5082,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It fell a long time ago, but it never gave up. https://t.co/kQwVW1xnJG"
+	},
+	{
+		"created_at": "Tue Mar 19 17:24:06 +0000 2019",
+		"id": 1107934922403135500,
+		"id_str": "1108056564592631809",
+		"full_text": "This video has data from the year 1500 to 2018.\nSee what happens in 2000, Delhi emerges in the list of top 10 only in the year 1993 and then see how it ends. Crazy https://t.co/3bHTUIb7Ib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107934132036923400,
+					"id_str": "1107934132036923392",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107934132036923392/pu/img/A7qDFhVUeZEbTcWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107934132036923392/pu/img/A7qDFhVUeZEbTcWT.jpg",
+					"url": "https://t.co/3bHTUIb7Ib",
+					"display_url": "pic.twitter.com/3bHTUIb7Ib",
+					"expanded_url": "https://twitter.com/abhishek_tri/status/1107934922403135489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107934132036923400,
+					"id_str": "1107934132036923392",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107934132036923392/pu/img/A7qDFhVUeZEbTcWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107934132036923392/pu/img/A7qDFhVUeZEbTcWT.jpg",
+					"url": "https://t.co/3bHTUIb7Ib",
+					"display_url": "pic.twitter.com/3bHTUIb7Ib",
+					"expanded_url": "https://twitter.com/abhishek_tri/status/1107934922403135489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							277,
+							180
+						],
+						"duration_millis": 139083,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107934132036923392/pu/vid/276x180/4zZGAWwE2OANV-FK.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1107934132036923392/pu/pl/6YOs0rCU7woqMzsK.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107934132036923392/pu/vid/554x360/7DBZhXuHkH6mST13.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80008955,
+			"id_str": "80008955",
+			"name": "abhishek tripathi",
+			"screen_name": "abhishek_tri",
+			"location": "mostly airport! ",
+			"description": "Currently Travelling! Launched India’s first Payments Bank - Airtel Payments Bank. Ex PayU, PayUmoney, Paytm. Love to fold paper to see what shape does it take!",
+			"url": "https://t.co/uC0FuOcKNQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0FuOcKNQ",
+							"expanded_url": "https://www.instagram.com/abhishek_tri/",
+							"display_url": "instagram.com/abhishek_tri/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5384,
+			"friends_count": 271,
+			"listed_count": 86,
+			"created_at": "Mon Oct 05 12:21:43 +0000 2009",
+			"favourites_count": 11279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25848,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096077138103623683/kt-T3kBE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096077138103623683/kt-T3kBE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80008955/1510470162",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This video has data from the year 1500 to 2018.\nSee what happens in 2000, Delhi emerges in the list of top 10 only in the year 1993 and then see how it ends. Crazy https://t.co/3bHTUIb7Ib"
+	},
+	{
+		"created_at": "Tue Mar 19 17:20:46 +0000 2019",
+		"id": 1108055724389617700,
+		"id_str": "1108055724389617665",
+		"full_text": "@Gunmaster_G9 I can hear the old monk speaking 😄",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gunmaster_G9",
+					"name": "Yungwan",
+					"id": 18134578,
+					"id_str": "18134578",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1108054457877778400,
+		"in_reply_to_status_id_str": "1108054457877778437",
+		"in_reply_to_user_id": 18134578,
+		"in_reply_to_user_id_str": "18134578",
+		"in_reply_to_screen_name": "Gunmaster_G9",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1548,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Gunmaster_G9 I can hear the old monk speaking 😄"
+	},
+	{
+		"created_at": "Tue Mar 19 17:14:23 +0000 2019",
+		"id": 1108054121351770100,
+		"id_str": "1108054121351770112",
+		"full_text": "@Gunmaster_G9 Spent a good 5 minutes trying to understand the reply, but stumped. What did it mean? 🤔",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gunmaster_G9",
+					"name": "Yungwan",
+					"id": 18134578,
+					"id_str": "18134578",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1108050777115947000,
+		"in_reply_to_status_id_str": "1108050777115947013",
+		"in_reply_to_user_id": 18134578,
+		"in_reply_to_user_id_str": "18134578",
+		"in_reply_to_screen_name": "Gunmaster_G9",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1548,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Gunmaster_G9 Spent a good 5 minutes trying to understand the reply, but stumped. What did it mean? 🤔"
+	},
+	{
+		"created_at": "Tue Mar 19 16:57:53 +0000 2019",
+		"id": 1108049967506055200,
+		"id_str": "1108049967506055168",
+		"full_text": "The lady is showing me 4 year old tweets of mine. What was I thinking back then! Someone please show me to a bunker where I can hide.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1548,
+			"friends_count": 529,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The lady is showing me 4 year old tweets of mine. What was I thinking back then! Someone please show me to a bunker where I can hide."
+	},
+	{
 		"created_at": "Mon Mar 18 15:02:58 +0000 2019",
 		"id": 1107498848136687600,
 		"id_str": "1107658657955602432",
