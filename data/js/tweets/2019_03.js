@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 06:20:05 +0000 2019",
+		"id": 1109339009367474200,
+		"id_str": "1109339009367474177",
+		"full_text": "LoL cc: @WhatteKarvaad https://t.co/K01AqQDU5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhatteKarvaad",
+					"name": "Vinay Kumaar",
+					"id": 51445659,
+					"id_str": "51445659",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K01AqQDU5Q",
+					"expanded_url": "https://twitter.com/larrykim/status/1109039516931616769",
+					"display_url": "twitter.com/larrykim/statu…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1550,
+			"friends_count": 531,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109039516931616800,
+		"quoted_status_id_str": "1109039516931616769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K01AqQDU5Q",
+			"expanded": "https://twitter.com/larrykim/status/1109039516931616769",
+			"display": "twitter.com/larrykim/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 22 10:30:00 +0000 2019",
+			"id": 1109039516931616800,
+			"id_str": "1109039516931616769",
+			"full_text": "😂😂😂 The Google Earth camera car was given an epic chase by this little guy https://t.co/1F1KXXNeGD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1107955004894150700,
+						"id_str": "1107955004894150657",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1107955004894150657/img/ceLA0YeLqrA-CnyA.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1107955004894150657/img/ceLA0YeLqrA-CnyA.jpg",
+						"url": "https://t.co/1F1KXXNeGD",
+						"display_url": "pic.twitter.com/1F1KXXNeGD",
+						"expanded_url": "https://twitter.com/larrykim/status/1109039516931616769/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107955004894150700,
+						"id_str": "1107955004894150657",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1107955004894150657/img/ceLA0YeLqrA-CnyA.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1107955004894150657/img/ceLA0YeLqrA-CnyA.jpg",
+						"url": "https://t.co/1F1KXXNeGD",
+						"display_url": "pic.twitter.com/1F1KXXNeGD",
+						"expanded_url": "https://twitter.com/larrykim/status/1109039516931616769/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 42280,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1107955004894150657/pl/zKJ54dQ3_d4-s27r.m3u8?tag=11"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1107955004894150657/vid/320x400/HZ8lMtYzbHiFBNop.mp4?tag=11"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17850785,
+				"id_str": "17850785",
+				"name": "Larry Kim",
+				"screen_name": "larrykim",
+				"location": "Boston, MA",
+				"description": "CEO @MobileMonkey, Founder @WordStream (acquired for $150M) Columnist @Inc, @Medium, @CNBC. Startups, AdWords, Chatbots. Popularized Unicorns in Marketing.",
+				"url": "https://t.co/lvIODUHxYS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lvIODUHxYS",
+								"expanded_url": "http://bit.ly/LarryKim-LinkedIn",
+								"display_url": "bit.ly/LarryKim-Linke…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 796909,
+				"friends_count": 617230,
+				"listed_count": 10311,
+				"created_at": "Wed Dec 03 22:09:26 +0000 2008",
+				"favourites_count": 510547,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/634035372733898752/6aSBCDd9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/634035372733898752/6aSBCDd9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17850785/1552961762",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 503,
+			"favorite_count": 1512,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "LoL cc: @WhatteKarvaad https://t.co/K01AqQDU5Q"
+	},
+	{
 		"created_at": "Thu Mar 21 15:52:55 +0000 2019",
 		"id": 1108758393890721800,
 		"id_str": "1108758393890721792",
