@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 10:41:26 +0000 2019",
+		"id": 1110470395390578700,
+		"id_str": "1110491944147451904",
+		"full_text": "Horribly true https://t.co/o6dRMeEtdq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o6dRMeEtdq",
+					"expanded_url": "https://twitter.com/williamabooth/status/1110469705536552960",
+					"display_url": "twitter.com/williamabooth/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2649094489,
+			"id_str": "2649094489",
+			"name": "Amrita Das",
+			"screen_name": "diligentcandy",
+			"location": "Amsterdam, North Holland",
+			"description": "This is what a Konmaried Bio looks like.",
+			"url": "https://t.co/72NHSkbOUQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/72NHSkbOUQ",
+							"expanded_url": "http://diligentcandy.com",
+							"display_url": "diligentcandy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 505,
+			"listed_count": 32,
+			"created_at": "Tue Jul 15 19:37:19 +0000 2014",
+			"favourites_count": 6884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095070170136174593/sIytN_e1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095070170136174593/sIytN_e1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2649094489/1531476745",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110469705536553000,
+		"quoted_status_id_str": "1110469705536552960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o6dRMeEtdq",
+			"expanded": "https://twitter.com/williamabooth/status/1110469705536552960",
+			"display": "twitter.com/williamabooth/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 26 09:13:03 +0000 2019",
+			"id": 1110469705536553000,
+			"id_str": "1110469705536552960",
+			"full_text": "More rational than \"I want a job in academia at the end of it\" I fear https://t.co/e1Axp139JV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e1Axp139JV",
+						"expanded_url": "https://twitter.com/aoifemcl/status/1110467685421367297",
+						"display_url": "twitter.com/aoifemcl/statu…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3419958796,
+				"id_str": "3419958796",
+				"name": "William A. Booth",
+				"screen_name": "WilliamABooth",
+				"location": "Oxford & Ipswich",
+				"description": "Historian of leftism in the Americas, esp. Mexico @st_catz / @radicalamericas & @radamjournal / formerly Warwick/UCL/LSE/JHU (views own) 🌹🕊️",
+				"url": "https://t.co/AnIsVwnQoy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AnIsVwnQoy",
+								"expanded_url": "http://williamabooth.com",
+								"display_url": "williamabooth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2222,
+				"friends_count": 2566,
+				"listed_count": 40,
+				"created_at": "Thu Aug 13 10:50:48 +0000 2015",
+				"favourites_count": 7053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10895,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081695173313290241/3gK6diZp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081695173313290241/3gK6diZp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3419958796/1439464538",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1110467685421367300,
+			"quoted_status_id_str": "1110467685421367297",
+			"quoted_status_permalink": {
+				"url": "https://t.co/e1Axp139JV",
+				"expanded": "https://twitter.com/aoifemcl/status/1110467685421367297",
+				"display": "twitter.com/aoifemcl/statu…"
+			},
+			"retweet_count": 22,
+			"favorite_count": 139,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horribly true https://t.co/o6dRMeEtdq"
+	},
+	{
 		"created_at": "Sun Mar 24 06:14:20 +0000 2019",
 		"id": 1109699951527948300,
 		"id_str": "1109699951527948288",
