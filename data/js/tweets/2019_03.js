@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 16:30:11 +0000 2019",
+		"id": 1110574893198909400,
+		"id_str": "1110942100663779335",
+		"full_text": "😂😂😂why tamil meme nation is the best https://t.co/63DYApvrLX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/63DYApvrLX",
+					"expanded_url": "https://twitter.com/M_Sharmilan/status/1110519747320246272",
+					"display_url": "twitter.com/M_Sharmilan/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53010136,
+			"id_str": "53010136",
+			"name": "Bullet pandi",
+			"screen_name": "cycle_soosai",
+			"location": "Bengaluru",
+			"description": "severe case of dromomania. serial moon gazer. leader of Bullet Pandi rival gang. Kids in my area call me Bullet mama. Obsessed about classical arts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 545,
+			"friends_count": 459,
+			"listed_count": 25,
+			"created_at": "Thu Jul 02 08:30:42 +0000 2009",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/933630848150024192/NWLqRur4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/933630848150024192/NWLqRur4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53010136/1537203384",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110519747320246300,
+		"quoted_status_id_str": "1110519747320246272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/63DYApvrLX",
+			"expanded": "https://twitter.com/M_Sharmilan/status/1110519747320246272",
+			"display": "twitter.com/M_Sharmilan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 26 12:31:54 +0000 2019",
+			"id": 1110519747320246300,
+			"id_str": "1110519747320246272",
+			"full_text": "Types of Lala’s https://t.co/vYr9emcb0V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110519476133326800,
+						"id_str": "1110519476133326849",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110519476133326849/pu/img/z9oZfVnqGd53XLMg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110519476133326849/pu/img/z9oZfVnqGd53XLMg.jpg",
+						"url": "https://t.co/vYr9emcb0V",
+						"display_url": "pic.twitter.com/vYr9emcb0V",
+						"expanded_url": "https://twitter.com/M_Sharmilan/status/1110519747320246272/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110519476133326800,
+						"id_str": "1110519476133326849",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110519476133326849/pu/img/z9oZfVnqGd53XLMg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110519476133326849/pu/img/z9oZfVnqGd53XLMg.jpg",
+						"url": "https://t.co/vYr9emcb0V",
+						"display_url": "pic.twitter.com/vYr9emcb0V",
+						"expanded_url": "https://twitter.com/M_Sharmilan/status/1110519747320246272/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								15,
+								16
+							],
+							"duration_millis": 54417,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1110519476133326849/pu/pl/xmQycx6ovLsU690l.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110519476133326849/pu/vid/360x384/RrXtjOTFErkjKptP.mp4?tag=8"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110519476133326849/pu/vid/320x340/r4dAXQd2mtzlEd7K.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110519476133326849/pu/vid/480x512/yjhIiveU1-9Q4Gsz.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1948751594,
+				"id_str": "1948751594",
+				"name": "Sham🖤",
+				"screen_name": "M_Sharmilan",
+				"location": "Chavakachcheri",
+				"description": "🙏🏻🤝👋🏻",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2983,
+				"friends_count": 315,
+				"listed_count": 62,
+				"created_at": "Wed Oct 09 06:48:19 +0000 2013",
+				"favourites_count": 42523,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47583,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1109681136182026240/lJuvqZDT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109681136182026240/lJuvqZDT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1948751594/1537710381",
+				"profile_link_color": "992266",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "291C0D",
+				"profile_text_color": "53AB8D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "173c2bb9d42baaa5",
+				"url": "https://api.twitter.com/1.1/geo/id/173c2bb9d42baaa5.json",
+				"place_type": "country",
+				"name": "Sri Lanka",
+				"full_name": "Sri Lanka",
+				"country_code": "LK",
+				"country": "Sri Lanka",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								79.6505263,
+								5.9213829
+							],
+							[
+								81.8787816,
+								5.9213829
+							],
+							[
+								81.8787816,
+								9.8359375
+							],
+							[
+								79.6505263,
+								9.8359375
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1401,
+			"favorite_count": 3334,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tl"
+		},
+		"retweet_count": 32,
+		"favorite_count": 98,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😂😂😂why tamil meme nation is the best https://t.co/63DYApvrLX"
+	},
+	{
+		"created_at": "Wed Mar 27 15:16:45 +0000 2019",
+		"id": 1110540121500082200,
+		"id_str": "1110923619176189952",
+		"full_text": "Unemployed couple, trying to make rent in Oakland, driving for Lyft, looking for jobs. He accidentally gets hired at a tech company without even interviewing...but he can't code! She codes... but can't get hired. Let the scams begin!\n\nExplores bias, labor, gentrification, race. https://t.co/09600Q7iYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/09600Q7iYX",
+					"expanded_url": "https://twitter.com/its_willyu/status/1110232458107256832",
+					"display_url": "twitter.com/its_willyu/sta…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19847709,
+			"id_str": "19847709",
+			"name": "Mekka Okereke",
+			"screen_name": "mekkaokereke",
+			"location": "NorCal",
+			"description": "Building digital ecosystems @ Google.",
+			"url": "https://t.co/IJCmbOZQJX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IJCmbOZQJX",
+							"expanded_url": "https://www.mekka-tech.com",
+							"display_url": "mekka-tech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12874,
+			"friends_count": 720,
+			"listed_count": 162,
+			"created_at": "Sun Feb 01 05:16:37 +0000 2009",
+			"favourites_count": 14435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F4F4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/506144627074666496/K02ZrIdW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/506144627074666496/K02ZrIdW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19847709/1491282889",
+			"profile_link_color": "613F28",
+			"profile_sidebar_border_color": "CDC7C6",
+			"profile_sidebar_fill_color": "CDC7C6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110232458107256800,
+		"quoted_status_id_str": "1110232458107256832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/09600Q7iYX",
+			"expanded": "https://twitter.com/its_willyu/status/1110232458107256832",
+			"display": "twitter.com/its_willyu/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 17:30:19 +0000 2019",
+			"id": 1110232458107256800,
+			"id_str": "1110232458107256832",
+			"full_text": "What's the plot of this movie? https://t.co/7t2c1dzkPB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110232456798576600,
+						"id_str": "1110232456798576641",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/D2hWiYWWoAEZ9Y8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2hWiYWWoAEZ9Y8.jpg",
+						"url": "https://t.co/7t2c1dzkPB",
+						"display_url": "pic.twitter.com/7t2c1dzkPB",
+						"expanded_url": "https://twitter.com/its_willyu/status/1110232458107256832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 467,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110232456798576600,
+						"id_str": "1110232456798576641",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/D2hWiYWWoAEZ9Y8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2hWiYWWoAEZ9Y8.jpg",
+						"url": "https://t.co/7t2c1dzkPB",
+						"display_url": "pic.twitter.com/7t2c1dzkPB",
+						"expanded_url": "https://twitter.com/its_willyu/status/1110232458107256832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 467,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 725424811154018300,
+				"id_str": "725424811154018306",
+				"name": "William Yu",
+				"screen_name": "its_willyu",
+				"location": "Los Angeles, CA",
+				"description": "#StarringJohnCho / #SeeAsAmStar creator. @shortyawards Winner. Sr. Strategist @Giant_Spoon. #AAIFF41 Screenplay Comp Winner. Repped by @precociouspenny.",
+				"url": "https://t.co/bN1Fk4cWMl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bN1Fk4cWMl",
+								"expanded_url": "http://itswillyu.com",
+								"display_url": "itswillyu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14925,
+				"friends_count": 8566,
+				"listed_count": 83,
+				"created_at": "Wed Apr 27 20:42:07 +0000 2016",
+				"favourites_count": 19247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7009,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093386591295262722/TfCqa1LG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093386591295262722/TfCqa1LG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/725424811154018306/1535687785",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 205,
+			"favorite_count": 1894,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 25442,
+		"favorite_count": 106097,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Unemployed couple, trying to make rent in Oakland, driving for Lyft, looking for jobs. He accidentally gets hired at a tech company without even interviewing...but he can't code! She codes... but can't get hired. Let the scams begin!\n\nExplores bias, labor, gentrification, race. https://t.co/09600Q7iYX"
+	},
+	{
 		"created_at": "Tue Mar 26 10:41:26 +0000 2019",
 		"id": 1110470395390578700,
 		"id_str": "1110491944147451904",
