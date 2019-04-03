@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 15:09:05 +0000 2019",
+		"id": 1112879579704619000,
+		"id_str": "1113096017078075392",
+		"full_text": "My click😍😍😍😘😘😘 https://t.co/Q8E1mNcaN0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112879567902052400,
+					"id_str": "1112879567902052353",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D3G-EhqXkAEvaH5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3G-EhqXkAEvaH5.jpg",
+					"url": "https://t.co/Q8E1mNcaN0",
+					"display_url": "pic.twitter.com/Q8E1mNcaN0",
+					"expanded_url": "https://twitter.com/Arunshanko/status/1112879579704619008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 881,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 881,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112879567902052400,
+					"id_str": "1112879567902052353",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D3G-EhqXkAEvaH5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3G-EhqXkAEvaH5.jpg",
+					"url": "https://t.co/Q8E1mNcaN0",
+					"display_url": "pic.twitter.com/Q8E1mNcaN0",
+					"expanded_url": "https://twitter.com/Arunshanko/status/1112879579704619008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 881,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 881,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2994999249,
+			"id_str": "2994999249",
+			"name": "❤🗿சமுத்தன்🏊💪❤",
+			"screen_name": "Arunshanko",
+			"location": "தமிழ்நாடு,இந்தியா,பூமி",
+			"description": "நல்லவன் போல நடிக்க தெரிஞ்ச உத்தமன், கண்டுகொள்ளாத நிறைவு நான்\n 👉\n#என்_வாழ்வின்_அர்த்தம் \n\n மேலும் மை டுவிட்ஸ் 💗👍 பார்க்கவும்..😊🙏",
+			"url": "https://t.co/6jlM9NQPMJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6jlM9NQPMJ",
+							"expanded_url": "https://www.instagram.com/p/BNBX3ivhn3d/",
+							"display_url": "instagram.com/p/BNBX3ivhn3d/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4682,
+			"friends_count": 219,
+			"listed_count": 10,
+			"created_at": "Sat Jan 24 00:59:31 +0000 2015",
+			"favourites_count": 9018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52549,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113040591430934528/Vbda8VOg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113040591430934528/Vbda8VOg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2994999249/1546941196",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My click😍😍😍😘😘😘 https://t.co/Q8E1mNcaN0"
+	},
+	{
 		"created_at": "Mon Apr 01 05:28:17 +0000 2019",
 		"id": 1111099792753459200,
 		"id_str": "1112587466123501568",
