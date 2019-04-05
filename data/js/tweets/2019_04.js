@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 22:07:02 +0000 2019",
+		"id": 968070810631065600,
+		"id_str": "1113925973156737025",
+		"full_text": "\"When you are kind, it feels good inside. When you are unkind, it feels ill.\" ~B. D. Schiers #KindnessMatters",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KindnessMatters",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4894430746,
+			"id_str": "4894430746",
+			"name": "Kindness Matters",
+			"screen_name": "Kindnessgives",
+			"location": "GLOBAL",
+			"description": "\"If you read one book this year to help you transform your life and the lives of others... this has to be it.\" visit👉https://t.co/ipKvADblvM",
+			"url": "https://t.co/ipKvADblvM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30176,
+			"friends_count": 18234,
+			"listed_count": 362,
+			"created_at": "Wed Feb 10 08:25:02 +0000 2016",
+			"favourites_count": 19602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103683385166385152/nrIDoWFz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103683385166385152/nrIDoWFz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4894430746/1507827975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"When you are kind, it feels good inside. When you are unkind, it feels ill.\" ~B. D. Schiers #KindnessMatters"
+	},
+	{
 		"created_at": "Wed Apr 03 22:07:47 +0000 2019",
 		"id": 1113563774726832100,
 		"id_str": "1113563774726832128",
