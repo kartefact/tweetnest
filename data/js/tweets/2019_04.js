@@ -1,6 +1,1656 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 21:14:08 +0000 2019",
+		"id": 1113854385618968600,
+		"id_str": "1114275048540508160",
+		"full_text": "The Falkirk Wheel canal bridge in Scotland is ridiculously cool 😱 https://t.co/hxoSRMz6Xr https://t.co/BtQk3L0m9F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hxoSRMz6Xr",
+					"expanded_url": "https://en.wikipedia.org/wiki/Falkirk_Wheel",
+					"display_url": "en.wikipedia.org/wiki/Falkirk_W…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113854225329430500,
+					"id_str": "1113854225329430528",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113854225329430528/pu/img/w3IvHe_PWG_0tDMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113854225329430528/pu/img/w3IvHe_PWG_0tDMN.jpg",
+					"url": "https://t.co/BtQk3L0m9F",
+					"display_url": "pic.twitter.com/BtQk3L0m9F",
+					"expanded_url": "https://twitter.com/devonzuegel/status/1113854385618968576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113854225329430500,
+					"id_str": "1113854225329430528",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113854225329430528/pu/img/w3IvHe_PWG_0tDMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113854225329430528/pu/img/w3IvHe_PWG_0tDMN.jpg",
+					"url": "https://t.co/BtQk3L0m9F",
+					"display_url": "pic.twitter.com/BtQk3L0m9F",
+					"expanded_url": "https://twitter.com/devonzuegel/status/1113854385618968576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 10434,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113854225329430528/pu/vid/320x180/PFsA1KUocd3qT0rU.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113854225329430528/pu/vid/854x480/fRdVFPifE_7vkfqf.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1113854225329430528/pu/pl/Iv-mJwkB9lZQSIgq.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113854225329430528/pu/vid/640x360/pljZ-laOIwbkfZLS.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709644992,
+			"id_str": "709644992",
+			"name": "Devon",
+			"screen_name": "devonzuegel",
+			"location": "San Francisco",
+			"description": "I've gone to look for myself. If I return before I get back, please ask me to wait. product: @GitHub code: @Bloom @Affirm words: @StanfordReview @a16z @NotionHQ",
+			"url": "https://t.co/Mut8ghwXji",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mut8ghwXji",
+							"expanded_url": "http://www.devonzuegel.com/",
+							"display_url": "devonzuegel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21086,
+			"friends_count": 800,
+			"listed_count": 391,
+			"created_at": "Sat Jul 21 22:03:16 +0000 2012",
+			"favourites_count": 25368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924218123636502529/2U1fybun_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924218123636502529/2U1fybun_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709644992/1439179171",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 1436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Falkirk Wheel canal bridge in Scotland is ridiculously cool 😱 https://t.co/hxoSRMz6Xr https://t.co/BtQk3L0m9F"
+	},
+	{
+		"created_at": "Fri Apr 05 21:09:40 +0000 2019",
+		"id": 1114273926346170400,
+		"id_str": "1114273926346170369",
+		"full_text": "@WhitsonGordon Indeed. Hope there's some law that comes in for replaceable batteries too, like it did for standardisation of the charging port in the EU.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhitsonGordon",
+					"name": "Whitson Gordon",
+					"id": 27870530,
+					"id_str": "27870530",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114273182507126800,
+		"in_reply_to_status_id_str": "1114273182507126785",
+		"in_reply_to_user_id": 27870530,
+		"in_reply_to_user_id_str": "27870530",
+		"in_reply_to_screen_name": "WhitsonGordon",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WhitsonGordon Indeed. Hope there's some law that comes in for replaceable batteries too, like it did for standardisation of the charging port in the EU."
+	},
+	{
+		"created_at": "Fri Apr 05 21:00:18 +0000 2019",
+		"id": 1114271566030831600,
+		"id_str": "1114271566030831616",
+		"full_text": "@WhitsonGordon And lose some features in the process... which is so irritating. Sometimes I feel the same about some app updates too. \"Update\" is actually a \"downgrade\" like in the case of \"gtalk\" when it became \"hangouts\".",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhitsonGordon",
+					"name": "Whitson Gordon",
+					"id": 27870530,
+					"id_str": "27870530",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114266087804133400,
+		"in_reply_to_status_id_str": "1114266087804133376",
+		"in_reply_to_user_id": 27870530,
+		"in_reply_to_user_id_str": "27870530",
+		"in_reply_to_screen_name": "WhitsonGordon",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WhitsonGordon And lose some features in the process... which is so irritating. Sometimes I feel the same about some app updates too. \"Update\" is actually a \"downgrade\" like in the case of \"gtalk\" when it became \"hangouts\"."
+	},
+	{
+		"created_at": "Fri Apr 05 20:54:59 +0000 2019",
+		"id": 1114270231147552800,
+		"id_str": "1114270231147552769",
+		"full_text": "This is a very lovely idea. Let's see what Amazon has in store for us. https://t.co/LmRPdkggqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmRPdkggqT",
+					"expanded_url": "https://twitter.com/karthikkalyan90/status/1114201061110079489",
+					"display_url": "twitter.com/karthikkalyan9…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114201061110079500,
+		"quoted_status_id_str": "1114201061110079489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LmRPdkggqT",
+			"expanded": "https://twitter.com/karthikkalyan90/status/1114201061110079489",
+			"display": "twitter.com/karthikkalyan9…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 16:20:08 +0000 2019",
+			"id": 1114201061110079500,
+			"id_str": "1114201061110079489",
+			"full_text": "Amazon’s rumored ear buds in my opinion, should optimize for podcasting industry more. It should natively integrate with a AWS service that lets podcasters create content with cloud native tools like transcription, data analytics etc.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77781616,
+				"id_str": "77781616",
+				"name": "KK",
+				"screen_name": "karthikkalyan90",
+				"location": "Vancouver, British Columbia",
+				"description": "Full-Stack - @teradici | Indie Maker | I build stuff using JS, ReactJS, Python, Java and C++",
+				"url": "https://t.co/4dd3yuNnzs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4dd3yuNnzs",
+								"expanded_url": "https://link.medium.com/djV2elHMdV",
+								"display_url": "link.medium.com/djV2elHMdV",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 183,
+				"friends_count": 684,
+				"listed_count": 2,
+				"created_at": "Sun Sep 27 17:13:12 +0000 2009",
+				"favourites_count": 3364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1690,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1052412131449155586/X8xh7k-6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052412131449155586/X8xh7k-6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77781616/1543784599",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a very lovely idea. Let's see what Amazon has in store for us. https://t.co/LmRPdkggqT"
+	},
+	{
+		"created_at": "Fri Apr 05 20:24:33 +0000 2019",
+		"id": 1114262571564056600,
+		"id_str": "1114262571564056581",
+		"full_text": "@WhitsonGordon Samsung used to sell replacement batteries earlier. I bought the higher capacity one for my Galaxy S II back in the day. No phone today has them and it's just annoying to throw away an otherwise perfectly working phone just because of its dying battery. Sigh.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhitsonGordon",
+					"name": "Whitson Gordon",
+					"id": 27870530,
+					"id_str": "27870530",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114171782267670500,
+		"in_reply_to_status_id_str": "1114171782267670528",
+		"in_reply_to_user_id": 27870530,
+		"in_reply_to_user_id_str": "27870530",
+		"in_reply_to_screen_name": "WhitsonGordon",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WhitsonGordon Samsung used to sell replacement batteries earlier. I bought the higher capacity one for my Galaxy S II back in the day. No phone today has them and it's just annoying to throw away an otherwise perfectly working phone just because of its dying battery. Sigh."
+	},
+	{
+		"created_at": "Fri Apr 05 20:21:59 +0000 2019",
+		"id": 1114179211479195600,
+		"id_str": "1114261926454935558",
+		"full_text": "How to invite a Hindi-Tamil speaking cat to come home on a Saturday? https://t.co/jCQAKN9tjH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jCQAKN9tjH",
+					"expanded_url": "https://twitter.com/subodhbhave/status/1114158036161978368",
+					"display_url": "twitter.com/subodhbhave/st…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34557435,
+			"id_str": "34557435",
+			"name": "Harsha",
+			"screen_name": "tapanguchi",
+			"location": "Vienna, Austria",
+			"description": "South Indian classical musician, aspiring polyglot, wannabe linguist, costly camera owner, does science things for ಅನ್ನ ಸಾರು - ಮನಸು ಗಾಂಧಿ ಬಜಾರು.",
+			"url": "https://t.co/VpRaD9IJxJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VpRaD9IJxJ",
+							"expanded_url": "https://nudihani.wordpress.com/",
+							"display_url": "nudihani.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 404,
+			"listed_count": 43,
+			"created_at": "Thu Apr 23 07:01:17 +0000 2009",
+			"favourites_count": 11478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52326,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2B2816",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107670094342180873/1Vjljqwk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107670094342180873/1Vjljqwk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34557435/1515600363",
+			"profile_link_color": "2B2816",
+			"profile_sidebar_border_color": "89B5A2",
+			"profile_sidebar_fill_color": "24210E",
+			"profile_text_color": "89B5A2",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114158036161978400,
+		"quoted_status_id_str": "1114158036161978368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jCQAKN9tjH",
+			"expanded": "https://twitter.com/subodhbhave/status/1114158036161978368",
+			"display": "twitter.com/subodhbhave/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 13:29:10 +0000 2019",
+			"id": 1114158036161978400,
+			"id_str": "1114158036161978368",
+			"full_text": "शनिवारवाडा\nपुणे https://t.co/Adr9Jnnr1I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114157968717520900,
+						"id_str": "1114157968717520896",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ZIxP0UIAAb1BU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ZIxP0UIAAb1BU.jpg",
+						"url": "https://t.co/Adr9Jnnr1I",
+						"display_url": "pic.twitter.com/Adr9Jnnr1I",
+						"expanded_url": "https://twitter.com/subodhbhave/status/1114158036161978368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114157968717520900,
+						"id_str": "1114157968717520896",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ZIxP0UIAAb1BU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ZIxP0UIAAb1BU.jpg",
+						"url": "https://t.co/Adr9Jnnr1I",
+						"display_url": "pic.twitter.com/Adr9Jnnr1I",
+						"expanded_url": "https://twitter.com/subodhbhave/status/1114158036161978368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 100899903,
+				"id_str": "100899903",
+				"name": "सुबोध भावे",
+				"screen_name": "subodhbhave",
+				"location": "मुंबई,महाराष्ट्र,भारत",
+				"description": "Actor & Filmmaker working primarily in Marathi Films, Theatre and Television.",
+				"url": "https://t.co/6wM4DnInmd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6wM4DnInmd",
+								"expanded_url": "http://www.subodhbhave.com",
+								"display_url": "subodhbhave.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47480,
+				"friends_count": 226,
+				"listed_count": 39,
+				"created_at": "Fri Jan 01 04:19:47 +0000 2010",
+				"favourites_count": 11395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047569149663301632/2m4qvq90_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047569149663301632/2m4qvq90_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/100899903/1540029732",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 1102,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "mr"
+		},
+		"retweet_count": 16,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to invite a Hindi-Tamil speaking cat to come home on a Saturday? https://t.co/jCQAKN9tjH"
+	},
+	{
+		"created_at": "Fri Apr 05 20:16:43 +0000 2019",
+		"id": 1114148945989636100,
+		"id_str": "1114260598047563779",
+		"full_text": "Eat. Sleep. Repeat 😍 https://t.co/eS2aQjywLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114148944026771500,
+					"id_str": "1114148944026771456",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZAj8OXoAAzDN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZAj8OXoAAzDN7.jpg",
+					"url": "https://t.co/eS2aQjywLz",
+					"display_url": "pic.twitter.com/eS2aQjywLz",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/1114148945989636096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1190,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1190,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114148944026771500,
+					"id_str": "1114148944026771456",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZAj8OXoAAzDN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZAj8OXoAAzDN7.jpg",
+					"url": "https://t.co/eS2aQjywLz",
+					"display_url": "pic.twitter.com/eS2aQjywLz",
+					"expanded_url": "https://twitter.com/CuteEmergency/status/1114148945989636096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1190,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1190,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568825492,
+			"id_str": "568825492",
+			"name": "Cute Emergency",
+			"screen_name": "CuteEmergency",
+			"location": "",
+			"description": "Critiquing the cutest animals online! SUBMIT YOUR PHOTOS/VIDEOS HERE:",
+			"url": "https://t.co/SCWCg4mENc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SCWCg4mENc",
+							"expanded_url": "http://cutedo.se/2G2oNjm",
+							"display_url": "cutedo.se/2G2oNjm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10022454,
+			"friends_count": 0,
+			"listed_count": 8043,
+			"created_at": "Wed May 02 05:28:46 +0000 2012",
+			"favourites_count": 2941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551428167760486404/DMyfmQDA_normal.jpeg",
+			"profile_link_color": "2BB4E6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1399,
+		"favorite_count": 12354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eat. Sleep. Repeat 😍 https://t.co/eS2aQjywLz"
+	},
+	{
+		"created_at": "Fri Apr 05 20:15:18 +0000 2019",
+		"id": 1114239245051486200,
+		"id_str": "1114260244098580486",
+		"full_text": "“We built a world for convenience, not community”.\n\nExtremely powerful thread. https://t.co/rc7vQIJMy8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rc7vQIJMy8",
+					"expanded_url": "https://twitter.com/erynnbrook/status/1113861120240930816",
+					"display_url": "twitter.com/erynnbrook/sta…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14348183,
+			"id_str": "14348183",
+			"name": "the sharmine",
+			"screen_name": "sharmine_04",
+			"location": "Mumbai, working toward London.",
+			"description": "Books, wine, bike rides & baby animals. My super power is ordering the best food at the table. All remarks strictly personal. Reality television’s my religion!",
+			"url": "https://t.co/EVyWfCgsyx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EVyWfCgsyx",
+							"expanded_url": "http://www.sharminepanthaky.com",
+							"display_url": "sharminepanthaky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 1214,
+			"listed_count": 11,
+			"created_at": "Thu Apr 10 03:41:13 +0000 2008",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/521694639045095425/45T0N-7K_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/521694639045095425/45T0N-7K_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14348183/1390848636",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113861120240930800,
+		"quoted_status_id_str": "1113861120240930816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rc7vQIJMy8",
+			"expanded": "https://twitter.com/erynnbrook/status/1113861120240930816",
+			"display": "twitter.com/erynnbrook/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 04 17:49:20 +0000 2019",
+			"id": 1113861120240930800,
+			"id_str": "1113861120240930816",
+			"full_text": "I’m waiting on kitty ultrasound results and trying to distract myself a little bit so I’d like to tell you a story about something that happened last night, in the hopes that I can process my feelings around it.\n\nI met a girl on the train last night.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 72290565,
+				"id_str": "72290565",
+				"name": "Erynn Brook",
+				"screen_name": "ErynnBrook",
+				"location": "Ontario, Canada",
+				"description": "Storyteller. Studies media, people, culture. Friendly feminist. ADHD. Hufflepuff. She/Her.\nhttps://t.co/mABh5ikBqr\nhttps://t.co/wv3kpCV4uJ",
+				"url": "https://t.co/zXIVYzThXF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zXIVYzThXF",
+								"expanded_url": "http://www.erynnbrook.com",
+								"display_url": "erynnbrook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mABh5ikBqr",
+								"expanded_url": "http://ko-fi.com/erynnbrook",
+								"display_url": "ko-fi.com/erynnbrook",
+								"indices": [
+									91,
+									114
+								]
+							},
+							{
+								"url": "https://t.co/wv3kpCV4uJ",
+								"expanded_url": "http://patreon.com/ErynnBrook",
+								"display_url": "patreon.com/ErynnBrook",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29420,
+				"friends_count": 3247,
+				"listed_count": 200,
+				"created_at": "Mon Sep 07 14:20:22 +0000 2009",
+				"favourites_count": 89933,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38666,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/533772560278646784/aPpGK3z2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/533772560278646784/aPpGK3z2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/72290565/1499445733",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14368,
+			"favorite_count": 39353,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We built a world for convenience, not community”.\n\nExtremely powerful thread. https://t.co/rc7vQIJMy8"
+	},
+	{
+		"created_at": "Fri Apr 05 20:03:40 +0000 2019",
+		"id": 1114257314738057200,
+		"id_str": "1114257314738057217",
+		"full_text": "@jackerhack I remember the time in college when I used to drool at the internet ads in British magazines at the British library. 10-20 MBit speeds for £14 used to seem dirt cheap compared to the 256kbps at similar prices here. Things indeed have changed very much. I'm amazed looking back.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jackerhack",
+					"name": "Kiran Jonnalagadda @ #IFF5",
+					"id": 747153,
+					"id_str": "747153",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114163921684971500,
+		"in_reply_to_status_id_str": "1114163921684971520",
+		"in_reply_to_user_id": 747153,
+		"in_reply_to_user_id_str": "747153",
+		"in_reply_to_screen_name": "jackerhack",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jackerhack I remember the time in college when I used to drool at the internet ads in British magazines at the British library. 10-20 MBit speeds for £14 used to seem dirt cheap compared to the 256kbps at similar prices here. Things indeed have changed very much. I'm amazed looking back."
+	},
+	{
+		"created_at": "Fri Apr 05 19:43:12 +0000 2019",
+		"id": 1113728488404422700,
+		"id_str": "1114252163432185856",
+		"full_text": "When IT guy has to follow process to complete task.... https://t.co/tOm55vNHUu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113728485342629900,
+					"id_str": "1113728485342629888",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TCKBkU0AAP-kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TCKBkU0AAP-kc.jpg",
+					"url": "https://t.co/tOm55vNHUu",
+					"display_url": "pic.twitter.com/tOm55vNHUu",
+					"expanded_url": "https://twitter.com/jagdishjojawar/status/1113728488404422656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113728485342629900,
+					"id_str": "1113728485342629888",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TCKBkU0AAP-kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TCKBkU0AAP-kc.jpg",
+					"url": "https://t.co/tOm55vNHUu",
+					"display_url": "pic.twitter.com/tOm55vNHUu",
+					"expanded_url": "https://twitter.com/jagdishjojawar/status/1113728488404422656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 584065013,
+			"id_str": "584065013",
+			"name": "jagdish jojawar",
+			"screen_name": "jagdishjojawar",
+			"location": "Bengaluru, India",
+			"description": "Blood Donor, C++ Architect, Hard worker, boketto #AshapuraCycleMart, Har Har Mahadev\nhttps://t.co/ArWTZBtSQY",
+			"url": "https://t.co/aYKU99ExaT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aYKU99ExaT",
+							"expanded_url": "http://jagdishjojawar.wordpress.com/",
+							"display_url": "jagdishjojawar.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ArWTZBtSQY",
+							"expanded_url": "https://twitter.com/search?q=from%3Jagdishjojawar%20-filter%3Amentions&s=09",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 771,
+			"listed_count": 5,
+			"created_at": "Fri May 18 18:54:53 +0000 2012",
+			"favourites_count": 8953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107676503876075520/m3ADwwMd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107676503876075520/m3ADwwMd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/584065013/1544422324",
+			"profile_link_color": "362ADE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 528,
+		"favorite_count": 1281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When IT guy has to follow process to complete task.... https://t.co/tOm55vNHUu"
+	},
+	{
 		"created_at": "Thu Apr 04 22:07:02 +0000 2019",
 		"id": 968070810631065600,
 		"id_str": "1113925973156737025",
