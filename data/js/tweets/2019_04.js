@@ -1,6 +1,1034 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 12:36:33 +0000 2019",
+		"id": 1114505534248374300,
+		"id_str": "1114507181473267712",
+		"full_text": "“Have you heard about the new book on bamboos?\n\nIt’s a great reed.” 😜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18446250,
+			"id_str": "18446250",
+			"name": "Suppandi",
+			"screen_name": "Suppandi",
+			"location": "",
+			"description": "Hi, I am Suppandi... one of India's most loved comic characters, whose antics have amused and entertained fans for over 30 years.",
+			"url": "https://t.co/xYVT1CMS4h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xYVT1CMS4h",
+							"expanded_url": "http://tinkleonline.com/char_info.php?cid=12&button=1",
+							"display_url": "tinkleonline.com/char_info.php?…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11537,
+			"friends_count": 793,
+			"listed_count": 211,
+			"created_at": "Mon Dec 29 08:44:59 +0000 2008",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616934527844265984/7ezKUSDs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616934527844265984/7ezKUSDs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18446250/1507295651",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Have you heard about the new book on bamboos?\n\nIt’s a great reed.” 😜"
+	},
+	{
+		"created_at": "Sat Apr 06 04:53:21 +0000 2019",
+		"id": 1114377048305201200,
+		"id_str": "1114390613510762496",
+		"full_text": "We at @cpcEU are looking for an enthusiastic researcher to assist on a project in the field of transnational #AI regulation and policy \n\nAnyone interested? \n\nThis would be a paid opportunity - can be remote with infrequent travel to our Pune office.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						109,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpcEU",
+					"name": "CPC Analytics",
+					"id": 2330596945,
+					"id_str": "2330596945",
+					"indices": [
+						6,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 826691108616941600,
+			"id_str": "826691108616941568",
+			"name": "Sahil Deo",
+			"screen_name": "DeoSahil",
+			"location": "Berlin/Pune",
+			"description": "numbers guy. co-founder of @cpceu opinions & errors are my own. [all the usual disclaimers apply]",
+			"url": "https://t.co/1O2LF7g1kU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1O2LF7g1kU",
+							"expanded_url": "http://sahildeo.com",
+							"display_url": "sahildeo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336,
+			"friends_count": 38,
+			"listed_count": 1,
+			"created_at": "Wed Feb 01 07:18:14 +0000 2017",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060366526824546305/6R-jvd76_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060366526824546305/6R-jvd76_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826691108616941568/1553865209",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We at @cpcEU are looking for an enthusiastic researcher to assist on a project in the field of transnational #AI regulation and policy \n\nAnyone interested? \n\nThis would be a paid opportunity - can be remote with infrequent travel to our Pune office."
+	},
+	{
+		"created_at": "Sat Apr 06 02:47:55 +0000 2019",
+		"id": 1114359047686324200,
+		"id_str": "1114359047686324227",
+		"full_text": "Happy Ugadi, folks!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 207,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Happy Ugadi, folks!"
+	},
+	{
+		"created_at": "Sat Apr 06 02:46:16 +0000 2019",
+		"id": 1114317644101034000,
+		"id_str": "1114358631896637440",
+		"full_text": "If it works as advertised , #GoogleStadia could end the gaming hardware market as we know it https://t.co/28DLMtdVsT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleStadia",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/28DLMtdVsT",
+					"expanded_url": "http://read.medium.com/ioTlK41",
+					"display_url": "read.medium.com/ioTlK41",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 571202103,
+			"id_str": "571202103",
+			"name": "Medium",
+			"screen_name": "Medium",
+			"location": "San Francisco, CA, US",
+			"description": "Words matter. Learn more at https://t.co/KXvi8xUeaK. For support go to @MediumSupport or https://t.co/A7QR3wf377. To contact us,  email yourfriends@medium.com.",
+			"url": "https://t.co/JV5396gd2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JV5396gd2O",
+							"expanded_url": "http://medium.com",
+							"display_url": "medium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KXvi8xUeaK",
+							"expanded_url": "http://medium.com/about",
+							"display_url": "medium.com/about",
+							"indices": [
+								28,
+								51
+							]
+						},
+						{
+							"url": "https://t.co/A7QR3wf377",
+							"expanded_url": "http://help.medium.com",
+							"display_url": "help.medium.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2300855,
+			"friends_count": 102,
+			"listed_count": 13203,
+			"created_at": "Fri May 04 20:16:39 +0000 2012",
+			"favourites_count": 6407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/571202103/1552491973",
+			"profile_link_color": "00AB69",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If it works as advertised , #GoogleStadia could end the gaming hardware market as we know it https://t.co/28DLMtdVsT"
+	},
+	{
+		"created_at": "Sat Apr 06 02:44:21 +0000 2019",
+		"id": 1114358150478667800,
+		"id_str": "1114358150478667776",
+		"full_text": "@nileshgr I've e heard the same from a few others too. So, not surprised. However, I've had a bad experience with their data card, but have never tried their voice. Landline and broadband were good back in the day when i had it.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Nilesh",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114357564614090800,
+		"in_reply_to_status_id_str": "1114357564614090752",
+		"in_reply_to_user_id": 96760234,
+		"in_reply_to_user_id_str": "96760234",
+		"in_reply_to_screen_name": "nileshgr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 207,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nileshgr I've e heard the same from a few others too. So, not surprised. However, I've had a bad experience with their data card, but have never tried their voice. Landline and broadband were good back in the day when i had it."
+	},
+	{
+		"created_at": "Sat Apr 06 02:41:25 +0000 2019",
+		"id": 1114357412159529000,
+		"id_str": "1114357412159528960",
+		"full_text": "This is cool! https://t.co/vfaasYbKiu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vfaasYbKiu",
+					"expanded_url": "https://twitter.com/JewelsGalvan/status/1114330311037476864",
+					"display_url": "twitter.com/JewelsGalvan/s…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 207,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114330311037476900,
+		"quoted_status_id_str": "1114330311037476864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vfaasYbKiu",
+			"expanded": "https://twitter.com/JewelsGalvan/status/1114330311037476864",
+			"display": "twitter.com/JewelsGalvan/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 00:53:44 +0000 2019",
+			"id": 1114330311037476900,
+			"id_str": "1114330311037476864",
+			"full_text": "Really awesome way to find Git commands \nhttps://t.co/gcSvlTFSMt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gcSvlTFSMt",
+						"expanded_url": "https://gitexplorer.com/",
+						"display_url": "gitexplorer.com",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 710884828158120000,
+				"id_str": "710884828158119936",
+				"name": "Julie Galvan",
+				"screen_name": "JewelsGalvan",
+				"location": "Texas, USA",
+				"description": "I'm Julie. I love to create things and I’m a beginner web developer. I also love reading, coffee, and music. I’m always happy to chat with fellow coders!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145,
+				"friends_count": 113,
+				"listed_count": 6,
+				"created_at": "Fri Mar 18 17:45:25 +0000 2016",
+				"favourites_count": 1095,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1453,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107024715917463559/0Z6iBw4y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107024715917463559/0Z6iBw4y_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "38d0e797745f4c5d",
+				"url": "https://api.twitter.com/1.1/geo/id/38d0e797745f4c5d.json",
+				"place_type": "city",
+				"name": "Atascocita",
+				"full_name": "Atascocita, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.2497924,
+								29.9122421
+							],
+							[
+								-95.135568,
+								29.9122421
+							],
+							[
+								-95.135568,
+								30.033094
+							],
+							[
+								-95.2497924,
+								30.033094
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is cool! https://t.co/vfaasYbKiu"
+	},
+	{
+		"created_at": "Sat Apr 06 02:40:14 +0000 2019",
+		"id": 1114357115345412100,
+		"id_str": "1114357115345412098",
+		"full_text": "@nileshgr oh. That's Even better. Haha.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Nilesh",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114354763943043100,
+		"in_reply_to_status_id_str": "1114354763943043072",
+		"in_reply_to_user_id": 96760234,
+		"in_reply_to_user_id_str": "96760234",
+		"in_reply_to_screen_name": "nileshgr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 207,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nileshgr oh. That's Even better. Haha."
+	},
+	{
+		"created_at": "Sat Apr 06 02:37:03 +0000 2019",
+		"id": 1114356313071419400,
+		"id_str": "1114356313071419392",
+		"full_text": "What a beautiful line to live by - \"Remember that everyone is smart, and you can truly distinguish yourself by being kind\". This applies to our generation specifically. https://t.co/SxwX3qOVwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SxwX3qOVwl",
+					"expanded_url": "https://twitter.com/realscientists/status/1114341310700253185",
+					"display_url": "twitter.com/realscientists…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 207,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114341310700253200,
+		"quoted_status_id_str": "1114341310700253185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SxwX3qOVwl",
+			"expanded": "https://twitter.com/realscientists/status/1114341310700253185",
+			"display": "twitter.com/realscientists…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 01:37:26 +0000 2019",
+			"id": 1114341310700253200,
+			"id_str": "1114341310700253185",
+			"full_text": "Ok, time for a thread on peer review, or more specifically, 'how to deal with peer review'. This is another thing that nobody really prepares you for going into an academic career.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1144882621,
+				"id_str": "1144882621",
+				"name": "Fiona/ @RealScientists",
+				"screen_name": "realscientists",
+				"location": "Everywhere",
+				"description": "Real science from real scientists, writers, communicators, artists & clinicians. This week: Fiona Panther | @fipanther",
+				"url": "https://t.co/FqOQaEew44",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqOQaEew44",
+								"expanded_url": "http://realscientists.org",
+								"display_url": "realscientists.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71860,
+				"friends_count": 2637,
+				"listed_count": 2065,
+				"created_at": "Sun Feb 03 11:03:27 +0000 2013",
+				"favourites_count": 81647,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 182144,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112210898825986048/bccM4_oW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112210898825986048/bccM4_oW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144882621/1543961402",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a beautiful line to live by - \"Remember that everyone is smart, and you can truly distinguish yourself by being kind\". This applies to our generation specifically. https://t.co/SxwX3qOVwl"
+	},
+	{
 		"created_at": "Fri Apr 05 21:14:08 +0000 2019",
 		"id": 1113854385618968600,
 		"id_str": "1114275048540508160",
