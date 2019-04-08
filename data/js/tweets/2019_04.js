@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 15:18:37 +0000 2019",
+		"id": 1114749170466807800,
+		"id_str": "1114910357024174081",
+		"full_text": "@hoorrulain @VidyaKrishnan Sure, but don't you think it is like contradicting their own behavior? I'm all for transgender empowerment &amp; equality. I agree that teaching men how to behave is the need of the hour! But are they doing their bit in not portraying themselves as sex objects?",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoorrulain",
+					"name": "Hoor",
+					"id": 932244503964110800,
+					"id_str": "932244503964110849",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "VidyaKrishnan",
+					"name": "Vidya",
+					"id": 408467423,
+					"id_str": "408467423",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114748228434571300,
+		"in_reply_to_status_id_str": "1114748228434571264",
+		"in_reply_to_user_id": 932244503964110800,
+		"in_reply_to_user_id_str": "932244503964110849",
+		"in_reply_to_screen_name": "hoorrulain",
+		"user": {
+			"id": 406373521,
+			"id_str": "406373521",
+			"name": "A Happy Misfit",
+			"screen_name": "SharmiliChudail",
+			"location": "India ",
+			"description": "Cats, confessions, creativity, crushes and more...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5266,
+			"friends_count": 1223,
+			"listed_count": 88,
+			"created_at": "Sun Nov 06 16:32:04 +0000 2011",
+			"favourites_count": 46941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113356114089742336/smW3yP-d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113356114089742336/smW3yP-d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/406373521/1551637521",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@hoorrulain @VidyaKrishnan Sure, but don't you think it is like contradicting their own behavior? I'm all for transgender empowerment &amp; equality. I agree that teaching men how to behave is the need of the hour! But are they doing their bit in not portraying themselves as sex objects?"
+	},
+	{
+		"created_at": "Sun Apr 07 14:56:38 +0000 2019",
+		"id": 1114729760536518700,
+		"id_str": "1114904821398552576",
+		"full_text": "This is why you should not wrap your food in newspapers. https://t.co/uOCVOpz5Jx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114597621925056500,
+					"id_str": "1114597621925056512",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D3fYobpWkAAugRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3fYobpWkAAugRI.jpg",
+					"url": "https://t.co/uOCVOpz5Jx",
+					"display_url": "pic.twitter.com/uOCVOpz5Jx",
+					"expanded_url": "https://twitter.com/Mr_DrinksOnMe/status/1114729760536518657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114597621925056500,
+					"id_str": "1114597621925056512",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D3fYobpWkAAugRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3fYobpWkAAugRI.jpg",
+					"url": "https://t.co/uOCVOpz5Jx",
+					"display_url": "pic.twitter.com/uOCVOpz5Jx",
+					"expanded_url": "https://twitter.com/Mr_DrinksOnMe/status/1114729760536518657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141944702,
+			"id_str": "141944702",
+			"name": "Mr. Drinks On Me #MI",
+			"screen_name": "Mr_DrinksOnMe",
+			"location": "",
+			"description": "We travel to change, not our place but our thoughts. Web Designer at @MalavKarkar. For business inquiries or endorsements - ✉️ mrdrinksonme.twitter@gmail.com",
+			"url": "https://t.co/tXJm3CYPf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tXJm3CYPf7",
+							"expanded_url": "https://malavkarkar.com",
+							"display_url": "malavkarkar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71634,
+			"friends_count": 46338,
+			"listed_count": 1166,
+			"created_at": "Sun May 09 13:43:13 +0000 2010",
+			"favourites_count": 28703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062345150100164608/SuO3UMNo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062345150100164608/SuO3UMNo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141944702/1543773331",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 820,
+		"favorite_count": 2041,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is why you should not wrap your food in newspapers. https://t.co/uOCVOpz5Jx"
+	},
+	{
+		"created_at": "Sun Apr 07 08:34:07 +0000 2019",
+		"id": 1114794281871474700,
+		"id_str": "1114808561354276864",
+		"full_text": "We all love to blame the govt for its inefficiency, but @Rwitwika is doing something more: enabling govt to rely less on 'gut' and more on 'meaningful data' while making policies. More power to her! #datagovernance @Swaniti https://t.co/uy4VNkPNWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "datagovernance",
+					"indices": [
+						199,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rwitwika",
+					"name": "RwitwikaBhattacharya",
+					"id": 241883215,
+					"id_str": "241883215",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "Swaniti",
+					"name": "Swaniti Initiative",
+					"id": 499260154,
+					"id_str": "499260154",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uy4VNkPNWe",
+					"expanded_url": "https://www.indiatimes.com/technology/news/this-woman-is-collecting-data-across-india-s-districts-and-help-government-take-better-actions-365011.html",
+					"display_url": "indiatimes.com/technology/new…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21545838,
+			"id_str": "21545838",
+			"name": "Jayesh Shinde",
+			"screen_name": "jshinde",
+			"location": "Mumbai",
+			"description": "Tech guy @indiatimes. Ex @digitindia, @skoar @pcworld_in. Anti-Bon vivant. Tolkien admirer. Foodie. Gamer. Manchester United fan.",
+			"url": "https://t.co/koYKBshRTd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/koYKBshRTd",
+							"expanded_url": "http://www.indiatimes.com/author/jayesh-shinde/",
+							"display_url": "indiatimes.com/author/jayesh-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1607,
+			"friends_count": 480,
+			"listed_count": 24,
+			"created_at": "Sun Feb 22 04:42:14 +0000 2009",
+			"favourites_count": 528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916979380382867456/Lcd9U4YT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916979380382867456/Lcd9U4YT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21545838/1441812212",
+			"profile_link_color": "B81E1E",
+			"profile_sidebar_border_color": "2031B3",
+			"profile_sidebar_fill_color": "E2F3FC",
+			"profile_text_color": "706868",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We all love to blame the govt for its inefficiency, but @Rwitwika is doing something more: enabling govt to rely less on 'gut' and more on 'meaningful data' while making policies. More power to her! #datagovernance @Swaniti https://t.co/uy4VNkPNWe"
+	},
+	{
+		"created_at": "Sun Apr 07 08:19:52 +0000 2019",
+		"id": 1114804975799033900,
+		"id_str": "1114804975799033857",
+		"full_text": "This is awww-some! 😌 https://t.co/Ry2vRjziKx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ry2vRjziKx",
+					"expanded_url": "https://twitter.com/mudnsky/status/1114427119914774533",
+					"display_url": "twitter.com/mudnsky/status…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 208,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99329,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114427119914774500,
+		"quoted_status_id_str": "1114427119914774533",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ry2vRjziKx",
+			"expanded": "https://twitter.com/mudnsky/status/1114427119914774533",
+			"display": "twitter.com/mudnsky/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 07:18:25 +0000 2019",
+			"id": 1114427119914774500,
+			"id_str": "1114427119914774533",
+			"full_text": "TIL skincare fridges exist. They are so cute! https://t.co/q2fovBY70i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q2fovBY70i",
+						"expanded_url": "https://twitter.com/Jasmine_blu/status/1088917923899396096?s=20",
+						"display_url": "twitter.com/Jasmine_blu/st…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1685849366,
+				"id_str": "1685849366",
+				"name": "Mud n Sky",
+				"screen_name": "mudnsky",
+				"location": "",
+				"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264,
+				"friends_count": 215,
+				"listed_count": 34,
+				"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+				"favourites_count": 5500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32389,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1088917923899396100,
+			"quoted_status_id_str": "1088917923899396096",
+			"quoted_status_permalink": {
+				"url": "https://t.co/q2fovBY70i",
+				"expanded": "https://twitter.com/Jasmine_blu/status/1088917923899396096?s=20",
+				"display": "twitter.com/Jasmine_blu/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is awww-some! 😌 https://t.co/Ry2vRjziKx"
+	},
+	{
+		"created_at": "Sun Apr 07 08:18:05 +0000 2019",
+		"id": 1114303493647491100,
+		"id_str": "1114804525246963712",
+		"full_text": "Welcome to Seattle\nForm 3 lines, please\nAmazon employees, Microsoft employees and other https://t.co/URZnC78uyh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114303486907150300,
+					"id_str": "1114303486907150336",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bNHhUUcAAfa_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bNHhUUcAAfa_h.jpg",
+					"url": "https://t.co/URZnC78uyh",
+					"display_url": "pic.twitter.com/URZnC78uyh",
+					"expanded_url": "https://twitter.com/ByRosenberg/status/1114303493647491072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 609,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114303486907150300,
+					"id_str": "1114303486907150336",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bNHhUUcAAfa_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bNHhUUcAAfa_h.jpg",
+					"url": "https://t.co/URZnC78uyh",
+					"display_url": "pic.twitter.com/URZnC78uyh",
+					"expanded_url": "https://twitter.com/ByRosenberg/status/1114303493647491072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 609,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37557953,
+			"id_str": "37557953",
+			"name": "Mike Rosenberg",
+			"screen_name": "ByRosenberg",
+			"location": "Bay Area to Seattle",
+			"description": "Seattle Times reporter covering housing and real estate. Formerly at San Jose Mercury News. Also tweeting on data analysis, sports and journalism.",
+			"url": "https://t.co/UzvlL4Kki2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UzvlL4Kki2",
+							"expanded_url": "http://www.seattletimes.com/author/mike-rosenberg/",
+							"display_url": "seattletimes.com/author/mike-ro…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36747,
+			"friends_count": 934,
+			"listed_count": 1040,
+			"created_at": "Mon May 04 01:26:46 +0000 2009",
+			"favourites_count": 11615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766040461626802177/1y24A1Kx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766040461626802177/1y24A1Kx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37557953/1369981963",
+			"profile_link_color": "006400",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "0E0E0E",
+			"profile_text_color": "4A66C1",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 864,
+		"favorite_count": 2812,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to Seattle\nForm 3 lines, please\nAmazon employees, Microsoft employees and other https://t.co/URZnC78uyh"
+	},
+	{
 		"created_at": "Sat Apr 06 12:36:33 +0000 2019",
 		"id": 1114505534248374300,
 		"id_str": "1114507181473267712",
