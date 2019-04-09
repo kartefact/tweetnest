@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 15:34:35 +0000 2019",
+		"id": 1113352919301218300,
+		"id_str": "1115276761497882624",
+		"full_text": "1/ A vulture can fly up to 400 kilometres each day in search of carrion. Little should it care whether this flight takes it from one country to another. The vultures of Spain, however, skirt around the Portuguese border with uncanny accuracy. https://t.co/UE9kjuXWK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113352902976987100,
+					"id_str": "1113352902976987136",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/D3NskQOX4AA60_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3NskQOX4AA60_P.jpg",
+					"url": "https://t.co/UE9kjuXWK5",
+					"display_url": "pic.twitter.com/UE9kjuXWK5",
+					"expanded_url": "https://twitter.com/TurbanMinor/status/1113352919301218304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 843,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113352902976987100,
+					"id_str": "1113352902976987136",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/D3NskQOX4AA60_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3NskQOX4AA60_P.jpg",
+					"url": "https://t.co/UE9kjuXWK5",
+					"display_url": "pic.twitter.com/UE9kjuXWK5",
+					"expanded_url": "https://twitter.com/TurbanMinor/status/1113352919301218304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 843,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 428067025,
+			"id_str": "428067025",
+			"name": "Bruno Martin",
+			"screen_name": "TurbanMinor",
+			"location": "Madrid, España",
+			"description": "Periodista, sobre todo en @materia_ciencia (El País). Estudié biología y comunicación científica. Sometimes I run and dance swing. British & español.",
+			"url": "https://t.co/ckbPWZ23gH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ckbPWZ23gH",
+							"expanded_url": "http://about.me/martinbruno",
+							"display_url": "about.me/martinbruno",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5408,
+			"friends_count": 1427,
+			"listed_count": 40,
+			"created_at": "Sun Dec 04 09:16:38 +0000 2011",
+			"favourites_count": 4759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3913,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114257864955236363/lP88c3dx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114257864955236363/lP88c3dx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/428067025/1527858928",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3245,
+		"favorite_count": 5402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/ A vulture can fly up to 400 kilometres each day in search of carrion. Little should it care whether this flight takes it from one country to another. The vultures of Spain, however, skirt around the Portuguese border with uncanny accuracy. https://t.co/UE9kjuXWK5"
+	},
+	{
+		"created_at": "Mon Apr 08 06:33:13 +0000 2019",
+		"id": 1115115534180397000,
+		"id_str": "1115140524313202688",
+		"full_text": "INCREDIBLE #KARNATAKA: A breathtaking aerial view of the mangroves of Saligrama in Udupi. Pix by Vinod KN https://t.co/i6v5f5imYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARNATAKA",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115115508469256200,
+					"id_str": "1115115508469256192",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3mvpZXW0AAyeAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3mvpZXW0AAyeAT.jpg",
+					"url": "https://t.co/i6v5f5imYL",
+					"display_url": "pic.twitter.com/i6v5f5imYL",
+					"expanded_url": "https://twitter.com/kappansky/status/1115115534180397056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1179,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1387,
+							"h": 1363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115115508469256200,
+					"id_str": "1115115508469256192",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3mvpZXW0AAyeAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3mvpZXW0AAyeAT.jpg",
+					"url": "https://t.co/i6v5f5imYL",
+					"display_url": "pic.twitter.com/i6v5f5imYL",
+					"expanded_url": "https://twitter.com/kappansky/status/1115115534180397056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1179,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1387,
+							"h": 1363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33913261,
+			"id_str": "33913261",
+			"name": "Rasheed Kappan",
+			"screen_name": "kappansky",
+			"location": "Bangalore",
+			"description": "Journalist covering urban issues, Deccan Herald, ex The Hindu,Times of India, Graphic Designer, Cartoonist, Theatre artiste,Wannabe Standup. Tweets are personal",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107310,
+			"friends_count": 53634,
+			"listed_count": 187,
+			"created_at": "Tue Apr 21 14:07:34 +0000 2009",
+			"favourites_count": 5558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20844,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/574835313937289216/Qru5lDlI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/574835313937289216/Qru5lDlI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33913261/1546784926",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 831,
+		"favorite_count": 3109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "INCREDIBLE #KARNATAKA: A breathtaking aerial view of the mangroves of Saligrama in Udupi. Pix by Vinod KN https://t.co/i6v5f5imYL"
+	},
+	{
 		"created_at": "Sun Apr 07 15:18:37 +0000 2019",
 		"id": 1114749170466807800,
 		"id_str": "1114910357024174081",
