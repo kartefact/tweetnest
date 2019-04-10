@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 03:41:06 +0000 2019",
+		"id": 1115459594199814100,
+		"id_str": "1115459594199814145",
+		"full_text": "Woah, this is major! https://t.co/CzAbF75iPs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CzAbF75iPs",
+					"expanded_url": "https://twitter.com/TechCrunch/status/1115408510337081346",
+					"display_url": "twitter.com/TechCrunch/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 208,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115408510337081300,
+		"quoted_status_id_str": "1115408510337081346",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CzAbF75iPs",
+			"expanded": "https://twitter.com/TechCrunch/status/1115408510337081346",
+			"display": "twitter.com/TechCrunch/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 09 00:18:06 +0000 2019",
+			"id": 1115408510337081300,
+			"id_str": "1115408510337081346",
+			"full_text": "The most remarkable thing about using Microsoft’s new browser is how unremarkable it feels https://t.co/PDhw2xoSEo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PDhw2xoSEo",
+						"expanded_url": "https://tcrn.ch/2KeBlYS",
+						"display_url": "tcrn.ch/2KeBlYS",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816653,
+				"id_str": "816653",
+				"name": "TechCrunch",
+				"screen_name": "TechCrunch",
+				"location": "San Francisco, CA",
+				"description": "TechCrunch is excited to announce our new membership program, Extra Crunch. Start your free trial at https://t.co/UP0CP1zqK6",
+				"url": "https://t.co/b5Oyx1k1ye",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b5Oyx1k1ye",
+								"expanded_url": "http://techcrunch.com",
+								"display_url": "techcrunch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UP0CP1zqK6",
+								"expanded_url": "http://techcrunch.com/subscribe",
+								"display_url": "techcrunch.com/subscribe",
+								"indices": [
+									101,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10046099,
+				"friends_count": 1052,
+				"listed_count": 111626,
+				"created_at": "Wed Mar 07 01:27:09 +0000 2007",
+				"favourites_count": 5330,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 197429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "149500",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1549990985",
+				"profile_link_color": "00A562",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "222222",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woah, this is major! https://t.co/CzAbF75iPs"
+	},
+	{
+		"created_at": "Tue Apr 09 03:38:03 +0000 2019",
+		"id": 1115424520540549100,
+		"id_str": "1115458826776526848",
+		"full_text": "😍😍 https://t.co/y9rolBUu23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115424392605982700,
+					"id_str": "1115424392605982720",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115424392605982720/pu/img/FBrxJmwscg-WE3eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115424392605982720/pu/img/FBrxJmwscg-WE3eC.jpg",
+					"url": "https://t.co/y9rolBUu23",
+					"display_url": "pic.twitter.com/y9rolBUu23",
+					"expanded_url": "https://twitter.com/StumblerTravel/status/1115424520540549120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115424392605982700,
+					"id_str": "1115424392605982720",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115424392605982720/pu/img/FBrxJmwscg-WE3eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115424392605982720/pu/img/FBrxJmwscg-WE3eC.jpg",
+					"url": "https://t.co/y9rolBUu23",
+					"display_url": "pic.twitter.com/y9rolBUu23",
+					"expanded_url": "https://twitter.com/StumblerTravel/status/1115424520540549120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15120,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115424392605982720/pu/vid/320x320/yRurKPGnia6Rhe3j.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115424392605982720/pu/vid/480x480/gxUgQ6J22ZoMxbJX.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115424392605982720/pu/vid/720x720/E_werSlnhj0uvtBe.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1115424392605982720/pu/pl/TxI3M06ySHrnmjX3.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115064755960434700,
+			"id_str": "1115064755960434688",
+			"name": "Stumbler Travel",
+			"screen_name": "StumblerTravel",
+			"location": "",
+			"description": "Discover Amazing Videos. Never Be Bored.",
+			"url": "https://t.co/esUCGKVoUi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/esUCGKVoUi",
+							"expanded_url": "http://stumbler.com",
+							"display_url": "stumbler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Apr 08 01:32:09 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115065342500331521/c5usWAy6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115065342500331521/c5usWAy6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115064755960434688/1554687284",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 372,
+		"favorite_count": 1539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😍😍 https://t.co/y9rolBUu23"
+	},
+	{
 		"created_at": "Mon Apr 08 15:34:35 +0000 2019",
 		"id": 1113352919301218300,
 		"id_str": "1115276761497882624",
