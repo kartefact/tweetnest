@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 18:42:31 +0000 2019",
+		"id": 1116041135015768000,
+		"id_str": "1116048832440090624",
+		"full_text": "This happy little mailbox looks like someone with a helmet ⛑️ https://t.co/jONL4hhiiV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116041133711417300,
+					"id_str": "1116041133711417344",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/D3z5f4GX4AAa-9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3z5f4GX4AAa-9T.jpg",
+					"url": "https://t.co/jONL4hhiiV",
+					"display_url": "pic.twitter.com/jONL4hhiiV",
+					"expanded_url": "https://twitter.com/FacesPics/status/1116041135015768066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116041133711417300,
+					"id_str": "1116041133711417344",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/D3z5f4GX4AAa-9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3z5f4GX4AAa-9T.jpg",
+					"url": "https://t.co/jONL4hhiiV",
+					"display_url": "pic.twitter.com/jONL4hhiiV",
+					"expanded_url": "https://twitter.com/FacesPics/status/1116041135015768066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1689419970,
+			"id_str": "1689419970",
+			"name": "Faces in Things",
+			"screen_name": "FacesPics",
+			"location": "email: faces@viralspark.net",
+			"description": "Admit it, you see a face.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 662082,
+			"friends_count": 10,
+			"listed_count": 4155,
+			"created_at": "Wed Aug 21 23:11:30 +0000 2013",
+			"favourites_count": 2351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689419970/1384060472",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 1971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This happy little mailbox looks like someone with a helmet ⛑️ https://t.co/jONL4hhiiV"
+	},
+	{
+		"created_at": "Wed Apr 10 18:38:36 +0000 2019",
+		"id": 1116014974508372000,
+		"id_str": "1116047847101571072",
+		"full_text": "Congratulations to Katie Bouman to whom we owe the first photograph of a black hole ever. Not seeing her name circulate nearly enough in the press. \n\nAmazing work. And here’s to more women in science (getting their credit and being remembered in history) 💥🔥☄️ https://t.co/wcPhB6E5qK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116014969181614100,
+					"id_str": "1116014969181614080",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D3zhs5oWsAA7d6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3zhs5oWsAA7d6K.jpg",
+					"url": "https://t.co/wcPhB6E5qK",
+					"display_url": "pic.twitter.com/wcPhB6E5qK",
+					"expanded_url": "https://twitter.com/TamyEmmaPepin/status/1116014974508371971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116014969181614100,
+					"id_str": "1116014969181614080",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D3zhs5oWsAA7d6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3zhs5oWsAA7d6K.jpg",
+					"url": "https://t.co/wcPhB6E5qK",
+					"display_url": "pic.twitter.com/wcPhB6E5qK",
+					"expanded_url": "https://twitter.com/TamyEmmaPepin/status/1116014974508371971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20615786,
+			"id_str": "20615786",
+			"name": "Tamy Emma Pepin",
+			"screen_name": "TamyEmmaPepin",
+			"location": "Montreal",
+			"description": "",
+			"url": "https://t.co/EygvmUZMd6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EygvmUZMd6",
+							"expanded_url": "http://unpeuplusloin.com",
+							"display_url": "unpeuplusloin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17746,
+			"friends_count": 2749,
+			"listed_count": 745,
+			"created_at": "Wed Feb 11 19:17:43 +0000 2009",
+			"favourites_count": 6249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23569,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027984164124020740/jmtsRPs1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027984164124020740/jmtsRPs1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20615786/1542176309",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8050FB",
+			"profile_text_color": "070075",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49761,
+		"favorite_count": 95615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to Katie Bouman to whom we owe the first photograph of a black hole ever. Not seeing her name circulate nearly enough in the press. \n\nAmazing work. And here’s to more women in science (getting their credit and being remembered in history) 💥🔥☄️ https://t.co/wcPhB6E5qK"
+	},
+	{
+		"created_at": "Wed Apr 10 18:37:42 +0000 2019",
+		"id": 1116047621653651500,
+		"id_str": "1116047621653651456",
+		"full_text": "Correspondence is only as good as the communication gap. Relying on technology completely can be especially risky in matters of importance. Waiting for the guests to arrive at the railway station while they're taking a flight - Don't be that person. 🙂 https://t.co/wlS8U9IrMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wlS8U9IrMM",
+					"expanded_url": "https://twitter.com/Mittermaniac/status/1115865773879300097",
+					"display_url": "twitter.com/Mittermaniac/s…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 208,
+			"listed_count": 56,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115865773879300100,
+		"quoted_status_id_str": "1115865773879300097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wlS8U9IrMM",
+			"expanded": "https://twitter.com/Mittermaniac/status/1115865773879300097",
+			"display": "twitter.com/Mittermaniac/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 06:35:06 +0000 2019",
+			"id": 1115865773879300100,
+			"id_str": "1115865773879300097",
+			"full_text": "There are folks who will mail you, then call you to tell you that they have mailed you even before the mail has reached you. If you don't answer the call, they'll text you to tell you that they called you to tell you that they had mailed you.\nDon't be this person.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17937017,
+				"id_str": "17937017",
+				"name": "Sohini",
+				"screen_name": "Mittermaniac",
+				"location": "India",
+				"description": "Utter nobody, absolutely nowhere. Laughing at PJs and crying over poetry. Tweeting about nothing in particular and everything in general.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6437,
+				"friends_count": 998,
+				"listed_count": 187,
+				"created_at": "Sun Dec 07 05:44:25 +0000 2008",
+				"favourites_count": 18205,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 114976,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941573107395039232/CDs_H96H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941573107395039232/CDs_H96H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17937017/1462169047",
+				"profile_link_color": "03C420",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "3D3D3D",
+				"profile_text_color": "ACA5A5",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 134,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Correspondence is only as good as the communication gap. Relying on technology completely can be especially risky in matters of importance. Waiting for the guests to arrive at the railway station while they're taking a flight - Don't be that person. 🙂 https://t.co/wlS8U9IrMM"
+	},
+	{
 		"created_at": "Tue Apr 09 03:41:06 +0000 2019",
 		"id": 1115459594199814100,
 		"id_str": "1115459594199814145",
