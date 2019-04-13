@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 14:26:58 +0000 2019",
+		"id": 1116707237370703900,
+		"id_str": "1116709298510262272",
+		"full_text": "Long shot but anyone here knows anyone who deals in motorised wheelchairs? From what I’ve come across so far, most of them have been crazy expensive.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10212922,
+			"id_str": "10212922",
+			"name": "Harpreet Singh",
+			"screen_name": "Harry_Jerry",
+			"location": "Chandigarh, India",
+			"description": "All things social at @gadgets360. Previously @dealsforgeeks",
+			"url": "https://t.co/Tz5wN91IYU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tz5wN91IYU",
+							"expanded_url": "https://harryjerry.com",
+							"display_url": "harryjerry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6356,
+			"friends_count": 997,
+			"listed_count": 173,
+			"created_at": "Tue Nov 13 12:53:52 +0000 2007",
+			"favourites_count": 26335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 150428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058054188079501312/ulbhCG9D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058054188079501312/ulbhCG9D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10212922/1348032667",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Long shot but anyone here knows anyone who deals in motorised wheelchairs? From what I’ve come across so far, most of them have been crazy expensive."
+	},
+	{
+		"created_at": "Fri Apr 12 12:18:52 +0000 2019",
+		"id": 1116672621532328000,
+		"id_str": "1116677057935630336",
+		"full_text": "https://t.co/jyrVUi6fUe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116672584458879000,
+					"id_str": "1116672584458878977",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116672584458878977/pu/img/QheQyx5dIwsVA_HD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116672584458878977/pu/img/QheQyx5dIwsVA_HD.jpg",
+					"url": "https://t.co/jyrVUi6fUe",
+					"display_url": "pic.twitter.com/jyrVUi6fUe",
+					"expanded_url": "https://twitter.com/StumblerAnimals/status/1116672621532327937/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116672584458879000,
+					"id_str": "1116672584458878977",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116672584458878977/pu/img/QheQyx5dIwsVA_HD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116672584458878977/pu/img/QheQyx5dIwsVA_HD.jpg",
+					"url": "https://t.co/jyrVUi6fUe",
+					"display_url": "pic.twitter.com/jyrVUi6fUe",
+					"expanded_url": "https://twitter.com/StumblerAnimals/status/1116672621532327937/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13120,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116672584458878977/pu/vid/320x320/v7YQ2iTONz1mvvTa.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116672584458878977/pu/vid/720x720/bhkBE0wKXB4Nlgx6.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1116672584458878977/pu/pl/XSajn9x469EhneEA.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116672584458878977/pu/vid/480x480/4TXiNwhNreXm2uVb.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112456295213260800,
+			"id_str": "1112456295213260800",
+			"name": "Stumbler Animals",
+			"screen_name": "StumblerAnimals",
+			"location": "",
+			"description": "Most amazing animal videos from around the world.",
+			"url": "https://t.co/esUCGKVoUi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/esUCGKVoUi",
+							"expanded_url": "http://stumbler.com",
+							"display_url": "stumbler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 792,
+			"friends_count": 10,
+			"listed_count": 4,
+			"created_at": "Sun Mar 31 20:47:04 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114989544187678720/KdE--4Wx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114989544187678720/KdE--4Wx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112456295213260800/1554674958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 826,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/jyrVUi6fUe"
+	},
+	{
+		"created_at": "Fri Apr 12 12:13:22 +0000 2019",
+		"id": 1116675675690135600,
+		"id_str": "1116675675690135553",
+		"full_text": "@mudnsky Reminds you of someone? 😘 https://t.co/XPgZuYm76t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XPgZuYm76t",
+					"expanded_url": "https://youtu.be/aEJJmebTLEs",
+					"display_url": "youtu.be/aEJJmebTLEs",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1550,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99345,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mudnsky Reminds you of someone? 😘 https://t.co/XPgZuYm76t"
+	},
+	{
+		"created_at": "Fri Apr 12 04:41:51 +0000 2019",
+		"id": 1116376879383101400,
+		"id_str": "1116562048890966017",
+		"full_text": "Women are doing everything they can to get away from this planet. https://t.co/UPB15W0asy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UPB15W0asy",
+					"expanded_url": "https://twitter.com/bendhalpern/status/1116071099584974849",
+					"display_url": "twitter.com/bendhalpern/st…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714315121808400400,
+			"id_str": "714315121808400384",
+			"name": "Arzoo Nagraik",
+			"screen_name": "nagraik_arzoo",
+			"location": "Mumbai",
+			"description": "why is it so hard to keep a cactus alive?!?",
+			"url": "https://t.co/EZrl05f6V1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZrl05f6V1",
+							"expanded_url": "https://www.instagram.com/arzoonagraik",
+							"display_url": "instagram.com/arzoonagraik",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 552,
+			"listed_count": 0,
+			"created_at": "Mon Mar 28 04:56:11 +0000 2016",
+			"favourites_count": 4245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116722600766369794/_-2s3Y7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116722600766369794/_-2s3Y7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714315121808400384/1541992645",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116071099584974800,
+		"quoted_status_id_str": "1116071099584974849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UPB15W0asy",
+			"expanded": "https://twitter.com/bendhalpern/status/1116071099584974849",
+			"display": "twitter.com/bendhalpern/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 20:11:00 +0000 2019",
+			"id": 1116071099584974800,
+			"id_str": "1116071099584974849",
+			"full_text": "1969: Margaret Hamilton alongside the code that got us to the moon\n2019: Katie Bouman alongside the data that got us to the black hole https://t.co/aIPOtdfA3F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116070362314358800,
+						"id_str": "1116070362314358786",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D30UFNIWwAIDvcc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30UFNIWwAIDvcc.jpg",
+						"url": "https://t.co/aIPOtdfA3F",
+						"display_url": "pic.twitter.com/aIPOtdfA3F",
+						"expanded_url": "https://twitter.com/bendhalpern/status/1116071099584974849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 995,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 995,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116070362314358800,
+						"id_str": "1116070362314358786",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D30UFNIWwAIDvcc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30UFNIWwAIDvcc.jpg",
+						"url": "https://t.co/aIPOtdfA3F",
+						"display_url": "pic.twitter.com/aIPOtdfA3F",
+						"expanded_url": "https://twitter.com/bendhalpern/status/1116071099584974849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 995,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 995,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1116070386737791000,
+						"id_str": "1116070386737790977",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D30UGoHWwAEG9Tx.png",
+						"media_url_https": "https://pbs.twimg.com/media/D30UGoHWwAEG9Tx.png",
+						"url": "https://t.co/aIPOtdfA3F",
+						"display_url": "pic.twitter.com/aIPOtdfA3F",
+						"expanded_url": "https://twitter.com/bendhalpern/status/1116071099584974849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 161419043,
+				"id_str": "161419043",
+				"name": "Ben Halpern 🤗",
+				"screen_name": "bendhalpern",
+				"location": "Brooklyn, NY/Beacon, NY",
+				"description": "Creator/founder/webmaster of https://t.co/xHvFQQ9jeO (@ThePracticalDev). Coder, buddhist, feminist, Batman.",
+				"url": "https://t.co/qqIzCffhit",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qqIzCffhit",
+								"expanded_url": "http://dev.to/ben",
+								"display_url": "dev.to/ben",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xHvFQQ9jeO",
+								"expanded_url": "https://dev.to",
+								"display_url": "dev.to",
+								"indices": [
+									29,
+									52
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26319,
+				"friends_count": 2041,
+				"listed_count": 557,
+				"created_at": "Wed Jun 30 20:15:57 +0000 2010",
+				"favourites_count": 28663,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12064,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855590922486136832/g8m8zpCp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855590922486136832/g8m8zpCp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/161419043/1492834234",
+				"profile_link_color": "3A1E75",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154665,
+			"favorite_count": 389011,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30117,
+		"favorite_count": 132458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Women are doing everything they can to get away from this planet. https://t.co/UPB15W0asy"
+	},
+	{
 		"created_at": "Thu Apr 11 04:41:28 +0000 2019",
 		"id": 1116174898186129400,
 		"id_str": "1116199563839148033",
