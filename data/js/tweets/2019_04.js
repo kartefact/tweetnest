@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 19:35:18 +0000 2019",
+		"id": 1117149279473168400,
+		"id_str": "1117149279473168384",
+		"full_text": "இனிய தமிழ் புத்தாண்டு நல் வாழ்த்துக்கள்! https://t.co/jHFnLXxjMP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117149269419413500,
+					"id_str": "1117149269419413504",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4DpV3TU0AAAl7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4DpV3TU0AAAl7m.jpg",
+					"url": "https://t.co/jHFnLXxjMP",
+					"display_url": "pic.twitter.com/jHFnLXxjMP",
+					"expanded_url": "https://twitter.com/kartefact/status/1117149279473168384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117149269419413500,
+					"id_str": "1117149269419413504",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4DpV3TU0AAAl7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4DpV3TU0AAAl7m.jpg",
+					"url": "https://t.co/jHFnLXxjMP",
+					"display_url": "pic.twitter.com/jHFnLXxjMP",
+					"expanded_url": "https://twitter.com/kartefact/status/1117149279473168384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							21,
+							10
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4DpV3TU0AAAl7m.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1550,
+			"friends_count": 208,
+			"listed_count": 55,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ta",
+		"text": "இனிய தமிழ் புத்தாண்டு நல் வாழ்த்துக்கள்! https://t.co/jHFnLXxjMP"
+	},
+	{
+		"created_at": "Sat Apr 13 13:50:07 +0000 2019",
+		"id": 1116770907899347000,
+		"id_str": "1117062411943436295",
+		"full_text": "The Rajini memes keep getting better. https://t.co/rV5CEx4QzU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116770901733699600,
+					"id_str": "1116770901733699585",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-RN91UcAEyUkl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-RN91UcAEyUkl.jpg",
+					"url": "https://t.co/rV5CEx4QzU",
+					"display_url": "pic.twitter.com/rV5CEx4QzU",
+					"expanded_url": "https://twitter.com/telljeeves/status/1116770907899346944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116770901733699600,
+					"id_str": "1116770901733699585",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-RN91UcAEyUkl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-RN91UcAEyUkl.jpg",
+					"url": "https://t.co/rV5CEx4QzU",
+					"display_url": "pic.twitter.com/rV5CEx4QzU",
+					"expanded_url": "https://twitter.com/telljeeves/status/1116770907899346944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11389532,
+			"id_str": "11389532",
+			"name": "Rajiv Srivatsa",
+			"screen_name": "telljeeves",
+			"location": "Bangalore, India",
+			"description": "Co-Founder @ Urban Ladder. Digital entrepreneur. Dad. Travel a lot. In pursuit of what happiness means for millions. #onelife (tweets are personal)",
+			"url": "https://t.co/THllj6jmiz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THllj6jmiz",
+							"expanded_url": "https://medium.com/@telljeeves",
+							"display_url": "medium.com/@telljeeves",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3607,
+			"friends_count": 722,
+			"listed_count": 67,
+			"created_at": "Fri Dec 21 00:27:42 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/974291268040716289/pfteQYxI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/974291268040716289/pfteQYxI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11389532/1496347480",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Rajini memes keep getting better. https://t.co/rV5CEx4QzU"
+	},
+	{
+		"created_at": "Sat Apr 13 13:49:11 +0000 2019",
+		"id": 975734592605958100,
+		"id_str": "1117062176307437570",
+		"full_text": "Gratitude is the inward feeling of kindness received. Thankfulness is the natural impulse to express that feeling. Thanksgiving is the following of that impulse. #Kindnessmatters",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kindnessmatters",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4894430746,
+			"id_str": "4894430746",
+			"name": "Kindness Matters",
+			"screen_name": "Kindnessgives",
+			"location": "GLOBAL",
+			"description": "\"If you read one book this year to help you transform your life and the lives of others... this has to be it.\" visit👉https://t.co/ipKvADblvM",
+			"url": "https://t.co/ipKvADblvM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30193,
+			"friends_count": 18246,
+			"listed_count": 362,
+			"created_at": "Wed Feb 10 08:25:02 +0000 2016",
+			"favourites_count": 19654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103683385166385152/nrIDoWFz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103683385166385152/nrIDoWFz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4894430746/1554462928",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Gratitude is the inward feeling of kindness received. Thankfulness is the natural impulse to express that feeling. Thanksgiving is the following of that impulse. #Kindnessmatters"
+	},
+	{
+		"created_at": "Sat Apr 13 08:34:40 +0000 2019",
+		"id": 1116969273283547100,
+		"id_str": "1116983027492474880",
+		"full_text": "Tesla’s original plan for the $35,000 Model 3 is dead https://t.co/tkiwGY8OVJ https://t.co/6xkNx3Yhfz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tkiwGY8OVJ",
+					"expanded_url": "https://www.theverge.com/2019/4/12/18307583/tesla-original-plan-tesla-model-3-base-model?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "theverge.com/2019/4/12/1830…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116969269034717200,
+					"id_str": "1116969269034717184",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BFodnXkAAoBfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BFodnXkAAoBfp.jpg",
+					"url": "https://t.co/6xkNx3Yhfz",
+					"display_url": "pic.twitter.com/6xkNx3Yhfz",
+					"expanded_url": "https://twitter.com/verge/status/1116969273283547136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116969269034717200,
+					"id_str": "1116969269034717184",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BFodnXkAAoBfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BFodnXkAAoBfp.jpg",
+					"url": "https://t.co/6xkNx3Yhfz",
+					"display_url": "pic.twitter.com/6xkNx3Yhfz",
+					"expanded_url": "https://twitter.com/verge/status/1116969273283547136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275686563,
+			"id_str": "275686563",
+			"name": "The Verge",
+			"screen_name": "verge",
+			"location": "New York",
+			"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+			"url": "http://t.co/W2SFxIXkC4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2508921,
+			"friends_count": 159,
+			"listed_count": 36254,
+			"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 154505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1515605311",
+			"profile_link_color": "EC008C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tesla’s original plan for the $35,000 Model 3 is dead https://t.co/tkiwGY8OVJ https://t.co/6xkNx3Yhfz"
+	},
+	{
 		"created_at": "Fri Apr 12 14:26:58 +0000 2019",
 		"id": 1116707237370703900,
 		"id_str": "1116709298510262272",
