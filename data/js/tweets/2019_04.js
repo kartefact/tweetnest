@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 20:21:54 +0000 2019",
+		"id": 1117478379924668400,
+		"id_str": "1117523395208290304",
+		"full_text": "11 Legendary Facts About 'Enter the Dragon' — https://t.co/QQb6w4fcxe https://t.co/JaFpAYjPSr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQb6w4fcxe",
+					"expanded_url": "https://bit.ly/2yGmz49",
+					"display_url": "bit.ly/2yGmz49",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1117478376686719000,
+					"id_str": "1117478376686718976",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D4IUqbaXkAAzsJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4IUqbaXkAAzsJx.jpg",
+					"url": "https://t.co/JaFpAYjPSr",
+					"display_url": "pic.twitter.com/JaFpAYjPSr",
+					"expanded_url": "https://twitter.com/mental_floss/status/1117478379924668422/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 618,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 618,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117478376686719000,
+					"id_str": "1117478376686718976",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D4IUqbaXkAAzsJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4IUqbaXkAAzsJx.jpg",
+					"url": "https://t.co/JaFpAYjPSr",
+					"display_url": "pic.twitter.com/JaFpAYjPSr",
+					"expanded_url": "https://twitter.com/mental_floss/status/1117478379924668422/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 618,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 618,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20065936,
+			"id_str": "20065936",
+			"name": "Mental Floss",
+			"screen_name": "mental_floss",
+			"location": "New York",
+			"description": "Feel smart.",
+			"url": "https://t.co/JS1JgWpVdG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JS1JgWpVdG",
+							"expanded_url": "http://www.mentalfloss.com",
+							"display_url": "mentalfloss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 677929,
+			"friends_count": 13567,
+			"listed_count": 13757,
+			"created_at": "Wed Feb 04 16:25:17 +0000 2009",
+			"favourites_count": 4617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 87395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857998780410548224/zfrtpr2E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857998780410548224/zfrtpr2E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20065936/1493403593",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "11 Legendary Facts About 'Enter the Dragon' — https://t.co/QQb6w4fcxe https://t.co/JaFpAYjPSr"
+	},
+	{
+		"created_at": "Sun Apr 14 08:50:12 +0000 2019",
+		"id": 1117321588515328000,
+		"id_str": "1117349321593065472",
+		"full_text": "In Colorado, you are not required to attend your own wedding.  You can send someone to get married on your behalf, should you find yourself unable to attend.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22151193,
+			"id_str": "22151193",
+			"name": "Quite Interesting",
+			"screen_name": "qikipedia",
+			"location": "QI HQ",
+			"description": "Quite Interesting facts from the team behind the BBC TV show QI. https://t.co/KajPX02jPd https://t.co/e7kKHcHU2N https://t.co/q3qVciWTD7",
+			"url": "http://t.co/DGnFYmJSSv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DGnFYmJSSv",
+							"expanded_url": "http://www.qi.com",
+							"display_url": "qi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KajPX02jPd",
+							"expanded_url": "http://instagram.com/theqielves",
+							"display_url": "instagram.com/theqielves",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/e7kKHcHU2N",
+							"expanded_url": "http://facebook.com/OfficialQI/",
+							"display_url": "facebook.com/OfficialQI/",
+							"indices": [
+								89,
+								112
+							]
+						},
+						{
+							"url": "https://t.co/q3qVciWTD7",
+							"expanded_url": "http://youtube.com/user/TheQIElves",
+							"display_url": "youtube.com/user/TheQIElves",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1047373,
+			"friends_count": 983,
+			"listed_count": 7998,
+			"created_at": "Fri Feb 27 15:36:24 +0000 2009",
+			"favourites_count": 2253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28627,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047809837176905728/i3ix2gwb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047809837176905728/i3ix2gwb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22151193/1553003507",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 549,
+		"favorite_count": 3734,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In Colorado, you are not required to attend your own wedding.  You can send someone to get married on your behalf, should you find yourself unable to attend."
+	},
+	{
 		"created_at": "Sat Apr 13 19:35:18 +0000 2019",
 		"id": 1117149279473168400,
 		"id_str": "1117149279473168384",
