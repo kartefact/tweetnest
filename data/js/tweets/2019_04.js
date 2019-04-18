@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 23:19:52 +0000 2019",
+		"id": 1118517831442804700,
+		"id_str": "1118655345046409216",
+		"full_text": "Tell me if I’m wrong about #fullstack #developers in my response to this hilarious but offputting meme. https://t.co/3quQ37ENJT #DEVcommunity #fullstackcommunity #fullstackdeveloper #teams",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fullstack",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "developers",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "DEVcommunity",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "fullstackcommunity",
+					"indices": [
+						142,
+						161
+					]
+				},
+				{
+					"text": "fullstackdeveloper",
+					"indices": [
+						162,
+						181
+					]
+				},
+				{
+					"text": "teams",
+					"indices": [
+						182,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3quQ37ENJT",
+					"expanded_url": "https://dev.to/cubiclebuddha/i-m-sorry-but-this-full-stack-meme-makes-me-really-mad-sad-35hi",
+					"display_url": "dev.to/cubiclebuddha/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1061410915411730400,
+			"id_str": "1061410915411730435",
+			"name": "Cubicle Buddha",
+			"screen_name": "cubiclebuddha",
+			"location": "",
+			"description": "programmer by day & head writer at https://t.co/eY9pzefmWH at night (we help people ❤️ their job w/ mindfulness). Other loves: my wife, cat, comics, & VGs",
+			"url": "https://t.co/eY9pzefmWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eY9pzefmWH",
+							"expanded_url": "http://CubicleBuddha.com",
+							"display_url": "CubicleBuddha.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eY9pzefmWH",
+							"expanded_url": "http://CubicleBuddha.com",
+							"display_url": "CubicleBuddha.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31,
+			"friends_count": 154,
+			"listed_count": 1,
+			"created_at": "Sun Nov 11 00:10:57 +0000 2018",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115059439999115264/ZjKnzxj3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115059439999115264/ZjKnzxj3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061410915411730435/1554056661",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tell me if I’m wrong about #fullstack #developers in my response to this hilarious but offputting meme. https://t.co/3quQ37ENJT #DEVcommunity #fullstackcommunity #fullstackdeveloper #teams"
+	},
+	{
+		"created_at": "Wed Apr 17 23:14:20 +0000 2019",
+		"id": 1118653952935911400,
+		"id_str": "1118653952935911424",
+		"full_text": "4:44",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "4:44"
+	},
+	{
 		"created_at": "Tue Apr 16 14:38:15 +0000 2019",
 		"id": 1118161689264803800,
 		"id_str": "1118161689264803840",
