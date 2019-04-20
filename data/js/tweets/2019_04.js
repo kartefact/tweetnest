@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 19:28:00 +0000 2019",
+		"id": 1114958414952706000,
+		"id_str": "1119321770777960448",
+		"full_text": "Pain exists. Focusing only on addiction at the expense of pain creates another crisis, a crisis of untreated pain, a crisis of inhumanity. If you care for those suffering addiction, you must care for those suffering pain. You can’t be a hero if saving one group destroys the other",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062357122,
+			"id_str": "1062357122",
+			"name": "MG",
+			"screen_name": "ShareOurPainAR",
+			"location": "Arkansas, USA",
+			"description": "RN, BSN, intractable pain advocate, #PainPatient, pet lover.",
+			"url": "https://t.co/C0xNq2yNn4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C0xNq2yNn4",
+							"expanded_url": "https://m.facebook.com/groups/1071173962902941",
+							"display_url": "m.facebook.com/groups/1071173…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1450,
+			"friends_count": 1116,
+			"listed_count": 12,
+			"created_at": "Sat Jan 05 06:55:28 +0000 2013",
+			"favourites_count": 15236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047326434790989824/Qh_uJkex_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047326434790989824/Qh_uJkex_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062357122/1534451819",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Pain exists. Focusing only on addiction at the expense of pain creates another crisis, a crisis of untreated pain, a crisis of inhumanity. If you care for those suffering addiction, you must care for those suffering pain. You can’t be a hero if saving one group destroys the other"
+	},
+	{
+		"created_at": "Fri Apr 19 19:25:50 +0000 2019",
+		"id": 970041366347739100,
+		"id_str": "1119321225241620480",
+		"full_text": "What do you enjoy about the life you live?#KINDNESSmatters https://t.co/yGn00xGm9I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KINDNESSmatters",
+					"indices": [
+						42,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 970041361637486600,
+					"id_str": "970041361637486594",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXZHepnWsAIr891.png",
+					"media_url_https": "https://pbs.twimg.com/media/DXZHepnWsAIr891.png",
+					"url": "https://t.co/yGn00xGm9I",
+					"display_url": "pic.twitter.com/yGn00xGm9I",
+					"expanded_url": "https://twitter.com/Kindnessgives/status/970041366347739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 970041361637486600,
+					"id_str": "970041361637486594",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXZHepnWsAIr891.png",
+					"media_url_https": "https://pbs.twimg.com/media/DXZHepnWsAIr891.png",
+					"url": "https://t.co/yGn00xGm9I",
+					"display_url": "pic.twitter.com/yGn00xGm9I",
+					"expanded_url": "https://twitter.com/Kindnessgives/status/970041366347739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4894430746,
+			"id_str": "4894430746",
+			"name": "Kindness Matters",
+			"screen_name": "Kindnessgives",
+			"location": "GLOBAL",
+			"description": "\"If you read one book this year to help you transform your life and the lives of others... this has to be it.\" visit👉https://t.co/ipKvADblvM",
+			"url": "https://t.co/ipKvADblvM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30190,
+			"friends_count": 18238,
+			"listed_count": 362,
+			"created_at": "Wed Feb 10 08:25:02 +0000 2016",
+			"favourites_count": 19660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19092,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103683385166385152/nrIDoWFz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103683385166385152/nrIDoWFz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4894430746/1554462928",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do you enjoy about the life you live?#KINDNESSmatters https://t.co/yGn00xGm9I"
+	},
+	{
+		"created_at": "Fri Apr 19 19:23:33 +0000 2019",
+		"id": 1119049936425947100,
+		"id_str": "1119320649434927104",
+		"full_text": "Cades Cove in the Smoky Mountains\n\nThis is the cutest thing ever.\n\nMy Heart CAN'T 😭\n\nRetweet ❤️\n\n(Via Rebecca Connell) https://t.co/ToSbJzgJBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119049625644806100,
+					"id_str": "1119049625644806144",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119049625644806144/pu/img/uU1obhaPcAq1dayZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119049625644806144/pu/img/uU1obhaPcAq1dayZ.jpg",
+					"url": "https://t.co/ToSbJzgJBq",
+					"display_url": "pic.twitter.com/ToSbJzgJBq",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1119049936425947136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119049625644806100,
+					"id_str": "1119049625644806144",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119049625644806144/pu/img/uU1obhaPcAq1dayZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119049625644806144/pu/img/uU1obhaPcAq1dayZ.jpg",
+					"url": "https://t.co/ToSbJzgJBq",
+					"display_url": "pic.twitter.com/ToSbJzgJBq",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1119049936425947136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							76,
+							135
+						],
+						"duration_millis": 41504,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119049625644806144/pu/vid/360x638/KmrRXGg_qzE1MnPX.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1119049625644806144/pu/pl/_GtLfbWL6iruDji5.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119049625644806144/pu/vid/608x1080/qlxkZ94wLLrLiQqq.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119049625644806144/pu/vid/320x568/c2MTDyaJfD_lx1ZA.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716432228,
+			"id_str": "716432228",
+			"name": "StanceGrounded",
+			"screen_name": "_SJPeace_",
+			"location": "Detroit, MI",
+			"description": "Activist- Muslim, American by birth, Pakistani by blood. Educated man of color - changing the world one friend at a time. ✊🏽✊🏾✊🏿 #Resist #BLM🇵🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216360,
+			"friends_count": 48986,
+			"listed_count": 956,
+			"created_at": "Wed Jul 25 17:22:39 +0000 2012",
+			"favourites_count": 7500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119053232825876480/pkSaL40s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119053232825876480/pkSaL40s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716432228/1548989721",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25109,
+		"favorite_count": 81445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cades Cove in the Smoky Mountains\n\nThis is the cutest thing ever.\n\nMy Heart CAN'T 😭\n\nRetweet ❤️\n\n(Via Rebecca Connell) https://t.co/ToSbJzgJBq"
+	},
+	{
 		"created_at": "Thu Apr 18 22:48:12 +0000 2019",
 		"id": 1119009762174066700,
 		"id_str": "1119009762174066693",
