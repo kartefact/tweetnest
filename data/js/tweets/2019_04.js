@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 17:42:39 +0000 2019",
+		"id": 1119911354721284100,
+		"id_str": "1120020032648437760",
+		"full_text": "Mayflowers in April. A road runs through it. #Bengaluru https://t.co/BGEcpmQoBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bengaluru",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119911315663802400,
+					"id_str": "1119911315663802368",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D4q5aHYU0AA2OLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4q5aHYU0AA2OLa.jpg",
+					"url": "https://t.co/BGEcpmQoBd",
+					"display_url": "pic.twitter.com/BGEcpmQoBd",
+					"expanded_url": "https://twitter.com/zenrainman/status/1119911354721284096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119911315663802400,
+					"id_str": "1119911315663802368",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D4q5aHYU0AA2OLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4q5aHYU0AA2OLa.jpg",
+					"url": "https://t.co/BGEcpmQoBd",
+					"display_url": "pic.twitter.com/BGEcpmQoBd",
+					"expanded_url": "https://twitter.com/zenrainman/status/1119911354721284096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18285948,
+			"id_str": "18285948",
+			"name": "zenrainman",
+			"screen_name": "zenrainman",
+			"location": "Bengaluru India",
+			"description": "the only zen you will find here is the zen you bring.. Nevermind....",
+			"url": "https://t.co/tRCdU0dRFI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tRCdU0dRFI",
+							"expanded_url": "http://www.rainwaterclub.org",
+							"display_url": "rainwaterclub.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10858,
+			"friends_count": 7546,
+			"listed_count": 293,
+			"created_at": "Sun Dec 21 15:23:43 +0000 2008",
+			"favourites_count": 29977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 103062,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18285948/1411998782",
+			"profile_link_color": "4CD12A",
+			"profile_sidebar_border_color": "4CD12A",
+			"profile_sidebar_fill_color": "843B06",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mayflowers in April. A road runs through it. #Bengaluru https://t.co/BGEcpmQoBd"
+	},
+	{
+		"created_at": "Sun Apr 21 10:35:41 +0000 2019",
+		"id": 1119903713945116700,
+		"id_str": "1119912583891275776",
+		"full_text": "PiggyBack! https://t.co/jN6sQMyNne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 932046724536905700,
+					"id_str": "932046724536905729",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DO9LjsoWsAEzJW8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO9LjsoWsAEzJW8.jpg",
+					"url": "https://t.co/jN6sQMyNne",
+					"display_url": "pic.twitter.com/jN6sQMyNne",
+					"expanded_url": "https://twitter.com/DogsCoffee/status/932046727225511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 932046727225512000,
+					"source_status_id_str": "932046727225511936",
+					"source_user_id": 756702371980439600,
+					"source_user_id_str": "756702371980439553"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 932046724536905700,
+					"id_str": "932046724536905729",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DO9LjsoWsAEzJW8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO9LjsoWsAEzJW8.jpg",
+					"url": "https://t.co/jN6sQMyNne",
+					"display_url": "pic.twitter.com/jN6sQMyNne",
+					"expanded_url": "https://twitter.com/DogsCoffee/status/932046727225511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 932046727225512000,
+					"source_status_id_str": "932046727225511936",
+					"source_user_id": 756702371980439600,
+					"source_user_id_str": "756702371980439553"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835083097,
+			"id_str": "835083097",
+			"name": "Puppy Lover",
+			"screen_name": "PupsPorn",
+			"location": "",
+			"description": "Partnership or Pay for a share. email:poemporn@126.com",
+			"url": "https://t.co/Pyjp2clSrY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pyjp2clSrY",
+							"expanded_url": "https://www.facebook.com/PupsLoverX",
+							"display_url": "facebook.com/PupsLoverX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774430,
+			"friends_count": 11969,
+			"listed_count": 1152,
+			"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104280,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 735,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PiggyBack! https://t.co/jN6sQMyNne"
+	},
+	{
+		"created_at": "Sun Apr 21 09:48:25 +0000 2019",
+		"id": 1119880379018747900,
+		"id_str": "1119900687695892480",
+		"full_text": "Sri Lanka church blast as seen from road. #SriLanka https://t.co/nISY8PMAtj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SriLanka",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119880266305146900,
+					"id_str": "1119880266305146880",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119880266305146880/pu/img/lzeHLj9q5p8eBkjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119880266305146880/pu/img/lzeHLj9q5p8eBkjS.jpg",
+					"url": "https://t.co/nISY8PMAtj",
+					"display_url": "pic.twitter.com/nISY8PMAtj",
+					"expanded_url": "https://twitter.com/chauhanshul/status/1119880379018747904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 326,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 326,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119880266305146900,
+					"id_str": "1119880266305146880",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119880266305146880/pu/img/lzeHLj9q5p8eBkjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119880266305146880/pu/img/lzeHLj9q5p8eBkjS.jpg",
+					"url": "https://t.co/nISY8PMAtj",
+					"display_url": "pic.twitter.com/nISY8PMAtj",
+					"expanded_url": "https://twitter.com/chauhanshul/status/1119880379018747904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 326,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 326,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 326,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							304,
+							163
+						],
+						"duration_millis": 23000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1119880266305146880/pu/pl/62dSMMb2456eU7Sx.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119880266305146880/pu/vid/334x180/FXf0_8-QJrZOtINJ.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119880266305146880/pu/vid/608x326/w4p5S6vf9RkXH9pa.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248369675,
+			"id_str": "248369675",
+			"name": "Anshul",
+			"screen_name": "chauhanshul",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Sun Feb 06 21:20:05 +0000 2011",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239549692/Untitled-1_copy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239549692/Untitled-1_copy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248369675/1503665131",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sri Lanka church blast as seen from road. #SriLanka https://t.co/nISY8PMAtj"
+	},
+	{
 		"created_at": "Fri Apr 19 19:28:00 +0000 2019",
 		"id": 1114958414952706000,
 		"id_str": "1119321770777960448",
