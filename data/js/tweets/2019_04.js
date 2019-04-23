@@ -1,6 +1,1463 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 17:41:59 +0000 2019",
+		"id": 1120382253052260400,
+		"id_str": "1120382253052260352",
+		"full_text": "@mazit27 You tweeted exactly at 22:22 on 22. 11:11 now",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazit27",
+					"name": "Gautam Joshi",
+					"id": 763928115911417900,
+					"id_str": "763928115911417857",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1120369914320232400,
+		"in_reply_to_status_id_str": "1120369914320232449",
+		"in_reply_to_user_id": 763928115911417900,
+		"in_reply_to_user_id_str": "763928115911417857",
+		"in_reply_to_screen_name": "mazit27",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazit27 You tweeted exactly at 22:22 on 22. 11:11 now"
+	},
+	{
+		"created_at": "Mon Apr 22 16:46:41 +0000 2019",
+		"id": 1120368335995097100,
+		"id_str": "1120368335995097088",
+		"full_text": "@mazit27 @mudnsky Thanks, buddy :)",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazit27",
+					"name": "Gautam Joshi",
+					"id": 763928115911417900,
+					"id_str": "763928115911417857",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1120368088464154600,
+		"in_reply_to_status_id_str": "1120368088464154624",
+		"in_reply_to_user_id": 763928115911417900,
+		"in_reply_to_user_id_str": "763928115911417857",
+		"in_reply_to_screen_name": "mazit27",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazit27 @mudnsky Thanks, buddy :)"
+	},
+	{
+		"created_at": "Mon Apr 22 14:17:56 +0000 2019",
+		"id": 1120330901747974100,
+		"id_str": "1120330901747974145",
+		"full_text": "22nd April - The most cherished date on which I made the biggest commitment - getting engaged to the person who shows me how to live life to the fullest every single day - @mudnsky 💐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "22nd April - The most cherished date on which I made the biggest commitment - getting engaged to the person who shows me how to live life to the fullest every single day - @mudnsky 💐"
+	},
+	{
+		"created_at": "Mon Apr 22 11:20:23 +0000 2019",
+		"id": 1115641399624339500,
+		"id_str": "1120286219647066113",
+		"full_text": "Windows Calculator 🤝 #opensource\nTake a peek at the code on @GitHub and help define the future of C++alculator.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "opensource",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16334724,
+			"id_str": "16334724",
+			"name": "Windows Developer",
+			"screen_name": "windowsdev",
+			"location": "Redmond, WA",
+			"description": "Everything you need to know to develop great apps, games and other experiences for Windows on PCs, phones, IoT, Xbox & HoloLens.",
+			"url": "https://t.co/r4pWjBisHf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r4pWjBisHf",
+							"expanded_url": "http://wndw.ms/Pq0xJO",
+							"display_url": "wndw.ms/Pq0xJO",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520920,
+			"friends_count": 5903,
+			"listed_count": 4603,
+			"created_at": "Wed Sep 17 19:10:25 +0000 2008",
+			"favourites_count": 4034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E1E1E1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/614527023260635136/zEZFYSrD_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/614527023260635136/zEZFYSrD_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16334724/1547236451",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 660,
+		"favorite_count": 3153,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Windows Calculator 🤝 #opensource\nTake a peek at the code on @GitHub and help define the future of C++alculator."
+	},
+	{
+		"created_at": "Mon Apr 22 11:20:14 +0000 2019",
+		"id": 1120286182070296600,
+		"id_str": "1120286182070296576",
+		"full_text": "This thread 👇 https://t.co/ExKU7V5MPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ExKU7V5MPq",
+					"expanded_url": "https://twitter.com/amitkaps/status/1118008725845921792",
+					"display_url": "twitter.com/amitkaps/statu…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118008725845921800,
+		"quoted_status_id_str": "1118008725845921792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ExKU7V5MPq",
+			"expanded": "https://twitter.com/amitkaps/status/1118008725845921792",
+			"display": "twitter.com/amitkaps/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 04:30:26 +0000 2019",
+			"id": 1118008725845921800,
+			"id_str": "1118008725845921792",
+			"full_text": "Going to a meeting in BLR tech park. The journey in 10 mins chunk...\n\n1. Register at main gate\n2. Walk to building\n3. Convince security, you are a visitor!\n4. Register at building gate!\n5. Walk to main reception\n6. Register again!\n7. Wait for host\n8. Walk to a different building!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138024520,
+				"id_str": "138024520",
+				"name": "Amit Kapoor",
+				"screen_name": "amitkaps",
+				"location": "Bangalore",
+				"description": "Crafting visual stories with data. Working on kindness.",
+				"url": "https://t.co/xDMrUz2gfl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xDMrUz2gfl",
+								"expanded_url": "http://amitkaps.com",
+								"display_url": "amitkaps.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1215,
+				"friends_count": 1179,
+				"listed_count": 55,
+				"created_at": "Wed Apr 28 12:24:21 +0000 2010",
+				"favourites_count": 1245,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2397,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810674630079848448/COrkpcHK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810674630079848448/COrkpcHK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138024520/1387912938",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread 👇 https://t.co/ExKU7V5MPq"
+	},
+	{
+		"created_at": "Mon Apr 22 10:36:56 +0000 2019",
+		"id": 1119590825393098800,
+		"id_str": "1120275284912001026",
+		"full_text": "#Picture of the Day! https://t.co/W7khdH2GvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Picture",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119590809739853800,
+					"id_str": "1119590809739853825",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mV6NxWAAEqM8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mV6NxWAAEqM8A.jpg",
+					"url": "https://t.co/W7khdH2GvC",
+					"display_url": "pic.twitter.com/W7khdH2GvC",
+					"expanded_url": "https://twitter.com/SortedDreams__/status/1119590825393098759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 892,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 892,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119590809739853800,
+					"id_str": "1119590809739853825",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mV6NxWAAEqM8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mV6NxWAAEqM8A.jpg",
+					"url": "https://t.co/W7khdH2GvC",
+					"display_url": "pic.twitter.com/W7khdH2GvC",
+					"expanded_url": "https://twitter.com/SortedDreams__/status/1119590825393098759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 892,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 892,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2989310960,
+			"id_str": "2989310960",
+			"name": "Ps.🌷",
+			"screen_name": "SortedDreams__",
+			"location": "India",
+			"description": "Pragmatic; •Good vibes💫• Music is magic• books are addiction• Genuine expressions...|#NoDMpls",
+			"url": "https://t.co/pxlUnnaZV0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pxlUnnaZV0",
+							"expanded_url": "https://twitter.com/search?q=from%3A%40SortedDreams__%20-filter%3Amentions&s=01",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 104,
+			"listed_count": 21,
+			"created_at": "Mon Jan 19 04:32:59 +0000 2015",
+			"favourites_count": 11456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120460702970458113/YLTZDwJm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120460702970458113/YLTZDwJm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2989310960/1553369725",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 517,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Picture of the Day! https://t.co/W7khdH2GvC"
+	},
+	{
+		"created_at": "Mon Apr 22 10:33:55 +0000 2019",
+		"id": 1120266024908152800,
+		"id_str": "1120274527982772224",
+		"full_text": "Hey penny :) https://t.co/kDKWohS08C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 969432702804885500,
+					"id_str": "969432702804885504",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/DXQd6CxVAAAWI2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXQd6CxVAAAWI2i.jpg",
+					"url": "https://t.co/kDKWohS08C",
+					"display_url": "pic.twitter.com/kDKWohS08C",
+					"expanded_url": "https://twitter.com/DogsCoffee/status/969432705107681280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969432705107681300,
+					"source_status_id_str": "969432705107681280",
+					"source_user_id": 756702371980439600,
+					"source_user_id_str": "756702371980439553"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 969432702804885500,
+					"id_str": "969432702804885504",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/DXQd6CxVAAAWI2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXQd6CxVAAAWI2i.jpg",
+					"url": "https://t.co/kDKWohS08C",
+					"display_url": "pic.twitter.com/kDKWohS08C",
+					"expanded_url": "https://twitter.com/DogsCoffee/status/969432705107681280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969432705107681300,
+					"source_status_id_str": "969432705107681280",
+					"source_user_id": 756702371980439600,
+					"source_user_id_str": "756702371980439553"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835083097,
+			"id_str": "835083097",
+			"name": "Puppy Lover",
+			"screen_name": "PupsPorn",
+			"location": "",
+			"description": "Partnership or Pay for a share. email:poemporn@126.com",
+			"url": "https://t.co/Pyjp2clSrY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pyjp2clSrY",
+							"expanded_url": "https://www.facebook.com/PupsLoverX",
+							"display_url": "facebook.com/PupsLoverX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774296,
+			"friends_count": 11966,
+			"listed_count": 1149,
+			"created_at": "Thu Sep 20 08:23:18 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/421624037958119424/_XOMh-DP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835083097/1389357987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey penny :) https://t.co/kDKWohS08C"
+	},
+	{
+		"created_at": "Mon Apr 22 10:31:54 +0000 2019",
+		"id": 1120272056870826000,
+		"id_str": "1120274018349617152",
+		"full_text": "Close enough? https://t.co/WIiKqdCXED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120272044728496100,
+					"id_str": "1120272044728496129",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D4wBfT3XsAEjcm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4wBfT3XsAEjcm8.jpg",
+					"url": "https://t.co/WIiKqdCXED",
+					"display_url": "pic.twitter.com/WIiKqdCXED",
+					"expanded_url": "https://twitter.com/rajupp/status/1120272056870825984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 409,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 409,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120272044728496100,
+					"id_str": "1120272044728496129",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D4wBfT3XsAEjcm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4wBfT3XsAEjcm8.jpg",
+					"url": "https://t.co/WIiKqdCXED",
+					"display_url": "pic.twitter.com/WIiKqdCXED",
+					"expanded_url": "https://twitter.com/rajupp/status/1120272056870825984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 409,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 409,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16619994,
+			"id_str": "16619994",
+			"name": "Raju PP",
+			"screen_name": "rajupp",
+			"location": "Bangalore",
+			"description": "Tech Blogger, fighting the temptation of being a tech-journalist. Opinions are of my employer, because Self-Employed. Editor @techpp.com. Tech | Cricket | Life",
+			"url": "https://t.co/hoV5RcZM90",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hoV5RcZM90",
+							"expanded_url": "https://youtube.com/techpp",
+							"display_url": "youtube.com/techpp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24389,
+			"friends_count": 1422,
+			"listed_count": 711,
+			"created_at": "Mon Oct 06 20:41:10 +0000 2008",
+			"favourites_count": 5424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007907828076408832/MMvmv6jQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007907828076408832/MMvmv6jQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16619994/1398405938",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Close enough? https://t.co/WIiKqdCXED"
+	},
+	{
+		"created_at": "Mon Apr 22 03:03:44 +0000 2019",
+		"id": 1120159622420140000,
+		"id_str": "1120161235821948928",
+		"full_text": "Ukraine has got their own version of MGR now https://t.co/LtHIiZINnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LtHIiZINnC",
+					"expanded_url": "https://twitter.com/ainvvy/status/1120153762704740352",
+					"display_url": "twitter.com/ainvvy/status/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45610206,
+			"id_str": "45610206",
+			"name": "Nambitious",
+			"screen_name": "vnambirajan",
+			"location": "India",
+			"description": "Designer humanizing tech and designing information for the screen you are looking at now. Amateur quizzer, Pro procastinator.",
+			"url": "https://t.co/wwHG4lL0cD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wwHG4lL0cD",
+							"expanded_url": "https://medium.com/@Nambidextrous",
+							"display_url": "medium.com/@Nambidextrous",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1370,
+			"friends_count": 1497,
+			"listed_count": 111,
+			"created_at": "Mon Jun 08 16:54:45 +0000 2009",
+			"favourites_count": 12506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118673499193843712/BXQ570fI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118673499193843712/BXQ570fI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45610206/1555766936",
+			"profile_link_color": "3232FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120153762704740400,
+		"quoted_status_id_str": "1120153762704740352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LtHIiZINnC",
+			"expanded": "https://twitter.com/ainvvy/status/1120153762704740352",
+			"display": "twitter.com/ainvvy/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 02:34:03 +0000 2019",
+			"id": 1120153762704740400,
+			"id_str": "1120153762704740352",
+			"full_text": "If you can play the role of a president, you can be president. Apparently the landslide was like &gt; 70%\n\nPolicies, specifics ... those the script writers will provide.  Will be fascinating to watch Ukraine. https://t.co/tqe7i9mQHe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1120153749874286600,
+						"id_str": "1120153749874286593",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D4uV5pMUIAE47Jn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4uV5pMUIAE47Jn.jpg",
+						"url": "https://t.co/tqe7i9mQHe",
+						"display_url": "pic.twitter.com/tqe7i9mQHe",
+						"expanded_url": "https://twitter.com/ainvvy/status/1120153762704740352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1244,
+								"h": 408,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 394,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 223,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1120153749874286600,
+						"id_str": "1120153749874286593",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D4uV5pMUIAE47Jn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4uV5pMUIAE47Jn.jpg",
+						"url": "https://t.co/tqe7i9mQHe",
+						"display_url": "pic.twitter.com/tqe7i9mQHe",
+						"expanded_url": "https://twitter.com/ainvvy/status/1120153762704740352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1244,
+								"h": 408,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 394,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 223,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1120153749865951200,
+						"id_str": "1120153749865951232",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D4uV5pKU8AAmKjc.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4uV5pKU8AAmKjc.png",
+						"url": "https://t.co/tqe7i9mQHe",
+						"display_url": "pic.twitter.com/tqe7i9mQHe",
+						"expanded_url": "https://twitter.com/ainvvy/status/1120153762704740352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1308,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14293240,
+				"id_str": "14293240",
+				"name": "V Vinay",
+				"screen_name": "ainvvy",
+				"location": "Bangalore",
+				"description": "A curious academic entrepreneur.",
+				"url": "https://t.co/GQfF6ZoKh2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GQfF6ZoKh2",
+								"expanded_url": "http://www.atimotors.com",
+								"display_url": "atimotors.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8525,
+				"friends_count": 184,
+				"listed_count": 135,
+				"created_at": "Thu Apr 03 13:42:36 +0000 2008",
+				"favourites_count": 789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37574,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/547433316/vv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/547433316/vv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293240/1456899531",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ukraine has got their own version of MGR now https://t.co/LtHIiZINnC"
+	},
+	{
 		"created_at": "Sun Apr 21 17:42:39 +0000 2019",
 		"id": 1119911354721284100,
 		"id_str": "1120020032648437760",
