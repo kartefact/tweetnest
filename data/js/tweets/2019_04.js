@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 19:52:35 +0000 2019",
+		"id": 1120772982157090800,
+		"id_str": "1120777507421032448",
+		"full_text": "This design made me laugh 😆 https://t.co/lCWIXEIwuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120772895150497800,
+					"id_str": "1120772895150497792",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120772895150497792/pu/img/VYMa3AWVCh8OhTI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120772895150497792/pu/img/VYMa3AWVCh8OhTI_.jpg",
+					"url": "https://t.co/lCWIXEIwuj",
+					"display_url": "pic.twitter.com/lCWIXEIwuj",
+					"expanded_url": "https://twitter.com/StumblerDesign/status/1120772982157090816/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120772895150497800,
+					"id_str": "1120772895150497792",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120772895150497792/pu/img/VYMa3AWVCh8OhTI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120772895150497792/pu/img/VYMa3AWVCh8OhTI_.jpg",
+					"url": "https://t.co/lCWIXEIwuj",
+					"display_url": "pic.twitter.com/lCWIXEIwuj",
+					"expanded_url": "https://twitter.com/StumblerDesign/status/1120772982157090816/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 8534,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1120772895150497792/pu/pl/CSWz-2i3qKLCxkjo.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120772895150497792/pu/vid/480x600/7mMmKUqRrR3gXu70.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120772895150497792/pu/vid/320x400/xdDoI5zh7mjKRIqM.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120772895150497792/pu/vid/360x450/ANdWJQexFlCIazvy.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1117559849502380000,
+			"id_str": "1117559849502380032",
+			"name": "Stumbler Design",
+			"screen_name": "StumblerDesign",
+			"location": "",
+			"description": "Discover Amazing Videos. Never Be Bored.",
+			"url": "https://t.co/esUCGKVoUi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/esUCGKVoUi",
+							"expanded_url": "http://stumbler.com",
+							"display_url": "stumbler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2488,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Sun Apr 14 22:46:46 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117559936408403968/atXuT4aH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117559936408403968/atXuT4aH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117559849502380032/1555282069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 834,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This design made me laugh 😆 https://t.co/lCWIXEIwuj"
+	},
+	{
 		"created_at": "Mon Apr 22 17:41:59 +0000 2019",
 		"id": 1120382253052260400,
 		"id_str": "1120382253052260352",
