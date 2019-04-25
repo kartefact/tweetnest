@@ -1,6 +1,868 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 22:41:07 +0000 2019",
+		"id": 1121172132447379500,
+		"id_str": "1121182310127161344",
+		"full_text": "Have you seen hydraulic press videos before? https://t.co/pfHQXMyeJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121172090177163300,
+					"id_str": "1121172090177163265",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121172090177163265/pu/img/EC_oEqKZlrhfh3gr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121172090177163265/pu/img/EC_oEqKZlrhfh3gr.jpg",
+					"url": "https://t.co/pfHQXMyeJp",
+					"display_url": "pic.twitter.com/pfHQXMyeJp",
+					"expanded_url": "https://twitter.com/StumblerSatisfy/status/1121172132447379456/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121172090177163300,
+					"id_str": "1121172090177163265",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121172090177163265/pu/img/EC_oEqKZlrhfh3gr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121172090177163265/pu/img/EC_oEqKZlrhfh3gr.jpg",
+					"url": "https://t.co/pfHQXMyeJp",
+					"display_url": "pic.twitter.com/pfHQXMyeJp",
+					"expanded_url": "https://twitter.com/StumblerSatisfy/status/1121172132447379456/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14067,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121172090177163265/pu/vid/360x450/wE9EwMV-GCVY_DX9.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121172090177163265/pu/vid/320x400/yCvtzDeFOjNRsLO4.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121172090177163265/pu/pl/PPftLPiMxlJY-2N3.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121172090177163265/pu/vid/480x600/THmqYwm_rjTI4V2u.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1117212185522913300,
+			"id_str": "1117212185522913280",
+			"name": "Stumbler Satisfying",
+			"screen_name": "StumblerSatisfy",
+			"location": "",
+			"description": "Discover amazing videos. Never be bored.",
+			"url": "https://t.co/esUCGKVoUi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/esUCGKVoUi",
+							"expanded_url": "http://stumbler.com",
+							"display_url": "stumbler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5988,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Sat Apr 13 23:45:16 +0000 2019",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117212845295333376/5qC4AFPd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117212845295333376/5qC4AFPd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117212185522913280/1555445545",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you seen hydraulic press videos before? https://t.co/pfHQXMyeJp"
+	},
+	{
+		"created_at": "Wed Apr 24 22:32:58 +0000 2019",
+		"id": 1120906784544297000,
+		"id_str": "1121180257426427904",
+		"full_text": "AWS is not about paying for what you use, it’s about paying for what you forgot to turn off.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1520431,
+			"id_str": "1520431",
+			"name": "Deadprogrammer",
+			"screen_name": "deadprogrammer",
+			"location": "New York",
+			"description": "Just trying to live my best life. A like is not a read receipt.",
+			"url": "https://t.co/8ST1jmVwlb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8ST1jmVwlb",
+							"expanded_url": "http://www.deadprogrammer.com",
+							"display_url": "deadprogrammer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3022,
+			"friends_count": 242,
+			"listed_count": 170,
+			"created_at": "Mon Mar 19 15:52:04 +0000 2007",
+			"favourites_count": 1088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18029,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771758194217615360/80yJivUa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771758194217615360/80yJivUa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1520431/1521065169",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1856,
+		"favorite_count": 7387,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "AWS is not about paying for what you use, it’s about paying for what you forgot to turn off."
+	},
+	{
+		"created_at": "Wed Apr 24 09:11:03 +0000 2019",
+		"id": 1120978449512853500,
+		"id_str": "1120978449512853504",
+		"full_text": "@techpp Is this different from yeelight? Just an official Indian launch of the same?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techpp",
+					"name": "TechPP",
+					"id": 108199955,
+					"id_str": "108199955",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1120972120308232200,
+		"in_reply_to_status_id_str": "1120972120308232192",
+		"in_reply_to_user_id": 108199955,
+		"in_reply_to_user_id_str": "108199955",
+		"in_reply_to_screen_name": "techpp",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99386,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@techpp Is this different from yeelight? Just an official Indian launch of the same?"
+	},
+	{
+		"created_at": "Wed Apr 24 07:34:00 +0000 2019",
+		"id": 1120954025208234000,
+		"id_str": "1120954025208233984",
+		"full_text": "@mudnsky Missed it by two minutes. Almost Zero horizontal shadow. https://t.co/GU9HpsSc3z",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120954005192994800,
+					"id_str": "1120954005192994816",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D45tuokUcAAQs1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D45tuokUcAAQs1Q.jpg",
+					"url": "https://t.co/GU9HpsSc3z",
+					"display_url": "pic.twitter.com/GU9HpsSc3z",
+					"expanded_url": "https://twitter.com/kartefact/status/1120954025208233984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120954005192994800,
+					"id_str": "1120954005192994816",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D45tuokUcAAQs1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D45tuokUcAAQs1Q.jpg",
+					"url": "https://t.co/GU9HpsSc3z",
+					"display_url": "pic.twitter.com/GU9HpsSc3z",
+					"expanded_url": "https://twitter.com/kartefact/status/1120954025208233984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1120940887293345800,
+		"in_reply_to_status_id_str": "1120940887293345794",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 211,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99386,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mudnsky Missed it by two minutes. Almost Zero horizontal shadow. https://t.co/GU9HpsSc3z"
+	},
+	{
+		"created_at": "Wed Apr 24 03:50:14 +0000 2019",
+		"id": 1120396330839547900,
+		"id_str": "1120897710767263749",
+		"full_text": "One very bad thing about scientific papers being behind paywalls is that (competing) pseudoscience isn’t behind paywalls, so it’s easier to find misinformation online than to find facts.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027831,
+			"id_str": "1027831",
+			"name": "Stephen Wood",
+			"screen_name": "stevewoodYYC",
+			"location": "Calgary, Alberta",
+			"description": "Print media wage-slave, Maker, cyclist, eco-enthusiast, hater of velcro, 3D print hobbyist. Dangerously inexperienced banjo player.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 1656,
+			"listed_count": 23,
+			"created_at": "Mon Mar 12 17:36:17 +0000 2007",
+			"favourites_count": 36394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/538674863/My_Pic_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/538674863/My_Pic_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027831/1407253964",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2435,
+		"favorite_count": 6096,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One very bad thing about scientific papers being behind paywalls is that (competing) pseudoscience isn’t behind paywalls, so it’s easier to find misinformation online than to find facts."
+	},
+	{
+		"created_at": "Wed Apr 24 03:49:09 +0000 2019",
+		"id": 1120894420625158100,
+		"id_str": "1120897441002188800",
+		"full_text": "What I fear the most and double check. You can't see that angle. https://t.co/6eqLuo9j8o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6eqLuo9j8o",
+					"expanded_url": "https://twitter.com/TOIDelhi/status/1120878784780091392?s=19",
+					"display_url": "twitter.com/TOIDelhi/statu…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1685849366,
+			"id_str": "1685849366",
+			"name": "Mud n Sky",
+			"screen_name": "mudnsky",
+			"location": "",
+			"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 211,
+			"listed_count": 34,
+			"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+			"favourites_count": 5527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32541,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120878784780091400,
+		"quoted_status_id_str": "1120878784780091392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6eqLuo9j8o",
+			"expanded": "https://twitter.com/TOIDelhi/status/1120878784780091392?s=19",
+			"display": "twitter.com/TOIDelhi/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 24 02:35:01 +0000 2019",
+			"id": 1120878784780091400,
+			"id_str": "1120878784780091392",
+			"full_text": "Using mobile while driving, uncle runs over 3-year-old boy https://t.co/V4V4wr4EQx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V4V4wr4EQx",
+						"expanded_url": "http://toi.in/wfWnSZ79",
+						"display_url": "toi.in/wfWnSZ79",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.toi.in\" rel=\"nofollow\">cmssocialservice</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30859883,
+				"id_str": "30859883",
+				"name": "TOI Delhi",
+				"screen_name": "TOIDelhi",
+				"location": "New Delhi, India",
+				"description": "Your city. Your neighborhood. Your block. Covered for you by https://t.co/VSKi1mkZBr",
+				"url": "http://t.co/fVH9J9NoJJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fVH9J9NoJJ",
+								"expanded_url": "http://timesofindia.indiatimes.com/city/delhi",
+								"display_url": "timesofindia.indiatimes.com/city/delhi",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VSKi1mkZBr",
+								"expanded_url": "http://timesofindia.com",
+								"display_url": "timesofindia.com",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41602,
+				"friends_count": 40,
+				"listed_count": 302,
+				"created_at": "Mon Apr 13 13:00:35 +0000 2009",
+				"favourites_count": 54,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1282402835/icon_512_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282402835/icon_512_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30859883/1549648408",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What I fear the most and double check. You can't see that angle. https://t.co/6eqLuo9j8o"
+	},
+	{
 		"created_at": "Tue Apr 23 19:52:35 +0000 2019",
 		"id": 1120772982157090800,
 		"id_str": "1120777507421032448",
