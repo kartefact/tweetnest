@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 11:48:13 +0000 2019",
+		"id": 1121738352712015900,
+		"id_str": "1121742777895665665",
+		"full_text": "#NeraluWhitefield, a tree census for WF. \n\nThis is an open call for volunteers, ages 12 &amp; above (good internship!). We will start with the main roads, mainly: \n- Hopefarm-Kodi\n- Kodi-KGate\n- KGate-Hoodi\n- Hoodi-Hopefarm\n\nInterested? Write to: hello@whitefieldrising.org https://t.co/ifWJMvxEGI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NeraluWhitefield",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121738315277852700,
+					"id_str": "1121738315277852673",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D5E3DfUU4AE385-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5E3DfUU4AE385-.jpg",
+					"url": "https://t.co/ifWJMvxEGI",
+					"display_url": "pic.twitter.com/ifWJMvxEGI",
+					"expanded_url": "https://twitter.com/WFRising/status/1121738352712015872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121738315277852700,
+					"id_str": "1121738315277852673",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D5E3DfUU4AE385-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5E3DfUU4AE385-.jpg",
+					"url": "https://t.co/ifWJMvxEGI",
+					"display_url": "pic.twitter.com/ifWJMvxEGI",
+					"expanded_url": "https://twitter.com/WFRising/status/1121738352712015872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121738315277852700,
+					"id_str": "1121738315277852672",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D5E3DfUU4AAR6Vf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5E3DfUU4AAR6Vf.jpg",
+					"url": "https://t.co/ifWJMvxEGI",
+					"display_url": "pic.twitter.com/ifWJMvxEGI",
+					"expanded_url": "https://twitter.com/WFRising/status/1121738352712015872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2242672866,
+			"id_str": "2242672866",
+			"name": "Whitefield Rising",
+			"screen_name": "WFRising",
+			"location": "Whitefield Bangalore",
+			"description": "A citizens movement for the people, by the people.",
+			"url": "https://t.co/PGHD9ebpwD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PGHD9ebpwD",
+							"expanded_url": "http://whitefieldrising.org",
+							"display_url": "whitefieldrising.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14815,
+			"friends_count": 524,
+			"listed_count": 47,
+			"created_at": "Thu Dec 12 17:19:14 +0000 2013",
+			"favourites_count": 3033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000863293309/20dfwuiQ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000863293309/20dfwuiQ_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NeraluWhitefield, a tree census for WF. \n\nThis is an open call for volunteers, ages 12 &amp; above (good internship!). We will start with the main roads, mainly: \n- Hopefarm-Kodi\n- Kodi-KGate\n- KGate-Hoodi\n- Hoodi-Hopefarm\n\nInterested? Write to: hello@whitefieldrising.org https://t.co/ifWJMvxEGI"
+	},
+	{
 		"created_at": "Wed Apr 24 22:41:07 +0000 2019",
 		"id": 1121172132447379500,
 		"id_str": "1121182310127161344",
