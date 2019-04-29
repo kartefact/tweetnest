@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 21:42:36 +0000 2019",
+		"id": 1122601522729078800,
+		"id_str": "1122617133005828098",
+		"full_text": "Can't reiterate and emphasize this enough. Have lost 15 years due to delay. Respect the unusual, don't self doubt. https://t.co/mCqreWcrj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mCqreWcrj2",
+					"expanded_url": "https://twitter.com/SachinKalbag/status/1122491709105946625?s=19",
+					"display_url": "twitter.com/SachinKalbag/s…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1685849366,
+			"id_str": "1685849366",
+			"name": "Mud n Sky",
+			"screen_name": "mudnsky",
+			"location": "India",
+			"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 211,
+			"listed_count": 34,
+			"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+			"favourites_count": 5531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122491709105946600,
+		"quoted_status_id_str": "1122491709105946625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mCqreWcrj2",
+			"expanded": "https://twitter.com/SachinKalbag/status/1122491709105946625?s=19",
+			"display": "twitter.com/SachinKalbag/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 28 13:24:12 +0000 2019",
+			"id": 1122491709105946600,
+			"id_str": "1122491709105946625",
+			"full_text": "A slightly long thread on life and death, from a personal incident 3 years ago. But before all that, the moral of the story: If something unusual (medically) is happening to you or a family member, DO NOT waste any time. Go to the hospital RIGHT AWAY.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14072047,
+				"id_str": "14072047",
+				"name": "Sachin Kalbag",
+				"screen_name": "SachinKalbag",
+				"location": "Mumbai",
+				"description": "Current: Executive Editor, @httweets. Views: personal. Follow: Sumo, Cricket, Tennis. @HakuhoSho69 devotee. Formerly: Resident Editor @THMumbai; Editor @mid_day",
+				"url": "https://t.co/yEyv2GwsOs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yEyv2GwsOs",
+								"expanded_url": "http://www.hindustantimes.com",
+								"display_url": "hindustantimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 201140,
+				"friends_count": 492,
+				"listed_count": 945,
+				"created_at": "Mon Mar 03 10:35:24 +0000 2008",
+				"favourites_count": 7178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 74218,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114895528754597889/B8PXcS60_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114895528754597889/B8PXcS60_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14072047/1548169400",
+				"profile_link_color": "001A72",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 371,
+			"favorite_count": 772,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can't reiterate and emphasize this enough. Have lost 15 years due to delay. Respect the unusual, don't self doubt. https://t.co/mCqreWcrj2"
+	},
+	{
 		"created_at": "Fri Apr 26 11:48:13 +0000 2019",
 		"id": 1121738352712015900,
 		"id_str": "1121742777895665665",
