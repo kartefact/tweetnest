@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 13:58:04 +0000 2019",
+		"id": 1121228419000410100,
+		"id_str": "1124312170542522368",
+		"full_text": "Touchscreens are so intuitive to use that chimpanzees can use it just like us. https://t.co/QRefN13dca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121228281490047000,
+					"id_str": "1121228281490046976",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121228281490046976/pu/img/XZRyXOP-eL5f0z2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121228281490046976/pu/img/XZRyXOP-eL5f0z2f.jpg",
+					"url": "https://t.co/QRefN13dca",
+					"display_url": "pic.twitter.com/QRefN13dca",
+					"expanded_url": "https://twitter.com/TheChuChu_/status/1121228419000410113/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121228281490047000,
+					"id_str": "1121228281490046976",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121228281490046976/pu/img/XZRyXOP-eL5f0z2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121228281490046976/pu/img/XZRyXOP-eL5f0z2f.jpg",
+					"url": "https://t.co/QRefN13dca",
+					"display_url": "pic.twitter.com/QRefN13dca",
+					"expanded_url": "https://twitter.com/TheChuChu_/status/1121228419000410113/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59700,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121228281490046976/pu/vid/320x400/RF55n-Ev2uBFZNhT.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121228281490046976/pu/pl/dbJGDBbqDz5FFupA.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121228281490046976/pu/vid/384x480/4QtdgA9Yr1JXdiXG.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994424932913344500,
+			"id_str": "994424932913344512",
+			"name": "ChuChuTrain",
+			"screen_name": "TheChuChu_",
+			"location": "Canada",
+			"description": "A train of raw curated thoughts 🚂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3007,
+			"friends_count": 9,
+			"listed_count": 37,
+			"created_at": "Thu May 10 03:52:34 +0000 2018",
+			"favourites_count": 1629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093852600003411968/P7AMfIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093852600003411968/P7AMfIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994424932913344512/1549434020",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 1497,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Touchscreens are so intuitive to use that chimpanzees can use it just like us. https://t.co/QRefN13dca"
+	},
+	{
 		"created_at": "Thu May 02 20:09:24 +0000 2019",
 		"id": 1124043230922911700,
 		"id_str": "1124043230922911748",
@@ -108,7 +295,7 @@ Grailbird.data.tweets_2019_05 =
 				"user_mentions": [
 					{
 						"screen_name": "DrPizza",
-						"name": "Pumpkin Fright👨‍⚕️🍕",
+						"name": "Pumpkin Fright👨⚕️🍕",
 						"id": 11375732,
 						"id_str": "11375732",
 						"indices": [
