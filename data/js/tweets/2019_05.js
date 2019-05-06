@@ -1,6 +1,656 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 05:42:28 +0000 2019",
+		"id": 1124762501017632800,
+		"id_str": "1124912223711744000",
+		"full_text": "This is what happens when you divide by zero on a mechanical calculator https://t.co/uTJ2PbHSZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117201616933982200,
+					"id_str": "1117201616933982208",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117201616933982208/pu/img/RhIFrYcVP5uK_hit.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117201616933982208/pu/img/RhIFrYcVP5uK_hit.jpg",
+					"url": "https://t.co/uTJ2PbHSZ0",
+					"display_url": "pic.twitter.com/uTJ2PbHSZ0",
+					"expanded_url": "https://twitter.com/klara_sjo/status/1117201708004925440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1117201708004925400,
+					"source_status_id_str": "1117201708004925440",
+					"source_user_id": 742371799116222500,
+					"source_user_id_str": "742371799116222464"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117201616933982200,
+					"id_str": "1117201616933982208",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117201616933982208/pu/img/RhIFrYcVP5uK_hit.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117201616933982208/pu/img/RhIFrYcVP5uK_hit.jpg",
+					"url": "https://t.co/uTJ2PbHSZ0",
+					"display_url": "pic.twitter.com/uTJ2PbHSZ0",
+					"expanded_url": "https://twitter.com/klara_sjo/status/1117201708004925440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1117201708004925400,
+					"source_status_id_str": "1117201708004925440",
+					"source_user_id": 742371799116222500,
+					"source_user_id_str": "742371799116222464",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117201616933982208/pu/vid/240x180/UBYyH_jL9rXvzsWq.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1117201616933982208/pu/pl/zqjvJj8ySEGO3-sG.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117201616933982208/pu/vid/480x360/vzEymIRKQ_M3hD0B.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 742371799116222500,
+							"id_str": "742371799116222464",
+							"name": "Klara Sjöberg",
+							"screen_name": "klara_sjo",
+							"location": "Sverige",
+							"description": "Stupid people aren't flammable enough.  I identify as \"Mortally challenged\" Probably going to be banned in the EU soon. May the bridges I burn light the way.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 15940,
+							"friends_count": 6290,
+							"listed_count": 81,
+							"created_at": "Mon Jun 13 15:03:24 +0000 2016",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 13456,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1058597260500652032/4eXZLYLW_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058597260500652032/4eXZLYLW_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/742371799116222464/1549209970",
+							"profile_link_color": "FF69B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259725229,
+			"id_str": "259725229",
+			"name": "Vala Afshar",
+			"screen_name": "ValaAfshar",
+			"location": "Boston",
+			"description": "Chief Digital Evangelist @Salesforce | Columnist: @ZDNet @HuffPost | Show: @DisrupTVShow | Book: https://t.co/oSpLljigAi",
+			"url": "https://t.co/hrhaCHhyjx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrhaCHhyjx",
+							"expanded_url": "https://www.zdnet.com/meet-the-team/us/vafshar/",
+							"display_url": "zdnet.com/meet-the-team/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oSpLljigAi",
+							"expanded_url": "http://bit.ly/tposbe",
+							"display_url": "bit.ly/tposbe",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 362187,
+			"friends_count": 300,
+			"listed_count": 11146,
+			"created_at": "Wed Mar 02 13:31:29 +0000 2011",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 372554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259725229/1439209336",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what happens when you divide by zero on a mechanical calculator https://t.co/uTJ2PbHSZ0"
+	},
+	{
+		"created_at": "Sun May 05 05:39:13 +0000 2019",
+		"id": 1124911403360350200,
+		"id_str": "1124911403360350208",
+		"full_text": "@penguinhowler This is straight out of a pixar movie. May I know which city/area is this?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "penguinhowler",
+					"name": "Boss Baby",
+					"id": 160581409,
+					"id_str": "160581409",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124890072505937900,
+		"in_reply_to_status_id_str": "1124890072505937921",
+		"in_reply_to_user_id": 160581409,
+		"in_reply_to_user_id_str": "160581409",
+		"in_reply_to_screen_name": "penguinhowler",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 210,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@penguinhowler This is straight out of a pixar movie. May I know which city/area is this?"
+	},
+	{
+		"created_at": "Sun May 05 05:28:25 +0000 2019",
+		"id": 1124908686978064400,
+		"id_str": "1124908686978064384",
+		"full_text": "Another LOL-worthy tweet of the day https://t.co/MWXmdvHXY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MWXmdvHXY8",
+					"expanded_url": "https://twitter.com/penguinhowler/status/1124890072505937921",
+					"display_url": "twitter.com/penguinhowler/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 210,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124890072505937900,
+		"quoted_status_id_str": "1124890072505937921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MWXmdvHXY8",
+			"expanded": "https://twitter.com/penguinhowler/status/1124890072505937921",
+			"display": "twitter.com/penguinhowler/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 05 04:14:27 +0000 2019",
+			"id": 1124890072505937900,
+			"id_str": "1124890072505937921",
+			"full_text": "Ma: where the hell are all the hangers?!\nMe: the crow's been stealing them!!!\nMa: ...\nMe: ... \nCrow: https://t.co/jkIeIkGxZu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124890004545654800,
+						"id_str": "1124890004545654784",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124890004545654784/pu/img/U-xVWiaQCEonUq-e.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124890004545654784/pu/img/U-xVWiaQCEonUq-e.jpg",
+						"url": "https://t.co/jkIeIkGxZu",
+						"display_url": "pic.twitter.com/jkIeIkGxZu",
+						"expanded_url": "https://twitter.com/penguinhowler/status/1124890072505937921/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124890004545654800,
+						"id_str": "1124890004545654784",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124890004545654784/pu/img/U-xVWiaQCEonUq-e.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124890004545654784/pu/img/U-xVWiaQCEonUq-e.jpg",
+						"url": "https://t.co/jkIeIkGxZu",
+						"display_url": "pic.twitter.com/jkIeIkGxZu",
+						"expanded_url": "https://twitter.com/penguinhowler/status/1124890072505937921/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 13948,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124890004545654784/pu/vid/320x568/mLlut_ig9DUjoLSC.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124890004545654784/pu/vid/720x1280/F1Y4hlrbrVvvuqVP.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1124890004545654784/pu/pl/LzLC4jp__vZVcHXh.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124890004545654784/pu/vid/360x640/cJTu36Y9TWMXbqRF.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 160581409,
+				"id_str": "160581409",
+				"name": "Boss Baby",
+				"screen_name": "penguinhowler",
+				"location": "",
+				"description": "Lawyer | Low tolerance levels | Stuck on the wrong side of the world | Forever hungry",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3730,
+				"friends_count": 422,
+				"listed_count": 25,
+				"created_at": "Mon Jun 28 15:42:15 +0000 2010",
+				"favourites_count": 18391,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14251,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031236932527960064/IamdznhA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031236932527960064/IamdznhA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/160581409/1445612410",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 788,
+			"favorite_count": 2560,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another LOL-worthy tweet of the day https://t.co/MWXmdvHXY8"
+	},
+	{
 		"created_at": "Fri May 03 13:58:04 +0000 2019",
 		"id": 1121228419000410100,
 		"id_str": "1124312170542522368",
