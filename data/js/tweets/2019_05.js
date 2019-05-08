@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 12:47:52 +0000 2019",
+		"id": 1125744054631714800,
+		"id_str": "1125744054631714818",
+		"full_text": "HAHAHA! https://t.co/9nk3DCVIwj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9nk3DCVIwj",
+					"expanded_url": "https://twitter.com/liltommythin/status/1125357823406141440",
+					"display_url": "twitter.com/liltommythin/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 210,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125357823406141400,
+		"quoted_status_id_str": "1125357823406141440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9nk3DCVIwj",
+			"expanded": "https://twitter.com/liltommythin/status/1125357823406141440",
+			"display": "twitter.com/liltommythin/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 06 11:13:07 +0000 2019",
+			"id": 1125357823406141400,
+			"id_str": "1125357823406141440",
+			"full_text": "With so many \"re: re: \" dunno if it's mail chain or Kandha sashti kavasam",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93893022,
+				"id_str": "93893022",
+				"name": "venkat",
+				"screen_name": "liltommythin",
+				"location": "",
+				"description": "I frequently delete my account...",
+				"url": "http://t.co/oLXYajQpqz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/oLXYajQpqz",
+								"expanded_url": "http://venkataragavan.blogspot.com/",
+								"display_url": "venkataragavan.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103,
+				"friends_count": 24,
+				"listed_count": 8,
+				"created_at": "Tue Dec 01 16:37:12 +0000 2009",
+				"favourites_count": 1207,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832475692923097088/vBsH5BM7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832475692923097088/vBsH5BM7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93893022/1397489513",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 202,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "hi"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "HAHAHA! https://t.co/9nk3DCVIwj"
+	},
+	{
+		"created_at": "Tue May 07 05:43:50 +0000 2019",
+		"id": 1125263485468692500,
+		"id_str": "1125637343652671488",
+		"full_text": "Just two young boys with dreams in their eyes. https://t.co/nRP59a98Nz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125263475712729100,
+					"id_str": "1125263475712729088",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D529K1SUIAACwpG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D529K1SUIAACwpG.jpg",
+					"url": "https://t.co/nRP59a98Nz",
+					"display_url": "pic.twitter.com/nRP59a98Nz",
+					"expanded_url": "https://twitter.com/sayantansunnyg/status/1125263485468692481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125263475712729100,
+					"id_str": "1125263475712729088",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D529K1SUIAACwpG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D529K1SUIAACwpG.jpg",
+					"url": "https://t.co/nRP59a98Nz",
+					"display_url": "pic.twitter.com/nRP59a98Nz",
+					"expanded_url": "https://twitter.com/sayantansunnyg/status/1125263485468692481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86143180,
+			"id_str": "86143180",
+			"name": "Sayantan Ghosh",
+			"screen_name": "sayantansunnyg",
+			"location": "New Delhi, Calcutta",
+			"description": "Commissioning Editor @SimonSchusterIN,writer,wreck. Words in Juggernaut/Scroll/The Telegraph/The Hindu Business Line/DailyO/YKA/Arre/Electric Literature etc.",
+			"url": "https://t.co/fT25S2xqha",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fT25S2xqha",
+							"expanded_url": "http://www.juggernaut.in/books/6ec3458c17954021a7950947bfad8859",
+							"display_url": "juggernaut.in/books/6ec3458c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2862,
+			"friends_count": 322,
+			"listed_count": 60,
+			"created_at": "Thu Oct 29 19:30:46 +0000 2009",
+			"favourites_count": 8703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098584341565730817/Fx-EekjD_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098584341565730817/Fx-EekjD_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86143180/1555482738",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "317fcc4b21a604d5",
+			"url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json",
+			"place_type": "city",
+			"name": "New Delhi",
+			"full_name": "New Delhi, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							76.84252,
+							28.397657
+						],
+						[
+							77.347652,
+							28.397657
+						],
+						[
+							77.347652,
+							28.879322
+						],
+						[
+							76.84252,
+							28.879322
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 863,
+		"favorite_count": 4350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just two young boys with dreams in their eyes. https://t.co/nRP59a98Nz"
+	},
+	{
+		"created_at": "Tue May 07 05:33:43 +0000 2019",
+		"id": 1125343142520053800,
+		"id_str": "1125634798343446528",
+		"full_text": "Running `cd` without immediately running `ls` is like ordering a Big Mac without fries.\n\nI've not seen it done before.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564919357,
+			"id_str": "564919357",
+			"name": "I Am Devloper",
+			"screen_name": "iamdevloper",
+			"location": "Localhost",
+			"description": "The Vista of Twitter accounts  adeveloper1@gmail.com | DM | Merch: https://t.co/Fv5n2yAXPS | 💰 in tweet = ad",
+			"url": "https://t.co/Fv5n2yAXPS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fv5n2yAXPS",
+							"expanded_url": "https://teespring.com/en-GB/stores/iamdevloper",
+							"display_url": "teespring.com/en-GB/stores/i…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Fv5n2yAXPS",
+							"expanded_url": "https://teespring.com/en-GB/stores/iamdevloper",
+							"display_url": "teespring.com/en-GB/stores/i…",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 357080,
+			"friends_count": 0,
+			"listed_count": 4283,
+			"created_at": "Fri Apr 27 21:06:51 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071055431215276033/U9-RIlDs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071055431215276033/U9-RIlDs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564919357/1543573660",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2039,
+		"favorite_count": 9518,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Running `cd` without immediately running `ls` is like ordering a Big Mac without fries.\n\nI've not seen it done before."
+	},
+	{
+		"created_at": "Tue May 07 05:31:45 +0000 2019",
+		"id": 1125634302622949400,
+		"id_str": "1125634302622949376",
+		"full_text": "@verge Is that midnight commander in the screenshot?",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1125605175987716100,
+		"in_reply_to_status_id_str": "1125605175987716097",
+		"in_reply_to_user_id": 275686563,
+		"in_reply_to_user_id_str": "275686563",
+		"in_reply_to_screen_name": "verge",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 210,
+			"listed_count": 54,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@verge Is that midnight commander in the screenshot?"
+	},
+	{
 		"created_at": "Mon May 06 06:12:03 +0000 2019",
 		"id": 1125274174371418100,
 		"id_str": "1125282055032467456",
