@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 18:56:44 +0000 2019",
+		"id": 1126104215913467900,
+		"id_str": "1126199271156412416",
+		"full_text": "These diagrams show the paths traced by Mercury, Venus, Mars, Jupiter and Saturn as seen from Earth. https://t.co/VfrFQifk4D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126104213887565800,
+					"id_str": "1126104213887565824",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D6C50PDWwAA-BGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6C50PDWwAA-BGR.jpg",
+					"url": "https://t.co/VfrFQifk4D",
+					"display_url": "pic.twitter.com/VfrFQifk4D",
+					"expanded_url": "https://twitter.com/fermatslibrary/status/1126104215913467904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1493,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126104213887565800,
+					"id_str": "1126104213887565824",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D6C50PDWwAA-BGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6C50PDWwAA-BGR.jpg",
+					"url": "https://t.co/VfrFQifk4D",
+					"display_url": "pic.twitter.com/VfrFQifk4D",
+					"expanded_url": "https://twitter.com/fermatslibrary/status/1126104215913467904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1493,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3511430425,
+			"id_str": "3511430425",
+			"name": "Fermat's Library",
+			"screen_name": "fermatslibrary",
+			"location": "",
+			"description": "A platform for illuminating academic papers. We publish an annotated paper every week. Our chrome extension for arXiv: https://t.co/FVghWOrbyw",
+			"url": "https://t.co/4pXiyaVZ4Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4pXiyaVZ4Y",
+							"expanded_url": "http://fermatslibrary.com",
+							"display_url": "fermatslibrary.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FVghWOrbyw",
+							"expanded_url": "https://fermatslibrary.com/librarian",
+							"display_url": "fermatslibrary.com/librarian",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 220633,
+			"friends_count": 4,
+			"listed_count": 1756,
+			"created_at": "Thu Sep 10 03:54:59 +0000 2015",
+			"favourites_count": 188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641822497457860608/zd6kUAag_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641822497457860608/zd6kUAag_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3511430425/1444777996",
+			"profile_link_color": "009DE0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2759,
+		"favorite_count": 9465,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These diagrams show the paths traced by Mercury, Venus, Mars, Jupiter and Saturn as seen from Earth. https://t.co/VfrFQifk4D"
+	},
+	{
 		"created_at": "Tue May 07 12:47:52 +0000 2019",
 		"id": 1125744054631714800,
 		"id_str": "1125744054631714818",
