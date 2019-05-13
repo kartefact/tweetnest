@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 13:01:59 +0000 2019",
+		"id": 1127363963996389400,
+		"id_str": "1127559546828779520",
+		"full_text": "This is a great ad campaign. https://t.co/EgGKjzu6ch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127363958271144000,
+					"id_str": "1127363958271143936",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D6UzjAlUcAASSut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6UzjAlUcAASSut.jpg",
+					"url": "https://t.co/EgGKjzu6ch",
+					"display_url": "pic.twitter.com/EgGKjzu6ch",
+					"expanded_url": "https://twitter.com/mulegirl/status/1127363963996389376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 890,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127363958271144000,
+					"id_str": "1127363958271143936",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D6UzjAlUcAASSut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6UzjAlUcAASSut.jpg",
+					"url": "https://t.co/EgGKjzu6ch",
+					"display_url": "pic.twitter.com/EgGKjzu6ch",
+					"expanded_url": "https://twitter.com/mulegirl/status/1127363963996389376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 890,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2391,
+			"id_str": "2391",
+			"name": "Erika Hall",
+			"screen_name": "mulegirl",
+			"location": "California, USA",
+			"description": "Fighting, writing, and strategizing. Co-founder of Mule Design. We can help you figure it out.",
+			"url": "https://t.co/ljk6m3wC3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ljk6m3wC3L",
+							"expanded_url": "http://www.muledesign.com",
+							"display_url": "muledesign.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28380,
+			"friends_count": 4134,
+			"listed_count": 1346,
+			"created_at": "Tue Jul 18 19:12:35 +0000 2006",
+			"favourites_count": 76169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65908,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069072675744534529/KCAJIeYW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069072675744534529/KCAJIeYW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2391/1546802998",
+			"profile_link_color": "FF2200",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FF91BC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 708,
+		"favorite_count": 2231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a great ad campaign. https://t.co/EgGKjzu6ch"
+	},
+	{
 		"created_at": "Sat May 11 17:42:19 +0000 2019",
 		"id": 1127267706346991600,
 		"id_str": "1127267706346991616",
@@ -86,7 +260,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Sat May 11 12:35:42 +0000 2019",
 		"id": 1126687157165252600,
 		"id_str": "1127190544679985153",
-		"full_text": "Since 1966 Japan has had synchronized walking competitions (Shuudan Koudou) held at Nippon Sports Science Japanese University in Tokyo.⁣ https://t.co/KJTdqNqnjv",
+		"full_text": "Since 1966 Japan has had synchronized walking competitions (Shuudan Koudou) held at Nippon Sports Science Japanese University in Tokyo. https://t.co/KJTdqNqnjv",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -290,7 +464,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Since 1966 Japan has had synchronized walking competitions (Shuudan Koudou) held at Nippon Sports Science Japanese University in Tokyo.⁣ https://t.co/KJTdqNqnjv"
+		"text": "Since 1966 Japan has had synchronized walking competitions (Shuudan Koudou) held at Nippon Sports Science Japanese University in Tokyo. https://t.co/KJTdqNqnjv"
 	},
 	{
 		"created_at": "Sat May 11 12:33:42 +0000 2019",
