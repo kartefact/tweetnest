@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 15:05:31 +0000 2019",
+		"id": 1127932748746850300,
+		"id_str": "1128315412037259264",
+		"full_text": "Years from now\n\nwhen you’re debt-free\n\nsleeping as many hours as you want\n\nworking for a boss you admire (or for yourself)\n\nall of this effort you are investing in your skills\n\nall of this fear you are overcoming to put yourself out there\n\nIt will all have been worth it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341643950,
+			"id_str": "341643950",
+			"name": "Quincy Larson",
+			"screen_name": "ossia",
+			"location": "listening to Code Radio",
+			"description": "I’m the teacher who started https://t.co/VOFifdwJb4 where millions of people are learning to code for free. You should follow me here on Twitter. 👍",
+			"url": "https://t.co/bFFpmqMqEZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bFFpmqMqEZ",
+							"expanded_url": "https://www.freeCodeCamp.org",
+							"display_url": "freeCodeCamp.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VOFifdwJb4",
+							"expanded_url": "http://freeCodeCamp.org",
+							"display_url": "freeCodeCamp.org",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 78778,
+			"friends_count": 579,
+			"listed_count": 1323,
+			"created_at": "Sun Jul 24 18:24:50 +0000 2011",
+			"favourites_count": 75004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000147359764/54dc9a5c34e912f34db8662d53d16a39_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000147359764/54dc9a5c34e912f34db8662d53d16a39_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341643950/1426845813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2033,
+		"favorite_count": 6561,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Years from now\n\nwhen you’re debt-free\n\nsleeping as many hours as you want\n\nworking for a boss you admire (or for yourself)\n\nall of this effort you are investing in your skills\n\nall of this fear you are overcoming to put yourself out there\n\nIt will all have been worth it."
+	},
+	{
 		"created_at": "Mon May 13 07:44:16 +0000 2019",
 		"id": 1127841976856895500,
 		"id_str": "1127841976856895489",
