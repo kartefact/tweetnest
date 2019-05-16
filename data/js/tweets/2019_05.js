@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 16:25:47 +0000 2019",
+		"id": 1128333393563934700,
+		"id_str": "1128697997041123329",
+		"full_text": "This video is everything. \n\nLife lesson: Tears, disappointment and failure can turn into joy, self-confidence and success with the right people cheering you on.\n\n💛\n\nhttps://t.co/68l2OXBWLs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127747052723691500,
+					"id_str": "1127747052723691521",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127747052723691521/pu/img/CLdpxV-vDdnQFqGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127747052723691521/pu/img/CLdpxV-vDdnQFqGL.jpg",
+					"url": "https://t.co/68l2OXBWLs",
+					"display_url": "pic.twitter.com/68l2OXBWLs",
+					"expanded_url": "https://twitter.com/michael_loftman/status/1127747456555462656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1127747456555462700,
+					"source_status_id_str": "1127747456555462656",
+					"source_user_id": 777925279327129600,
+					"source_user_id_str": "777925279327129600"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127747052723691500,
+					"id_str": "1127747052723691521",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127747052723691521/pu/img/CLdpxV-vDdnQFqGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127747052723691521/pu/img/CLdpxV-vDdnQFqGL.jpg",
+					"url": "https://t.co/68l2OXBWLs",
+					"display_url": "pic.twitter.com/68l2OXBWLs",
+					"expanded_url": "https://twitter.com/michael_loftman/status/1127747456555462656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1127747456555462700,
+					"source_status_id_str": "1127747456555462656",
+					"source_user_id": 777925279327129600,
+					"source_user_id_str": "777925279327129600",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 57440,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127747052723691521/pu/vid/320x568/OlvVkF38fBeV1WC1.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127747052723691521/pu/vid/720x1280/nBWzYP_63u79dPCP.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1127747052723691521/pu/pl/btWJ9B9afGoIXauq.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127747052723691521/pu/vid/360x640/OrbvPgA2DofOO-94.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 777925279327129600,
+							"id_str": "777925279327129600",
+							"name": "Michael Loftman",
+							"screen_name": "michael_loftman",
+							"location": "Johannesburg, South Africa",
+							"description": "Lifestyle | Relationships | Impact | 🇬🇧🇯🇲🇿🇲🇿🇦 | UEFA A Coach * MSc Sports Scientist   * Writer * Designer * Creator * Dreamer *",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4203,
+							"friends_count": 464,
+							"listed_count": 3,
+							"created_at": "Mon Sep 19 17:40:14 +0000 2016",
+							"favourites_count": 868,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 927,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1125790523145502720/ySwMmtTG_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125790523145502720/ySwMmtTG_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/777925279327129600/1557244353",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 430750361,
+			"id_str": "430750361",
+			"name": "Yoni",
+			"screen_name": "OriginalYoni",
+			"location": "🇨🇦 Toronto 🛫 NYC",
+			"description": "Sports by hobby | Social Media by profession | Pop-cultured | Runner | Air-travel enthusiast | I met Drake before he was Drake | #WeTheNorth",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3860,
+			"friends_count": 528,
+			"listed_count": 83,
+			"created_at": "Wed Dec 07 14:41:36 +0000 2011",
+			"favourites_count": 3094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118880646351319040/SvP6qdqz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118880646351319040/SvP6qdqz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/430750361/1473401484",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11869,
+		"favorite_count": 47144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This video is everything. \n\nLife lesson: Tears, disappointment and failure can turn into joy, self-confidence and success with the right people cheering you on.\n\n💛\n\nhttps://t.co/68l2OXBWLs"
+	},
+	{
 		"created_at": "Tue May 14 15:05:31 +0000 2019",
 		"id": 1127932748746850300,
 		"id_str": "1128315412037259264",
