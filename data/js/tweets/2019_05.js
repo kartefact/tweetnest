@@ -1,6 +1,3449 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 21:55:55 +0000 2019",
+		"id": 1129562100605390800,
+		"id_str": "1129868241931649024",
+		"full_text": "In the era of a lot choices and options, \nBeing someone's priority is a blessing. ❤️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813389066074886100,
+			"id_str": "813389066074886144",
+			"name": "Dr.RSR 🌹 💗",
+			"screen_name": "Dermazone_",
+			"location": "India",
+			"description": "MD, Consultant Dermatologist, VD & Cosmetologist, Hopeful Romantic, Sometime Funny, Quotes, Poetry, Beauty tips. No DM  🇮🇳",
+			"url": "https://t.co/X1eL87kVXj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X1eL87kVXj",
+							"expanded_url": "https://twitter.com/search?q=from%3A%40Dermazone_%20-filter%3Amentions&s=09",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1190,
+			"friends_count": 472,
+			"listed_count": 3,
+			"created_at": "Mon Dec 26 14:20:40 +0000 2016",
+			"favourites_count": 38893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127049952499195904/5B9ENOmJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127049952499195904/5B9ENOmJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813389066074886144/1558222790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In the era of a lot choices and options, \nBeing someone's priority is a blessing. ❤️"
+	},
+	{
+		"created_at": "Sat May 18 21:53:19 +0000 2019",
+		"id": 1129209278114422800,
+		"id_str": "1129867586655571968",
+		"full_text": "Here’s a video of a guy putting a camera on a sushi conveyer belt. It’s wonderful. Every table has a little story! https://t.co/6mwKsTHJ0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129208360136454100,
+					"id_str": "1129208360136454144",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"url": "https://t.co/6mwKsTHJ0e",
+					"display_url": "pic.twitter.com/6mwKsTHJ0e",
+					"expanded_url": "https://twitter.com/DrewCoffman/status/1129209278114422784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129208360136454100,
+					"id_str": "1129208360136454144",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"url": "https://t.co/6mwKsTHJ0e",
+					"display_url": "pic.twitter.com/6mwKsTHJ0e",
+					"expanded_url": "https://twitter.com/DrewCoffman/status/1129209278114422784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/1280x720/elRYVKYY3u78LP_z.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/pl/An-5RdN6BFbcxiHs.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/320x180/uVysOmzmPQ-X-h4U.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/640x360/PcAqoOuHcW7SuSzH.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14355836,
+			"id_str": "14355836",
+			"name": "Drew Coffman",
+			"screen_name": "DrewCoffman",
+			"location": "Redding, CA",
+			"description": "Keyhouse. Talking with others at @_NetFriends and @BDYSTFM. Never settling. (I also bought a coffee shop.)",
+			"url": "https://t.co/kCT56tQSre",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCT56tQSre",
+							"expanded_url": "http://keyhou.se",
+							"display_url": "keyhou.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1989,
+			"friends_count": 159,
+			"listed_count": 57,
+			"created_at": "Thu Apr 10 22:11:05 +0000 2008",
+			"favourites_count": 20774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833513152113319936/jZ6at662_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833513152113319936/jZ6at662_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14355836/1491077995",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "557824",
+			"profile_sidebar_fill_color": "338AB8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121167,
+		"favorite_count": 363211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a video of a guy putting a camera on a sushi conveyer belt. It’s wonderful. Every table has a little story! https://t.co/6mwKsTHJ0e"
+	},
+	{
+		"created_at": "Sat May 18 21:50:00 +0000 2019",
+		"id": 1129851712611729400,
+		"id_str": "1129866751976529921",
+		"full_text": "This is Sysco. He‘s 13 years young and floofier than ever. Likes to point when he finds a new best friend. 13/10 looks like that’s you #SeniorPupSaturday https://t.co/zTL2vi3Ym6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SeniorPupSaturday",
+					"indices": [
+						135,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129851706987163600,
+					"id_str": "1129851706987163649",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D64KJCvWsAESZjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64KJCvWsAESZjS.jpg",
+					"url": "https://t.co/zTL2vi3Ym6",
+					"display_url": "pic.twitter.com/zTL2vi3Ym6",
+					"expanded_url": "https://twitter.com/dog_rates/status/1129851712611729408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 767,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 767,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129851706987163600,
+					"id_str": "1129851706987163649",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D64KJCvWsAESZjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64KJCvWsAESZjS.jpg",
+					"url": "https://t.co/zTL2vi3Ym6",
+					"display_url": "pic.twitter.com/zTL2vi3Ym6",
+					"expanded_url": "https://twitter.com/dog_rates/status/1129851712611729408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 767,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 767,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129851706978779100,
+					"id_str": "1129851706978779136",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D64KJCtWwAA64mh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64KJCtWwAA64mh.jpg",
+					"url": "https://t.co/zTL2vi3Ym6",
+					"display_url": "pic.twitter.com/zTL2vi3Ym6",
+					"expanded_url": "https://twitter.com/dog_rates/status/1129851712611729408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 928,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 928,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4196983835,
+			"id_str": "4196983835",
+			"name": "WeRateDogs™",
+			"screen_name": "dog_rates",
+			"location": "「 DM YOUR DOGS 」",
+			"description": "Your Only Source For Professional Dog Ratings Instagram and Facebook ➪ WeRateDogs partnerships@weratedogs.com ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+			"url": "https://t.co/N7sNNHSfPq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N7sNNHSfPq",
+							"expanded_url": "http://weratedogs.com",
+							"display_url": "weratedogs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8059269,
+			"friends_count": 12,
+			"listed_count": 6189,
+			"created_at": "Sun Nov 15 21:41:29 +0000 2015",
+			"favourites_count": 142338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112594177961844736/qQK8NJT-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112594177961844736/qQK8NJT-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4196983835/1558030260",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5633,
+		"favorite_count": 52440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Sysco. He‘s 13 years young and floofier than ever. Likes to point when he finds a new best friend. 13/10 looks like that’s you #SeniorPupSaturday https://t.co/zTL2vi3Ym6"
+	},
+	{
+		"created_at": "Sat May 18 21:47:19 +0000 2019",
+		"id": 1129605518555799600,
+		"id_str": "1129866079763742720",
+		"full_text": "I have no words to describe this. Watch. Get inspired. https://t.co/p74bze8qa1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129604820049059800,
+					"id_str": "1129604820049059842",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129604820049059842/pu/img/AKK20y8jF1qd3roS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129604820049059842/pu/img/AKK20y8jF1qd3roS.jpg",
+					"url": "https://t.co/p74bze8qa1",
+					"display_url": "pic.twitter.com/p74bze8qa1",
+					"expanded_url": "https://twitter.com/GabbbarSingh/status/1129605518555799552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129604820049059800,
+					"id_str": "1129604820049059842",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129604820049059842/pu/img/AKK20y8jF1qd3roS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129604820049059842/pu/img/AKK20y8jF1qd3roS.jpg",
+					"url": "https://t.co/p74bze8qa1",
+					"display_url": "pic.twitter.com/p74bze8qa1",
+					"expanded_url": "https://twitter.com/GabbbarSingh/status/1129605518555799552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139847,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129604820049059842/pu/pl/UuXsv1soun20tzZj.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129604820049059842/pu/vid/320x180/_yNthZA4lPGy21y6.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129604820049059842/pu/vid/640x360/JANR5CJeYTQgrpwR.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108391251,
+			"id_str": "108391251",
+			"name": "Gabbbar",
+			"screen_name": "GabbbarSingh",
+			"location": "Gurgaon, India",
+			"description": "Economics - Right.\nSociety & Culture - Left\n\n| contact: aby.asthana@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301950,
+			"friends_count": 1235,
+			"listed_count": 1560,
+			"created_at": "Mon Jan 25 20:08:24 +0000 2010",
+			"favourites_count": 7789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 189010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930647895933517826/RIp8dfLD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930647895933517826/RIp8dfLD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108391251/1533150512",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2643,
+		"favorite_count": 5788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have no words to describe this. Watch. Get inspired. https://t.co/p74bze8qa1"
+	},
+	{
+		"created_at": "Sat May 18 21:43:48 +0000 2019",
+		"id": 1129195602145947600,
+		"id_str": "1129865193377243137",
+		"full_text": "Goodbye, uterus. You’re as broken as my heart, and we deserved better.\n\nI have this print I bought from my friend around the time of my abortion: “Your heart is a muscle the size of your fist. Keep loving. Keep fighting.”\n\nSo is your uterus. \n\nKeep loving. Keep fighting. https://t.co/MWbXFD3RUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129195597280555000,
+					"id_str": "1129195597280555008",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D6u1abnXsAAVl2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6u1abnXsAAVl2p.jpg",
+					"url": "https://t.co/MWbXFD3RUt",
+					"display_url": "pic.twitter.com/MWbXFD3RUt",
+					"expanded_url": "https://twitter.com/JacquelynGill/status/1129195602145947648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129195597280555000,
+					"id_str": "1129195597280555008",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D6u1abnXsAAVl2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6u1abnXsAAVl2p.jpg",
+					"url": "https://t.co/MWbXFD3RUt",
+					"display_url": "pic.twitter.com/MWbXFD3RUt",
+					"expanded_url": "https://twitter.com/JacquelynGill/status/1129195602145947648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1129193239486115800,
+		"in_reply_to_status_id_str": "1129193239486115842",
+		"in_reply_to_user_id": 112475924,
+		"in_reply_to_user_id_str": "112475924",
+		"in_reply_to_screen_name": "JacquelynGill",
+		"user": {
+			"id": 112475924,
+			"id_str": "112475924",
+			"name": "Dr. Jacquelyn Gill",
+			"screen_name": "JacquelynGill",
+			"location": "Maine, USA",
+			"description": "Ice Age ecologist in a warming world. Professor @UMaine. Co-host of @ourwarmregards. Like Dana Scully, with mud and mammoths.",
+			"url": "https://t.co/llz7E4qqly",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/llz7E4qqly",
+							"expanded_url": "http://contemplativemammoth.wordpress.com/",
+							"display_url": "contemplativemammoth.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45703,
+			"friends_count": 2849,
+			"listed_count": 1296,
+			"created_at": "Mon Feb 08 16:51:09 +0000 2010",
+			"favourites_count": 72991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 92493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816027573343965184/qUfIq3xY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816027573343965184/qUfIq3xY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112475924/1398456539",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 3099,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Goodbye, uterus. You’re as broken as my heart, and we deserved better.\n\nI have this print I bought from my friend around the time of my abortion: “Your heart is a muscle the size of your fist. Keep loving. Keep fighting.”\n\nSo is your uterus. \n\nKeep loving. Keep fighting. https://t.co/MWbXFD3RUt"
+	},
+	{
+		"created_at": "Sat May 18 21:42:54 +0000 2019",
+		"id": 1129180389975756800,
+		"id_str": "1129864967702716416",
+		"full_text": "Tomorrow, I’m having a hysterectomy to treat my adenomyosis. There are things I would rather do right now than talk about my abortion, but given what’s happening right now to restrict access to basic healthcare across the US, I’ve decided I can no longer sit on my story.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112475924,
+			"id_str": "112475924",
+			"name": "Dr. Jacquelyn Gill",
+			"screen_name": "JacquelynGill",
+			"location": "Maine, USA",
+			"description": "Ice Age ecologist in a warming world. Professor @UMaine. Co-host of @ourwarmregards. Like Dana Scully, with mud and mammoths.",
+			"url": "https://t.co/llz7E4qqly",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/llz7E4qqly",
+							"expanded_url": "http://contemplativemammoth.wordpress.com/",
+							"display_url": "contemplativemammoth.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45703,
+			"friends_count": 2849,
+			"listed_count": 1296,
+			"created_at": "Mon Feb 08 16:51:09 +0000 2010",
+			"favourites_count": 72991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 92493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816027573343965184/qUfIq3xY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816027573343965184/qUfIq3xY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112475924/1398456539",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2217,
+		"favorite_count": 7945,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tomorrow, I’m having a hysterectomy to treat my adenomyosis. There are things I would rather do right now than talk about my abortion, but given what’s happening right now to restrict access to basic healthcare across the US, I’ve decided I can no longer sit on my story."
+	},
+	{
+		"created_at": "Sat May 18 21:35:21 +0000 2019",
+		"id": 1129849937099931600,
+		"id_str": "1129863067364315136",
+		"full_text": "Best thing on social media today. https://t.co/GZbR8kj9LV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129849931592810500,
+					"id_str": "1129849931592810496",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D64Ihs4WwAAs0ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64Ihs4WwAAs0ib.jpg",
+					"url": "https://t.co/GZbR8kj9LV",
+					"display_url": "pic.twitter.com/GZbR8kj9LV",
+					"expanded_url": "https://twitter.com/_shrvn/status/1129849937099931649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129849931592810500,
+					"id_str": "1129849931592810496",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D64Ihs4WwAAs0ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64Ihs4WwAAs0ib.jpg",
+					"url": "https://t.co/GZbR8kj9LV",
+					"display_url": "pic.twitter.com/GZbR8kj9LV",
+					"expanded_url": "https://twitter.com/_shrvn/status/1129849937099931649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110142597,
+			"id_str": "110142597",
+			"name": "Shravan",
+			"screen_name": "_shrvn",
+			"location": "Bengaluru, Karnataka",
+			"description": "Media Strategy. Photography. Theatre. Cinema. Football.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 664,
+			"friends_count": 355,
+			"listed_count": 11,
+			"created_at": "Sun Jan 31 13:56:56 +0000 2010",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102874864535461888/zWK3a9dz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102874864535461888/zWK3a9dz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110142597/1544279065",
+			"profile_link_color": "4169E1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best thing on social media today. https://t.co/GZbR8kj9LV"
+	},
+	{
+		"created_at": "Sat May 18 19:47:43 +0000 2019",
+		"id": 1129835978925854700,
+		"id_str": "1129835978925854720",
+		"full_text": "Saw the success kid somewhere today and remembered this. @r3dash Have you shown this to your better half? 😁 https://t.co/fHKYOTmGY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r3dash",
+					"name": "Ershad Kaleebullah",
+					"id": 106728983,
+					"id_str": "106728983",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fHKYOTmGY2",
+					"expanded_url": "https://twitter.com/amabirdman/status/402836156791791616",
+					"display_url": "twitter.com/amabirdman/sta…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 402836156791791600,
+		"quoted_status_id_str": "402836156791791616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fHKYOTmGY2",
+			"expanded": "https://twitter.com/amabirdman/status/402836156791791616",
+			"display": "twitter.com/amabirdman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 19 16:29:58 +0000 2013",
+			"id": 402836156791791600,
+			"id_str": "402836156791791616",
+			"full_text": "Successkid has grown up (cc: @_tharkuri @WhatteKarvaad @r3dash @ranjanikanth @kartefact @_curses) http://t.co/j9FTAVF58t",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "_tharkuri",
+						"name": "Ranjani",
+						"id": 192813562,
+						"id_str": "192813562",
+						"indices": [
+							29,
+							39
+						]
+					},
+					{
+						"screen_name": "WhatteKarvaad",
+						"name": "Vinay Kumaar",
+						"id": 51445659,
+						"id_str": "51445659",
+						"indices": [
+							40,
+							54
+						]
+					},
+					{
+						"screen_name": "r3dash",
+						"name": "Ershad Kaleebullah",
+						"id": 106728983,
+						"id_str": "106728983",
+						"indices": [
+							55,
+							62
+						]
+					},
+					{
+						"screen_name": "kartefact",
+						"name": "Kartefact",
+						"id": 35215066,
+						"id_str": "35215066",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"screen_name": "_curses",
+						"name": "Harish",
+						"id": 135064320,
+						"id_str": "135064320",
+						"indices": [
+							88,
+							96
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 402836156800180200,
+						"id_str": "402836156800180227",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/BZcpWazCIAMg09y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BZcpWazCIAMg09y.jpg",
+						"url": "http://t.co/j9FTAVF58t",
+						"display_url": "pic.twitter.com/j9FTAVF58t",
+						"expanded_url": "https://twitter.com/amabirdman/status/402836156791791616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 372,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 316,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 372,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 402836156800180200,
+						"id_str": "402836156800180227",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/BZcpWazCIAMg09y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BZcpWazCIAMg09y.jpg",
+						"url": "http://t.co/j9FTAVF58t",
+						"display_url": "pic.twitter.com/j9FTAVF58t",
+						"expanded_url": "https://twitter.com/amabirdman/status/402836156791791616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 372,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 316,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 372,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67494533,
+				"id_str": "67494533",
+				"name": "𝓑𝓲𝓻𝓭𝓶𝓪𝓷",
+				"screen_name": "amabirdman",
+				"location": "Chennai, India",
+				"description": "Birding, Nature, Music.\nFan of AR Rahman, Sachin & Federer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4103,
+				"friends_count": 330,
+				"listed_count": 62,
+				"created_at": "Fri Aug 21 02:12:26 +0000 2009",
+				"favourites_count": 4221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 72845,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117617072865857536/KpsLr7s8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117617072865857536/KpsLr7s8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67494533/1557649561",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF09E",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saw the success kid somewhere today and remembered this. @r3dash Have you shown this to your better half? 😁 https://t.co/fHKYOTmGY2"
+	},
+	{
+		"created_at": "Sat May 18 07:37:45 +0000 2019",
+		"id": 1129459527651188700,
+		"id_str": "1129652278279921665",
+		"full_text": "What does midnight twitter discuss these days ? Back in the old days we spoke about heartbreak , dreams, music, childhood, grief and food !",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14082833,
+			"id_str": "14082833",
+			"name": "PDA",
+			"screen_name": "suddentwilight",
+			"location": "india",
+			"description": "{Photographer } {HR} {Blogger} { Fashion } { Yoga } { Travel } { Handmade } Above all I am awesome! views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8083,
+			"friends_count": 690,
+			"listed_count": 296,
+			"created_at": "Wed Mar 05 12:22:19 +0000 2008",
+			"favourites_count": 3401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044067138707828736/XBJ_vwoN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044067138707828736/XBJ_vwoN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14082833/1529823697",
+			"profile_link_color": "050405",
+			"profile_sidebar_border_color": "0E4275",
+			"profile_sidebar_fill_color": "20546E",
+			"profile_text_color": "9C7B9C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7929cea6bd5b32bd",
+			"url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+			"place_type": "city",
+			"name": "Mumbai",
+			"full_name": "Mumbai, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							72.74484,
+							18.845343
+						],
+						[
+							73.003648,
+							18.845343
+						],
+						[
+							73.003648,
+							19.502937
+						],
+						[
+							72.74484,
+							19.502937
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What does midnight twitter discuss these days ? Back in the old days we spoke about heartbreak , dreams, music, childhood, grief and food !"
+	},
+	{
+		"created_at": "Sat May 18 07:36:47 +0000 2019",
+		"id": 1129465664459202600,
+		"id_str": "1129652035635240960",
+		"full_text": "Who knows what kind of magic is happening to all the crap that we buy https://t.co/MwmZPrnS7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129465624881782800,
+					"id_str": "1129465624881782785",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129465624881782785/pu/img/UFOHcL1zuqGfAZXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129465624881782785/pu/img/UFOHcL1zuqGfAZXl.jpg",
+					"url": "https://t.co/MwmZPrnS7t",
+					"display_url": "pic.twitter.com/MwmZPrnS7t",
+					"expanded_url": "https://twitter.com/deadprogrammer/status/1129465664459202560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 572,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 572,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129465624881782800,
+					"id_str": "1129465624881782785",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129465624881782785/pu/img/UFOHcL1zuqGfAZXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129465624881782785/pu/img/UFOHcL1zuqGfAZXl.jpg",
+					"url": "https://t.co/MwmZPrnS7t",
+					"display_url": "pic.twitter.com/MwmZPrnS7t",
+					"expanded_url": "https://twitter.com/deadprogrammer/status/1129465664459202560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 572,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 572,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							286,
+							427
+						],
+						"duration_millis": 11725,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129465624881782785/pu/vid/572x854/4W41XmNChcB2RZtF.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129465624881782785/pu/vid/360x536/8_qkisSMW5zVhNgc.mp4?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129465624881782785/pu/vid/320x476/F3XF-UYeJvzRZB81.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129465624881782785/pu/pl/P1X_Zsvd3TKU3Ck8.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1520431,
+			"id_str": "1520431",
+			"name": "Deadprogrammer",
+			"screen_name": "deadprogrammer",
+			"location": "New York",
+			"description": "Bringing you raw, artisanal tweets with the force of two Teslas. Keep well hydrated!",
+			"url": "https://t.co/8ST1jmVwlb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8ST1jmVwlb",
+							"expanded_url": "http://www.deadprogrammer.com",
+							"display_url": "deadprogrammer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3381,
+			"friends_count": 250,
+			"listed_count": 170,
+			"created_at": "Mon Mar 19 15:52:04 +0000 2007",
+			"favourites_count": 1132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771758194217615360/80yJivUa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771758194217615360/80yJivUa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1520431/1521065169",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who knows what kind of magic is happening to all the crap that we buy https://t.co/MwmZPrnS7t"
+	},
+	{
+		"created_at": "Sat May 18 07:36:03 +0000 2019",
+		"id": 1129636988099977200,
+		"id_str": "1129651849672310784",
+		"full_text": "These devices are vacuuming plastic from our oceans https://t.co/CKckSoUDfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 967130642235314200,
+					"id_str": "967130642235314176",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/967130642235314176/img/u07PZRco0yYO_uc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/967130642235314176/img/u07PZRco0yYO_uc_.jpg",
+					"url": "https://t.co/CKckSoUDfv",
+					"display_url": "pic.twitter.com/CKckSoUDfv",
+					"expanded_url": "https://twitter.com/mashable/status/1129636988099977216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 967130642235314200,
+					"id_str": "967130642235314176",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/967130642235314176/img/u07PZRco0yYO_uc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/967130642235314176/img/u07PZRco0yYO_uc_.jpg",
+					"url": "https://t.co/CKckSoUDfv",
+					"display_url": "pic.twitter.com/CKckSoUDfv",
+					"expanded_url": "https://twitter.com/mashable/status/1129636988099977216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69437,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/967130642235314176/pl/0-_aV6sg1CLct3Wt.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/967130642235314176/vid/640x360/52w4l3e1_-BZdBZz.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/967130642235314176/vid/1280x720/h8Fu23GxTALmMLhZ.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/967130642235314176/vid/320x180/OgLwGYrXdUZ484js.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "This machine is basically a Roomba for waterways",
+						"description": "These innovative trash wheels are powered by mother nature and are working hard to remove trash and debris from waterways to keep them from flowing into our oceans.",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/zezT3h-ohjE"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 972651,
+			"id_str": "972651",
+			"name": "Mashable",
+			"screen_name": "mashable",
+			"location": "",
+			"description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.",
+			"url": "http://t.co/1Gm8aVACKn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1Gm8aVACKn",
+							"expanded_url": "http://mashable.com",
+							"display_url": "mashable.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9805507,
+			"friends_count": 2769,
+			"listed_count": 127772,
+			"created_at": "Mon Mar 12 01:28:01 +0000 2007",
+			"favourites_count": 1023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 339786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00AEEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013772445243895808/jk7SUWdn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013772445243895808/jk7SUWdn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+			"profile_link_color": "00AEEF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "88DBF4",
+			"profile_text_color": "3B3B3B",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These devices are vacuuming plastic from our oceans https://t.co/CKckSoUDfv"
+	},
+	{
+		"created_at": "Sat May 18 07:33:44 +0000 2019",
+		"id": 1129307190605389800,
+		"id_str": "1129651267175735296",
+		"full_text": "Can anyone get any work done in this hailstorm weather? 🤩 #bangalorerains https://t.co/8V6AkxHhSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bangalorerains",
+					"indices": [
+						58,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129307064268812300,
+					"id_str": "1129307064268812291",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129307064268812291/pu/img/g6h1BEhBeL63P2LA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129307064268812291/pu/img/g6h1BEhBeL63P2LA.jpg",
+					"url": "https://t.co/8V6AkxHhSV",
+					"display_url": "pic.twitter.com/8V6AkxHhSV",
+					"expanded_url": "https://twitter.com/limitedcoffee/status/1129307190605389824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129307064268812300,
+					"id_str": "1129307064268812291",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129307064268812291/pu/img/g6h1BEhBeL63P2LA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129307064268812291/pu/img/g6h1BEhBeL63P2LA.jpg",
+					"url": "https://t.co/8V6AkxHhSV",
+					"display_url": "pic.twitter.com/8V6AkxHhSV",
+					"expanded_url": "https://twitter.com/limitedcoffee/status/1129307190605389824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6400,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129307064268812291/pu/vid/320x568/EBRcpKJkHoie8nG-.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129307064268812291/pu/vid/360x640/5dCEWtQZkbzJiJ91.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129307064268812291/pu/vid/720x1280/a2f7Fsn-DmZ4X6ol.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129307064268812291/pu/pl/KfQSxWWvBxb8MYOn.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1122027678981189600,
+			"id_str": "1122027678981189632",
+			"name": "Rini",
+			"screen_name": "limitedcoffee",
+			"location": "",
+			"description": "Bangalorean. Ex-Amarchand lawyer. Symbiosis law school alum.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Sat Apr 27 06:40:19 +0000 2019",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122051241150795776/MDUhMWsR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122051241150795776/MDUhMWsR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122027678981189632/1558191290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can anyone get any work done in this hailstorm weather? 🤩 #bangalorerains https://t.co/8V6AkxHhSV"
+	},
+	{
+		"created_at": "Sat May 18 07:25:22 +0000 2019",
+		"id": 1129649161547132900,
+		"id_str": "1129649161547132928",
+		"full_text": "@shirinmehrotra And finally Rustom's Ice cream sandwich on Veer Nariman road near Church gate station. Don't have a pic unfortunately.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirinmehrotra",
+					"name": "Shirin",
+					"id": 95662194,
+					"id_str": "95662194",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129648583068676100,
+		"in_reply_to_status_id_str": "1129648583068676096",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shirinmehrotra And finally Rustom's Ice cream sandwich on Veer Nariman road near Church gate station. Don't have a pic unfortunately."
+	},
+	{
+		"created_at": "Sat May 18 07:23:04 +0000 2019",
+		"id": 1129648583068676100,
+		"id_str": "1129648583068676096",
+		"full_text": "@shirinmehrotra Green chili ice cream at Bachelor's opposite Girgaum Chowpatty... https://t.co/OPuOJbkutb",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirinmehrotra",
+					"name": "Shirin",
+					"id": 95662194,
+					"id_str": "95662194",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129648574747201500,
+					"id_str": "1129648574747201536",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D61RZMLVUAA2FP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61RZMLVUAA2FP8.jpg",
+					"url": "https://t.co/OPuOJbkutb",
+					"display_url": "pic.twitter.com/OPuOJbkutb",
+					"expanded_url": "https://twitter.com/kartefact/status/1129648583068676096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129648574747201500,
+					"id_str": "1129648574747201536",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D61RZMLVUAA2FP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61RZMLVUAA2FP8.jpg",
+					"url": "https://t.co/OPuOJbkutb",
+					"display_url": "pic.twitter.com/OPuOJbkutb",
+					"expanded_url": "https://twitter.com/kartefact/status/1129648583068676096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129648351194910700,
+		"in_reply_to_status_id_str": "1129648351194910721",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shirinmehrotra Green chili ice cream at Bachelor's opposite Girgaum Chowpatty... https://t.co/OPuOJbkutb"
+	},
+	{
+		"created_at": "Sat May 18 07:22:09 +0000 2019",
+		"id": 1129648351194910700,
+		"id_str": "1129648351194910721",
+		"full_text": "@shirinmehrotra Dabeli on the roadside near King's circle outside Matunga station next to Milap matching centre... https://t.co/H333832SuL",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirinmehrotra",
+					"name": "Shirin",
+					"id": 95662194,
+					"id_str": "95662194",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129648338456813600,
+					"id_str": "1129648338456813568",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D61RLb7UIAAMYR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61RLb7UIAAMYR7.jpg",
+					"url": "https://t.co/H333832SuL",
+					"display_url": "pic.twitter.com/H333832SuL",
+					"expanded_url": "https://twitter.com/kartefact/status/1129648351194910721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129648338456813600,
+					"id_str": "1129648338456813568",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D61RLb7UIAAMYR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61RLb7UIAAMYR7.jpg",
+					"url": "https://t.co/H333832SuL",
+					"display_url": "pic.twitter.com/H333832SuL",
+					"expanded_url": "https://twitter.com/kartefact/status/1129648351194910721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129647819457830900,
+		"in_reply_to_status_id_str": "1129647819457830913",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shirinmehrotra Dabeli on the roadside near King's circle outside Matunga station next to Milap matching centre... https://t.co/H333832SuL"
+	},
+	{
+		"created_at": "Sat May 18 07:20:42 +0000 2019",
+		"id": 1129647987448139800,
+		"id_str": "1129647987448139776",
+		"full_text": "@shirinmehrotra Tiramisu at Theobroma... https://t.co/ZHA75ncBqZ",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirinmehrotra",
+					"name": "Shirin",
+					"id": 95662194,
+					"id_str": "95662194",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129647968468885500,
+					"id_str": "1129647968468885504",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D61Q15nUYAA460p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61Q15nUYAA460p.jpg",
+					"url": "https://t.co/ZHA75ncBqZ",
+					"display_url": "pic.twitter.com/ZHA75ncBqZ",
+					"expanded_url": "https://twitter.com/kartefact/status/1129647987448139776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129647968468885500,
+					"id_str": "1129647968468885504",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D61Q15nUYAA460p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61Q15nUYAA460p.jpg",
+					"url": "https://t.co/ZHA75ncBqZ",
+					"display_url": "pic.twitter.com/ZHA75ncBqZ",
+					"expanded_url": "https://twitter.com/kartefact/status/1129647987448139776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129647819457830900,
+		"in_reply_to_status_id_str": "1129647819457830913",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@shirinmehrotra Tiramisu at Theobroma... https://t.co/ZHA75ncBqZ"
+	},
+	{
+		"created_at": "Sat May 18 07:20:02 +0000 2019",
+		"id": 1129647819457830900,
+		"id_str": "1129647819457830913",
+		"full_text": "@shirinmehrotra Aah I see. Here are a few more... \n\nBadshahi Falooda at Badshah Falooda in Crawford market... https://t.co/bZZ8L79uKo",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirinmehrotra",
+					"name": "Shirin",
+					"id": 95662194,
+					"id_str": "95662194",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129647805323071500,
+					"id_str": "1129647805323071489",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D61QsZ2U0AEdFjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61QsZ2U0AEdFjO.jpg",
+					"url": "https://t.co/bZZ8L79uKo",
+					"display_url": "pic.twitter.com/bZZ8L79uKo",
+					"expanded_url": "https://twitter.com/kartefact/status/1129647819457830913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129647805323071500,
+					"id_str": "1129647805323071489",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D61QsZ2U0AEdFjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61QsZ2U0AEdFjO.jpg",
+					"url": "https://t.co/bZZ8L79uKo",
+					"display_url": "pic.twitter.com/bZZ8L79uKo",
+					"expanded_url": "https://twitter.com/kartefact/status/1129647819457830913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129645607230926800,
+		"in_reply_to_status_id_str": "1129645607230926848",
+		"in_reply_to_user_id": 95662194,
+		"in_reply_to_user_id_str": "95662194",
+		"in_reply_to_screen_name": "shirinmehrotra",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shirinmehrotra Aah I see. Here are a few more... \n\nBadshahi Falooda at Badshah Falooda in Crawford market... https://t.co/bZZ8L79uKo"
+	},
+	{
+		"created_at": "Sat May 18 07:12:38 +0000 2019",
+		"id": 1129645957451092000,
+		"id_str": "1129645957451091968",
+		"full_text": "@r3dash @OnSpectra I had had spectra for a couple of months here on luru and they were terrible to respond. Connection was not anywhere close to 1Gbps that they claimed. I was getting about 150Mbps at most times and at very few times of the day about 350-400Mbps. Disconnected it.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r3dash",
+					"name": "Ershad Kaleebullah",
+					"id": 106728983,
+					"id_str": "106728983",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "OnSpectra",
+					"name": "Spectra",
+					"id": 724892964821057500,
+					"id_str": "724892964821057536",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129626435356831700,
+		"in_reply_to_status_id_str": "1129626435356831744",
+		"in_reply_to_user_id": 106728983,
+		"in_reply_to_user_id_str": "106728983",
+		"in_reply_to_screen_name": "r3dash",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@r3dash @OnSpectra I had had spectra for a couple of months here on luru and they were terrible to respond. Connection was not anywhere close to 1Gbps that they claimed. I was getting about 150Mbps at most times and at very few times of the day about 350-400Mbps. Disconnected it."
+	},
+	{
+		"created_at": "Sat May 18 06:51:24 +0000 2019",
+		"id": 1129640613672964100,
+		"id_str": "1129640613672964099",
+		"full_text": "@r3dash @1MoreUSA This looks nice. Price is very decent, but how's the audio quality? My only problem with any earphone or headphones is that they don't allow me to lie in bed on my side. They press into my ear and cause pain. Was looking into truly wireless to solve that problem but seems not.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r3dash",
+					"name": "Ershad Kaleebullah",
+					"id": 106728983,
+					"id_str": "106728983",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "1MoreUSA",
+					"name": "1MORE",
+					"id": 4557608126,
+					"id_str": "4557608126",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129611885597212700,
+		"in_reply_to_status_id_str": "1129611885597212672",
+		"in_reply_to_user_id": 106728983,
+		"in_reply_to_user_id_str": "106728983",
+		"in_reply_to_screen_name": "r3dash",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@r3dash @1MoreUSA This looks nice. Price is very decent, but how's the audio quality? My only problem with any earphone or headphones is that they don't allow me to lie in bed on my side. They press into my ear and cause pain. Was looking into truly wireless to solve that problem but seems not."
+	},
+	{
+		"created_at": "Sat May 18 06:47:59 +0000 2019",
+		"id": 1129639754029457400,
+		"id_str": "1129639754029457410",
+		"full_text": "@shirinmehrotra I was recommended Sardar Pav Bhaji on Tardeo road and it was brilliant. Made me wonder if it was butter in bhaji or bhaji in butter. P.S. : This was 6 years ago. https://t.co/EJIntnS2QY",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shirinmehrotra",
+					"name": "Shirin",
+					"id": 95662194,
+					"id_str": "95662194",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129639741895241700,
+					"id_str": "1129639741895241728",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D61JXDPUcAAAMQ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61JXDPUcAAAMQ3.jpg",
+					"url": "https://t.co/EJIntnS2QY",
+					"display_url": "pic.twitter.com/EJIntnS2QY",
+					"expanded_url": "https://twitter.com/kartefact/status/1129639754029457410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129639741895241700,
+					"id_str": "1129639741895241728",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D61JXDPUcAAAMQ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61JXDPUcAAAMQ3.jpg",
+					"url": "https://t.co/EJIntnS2QY",
+					"display_url": "pic.twitter.com/EJIntnS2QY",
+					"expanded_url": "https://twitter.com/kartefact/status/1129639754029457410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129634181833666600,
+		"in_reply_to_status_id_str": "1129634181833666560",
+		"in_reply_to_user_id": 95662194,
+		"in_reply_to_user_id_str": "95662194",
+		"in_reply_to_screen_name": "shirinmehrotra",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shirinmehrotra I was recommended Sardar Pav Bhaji on Tardeo road and it was brilliant. Made me wonder if it was butter in bhaji or bhaji in butter. P.S. : This was 6 years ago. https://t.co/EJIntnS2QY"
+	},
+	{
+		"created_at": "Sat May 18 06:37:02 +0000 2019",
+		"id": 1129318179795112000,
+		"id_str": "1129636995850854400",
+		"full_text": "If you restrain from wrong-doing, people will see you as a friend and you’ll be happy. When people are powerful and wealthy, but dishonest, people don’t like them, even if they don’t show it to their faces. If you do good, you’ll have friends and when you’re gone you’ll be missed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20609518,
+			"id_str": "20609518",
+			"name": "Dalai Lama",
+			"screen_name": "DalaiLama",
+			"location": "Dharamsala, India",
+			"description": "Welcome to the official twitter page of the Office of His Holiness the 14th Dalai Lama.",
+			"url": "http://t.co/AKctyfx8On",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AKctyfx8On",
+							"expanded_url": "http://dalailama.com",
+							"display_url": "dalailama.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19161462,
+			"friends_count": 0,
+			"listed_count": 81220,
+			"created_at": "Wed Feb 11 18:34:22 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFD21D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529214699041067008/fqPBAr5s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529214699041067008/fqPBAr5s_normal.jpeg",
+			"profile_link_color": "7D1900",
+			"profile_sidebar_border_color": "E8E3CE",
+			"profile_sidebar_fill_color": "F7F2DC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14921,
+		"favorite_count": 55017,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you restrain from wrong-doing, people will see you as a friend and you’ll be happy. When people are powerful and wealthy, but dishonest, people don’t like them, even if they don’t show it to their faces. If you do good, you’ll have friends and when you’re gone you’ll be missed"
+	},
+	{
 		"created_at": "Fri May 17 11:58:04 +0000 2019",
 		"id": 1129355399251939300,
 		"id_str": "1129355399251939329",
