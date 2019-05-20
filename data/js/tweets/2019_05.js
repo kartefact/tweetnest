@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 17:26:59 +0000 2019",
+		"id": 1130116808265146400,
+		"id_str": "1130162949287362565",
+		"full_text": "The sincerest apology you can ever give is an adjusted behavior.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36116540,
+			"id_str": "36116540",
+			"name": "Yahdon Israel",
+			"screen_name": "yahdonisrael",
+			"location": "Bed-Stuy, Brooklyn",
+			"description": "Writer; Host of @litplatform and @Literaryswagbookclub; VP of Awards @bookcritics",
+			"url": "https://t.co/1vRhRPkof7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vRhRPkof7",
+							"expanded_url": "http://yahdonisrael.com",
+							"display_url": "yahdonisrael.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2362,
+			"friends_count": 427,
+			"listed_count": 49,
+			"created_at": "Tue Apr 28 16:56:04 +0000 2009",
+			"favourites_count": 3007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "111C1D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020017317655269376/onRH3AGm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020017317655269376/onRH3AGm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36116540/1449948402",
+			"profile_link_color": "7A23E1",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "0A0B0A",
+			"profile_text_color": "EEECEC",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 825,
+		"favorite_count": 2969,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The sincerest apology you can ever give is an adjusted behavior."
+	},
+	{
+		"created_at": "Sun May 19 13:22:16 +0000 2019",
+		"id": 1130085016623603700,
+		"id_str": "1130101367563939844",
+		"full_text": "Floop. This is how I feel when my laptop battery dies when I keep ignoring warnings. Don't worry kitten is safe and he was just tired and fall asleep. https://t.co/LyFXzfqFAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130084667175055400,
+					"id_str": "1130084667175055361",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D67eBHEVsAE48pT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D67eBHEVsAE48pT.jpg",
+					"url": "https://t.co/LyFXzfqFAy",
+					"display_url": "pic.twitter.com/LyFXzfqFAy",
+					"expanded_url": "https://twitter.com/nixcraft/status/1130085016623603712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 598,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130084667175055400,
+					"id_str": "1130084667175055361",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D67eBHEVsAE48pT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D67eBHEVsAE48pT.jpg",
+					"url": "https://t.co/LyFXzfqFAy",
+					"display_url": "pic.twitter.com/LyFXzfqFAy",
+					"expanded_url": "https://twitter.com/nixcraft/status/1130085016623603712/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 598,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							299
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D67eBHEVsAE48pT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17484680,
+			"id_str": "17484680",
+			"name": "The Best Linux Blog In the Unixverse",
+			"screen_name": "nixcraft",
+			"location": "Rootland",
+			"description": "Enjoy Linux & Unix-like systems? Open source software and programming? Sysadmin & DevOps work? Follow us to make the most of sysadmin-hood.",
+			"url": "https://t.co/dwH1Fatmvu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dwH1Fatmvu",
+							"expanded_url": "https://www.cyberciti.biz/",
+							"display_url": "cyberciti.biz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127936,
+			"friends_count": 253,
+			"listed_count": 3145,
+			"created_at": "Wed Nov 19 12:12:37 +0000 2008",
+			"favourites_count": 36177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854775743552696324/JPAU_2aP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854775743552696324/JPAU_2aP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17484680/1486494500",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Floop. This is how I feel when my laptop battery dies when I keep ignoring warnings. Don't worry kitten is safe and he was just tired and fall asleep. https://t.co/LyFXzfqFAy"
+	},
+	{
 		"created_at": "Sat May 18 21:55:55 +0000 2019",
 		"id": 1129562100605390800,
 		"id_str": "1129868241931649024",
