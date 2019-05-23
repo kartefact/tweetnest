@@ -1,6 +1,1305 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 08:06:01 +0000 2019",
+		"id": 1131108942434594800,
+		"id_str": "1131108942434594818",
+		"full_text": "Hahaha https://t.co/PItRzswmMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PItRzswmMG",
+					"expanded_url": "https://twitter.com/sam_bambs/status/1130805191354331141",
+					"display_url": "twitter.com/sam_bambs/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130805191354331100,
+		"quoted_status_id_str": "1130805191354331141",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PItRzswmMG",
+			"expanded": "https://twitter.com/sam_bambs/status/1130805191354331141",
+			"display": "twitter.com/sam_bambs/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 21 11:59:01 +0000 2019",
+			"id": 1130805191354331100,
+			"id_str": "1130805191354331141",
+			"full_text": "Theresa May as bottles of Tresemmé. A thread: https://t.co/vEjHEHveSG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1130805187155771400,
+						"id_str": "1130805187155771392",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/D7FtU5KWwAAYYAm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7FtU5KWwAAYYAm.jpg",
+						"url": "https://t.co/vEjHEHveSG",
+						"display_url": "pic.twitter.com/vEjHEHveSG",
+						"expanded_url": "https://twitter.com/sam_bambs/status/1130805191354331141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 372,
+								"h": 493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 372,
+								"h": 493,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 372,
+								"h": 493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130805187155771400,
+						"id_str": "1130805187155771392",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/D7FtU5KWwAAYYAm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7FtU5KWwAAYYAm.jpg",
+						"url": "https://t.co/vEjHEHveSG",
+						"display_url": "pic.twitter.com/vEjHEHveSG",
+						"expanded_url": "https://twitter.com/sam_bambs/status/1130805191354331141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 372,
+								"h": 493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 372,
+								"h": 493,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 372,
+								"h": 493,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1130805187160019000,
+						"id_str": "1130805187160018945",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/D7FtU5LXkAEKmry.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7FtU5LXkAEKmry.jpg",
+						"url": "https://t.co/vEjHEHveSG",
+						"display_url": "pic.twitter.com/vEjHEHveSG",
+						"expanded_url": "https://twitter.com/sam_bambs/status/1130805191354331141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 375,
+								"h": 497,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 375,
+								"h": 497,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 375,
+								"h": 497,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56508500,
+				"id_str": "56508500",
+				"name": "Sam",
+				"screen_name": "sam_bambs",
+				"location": "London",
+				"description": "Oh dear",
+				"url": "https://t.co/89hyVrSNYw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/89hyVrSNYw",
+								"expanded_url": "http://instagram.com/_bambs",
+								"display_url": "instagram.com/_bambs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4348,
+				"friends_count": 820,
+				"listed_count": 60,
+				"created_at": "Mon Jul 13 22:05:05 +0000 2009",
+				"favourites_count": 56370,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 73167,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102571290576207872/JSDtNAWc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102571290576207872/JSDtNAWc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56508500/1467824613",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F50C18",
+				"profile_text_color": "050505",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23032,
+			"favorite_count": 66963,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Hahaha https://t.co/PItRzswmMG"
+	},
+	{
+		"created_at": "Wed May 22 08:01:56 +0000 2019",
+		"id": 1131064178515382300,
+		"id_str": "1131107914058354689",
+		"full_text": "Indian roads should have a separate fight lane. You have an accident and want to have a fight with the person who hit your car? Go into that lane and fight so that you don't block other people who are getting late on their way to work or something.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144026920,
+			"id_str": "144026920",
+			"name": "Ankita",
+			"screen_name": "lady_gabbar",
+			"location": "Mumbai, India",
+			"description": "My tweets m̷a̷y̷ will offend you.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39139,
+			"friends_count": 505,
+			"listed_count": 299,
+			"created_at": "Sat May 15 03:04:15 +0000 2010",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 277350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094838754739548160/WdjcSTY6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094838754739548160/WdjcSTY6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144026920/1491797505",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 763,
+		"favorite_count": 3328,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Indian roads should have a separate fight lane. You have an accident and want to have a fight with the person who hit your car? Go into that lane and fight so that you don't block other people who are getting late on their way to work or something."
+	},
+	{
+		"created_at": "Wed May 22 07:54:04 +0000 2019",
+		"id": 1130809765423124500,
+		"id_str": "1131105934388781056",
+		"full_text": "**bangs table with fist** \nTHIS is the kind of quality Tiktok content I signed up for dammit. https://t.co/v4fs1Bvnix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130809717134172200,
+					"id_str": "1130809717134172163",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130809717134172163/pu/img/TjMtGcwZ0n9d0hWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130809717134172163/pu/img/TjMtGcwZ0n9d0hWA.jpg",
+					"url": "https://t.co/v4fs1Bvnix",
+					"display_url": "pic.twitter.com/v4fs1Bvnix",
+					"expanded_url": "https://twitter.com/tyrantasorus/status/1130809765423124480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130809717134172200,
+					"id_str": "1130809717134172163",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130809717134172163/pu/img/TjMtGcwZ0n9d0hWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130809717134172163/pu/img/TjMtGcwZ0n9d0hWA.jpg",
+					"url": "https://t.co/v4fs1Bvnix",
+					"display_url": "pic.twitter.com/v4fs1Bvnix",
+					"expanded_url": "https://twitter.com/tyrantasorus/status/1130809765423124480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							202,
+							359
+						],
+						"duration_millis": 14967,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130809717134172163/pu/vid/320x568/6dvqMdvuxMJYK0fX.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1130809717134172163/pu/pl/3iM8sRlWrrwmGwPn.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130809717134172163/pu/vid/404x718/tIKf6OiLIMFeMKLV.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179961384,
+			"id_str": "179961384",
+			"name": "Tyrantasorus",
+			"screen_name": "tyrantasorus",
+			"location": "Bangalore",
+			"description": "Not knowing how to respond to messages/forgetting about them for so long that it becomes impossible to respond to them without it being weird is my aesthetic",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7178,
+			"friends_count": 1579,
+			"listed_count": 201,
+			"created_at": "Wed Aug 18 14:19:13 +0000 2010",
+			"favourites_count": 8474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 323313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126312705399222272/RPipjU51_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126312705399222272/RPipjU51_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179961384/1557369011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 1233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "**bangs table with fist** \nTHIS is the kind of quality Tiktok content I signed up for dammit. https://t.co/v4fs1Bvnix"
+	},
+	{
+		"created_at": "Wed May 22 03:50:43 +0000 2019",
+		"id": 1130746333097283600,
+		"id_str": "1131044693238734850",
+		"full_text": "👨🏻‍💻 After months of hard work it's finally here.\n\n⚡️ PixelSnap 2 - The fastest tool for measuring anything on your screen!\n\n👉 Now LIVE on @ProductHunt:\nhttps://t.co/mATOmcaLtL https://t.co/tZwldxSCky",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mATOmcaLtL",
+					"expanded_url": "https://www.producthunt.com/posts/pixelsnap-2",
+					"display_url": "producthunt.com/posts/pixelsna…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130745786525003800,
+					"id_str": "1130745786525003776",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130745786525003776/pu/img/7QnxuXYgEMVOGbXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130745786525003776/pu/img/7QnxuXYgEMVOGbXh.jpg",
+					"url": "https://t.co/tZwldxSCky",
+					"display_url": "pic.twitter.com/tZwldxSCky",
+					"expanded_url": "https://twitter.com/lukaszmtw/status/1130746333097283584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130745786525003800,
+					"id_str": "1130745786525003776",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130745786525003776/pu/img/7QnxuXYgEMVOGbXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130745786525003776/pu/img/7QnxuXYgEMVOGbXh.jpg",
+					"url": "https://t.co/tZwldxSCky",
+					"display_url": "pic.twitter.com/tZwldxSCky",
+					"expanded_url": "https://twitter.com/lukaszmtw/status/1130746333097283584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 9126,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130745786525003776/pu/vid/1278x720/RVuM8sKtP09aMVjJ.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130745786525003776/pu/vid/638x360/DabpTa-lxSymgeRg.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130745786525003776/pu/vid/318x180/RLNp8oXP2Vdv1BFx.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1130745786525003776/pu/pl/b2fR2O6CuDGao8Vy.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 445821178,
+			"id_str": "445821178",
+			"name": "Luke Oslizlo",
+			"screen_name": "lukaszmtw",
+			"location": "Poland",
+			"description": "👨🏻‍💻 20 y.o. indie hacker.\nCo-founder at https://t.co/euQqA3uLvH - we made https://t.co/t8SziIpI9e & https://t.co/8uL9sBUcVz 📸 Photos: https://t.co/aXkWpJMTuI",
+			"url": "https://t.co/fz941tp5c4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fz941tp5c4",
+							"expanded_url": "https://lukasz.cc",
+							"display_url": "lukasz.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/euQqA3uLvH",
+							"expanded_url": "http://MakeTheWeb.pl",
+							"display_url": "MakeTheWeb.pl",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/t8SziIpI9e",
+							"expanded_url": "http://pixelsnap.app",
+							"display_url": "pixelsnap.app",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/8uL9sBUcVz",
+							"expanded_url": "http://cleanshot.app",
+							"display_url": "cleanshot.app",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/aXkWpJMTuI",
+							"expanded_url": "http://instagr.am/tookbyluke",
+							"display_url": "instagr.am/tookbyluke",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1017,
+			"friends_count": 290,
+			"listed_count": 60,
+			"created_at": "Sat Dec 24 22:53:15 +0000 2011",
+			"favourites_count": 4838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1E5C81",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/607287987718660096/hE-vy5q3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/607287987718660096/hE-vy5q3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445821178/1406472845",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 1544,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👨🏻‍💻 After months of hard work it's finally here.\n\n⚡️ PixelSnap 2 - The fastest tool for measuring anything on your screen!\n\n👉 Now LIVE on @ProductHunt:\nhttps://t.co/mATOmcaLtL https://t.co/tZwldxSCky"
+	},
+	{
+		"created_at": "Wed May 22 03:48:53 +0000 2019",
+		"id": 1130861075237261300,
+		"id_str": "1131044231982698497",
+		"full_text": "Just realised that i cant bear the pressure of being the first in a traffic signal . The expectation to move as soon as signal turns green is a burden i cant handle #Bengalurutraffic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bengalurutraffic",
+					"indices": [
+						165,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 72001926,
+			"id_str": "72001926",
+			"name": "Nithin Rao",
+			"screen_name": "nithinrao",
+			"location": "On the highway to hell",
+			"description": "I am on twitter since my family and colleagues are on Facebook",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 244,
+			"listed_count": 4,
+			"created_at": "Sun Sep 06 09:13:08 +0000 2009",
+			"favourites_count": 1492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924619058770722816/3zJZX8zT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924619058770722816/3zJZX8zT_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just realised that i cant bear the pressure of being the first in a traffic signal . The expectation to move as soon as signal turns green is a burden i cant handle #Bengalurutraffic"
+	},
+	{
+		"created_at": "Wed May 22 03:48:14 +0000 2019",
+		"id": 1131004905454493700,
+		"id_str": "1131044068744617989",
+		"full_text": "If you could really advise your past self your life probably wouldn’t turn out the way it has. The mere act of knowing would change it. Doesn’t Dr. Strange say something about that in Endgame? #DevDiscuss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevDiscuss",
+					"indices": [
+						193,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948609064484864000,
+			"id_str": "948609064484864006",
+			"name": "Laurie",
+			"screen_name": "laurieontech",
+			"location": "",
+			"description": "Software Engineer @tenmilesquare | DC techie | Blogger - https://t.co/iEnfj4ackd | Conference speaker | @girlswhocode Facilitator | She/her",
+			"url": "https://t.co/VpEvtvr1d2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VpEvtvr1d2",
+							"expanded_url": "http://www.laurieontech.com",
+							"display_url": "laurieontech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iEnfj4ackd",
+							"expanded_url": "https://dev.to/laurieontech",
+							"display_url": "dev.to/laurieontech",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 977,
+			"listed_count": 56,
+			"created_at": "Wed Jan 03 17:36:40 +0000 2018",
+			"favourites_count": 10632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019683328360894464/z7iNrD2f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019683328360894464/z7iNrD2f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948609064484864006/1541433052",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you could really advise your past self your life probably wouldn’t turn out the way it has. The mere act of knowing would change it. Doesn’t Dr. Strange say something about that in Endgame? #DevDiscuss"
+	},
+	{
+		"created_at": "Wed May 22 03:42:53 +0000 2019",
+		"id": 1130894146888056800,
+		"id_str": "1131042723971063808",
+		"full_text": "Just realized Git is similar to dating. \n\nYou (as a single person) are the master branch. 👩🏾\n\nEach person you date makes a branch and make commits to your life. Eventually, they open a PR if they decide to propose to you. 💍\n\nIf the discussion goes well, you merge to master. 👰🏾",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3122868355,
+			"id_str": "3122868355",
+			"name": "April.py",
+			"screen_name": "vogueandcode",
+			"location": "Los Angeles, CA",
+			"description": "Python developer 🐍 + 80s/90s pop culture aficionado ⚡️ I talk to computers for fun 👩🏾‍💻 + help build interactive experiences for @docsmsft 📝",
+			"url": "https://t.co/M2e2cJYxMn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M2e2cJYxMn",
+							"expanded_url": "http://vogueandcode.com",
+							"display_url": "vogueandcode.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10818,
+			"friends_count": 1238,
+			"listed_count": 152,
+			"created_at": "Wed Apr 01 04:03:30 +0000 2015",
+			"favourites_count": 37245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117655258673467392/aFSRhXMJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117655258673467392/aFSRhXMJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3122868355/1540044569",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 596,
+		"favorite_count": 2278,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just realized Git is similar to dating. \n\nYou (as a single person) are the master branch. 👩🏾\n\nEach person you date makes a branch and make commits to your life. Eventually, they open a PR if they decide to propose to you. 💍\n\nIf the discussion goes well, you merge to master. 👰🏾"
+	},
+	{
+		"created_at": "Wed May 22 03:41:32 +0000 2019",
+		"id": 1131018755767558100,
+		"id_str": "1131042381694885889",
+		"full_text": "112th birth anniversary of Herge, the creator of Tintin. https://t.co/W9gAOylTDt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131018658518454300,
+					"id_str": "1131018658518454274",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ivej9U0AI_6Rw.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ivej9U0AI_6Rw.png",
+					"url": "https://t.co/W9gAOylTDt",
+					"display_url": "pic.twitter.com/W9gAOylTDt",
+					"expanded_url": "https://twitter.com/joybhattacharj/status/1131018755767558150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 432,
+							"h": 621,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131018658518454300,
+					"id_str": "1131018658518454274",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ivej9U0AI_6Rw.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ivej9U0AI_6Rw.png",
+					"url": "https://t.co/W9gAOylTDt",
+					"display_url": "pic.twitter.com/W9gAOylTDt",
+					"expanded_url": "https://twitter.com/joybhattacharj/status/1131018755767558150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 432,
+							"h": 621,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17211291,
+			"id_str": "17211291",
+			"name": "Joy Bhattacharjya",
+			"screen_name": "joybhattacharj",
+			"location": "Delhi",
+			"description": "Work in sport. Quiz. Read. Write. Try to think",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41456,
+			"friends_count": 716,
+			"listed_count": 204,
+			"created_at": "Thu Nov 06 14:10:54 +0000 2008",
+			"favourites_count": 17373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBC1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981758598723391488/xvsTCv2L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981758598723391488/xvsTCv2L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17211291/1373778319",
+			"profile_link_color": "00B33F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "112th birth anniversary of Herge, the creator of Tintin. https://t.co/W9gAOylTDt"
+	},
+	{
 		"created_at": "Sun May 19 17:26:59 +0000 2019",
 		"id": 1130116808265146400,
 		"id_str": "1130162949287362565",
