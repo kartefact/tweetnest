@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 18:20:15 +0000 2019",
+		"id": 1131988296303648800,
+		"id_str": "1131988296303648769",
+		"full_text": "@rajpvish @Falooly @PuneerSoda @_Drunkenmunk @EnthuPotato Oh hi hi hi hi hi hi hi! https://t.co/RNxI3OExNS",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajpvish",
+					"name": "Rajkumar Viswanathan",
+					"id": 111424239,
+					"id_str": "111424239",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Falooly",
+					"name": "Loolie",
+					"id": 31174174,
+					"id_str": "31174174",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"screen_name": "_Drunkenmunk",
+					"name": "Munk",
+					"id": 232860827,
+					"id_str": "232860827",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "EnthuPotato",
+					"name": "Madhumitha",
+					"id": 541105479,
+					"id_str": "541105479",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RNxI3OExNS",
+					"expanded_url": "https://twitter.com/awwcuteness/status/1131053074095779840?s=09",
+					"display_url": "twitter.com/awwcuteness/st…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1131985161808154600,
+		"in_reply_to_status_id_str": "1131985161808154625",
+		"in_reply_to_user_id": 111424239,
+		"in_reply_to_user_id_str": "111424239",
+		"in_reply_to_screen_name": "rajpvish",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "Present is the reward",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1542,
+			"friends_count": 212,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131053074095779800,
+		"quoted_status_id_str": "1131053074095779840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RNxI3OExNS",
+			"expanded": "https://twitter.com/awwcuteness/status/1131053074095779840?s=09",
+			"display": "twitter.com/awwcuteness/st…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ca",
+		"text": "@rajpvish @Falooly @PuneerSoda @_Drunkenmunk @EnthuPotato Oh hi hi hi hi hi hi hi! https://t.co/RNxI3OExNS"
+	},
+	{
+		"created_at": "Fri May 24 17:06:47 +0000 2019",
+		"id": 1131903891619008500,
+		"id_str": "1131969807081803777",
+		"full_text": "@MollyRachael33 @nomine_Artemis This is indeed real. And the camera quality is because it is Nat Geo. https://t.co/8lr0IHRKlV",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MollyRachael33",
+					"name": "Molly Ⓥ♻️🌱",
+					"id": 926863126317948900,
+					"id_str": "926863126317948933",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "nomine_Artemis",
+					"name": "Diana",
+					"id": 162536320,
+					"id_str": "162536320",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8lr0IHRKlV",
+					"expanded_url": "https://video.nationalgeographic.com/video/news/00000160-c36f-dc5e-abfb-df6f2abe0000",
+					"display_url": "video.nationalgeographic.com/video/news/000…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1131633701291479000,
+		"in_reply_to_status_id_str": "1131633701291479040",
+		"in_reply_to_user_id": 926863126317948900,
+		"in_reply_to_user_id_str": "926863126317948933",
+		"in_reply_to_screen_name": "MollyRachael33",
+		"user": {
+			"id": 1685849366,
+			"id_str": "1685849366",
+			"name": "Mud n Sky",
+			"screen_name": "mudnsky",
+			"location": "India",
+			"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 210,
+			"listed_count": 34,
+			"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+			"favourites_count": 5475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MollyRachael33 @nomine_Artemis This is indeed real. And the camera quality is because it is Nat Geo. https://t.co/8lr0IHRKlV"
+	},
+	{
 		"created_at": "Wed May 22 08:08:17 +0000 2019",
 		"id": 1130792053967708200,
 		"id_str": "1131109512218177538",
