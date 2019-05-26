@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 12:47:13 +0000 2019",
+		"id": 1131981258420998100,
+		"id_str": "1132266872206839808",
+		"full_text": "My sweet, gentle Pippa made her first blood donation at UC Davis today! She did “phenomenally well” &amp; is home resting with a special dinner in store. Giant breeds out here helping their little frens! @darth @dog_rates https://t.co/v6sRfajp8I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darth",
+					"name": "darth™",
+					"id": 1337271,
+					"id_str": "1337271",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"screen_name": "dog_rates",
+					"name": "WeRateDogs™",
+					"id": 4196983835,
+					"id_str": "4196983835",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131981250808336400,
+					"id_str": "1131981250808336385",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Wa8zrVUAElJzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Wa8zrVUAElJzf.jpg",
+					"url": "https://t.co/v6sRfajp8I",
+					"display_url": "pic.twitter.com/v6sRfajp8I",
+					"expanded_url": "https://twitter.com/emzylla/status/1131981258420998144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131981250808336400,
+					"id_str": "1131981250808336385",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Wa8zrVUAElJzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Wa8zrVUAElJzf.jpg",
+					"url": "https://t.co/v6sRfajp8I",
+					"display_url": "pic.twitter.com/v6sRfajp8I",
+					"expanded_url": "https://twitter.com/emzylla/status/1131981258420998144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30695938,
+			"id_str": "30695938",
+			"name": "Emily Rhoads",
+			"screen_name": "emzylla",
+			"location": "Davis, CA",
+			"description": "Physician Assistant. Outdoors type.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 1094,
+			"listed_count": 7,
+			"created_at": "Sun Apr 12 18:35:46 +0000 2009",
+			"favourites_count": 57326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/146114634/IMG_0086_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/146114634/IMG_0086_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30695938/1480865056",
+			"profile_link_color": "00C8FF",
+			"profile_sidebar_border_color": "CBEFFB",
+			"profile_sidebar_fill_color": "D7FEF7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 1855,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My sweet, gentle Pippa made her first blood donation at UC Davis today! She did “phenomenally well” &amp; is home resting with a special dinner in store. Giant breeds out here helping their little frens! @darth @dog_rates https://t.co/v6sRfajp8I"
+	},
+	{
+		"created_at": "Sat May 25 11:55:25 +0000 2019",
+		"id": 1132237033693429800,
+		"id_str": "1132253834519035904",
+		"full_text": "Mission #vim #impossible via @arthurguimaraez https://t.co/OgjoocnUO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vim",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "impossible",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arthurguimaraez",
+					"name": "🐧 Arthur Guimaraes 🐧",
+					"id": 791623208,
+					"id_str": "791623208",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132237030317011000,
+					"id_str": "1132237030317010945",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D7aDlImWsAEHdDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7aDlImWsAEHdDc.jpg",
+					"url": "https://t.co/OgjoocnUO4",
+					"display_url": "pic.twitter.com/OgjoocnUO4",
+					"expanded_url": "https://twitter.com/MasteringVim/status/1132237033693429760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132237030317011000,
+					"id_str": "1132237030317010945",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D7aDlImWsAEHdDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7aDlImWsAEHdDc.jpg",
+					"url": "https://t.co/OgjoocnUO4",
+					"display_url": "pic.twitter.com/OgjoocnUO4",
+					"expanded_url": "https://twitter.com/MasteringVim/status/1132237033693429760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://socialbee.io/\" rel=\"nofollow\">SocialBee.io v2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2693104332,
+			"id_str": "2693104332",
+			"name": "Mastering Vim",
+			"screen_name": "MasteringVim",
+			"location": "Master Vim: From WTF to OMG  ↓",
+			"description": "Mastering Vim, one step at a time. Tweets by @jovica, author of Mastering Vim Quickly.",
+			"url": "http://t.co/oybY6RgO74",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oybY6RgO74",
+							"expanded_url": "http://goo.gl/FcHEIT",
+							"display_url": "goo.gl/FcHEIT",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21223,
+			"friends_count": 3266,
+			"listed_count": 497,
+			"created_at": "Wed Jul 30 14:52:07 +0000 2014",
+			"favourites_count": 3643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494894638151385088/6cKMmXh2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494894638151385088/6cKMmXh2_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mission #vim #impossible via @arthurguimaraez https://t.co/OgjoocnUO4"
+	},
+	{
+		"created_at": "Sat May 25 10:33:59 +0000 2019",
+		"id": 1126292701886984200,
+		"id_str": "1132233344874295296",
+		"full_text": "I’m fine.. https://t.co/kOabXN8YMm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101587982648311800,
+					"id_str": "1101587982648311808",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101587982648311808/pu/img/GAqZQI6WgaS7aGVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101587982648311808/pu/img/GAqZQI6WgaS7aGVR.jpg",
+					"url": "https://t.co/kOabXN8YMm",
+					"display_url": "pic.twitter.com/kOabXN8YMm",
+					"expanded_url": "https://twitter.com/_stumbler/status/1101588014449467392/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1101588014449467400,
+					"source_status_id_str": "1101588014449467392",
+					"source_user_id": 978908012,
+					"source_user_id_str": "978908012"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101587982648311800,
+					"id_str": "1101587982648311808",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101587982648311808/pu/img/GAqZQI6WgaS7aGVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101587982648311808/pu/img/GAqZQI6WgaS7aGVR.jpg",
+					"url": "https://t.co/kOabXN8YMm",
+					"display_url": "pic.twitter.com/kOabXN8YMm",
+					"expanded_url": "https://twitter.com/_stumbler/status/1101588014449467392/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1101588014449467400,
+					"source_status_id_str": "1101588014449467392",
+					"source_user_id": 978908012,
+					"source_user_id_str": "978908012",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6500,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101587982648311808/pu/vid/320x320/1lTaIH-ltcEN3rmX.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1101587982648311808/pu/pl/rOqNKXUTOX_yBt3A.m3u8?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101587982648311808/pu/vid/640x640/UA3Fy-4rwrndnNGf.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101587982648311808/pu/vid/480x480/MGpwWE4YFTFH15q-.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 978908012,
+							"id_str": "978908012",
+							"name": "Stumbler",
+							"screen_name": "Stumbler",
+							"location": "leesmith.ark@gmail.com",
+							"description": "Discover Amazing Videos. Never Be Bored.",
+							"url": "https://t.co/esUCGKDO2K",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/esUCGKDO2K",
+											"expanded_url": "http://stumbler.com",
+											"display_url": "stumbler.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6594230,
+							"friends_count": 241,
+							"listed_count": 7692,
+							"created_at": "Thu Nov 29 18:34:39 +0000 2012",
+							"favourites_count": 18,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 6350,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1115023512823926785/Z1L_d-cb_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115023512823926785/Z1L_d-cb_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/978908012/1555446311",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 502531529,
+			"id_str": "502531529",
+			"name": "Sarcastic Wonka",
+			"screen_name": "OhMrWonka",
+			"location": "Chocolate Factory.",
+			"description": "I'm a sarcastic son of a gun. \n\n*parody account*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292171,
+			"friends_count": 28,
+			"listed_count": 753,
+			"created_at": "Sat Feb 25 05:29:08 +0000 2012",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1956113148/fd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1956113148/fd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/502531529/1377113638",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m fine.. https://t.co/kOabXN8YMm"
+	},
+	{
 		"created_at": "Fri May 24 18:20:15 +0000 2019",
 		"id": 1131988296303648800,
 		"id_str": "1131988296303648769",
