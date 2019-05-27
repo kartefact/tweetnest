@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 07:52:41 +0000 2019",
+		"id": 1132201633344098300,
+		"id_str": "1132555136818065408",
+		"full_text": "20% increase in #busfares ? @BMTC_BENGALURU where will the #public in #publictransport GO? Shame, #TransportMinister-  overburdened &amp; #inadequate, Public Transport can’t take Such crass &amp; criminal changes. #BMTS needed if Blr must survive. We NEED https://t.co/zS3YFtq0OA @csogok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "busfares",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "public",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "publictransport",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"text": "TransportMinister",
+					"indices": [
+						98,
+						116
+					]
+				},
+				{
+					"text": "inadequate",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "BMTS",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BMTC_BENGALURU",
+					"name": "BMTC",
+					"id": 706710185977380900,
+					"id_str": "706710185977380869",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "csogok",
+					"name": "Office of the Chief Secretary, Karnataka",
+					"id": 940109819515617300,
+					"id_str": "940109819515617280",
+					"indices": [
+						280,
+						287
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zS3YFtq0OA",
+					"expanded_url": "http://Bit.ly/UMTAnow",
+					"display_url": "Bit.ly/UMTAnow",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14920597,
+			"id_str": "14920597",
+			"name": "Priya Chetty Rajagop",
+			"screen_name": "priyachettyr",
+			"location": "Blr ÜT: 12.985806,77.588014",
+			"description": "Proud Bangalorean, CXO Executive Search Consultant, Occasional Columnist, Diversity Leader, Gourmand , Dog lover. Speaks up.",
+			"url": "https://t.co/Vk6xiPsl8C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vk6xiPsl8C",
+							"expanded_url": "https://m.facebook.com/priyachetty?fref=nf",
+							"display_url": "m.facebook.com/priyachetty?fr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 605,
+			"listed_count": 64,
+			"created_at": "Tue May 27 13:26:01 +0000 2008",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736031002/Twitterface_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736031002/Twitterface_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14920597/1422968178",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b8680cd52a711cb",
+			"url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+			"place_type": "city",
+			"name": "Bengaluru",
+			"full_name": "Bengaluru, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.373474,
+							12.919037
+						],
+						[
+							77.739371,
+							12.919037
+						],
+						[
+							77.739371,
+							13.231381
+						],
+						[
+							77.373474,
+							13.231381
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "20% increase in #busfares ? @BMTC_BENGALURU where will the #public in #publictransport GO? Shame, #TransportMinister-  overburdened &amp; #inadequate, Public Transport can’t take Such crass &amp; criminal changes. #BMTS needed if Blr must survive. We NEED https://t.co/zS3YFtq0OA @csogok"
+	},
+	{
+		"created_at": "Sun May 26 06:13:13 +0000 2019",
+		"id": 1131410732292169700,
+		"id_str": "1132530105618538496",
+		"full_text": "1/ So, I guess my new \"hobby\" over the past few years has become reading terms of service/privacy policies for things I want to use and then trying to enforce my rights as laid out in those policies. \n\nUnsurprisingly, companies are often not certain how to respond to this.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 962539129299873800,
+			"id_str": "962539129299873793",
+			"name": "Sarah Wipperman",
+			"screen_name": "swipp_it",
+			"location": "",
+			"description": "Will likely have opinions about scholarly communication, copyright, open access, org dynamics, and @beprexit",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 170,
+			"listed_count": 6,
+			"created_at": "Sun Feb 11 04:09:46 +0000 2018",
+			"favourites_count": 495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988832437290520576/VRzfVS8H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988832437290520576/VRzfVS8H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/962539129299873793/1518724221",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 621,
+		"favorite_count": 1369,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1/ So, I guess my new \"hobby\" over the past few years has become reading terms of service/privacy policies for things I want to use and then trying to enforce my rights as laid out in those policies. \n\nUnsurprisingly, companies are often not certain how to respond to this."
+	},
+	{
 		"created_at": "Sat May 25 12:47:13 +0000 2019",
 		"id": 1131981258420998100,
 		"id_str": "1132266872206839808",
