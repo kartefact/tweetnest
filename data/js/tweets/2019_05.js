@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 19:22:09 +0000 2019",
+		"id": 1132340819124297700,
+		"id_str": "1133091034513043463",
+		"full_text": "After many twists and turns, the excitement around room temperature conductivity is back! New results are out on the arXiv from the IISc team of Anshu Pandey and @ArindamPhysics, with a lot more detail and renewed interest - https://t.co/tRRQYg03WK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArindamPhysics",
+					"name": "Arindam Ghosh",
+					"id": 1010768532756402200,
+					"id_str": "1010768532756402176",
+					"indices": [
+						162,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tRRQYg03WK",
+					"expanded_url": "https://www.thehindu.com/sci-tech/science/finally-iisc-team-confirms-superconductivity-at-room-temperature-pressure/article27246496.ece/amp/?__twitter_impression=true",
+					"display_url": "thehindu.com/sci-tech/scien…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1026487124785131500,
+		"in_reply_to_status_id_str": "1026487124785131520",
+		"in_reply_to_user_id": 635842821,
+		"in_reply_to_user_id_str": "635842821",
+		"in_reply_to_screen_name": "stpalli",
+		"user": {
+			"id": 635842821,
+			"id_str": "635842821",
+			"name": "Shashi Thutupalli",
+			"screen_name": "stpalli",
+			"location": "Bengaluru, India",
+			"description": "Scientist @NCBS_bangalore, @NCBStheory and @ictstifr. Varied interests elsewhere.",
+			"url": "https://t.co/yoiXJG0Bxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yoiXJG0Bxc",
+							"expanded_url": "http://www.thutupallilab.com",
+							"display_url": "thutupallilab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 306,
+			"listed_count": 8,
+			"created_at": "Sun Jul 15 00:16:34 +0000 2012",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/413364139822559233/lOTf-QsH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/413364139822559233/lOTf-QsH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/635842821/1536894953",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After many twists and turns, the excitement around room temperature conductivity is back! New results are out on the arXiv from the IISc team of Anshu Pandey and @ArindamPhysics, with a lot more detail and renewed interest - https://t.co/tRRQYg03WK"
+	},
+	{
+		"created_at": "Mon May 27 19:21:35 +0000 2019",
+		"id": 1132634970428543000,
+		"id_str": "1133090893144109056",
+		"full_text": "Switzerland celebrates Science Day on May 26 every year to honor India's former President APJ Abdul Kalam. Watch this video to know more. https://t.co/JDSVDWozan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132634773543739400,
+					"id_str": "1132634773543739392",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132634773543739392/pu/img/TxMKuEii0r_VaVF1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132634773543739392/pu/img/TxMKuEii0r_VaVF1.jpg",
+					"url": "https://t.co/JDSVDWozan",
+					"display_url": "pic.twitter.com/JDSVDWozan",
+					"expanded_url": "https://twitter.com/DDNewsLive/status/1132634970428542976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132634773543739400,
+					"id_str": "1132634773543739392",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132634773543739392/pu/img/TxMKuEii0r_VaVF1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132634773543739392/pu/img/TxMKuEii0r_VaVF1.jpg",
+					"url": "https://t.co/JDSVDWozan",
+					"display_url": "pic.twitter.com/JDSVDWozan",
+					"expanded_url": "https://twitter.com/DDNewsLive/status/1132634970428542976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50923,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1132634773543739392/pu/pl/V_spkAi3rx04w4_s.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1132634773543739392/pu/vid/320x180/_vqibR36PUfhV6Q0.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1132634773543739392/pu/vid/1280x720/QyIYD27r9JljAEoP.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1132634773543739392/pu/vid/640x360/oki9wqAaer9bnF4u.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1100927498,
+			"id_str": "1100927498",
+			"name": "Doordarshan News",
+			"screen_name": "DDNewsLive",
+			"location": "New Delhi, India",
+			"description": "Official Twitter account of DD News, the Public Broadcaster of India.   हिंदी में @DDNewsHindi.\n\nFollow us on- https://t.co/yCp3sSJSJY",
+			"url": "https://t.co/vQ50ZkDSpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vQ50ZkDSpx",
+							"expanded_url": "http://www.ddnews.gov.in",
+							"display_url": "ddnews.gov.in",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yCp3sSJSJY",
+							"expanded_url": "http://instagram.com/ddnews_official/",
+							"display_url": "instagram.com/ddnews_officia…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2492084,
+			"friends_count": 42,
+			"listed_count": 2353,
+			"created_at": "Fri Jan 18 13:04:45 +0000 2013",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 141064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096030884937883649/9f1J7_Sa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096030884937883649/9f1J7_Sa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1100927498/1558766703",
+			"profile_link_color": "7B241C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 820,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Switzerland celebrates Science Day on May 26 every year to honor India's former President APJ Abdul Kalam. Watch this video to know more. https://t.co/JDSVDWozan"
+	},
+	{
 		"created_at": "Sun May 26 07:52:41 +0000 2019",
 		"id": 1132201633344098300,
 		"id_str": "1132555136818065408",
