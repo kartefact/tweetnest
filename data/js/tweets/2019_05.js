@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 10:32:17 +0000 2019",
+		"id": 1133264628992028700,
+		"id_str": "1133320079498604545",
+		"full_text": "Someone wants fake insurance claims. https://t.co/zLzAyKr2Np",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133157735221014500,
+					"id_str": "1133157735221014528",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133157735221014528/pu/img/72m41Tolv9euFcLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133157735221014528/pu/img/72m41Tolv9euFcLo.jpg",
+					"url": "https://t.co/zLzAyKr2Np",
+					"display_url": "pic.twitter.com/zLzAyKr2Np",
+					"expanded_url": "https://twitter.com/meowlibrary/status/1133157819220283392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1133157819220283400,
+					"source_status_id_str": "1133157819220283392",
+					"source_user_id": 1073081825159917600,
+					"source_user_id_str": "1073081825159917568"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133157735221014500,
+					"id_str": "1133157735221014528",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133157735221014528/pu/img/72m41Tolv9euFcLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133157735221014528/pu/img/72m41Tolv9euFcLo.jpg",
+					"url": "https://t.co/zLzAyKr2Np",
+					"display_url": "pic.twitter.com/zLzAyKr2Np",
+					"expanded_url": "https://twitter.com/meowlibrary/status/1133157819220283392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1133157819220283400,
+					"source_status_id_str": "1133157819220283392",
+					"source_user_id": 1073081825159917600,
+					"source_user_id_str": "1073081825159917568",
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							173
+						],
+						"duration_millis": 29104,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133157735221014528/pu/vid/480x692/dpNIkb5eWLx-WkTL.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1133157735221014528/pu/pl/wNScMWivfYd9RzLf.m3u8?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133157735221014528/pu/vid/320x460/ut2NJyWAKYjfpf9a.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133157735221014528/pu/vid/360x518/Vvj48zlv0AIyEvRg.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1073081825159917600,
+							"id_str": "1073081825159917568",
+							"name": "Meow Library",
+							"screen_name": "meowlibrary",
+							"location": "",
+							"description": "THE BEST parody/commentary account for cats. Sometimes we tweet non-cat things. We don't own any media. DM us for DMCA takedown/credit. DM us your pet videos!",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 16693,
+							"friends_count": 507,
+							"listed_count": 130,
+							"created_at": "Thu Dec 13 05:06:58 +0000 2018",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 102,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1073482109480665088/POaTr_MD_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073482109480665088/POaTr_MD_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 889555027068502000,
+			"id_str": "889555027068502016",
+			"name": "योषा🍃",
+			"screen_name": "Blackdrug_",
+			"location": "Jaipur, India",
+			"description": "तत्व प्रेम कर मम अरु तोरा। जानत प्रिया एकु मनु मोरा॥\n\nArtist || Feel Free to DM for commissioned work || Free Shipping. \nMy art- https://t.co/mESNnMetel",
+			"url": "https://t.co/B2hbZnfTc8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B2hbZnfTc8",
+							"expanded_url": "https://twitter.com/search?q=from%3Adimag_mat_kha%20-filter%3Areplies&s=09",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mESNnMetel",
+							"expanded_url": "http://instagram.com/arpita_gouttam/",
+							"display_url": "instagram.com/arpita_gouttam/",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6043,
+			"friends_count": 295,
+			"listed_count": 19,
+			"created_at": "Mon Jul 24 18:37:00 +0000 2017",
+			"favourites_count": 36554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132346202014437376/Vmp-t-A0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132346202014437376/Vmp-t-A0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/889555027068502016/1556957435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 666,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone wants fake insurance claims. https://t.co/zLzAyKr2Np"
+	},
+	{
 		"created_at": "Mon May 27 19:22:09 +0000 2019",
 		"id": 1132340819124297700,
 		"id_str": "1133091034513043463",
