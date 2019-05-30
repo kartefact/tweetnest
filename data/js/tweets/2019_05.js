@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 07:48:09 +0000 2019",
+		"id": 1133313796787720200,
+		"id_str": "1133641162575581184",
+		"full_text": "Chandrakant Hutgi, Head Constable from Hubli Rural Police station has converted his Deadly Fiber Lathi into a Musical Instrument... we are proud of him... https://t.co/gyZWhk1lkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133313557397815300,
+					"id_str": "1133313557397815296",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133313557397815296/pu/img/Ufyu3yq6kJadAKh4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133313557397815296/pu/img/Ufyu3yq6kJadAKh4.jpg",
+					"url": "https://t.co/gyZWhk1lkb",
+					"display_url": "pic.twitter.com/gyZWhk1lkb",
+					"expanded_url": "https://twitter.com/deepolice12/status/1133313796787720192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133313557397815300,
+					"id_str": "1133313557397815296",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133313557397815296/pu/img/Ufyu3yq6kJadAKh4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133313557397815296/pu/img/Ufyu3yq6kJadAKh4.jpg",
+					"url": "https://t.co/gyZWhk1lkb",
+					"display_url": "pic.twitter.com/gyZWhk1lkb",
+					"expanded_url": "https://twitter.com/deepolice12/status/1133313796787720192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 65349,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1133313557397815296/pu/pl/vaAo5Rjs8cB6IDVq.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133313557397815296/pu/vid/326x180/EIB1h9y77ckBGG75.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133313557397815296/pu/vid/640x352/ymW4NytIZMvXp99A.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 917060544,
+			"id_str": "917060544",
+			"name": "Bhaskar Rao IPS",
+			"screen_name": "deepolice12",
+			"location": "Bengaluru, India",
+			"description": "Additional Director General of Police Improving Namma Bangalore, Transport, City Infrastructure Safety, Cycling,Running Leadership, Empowerment CHANGE",
+			"url": "https://t.co/6kNKqbeP20",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6kNKqbeP20",
+							"expanded_url": "http://bhaskarrao.com",
+							"display_url": "bhaskarrao.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3210,
+			"friends_count": 265,
+			"listed_count": 7,
+			"created_at": "Wed Oct 31 15:08:52 +0000 2012",
+			"favourites_count": 1803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952222988291592193/dsrWgDtT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952222988291592193/dsrWgDtT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/917060544/1548606923",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2959,
+		"favorite_count": 13386,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chandrakant Hutgi, Head Constable from Hubli Rural Police station has converted his Deadly Fiber Lathi into a Musical Instrument... we are proud of him... https://t.co/gyZWhk1lkb"
+	},
+	{
+		"created_at": "Wed May 29 07:44:59 +0000 2019",
+		"id": 1133270770895839200,
+		"id_str": "1133640362646360064",
+		"full_text": "Wow! This is some deal! https://t.co/hCpBWCNOnZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133270698074357800,
+					"id_str": "1133270698074357760",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ovshEUwAAKTxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ovshEUwAAKTxv.jpg",
+					"url": "https://t.co/hCpBWCNOnZ",
+					"display_url": "pic.twitter.com/hCpBWCNOnZ",
+					"expanded_url": "https://twitter.com/_harshdeep/status/1133270770895839232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133270698074357800,
+					"id_str": "1133270698074357760",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ovshEUwAAKTxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ovshEUwAAKTxv.jpg",
+					"url": "https://t.co/hCpBWCNOnZ",
+					"display_url": "pic.twitter.com/hCpBWCNOnZ",
+					"expanded_url": "https://twitter.com/_harshdeep/status/1133270770895839232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44595967,
+			"id_str": "44595967",
+			"name": "Harshdeep Singh",
+			"screen_name": "_harshdeep",
+			"location": "Chandigarh, Gurgaon",
+			"description": "Paid to be on #SocialMedia, Amateur writer, Life-long Learner, The person who keeps quiet when meeting people.",
+			"url": "https://t.co/Q7Ndif8eDt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q7Ndif8eDt",
+							"expanded_url": "http://in.linkedin.com/in/harshdeep1/",
+							"display_url": "in.linkedin.com/in/harshdeep1/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3297,
+			"friends_count": 884,
+			"listed_count": 168,
+			"created_at": "Thu Jun 04 11:31:33 +0000 2009",
+			"favourites_count": 1708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074710302548221952/MsMmVAjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074710302548221952/MsMmVAjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44595967/1508292471",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow! This is some deal! https://t.co/hCpBWCNOnZ"
+	},
+	{
 		"created_at": "Tue May 28 10:32:17 +0000 2019",
 		"id": 1133264628992028700,
 		"id_str": "1133320079498604545",
