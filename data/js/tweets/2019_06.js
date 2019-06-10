@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 11:37:29 +0000 2019",
+		"id": 1136795179031990300,
+		"id_str": "1137685142124650497",
+		"full_text": "You guys ever realize Twinkle Twinkle Little Star, Baa Baa Black Sheep, and the ABCs are all the SAME SONG?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27870530,
+			"id_str": "27870530",
+			"name": "Whitson Gordon",
+			"screen_name": "WhitsonGordon",
+			"location": "San Diego, CA",
+			"description": "Freelance writer teaching people how to use technology at @nytimes, @PopSci, @PCMag, @iFixit, @IGN, and more. Past: editor-in-chief of @Lifehacker & @HowToGeek.",
+			"url": "https://t.co/cFVFjORWOp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cFVFjORWOp",
+							"expanded_url": "http://whitsongordon.com",
+							"display_url": "whitsongordon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16493,
+			"friends_count": 587,
+			"listed_count": 789,
+			"created_at": "Tue Mar 31 13:38:08 +0000 2009",
+			"favourites_count": 6005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/787001966937333760/g5Mnc2BR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/787001966937333760/g5Mnc2BR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27870530/1469026164",
+			"profile_link_color": "138B2E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "02B4B8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "You guys ever realize Twinkle Twinkle Little Star, Baa Baa Black Sheep, and the ABCs are all the SAME SONG?"
+	},
+	{
 		"created_at": "Fri Jun 07 14:40:08 +0000 2019",
 		"id": 1137006332588855300,
 		"id_str": "1137006332588855296",
