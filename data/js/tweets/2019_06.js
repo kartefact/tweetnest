@@ -1,6 +1,974 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 14:28:12 +0000 2019",
+		"id": 1138090489293316100,
+		"id_str": "1138090489293316096",
+		"full_text": "@mcurie No. Something to do with self discovery. Hard to face the truth about self and then to unlearn and relearn things from basics. Struggling but coping.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcurie",
+					"name": "mcurie",
+					"id": 14472490,
+					"id_str": "14472490",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1138083773596090400,
+		"in_reply_to_status_id_str": "1138083773596090368",
+		"in_reply_to_user_id": 14472490,
+		"in_reply_to_user_id_str": "14472490",
+		"in_reply_to_screen_name": "mcurie",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1535,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mcurie No. Something to do with self discovery. Hard to face the truth about self and then to unlearn and relearn things from basics. Struggling but coping."
+	},
+	{
+		"created_at": "Mon Jun 10 13:42:16 +0000 2019",
+		"id": 1138078930185801700,
+		"id_str": "1138078930185801728",
+		"full_text": "Struggling with one such thing. Ending up absolutely clueless because I'm not feeling it and it's frustrating and draining for anyone to explain.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1138078541633900500,
+		"in_reply_to_status_id_str": "1138078541633900544",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1535,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Struggling with one such thing. Ending up absolutely clueless because I'm not feeling it and it's frustrating and draining for anyone to explain."
+	},
+	{
+		"created_at": "Mon Jun 10 13:40:43 +0000 2019",
+		"id": 1138078541633900500,
+		"id_str": "1138078541633900544",
+		"full_text": "Not all things in life are explainable simply. Somethings are far too elaborate to explain without launching into a full fledged discussion and not worth the effort at the end of it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1138076704583311400,
+		"in_reply_to_status_id_str": "1138076704583311360",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1535,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Not all things in life are explainable simply. Somethings are far too elaborate to explain without launching into a full fledged discussion and not worth the effort at the end of it."
+	},
+	{
+		"created_at": "Mon Jun 10 13:33:25 +0000 2019",
+		"id": 1138076704583311400,
+		"id_str": "1138076704583311360",
+		"full_text": "Have spent whole life filling it with facts and confusing it with knowledge. Having been taught that being factually right and accurate being something good and superior. Learning day-by-day how they're just tools for playing politics.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1138076005849915400,
+		"in_reply_to_status_id_str": "1138076005849915394",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1535,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Have spent whole life filling it with facts and confusing it with knowledge. Having been taught that being factually right and accurate being something good and superior. Learning day-by-day how they're just tools for playing politics."
+	},
+	{
+		"created_at": "Mon Jun 10 13:30:38 +0000 2019",
+		"id": 1138076005849915400,
+		"id_str": "1138076005849915394",
+		"full_text": "Starting to feel the agony of being clueless.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1535,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Starting to feel the agony of being clueless."
+	},
+	{
+		"created_at": "Mon Jun 10 12:10:03 +0000 2019",
+		"id": 1138011738291392500,
+		"id_str": "1138055723345072130",
+		"full_text": "RIP Girish Karnad and Crazy Mohan.\n\nRatchagan (1997) https://t.co/N3VS6Fo9q2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138011735606956000,
+					"id_str": "1138011735606956032",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sHpOMUEAAIBf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sHpOMUEAAIBf8.jpg",
+					"url": "https://t.co/N3VS6Fo9q2",
+					"display_url": "pic.twitter.com/N3VS6Fo9q2",
+					"expanded_url": "https://twitter.com/charlesbritto/status/1138011738291392512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 797,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138011735606956000,
+					"id_str": "1138011735606956032",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sHpOMUEAAIBf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sHpOMUEAAIBf8.jpg",
+					"url": "https://t.co/N3VS6Fo9q2",
+					"display_url": "pic.twitter.com/N3VS6Fo9q2",
+					"expanded_url": "https://twitter.com/charlesbritto/status/1138011738291392512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 797,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61235075,
+			"id_str": "61235075",
+			"name": "🌽🚜 Cinemakaaran",
+			"screen_name": "charlesbritto",
+			"location": "",
+			"description": "Beyond the fiction of reality, there is the reality of the fiction ~ Slavoj Žižek | https://t.co/m8ZJLmp6ZW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m8ZJLmp6ZW",
+							"expanded_url": "http://instagram.com/cinemakaaran",
+							"display_url": "instagram.com/cinemakaaran",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 779,
+			"friends_count": 4052,
+			"listed_count": 11,
+			"created_at": "Wed Jul 29 16:32:06 +0000 2009",
+			"favourites_count": 15421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C130E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952119715870097408/yY0PH9Zp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952119715870097408/yY0PH9Zp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61235075/1522051313",
+			"profile_link_color": "4F3F38",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "140E0A",
+			"profile_text_color": "838978",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP Girish Karnad and Crazy Mohan.\n\nRatchagan (1997) https://t.co/N3VS6Fo9q2"
+	},
+	{
+		"created_at": "Mon Jun 10 12:06:29 +0000 2019",
+		"id": 1137665405638631400,
+		"id_str": "1138054827743670273",
+		"full_text": "This has blown my mind https://t.co/pgmAPV4C28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137665396683624400,
+					"id_str": "1137665396683624449",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8nMppKU0AErHdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8nMppKU0AErHdU.jpg",
+					"url": "https://t.co/pgmAPV4C28",
+					"display_url": "pic.twitter.com/pgmAPV4C28",
+					"expanded_url": "https://twitter.com/benwalkey1/status/1137665405638631424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1098,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137665396683624400,
+					"id_str": "1137665396683624449",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8nMppKU0AErHdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8nMppKU0AErHdU.jpg",
+					"url": "https://t.co/pgmAPV4C28",
+					"display_url": "pic.twitter.com/pgmAPV4C28",
+					"expanded_url": "https://twitter.com/benwalkey1/status/1137665405638631424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1098,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2762635263,
+			"id_str": "2762635263",
+			"name": "Ben 🐋",
+			"screen_name": "benwalkey1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 409,
+			"listed_count": 2,
+			"created_at": "Sat Sep 06 07:13:20 +0000 2014",
+			"favourites_count": 4436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114225085441806336/IM7NCKrc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114225085441806336/IM7NCKrc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2762635263/1560197318",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19382,
+		"favorite_count": 97828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This has blown my mind https://t.co/pgmAPV4C28"
+	},
+	{
+		"created_at": "Mon Jun 10 12:05:22 +0000 2019",
+		"id": 1138038100037427200,
+		"id_str": "1138054544724652034",
+		"full_text": "What a beautiful moment.\n\nMaisy, who is blind, uses tech to read for the first time in six years. https://t.co/IxHFSrmiPl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138037573308289000,
+					"id_str": "1138037573308289024",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138037573308289024/pu/img/4IZrnfzmGiZ_huLt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138037573308289024/pu/img/4IZrnfzmGiZ_huLt.jpg",
+					"url": "https://t.co/IxHFSrmiPl",
+					"display_url": "pic.twitter.com/IxHFSrmiPl",
+					"expanded_url": "https://twitter.com/BBCClick/status/1138038100037427200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138037573308289000,
+					"id_str": "1138037573308289024",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138037573308289024/pu/img/4IZrnfzmGiZ_huLt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138037573308289024/pu/img/4IZrnfzmGiZ_huLt.jpg",
+					"url": "https://t.co/IxHFSrmiPl",
+					"display_url": "pic.twitter.com/IxHFSrmiPl",
+					"expanded_url": "https://twitter.com/BBCClick/status/1138038100037427200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 135520,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1138037573308289024/pu/pl/Ms-pdDpwGFcrBb95.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138037573308289024/pu/vid/480x480/UckddfdD9SXUOvVG.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138037573308289024/pu/vid/320x320/gcKSkNmW8dPyISux.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138037573308289024/pu/vid/720x720/vy0gnjvth7uRVq0u.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7400702,
+			"id_str": "7400702",
+			"name": "BBC Click",
+			"screen_name": "BBCClick",
+			"location": "London, England",
+			"description": "The BBC's flagship tech show. Presented by @Spenley. Tweet us or include #BBCClick in tweets. Transmission times here - http://t.co/VJ6Kjmzi4r",
+			"url": "http://t.co/i6dx2VyBlx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/i6dx2VyBlx",
+							"expanded_url": "http://www.bbc.co.uk/click",
+							"display_url": "bbc.co.uk/click",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/VJ6Kjmzi4r",
+							"expanded_url": "http://bbc.in/LLZ0wK",
+							"display_url": "bbc.in/LLZ0wK",
+							"indices": [
+								120,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2208229,
+			"friends_count": 188,
+			"listed_count": 18382,
+			"created_at": "Wed Jul 11 12:50:01 +0000 2007",
+			"favourites_count": 17211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/581429185937276929/2I8bmwS1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/581429185937276929/2I8bmwS1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7400702/1480673896",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1054,
+		"favorite_count": 2816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a beautiful moment.\n\nMaisy, who is blind, uses tech to read for the first time in six years. https://t.co/IxHFSrmiPl"
+	},
+	{
 		"created_at": "Sun Jun 09 11:37:29 +0000 2019",
 		"id": 1136795179031990300,
 		"id_str": "1137685142124650497",
