@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 03:39:24 +0000 2019",
+		"id": 1139376766013726700,
+		"id_str": "1139376766013726727",
+		"full_text": "@titanwatches Hey Guys, Earlier I had bought an assorted pack 2ml vials of \"skinn\" perfumes. Was a great buy. Want to buy it again but not finding it anywhere. Can you help?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "titanwatches",
+					"name": "Titan Watches India",
+					"id": 82827734,
+					"id_str": "82827734",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 82827734,
+		"in_reply_to_user_id_str": "82827734",
+		"in_reply_to_screen_name": "titanwatches",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1537,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@titanwatches Hey Guys, Earlier I had bought an assorted pack 2ml vials of \"skinn\" perfumes. Was a great buy. Want to buy it again but not finding it anywhere. Can you help?"
+	},
+	{
 		"created_at": "Mon Jun 10 14:28:12 +0000 2019",
 		"id": 1138090489293316100,
 		"id_str": "1138090489293316096",
