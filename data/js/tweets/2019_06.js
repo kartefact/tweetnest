@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 22:04:25 +0000 2019",
+		"id": 1124308624422182900,
+		"id_str": "1140017241611620352",
+		"full_text": "The making of Amazon Prime, the internet’s most successful and devastating membership program (via @voxdotcom)\nhttps://t.co/sCvX2nIDE0 https://t.co/5IRLXpVx9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "voxdotcom",
+					"name": "Vox",
+					"id": 2347049341,
+					"id_str": "2347049341",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sCvX2nIDE0",
+					"expanded_url": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+					"display_url": "vox.com/recode/2019/5/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124308607493918700,
+					"id_str": "1124308607493918726",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/D5pYuL-W0AY5sbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5pYuL-W0AY5sbf.jpg",
+					"url": "https://t.co/5IRLXpVx9v",
+					"display_url": "pic.twitter.com/5IRLXpVx9v",
+					"expanded_url": "https://twitter.com/verge/status/1124308624422182912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124308607493918700,
+					"id_str": "1124308607493918726",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/D5pYuL-W0AY5sbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5pYuL-W0AY5sbf.jpg",
+					"url": "https://t.co/5IRLXpVx9v",
+					"display_url": "pic.twitter.com/5IRLXpVx9v",
+					"expanded_url": "https://twitter.com/verge/status/1124308624422182912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275686563,
+			"id_str": "275686563",
+			"name": "The Verge",
+			"screen_name": "verge",
+			"location": "New York",
+			"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+			"url": "http://t.co/W2SFxIXkC4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2537481,
+			"friends_count": 159,
+			"listed_count": 36413,
+			"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+			"favourites_count": 1479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 157550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1515605311",
+			"profile_link_color": "EC008C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The making of Amazon Prime, the internet’s most successful and devastating membership program (via @voxdotcom)\nhttps://t.co/sCvX2nIDE0 https://t.co/5IRLXpVx9v"
+	},
+	{
 		"created_at": "Fri Jun 14 03:39:24 +0000 2019",
 		"id": 1139376766013726700,
 		"id_str": "1139376766013726727",
