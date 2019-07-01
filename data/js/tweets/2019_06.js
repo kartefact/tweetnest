@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 05:08:11 +0000 2019",
+		"id": 1145048057219866600,
+		"id_str": "1145197317793824769",
+		"full_text": "Why do I even find this funny 😭😂😂 https://t.co/D6A37vRSbZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1145048049204498400,
+					"id_str": "1145048049204498433",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D-QHIk-WkAEZl1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-QHIk-WkAEZl1-.jpg",
+					"url": "https://t.co/D6A37vRSbZ",
+					"display_url": "pic.twitter.com/D6A37vRSbZ",
+					"expanded_url": "https://twitter.com/PuneerSoda/status/1145048057219866624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145048049204498400,
+					"id_str": "1145048049204498433",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D-QHIk-WkAEZl1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-QHIk-WkAEZl1-.jpg",
+					"url": "https://t.co/D6A37vRSbZ",
+					"display_url": "pic.twitter.com/D6A37vRSbZ",
+					"expanded_url": "https://twitter.com/PuneerSoda/status/1145048057219866624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59160839,
+			"id_str": "59160839",
+			"name": "LS",
+			"screen_name": "PuneerSoda",
+			"location": "Berlin, Germany",
+			"description": "Madridista. Hala Madrid Y Nada Mas!  Football | Bad jokes | Filter Coffee | Madras | Game of Thrones | Europe | Optimism | Blogging | Puns | Memes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3330,
+			"friends_count": 279,
+			"listed_count": 72,
+			"created_at": "Wed Jul 22 15:51:06 +0000 2009",
+			"favourites_count": 1486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "18240A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127938375980335104/7kQyT5dM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127938375980335104/7kQyT5dM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59160839/1557423148",
+			"profile_link_color": "731135",
+			"profile_sidebar_border_color": "5496BA",
+			"profile_sidebar_fill_color": "05050A",
+			"profile_text_color": "DBAEAD",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why do I even find this funny 😭😂😂 https://t.co/D6A37vRSbZ"
+	},
+	{
+		"created_at": "Sun Jun 30 04:47:14 +0000 2019",
+		"id": 1145192045285265400,
+		"id_str": "1145192045285265408",
+		"full_text": "My face when I dance with you,  @mudnsky ? https://t.co/wuzlF3iK3W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wuzlF3iK3W",
+					"expanded_url": "https://twitter.com/PhotoGhibli/status/1145143760285622273",
+					"display_url": "twitter.com/PhotoGhibli/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1145143760285622300,
+		"quoted_status_id_str": "1145143760285622273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wuzlF3iK3W",
+			"expanded": "https://twitter.com/PhotoGhibli/status/1145143760285622273",
+			"display": "twitter.com/PhotoGhibli/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 30 01:35:22 +0000 2019",
+			"id": 1145143760285622300,
+			"id_str": "1145143760285622273",
+			"full_text": "https://t.co/Ohrh0YIYBo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1145143740073304000,
+						"id_str": "1145143740073304066",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D-ReKhPU4AIooFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-ReKhPU4AIooFy.jpg",
+						"url": "https://t.co/Ohrh0YIYBo",
+						"display_url": "pic.twitter.com/Ohrh0YIYBo",
+						"expanded_url": "https://twitter.com/PhotoGhibli/status/1145143760285622273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1145143740073304000,
+						"id_str": "1145143740073304066",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D-ReKhPU4AIooFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-ReKhPU4AIooFy.jpg",
+						"url": "https://t.co/Ohrh0YIYBo",
+						"display_url": "pic.twitter.com/Ohrh0YIYBo",
+						"expanded_url": "https://twitter.com/PhotoGhibli/status/1145143760285622273/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D-ReKhPU4AIooFy.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4493173634,
+				"id_str": "4493173634",
+				"name": "Studio Ghibli",
+				"screen_name": "PhotoGhibli",
+				"location": "Japan",
+				"description": "Photos and Gifs dedicated for Studio Ghibli ♡",
+				"url": "https://t.co/bVxcvKqjiF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bVxcvKqjiF",
+								"expanded_url": "http://Instagram.com/photoghibli/",
+								"display_url": "Instagram.com/photoghibli/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 306972,
+				"friends_count": 4,
+				"listed_count": 1468,
+				"created_at": "Tue Dec 08 04:41:53 +0000 2015",
+				"favourites_count": 111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055147911108050944/Tf8MBSfR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055147911108050944/Tf8MBSfR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4493173634/1540401841",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1571,
+			"favorite_count": 5719,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My face when I dance with you,  @mudnsky ? https://t.co/wuzlF3iK3W"
+	},
+	{
 		"created_at": "Tue Jun 25 17:42:23 +0000 2019",
 		"id": 1143575175285366800,
 		"id_str": "1143575175285366784",
