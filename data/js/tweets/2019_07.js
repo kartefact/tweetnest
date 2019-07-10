@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 18:09:01 +0000 2019",
+		"id": 1148655311177183200,
+		"id_str": "1148655311177183232",
+		"full_text": "@rajpvish @Falooly @EnthuPotato @_Drunkenmunk @Abiraame @PuneerSoda aanai https://t.co/U96wTi9Fd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajpvish",
+					"name": "Rajkumar Viswanathan",
+					"id": 111424239,
+					"id_str": "111424239",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Falooly",
+					"name": "Loolie",
+					"id": 31174174,
+					"id_str": "31174174",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "EnthuPotato",
+					"name": "Madhumitha",
+					"id": 541105479,
+					"id_str": "541105479",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"screen_name": "_Drunkenmunk",
+					"name": "Munk",
+					"id": 232860827,
+					"id_str": "232860827",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "Abiraame",
+					"name": "Abiraame",
+					"id": 61225855,
+					"id_str": "61225855",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "PuneerSoda",
+					"name": "LS",
+					"id": 59160839,
+					"id_str": "59160839",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U96wTi9Fd7",
+					"expanded_url": "https://twitter.com/travisakers/status/1147484092516245511",
+					"display_url": "twitter.com/travisakers/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 111424239,
+		"in_reply_to_user_id_str": "111424239",
+		"in_reply_to_screen_name": "rajpvish",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 214,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147484092516245500,
+		"quoted_status_id_str": "1147484092516245511",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U96wTi9Fd7",
+			"expanded": "https://twitter.com/travisakers/status/1147484092516245511",
+			"display": "twitter.com/travisakers/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 06 12:35:01 +0000 2019",
+			"id": 1147484092516245500,
+			"id_str": "1147484092516245511",
+			"full_text": "This baby elephant playing and chasing birds is exactly what we need this weekend!\n\nhttps://t.co/hSARyPFIDr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1087504238815600600,
+						"id_str": "1087504238815600640",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087504238815600640/pu/img/edk9oHSO8TAXz4EP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087504238815600640/pu/img/edk9oHSO8TAXz4EP.jpg",
+						"url": "https://t.co/hSARyPFIDr",
+						"display_url": "pic.twitter.com/hSARyPFIDr",
+						"expanded_url": "https://twitter.com/NatureAttracts/status/1087504416003903488/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1087504416003903500,
+						"source_status_id_str": "1087504416003903488",
+						"source_user_id": 905124347127316500,
+						"source_user_id_str": "905124347127316480"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087504238815600600,
+						"id_str": "1087504238815600640",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087504238815600640/pu/img/edk9oHSO8TAXz4EP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087504238815600640/pu/img/edk9oHSO8TAXz4EP.jpg",
+						"url": "https://t.co/hSARyPFIDr",
+						"display_url": "pic.twitter.com/hSARyPFIDr",
+						"expanded_url": "https://twitter.com/NatureAttracts/status/1087504416003903488/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1087504416003903500,
+						"source_status_id_str": "1087504416003903488",
+						"source_user_id": 905124347127316500,
+						"source_user_id_str": "905124347127316480",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 20833,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087504238815600640/pu/vid/320x320/VekLjShEIwdQAj2M.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087504238815600640/pu/vid/480x480/ziTtCdZm2Cv3StQz.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1087504238815600640/pu/pl/5qRVVMRbiYC3mEA4.m3u8?tag=6"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1087504238815600640/pu/vid/640x640/_LSXM3C_szj27BiR.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 905124347127316500,
+								"id_str": "905124347127316480",
+								"name": "Attractive Nature 🌿",
+								"screen_name": "NatureAttracts",
+								"location": "World wide 🌎",
+								"description": "Animals 🐶 Nature 🌸 Discovery 🌋          ©Photos/Videos belong to credited owners  \n    *we own no content posted*    DM for credit/removal",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 32373,
+								"friends_count": 6115,
+								"listed_count": 253,
+								"created_at": "Tue Sep 05 17:43:55 +0000 2017",
+								"favourites_count": 1,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2116,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1132601411479334912/jcdVwmFr_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132601411479334912/jcdVwmFr_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/905124347127316480/1538786020",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101005636,
+				"id_str": "101005636",
+				"name": "Rev. Travis Akers",
+				"screen_name": "travisakers",
+				"location": "Washington, DC / Duuuval, FL",
+				"description": "Blessed Husband & Father | OIF/OEF Veteran | Ashford BA | Villanova MPA | Seen On @WWE | Feat: CNN, WaPo, HuffPo | @TeamWarren | Opinions Are My Own | Phil 4:13",
+				"url": "https://t.co/BtKfTKRCOR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BtKfTKRCOR",
+								"expanded_url": "http://elizabethwarren.com",
+								"display_url": "elizabethwarren.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88881,
+				"friends_count": 5985,
+				"listed_count": 356,
+				"created_at": "Fri Jan 01 16:13:08 +0000 2010",
+				"favourites_count": 49682,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1146814469919694848/DYwDyXyL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146814469919694848/DYwDyXyL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101005636/1562387510",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45616,
+			"favorite_count": 164754,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hi",
+		"text": "@rajpvish @Falooly @EnthuPotato @_Drunkenmunk @Abiraame @PuneerSoda aanai https://t.co/U96wTi9Fd7"
+	},
+	{
+		"created_at": "Tue Jul 09 18:03:53 +0000 2019",
+		"id": 1148644576762007600,
+		"id_str": "1148654016676544512",
+		"full_text": "The Tree of Life in Olympic National Park in Washington has nearly all its roots exposed due to soil erosion, yet it remains upright and sprouts green leaves every year  \n(https://t.co/3Q0hLwTtCH) https://t.co/8vfBPGwyj8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Q0hLwTtCH",
+					"expanded_url": "https://theculturetrip.com/north-america/usa/washington/articles/the-story-behind-the-kalaloch-tree-of-life/",
+					"display_url": "theculturetrip.com/north-america/…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148644571640811500,
+					"id_str": "1148644571640811521",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/D_DOJvHU0AEBj6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_DOJvHU0AEBj6Z.jpg",
+					"url": "https://t.co/8vfBPGwyj8",
+					"display_url": "pic.twitter.com/8vfBPGwyj8",
+					"expanded_url": "https://twitter.com/41Strange/status/1148644576762007552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148644571640811500,
+					"id_str": "1148644571640811521",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/D_DOJvHU0AEBj6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_DOJvHU0AEBj6Z.jpg",
+					"url": "https://t.co/8vfBPGwyj8",
+					"display_url": "pic.twitter.com/8vfBPGwyj8",
+					"expanded_url": "https://twitter.com/41Strange/status/1148644576762007552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2355808260,
+			"id_str": "2355808260",
+			"name": "41 Strange",
+			"screen_name": "41Strange",
+			"location": "Hollywood, CA",
+			"description": "Horror short stories bestseller out now",
+			"url": "https://t.co/lApirIcxFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lApirIcxFC",
+							"expanded_url": "https://41strange.wordpress.com",
+							"display_url": "41strange.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570632,
+			"friends_count": 6137,
+			"listed_count": 3825,
+			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
+			"favourites_count": 177130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080403",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2355808260/1405535968",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Tree of Life in Olympic National Park in Washington has nearly all its roots exposed due to soil erosion, yet it remains upright and sprouts green leaves every year  \n(https://t.co/3Q0hLwTtCH) https://t.co/8vfBPGwyj8"
+	},
+	{
 		"created_at": "Thu Jul 04 18:45:32 +0000 2019",
 		"id": 1146456110917914600,
 		"id_str": "1146852561380499456",
