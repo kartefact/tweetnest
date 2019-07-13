@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 11:53:44 +0000 2019",
+		"id": 1025011036959727600,
+		"id_str": "1149648030296993794",
+		"full_text": "Each day we are granted the beautiful gift of life which we share with ourselves and others why not go out there today or any day and make a conscious effort to help somebody you notice is in need of a little loving kindness. Just imagine what your kindness could do for them. https://t.co/ug8VFQZdo5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1025011032752836600,
+					"id_str": "1025011032752836613",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DjmSGoIW0AUEfKd.png",
+					"media_url_https": "https://pbs.twimg.com/media/DjmSGoIW0AUEfKd.png",
+					"url": "https://t.co/ug8VFQZdo5",
+					"display_url": "pic.twitter.com/ug8VFQZdo5",
+					"expanded_url": "https://twitter.com/Kindnessgives/status/1025011036959727622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1025011032752836600,
+					"id_str": "1025011032752836613",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DjmSGoIW0AUEfKd.png",
+					"media_url_https": "https://pbs.twimg.com/media/DjmSGoIW0AUEfKd.png",
+					"url": "https://t.co/ug8VFQZdo5",
+					"display_url": "pic.twitter.com/ug8VFQZdo5",
+					"expanded_url": "https://twitter.com/Kindnessgives/status/1025011036959727622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4894430746,
+			"id_str": "4894430746",
+			"name": "John Magee",
+			"screen_name": "KindnessCoach_",
+			"location": "United Kingdom",
+			"description": "📚Education 🎤Speaker 🚸Super Learning Days 👩‍🏫Staff Insets 🇬🇧United Kingdom 👇Enquiries and Bookings https://t.co/rXGeKZLUWb",
+			"url": "https://t.co/ipKvADblvM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ipKvADblvM",
+							"expanded_url": "http://www.kindnessmatters.co.uk",
+							"display_url": "kindnessmatters.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rXGeKZLUWb",
+							"expanded_url": "http://bit.ly/Schoolenquiries",
+							"display_url": "bit.ly/Schoolenquiries",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29894,
+			"friends_count": 18557,
+			"listed_count": 360,
+			"created_at": "Wed Feb 10 08:25:02 +0000 2016",
+			"favourites_count": 20811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120273462692651008/3IOu5gzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120273462692651008/3IOu5gzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4894430746/1554462928",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Each day we are granted the beautiful gift of life which we share with ourselves and others why not go out there today or any day and make a conscious effort to help somebody you notice is in need of a little loving kindness. Just imagine what your kindness could do for them. https://t.co/ug8VFQZdo5"
+	},
+	{
 		"created_at": "Wed Jul 10 15:51:33 +0000 2019",
 		"id": 1148983102816972800,
 		"id_str": "1148983102816972800",
