@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 15:30:58 +0000 2019",
+		"id": 807193636874108900,
+		"id_str": "1150065087786315776",
+		"full_text": "\"Oh, are you working as construction worker?\" - \"No, I'm a software developer in an open-plan office.\" https://t.co/Of5KoRRsA4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 807193633409630200,
+					"id_str": "807193633409630208",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/CzO6VThWgAABNvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzO6VThWgAABNvh.jpg",
+					"url": "https://t.co/Of5KoRRsA4",
+					"display_url": "pic.twitter.com/Of5KoRRsA4",
+					"expanded_url": "https://twitter.com/EinJungeAusKiel/status/807193636874108928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 807193633409630200,
+					"id_str": "807193633409630208",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/CzO6VThWgAABNvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzO6VThWgAABNvh.jpg",
+					"url": "https://t.co/Of5KoRRsA4",
+					"display_url": "pic.twitter.com/Of5KoRRsA4",
+					"expanded_url": "https://twitter.com/EinJungeAusKiel/status/807193636874108928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 163411461,
+			"id_str": "163411461",
+			"name": "Der Hauke",
+			"screen_name": "EinJungeAusKiel",
+			"location": "Hamburg",
+			"description": "in progress",
+			"url": "http://t.co/iaj1WZmgAN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iaj1WZmgAN",
+							"expanded_url": "http://shinythings.de",
+							"display_url": "shinythings.de",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 127,
+			"listed_count": 17,
+			"created_at": "Tue Jul 06 10:25:54 +0000 2010",
+			"favourites_count": 1181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695538459990097920/zaaFEhNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695538459990097920/zaaFEhNc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163411461/1440235946",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3450,
+		"favorite_count": 4394,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Oh, are you working as construction worker?\" - \"No, I'm a software developer in an open-plan office.\" https://t.co/Of5KoRRsA4"
+	},
+	{
 		"created_at": "Fri Jul 12 11:53:44 +0000 2019",
 		"id": 1025011036959727600,
 		"id_str": "1149648030296993794",
@@ -106,7 +280,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "John Magee",
 			"screen_name": "KindnessCoach_",
 			"location": "United Kingdom",
-			"description": "📚Education 🎤Speaker 🚸Super Learning Days 👩‍🏫Staff Insets 🇬🇧United Kingdom 👇Enquiries and Bookings https://t.co/rXGeKZLUWb",
+			"description": "📚Education 🎤Speaker 🚸Super Learning Days 👩🏫Staff Insets 🇬🇧United Kingdom 👇Enquiries and Bookings https://t.co/rXGeKZLUWb",
 			"url": "https://t.co/ipKvADblvM",
 			"entities": {
 				"url": {
