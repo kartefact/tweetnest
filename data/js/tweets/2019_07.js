@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 19:57:55 +0000 2019",
+		"id": 1150500256062120000,
+		"id_str": "1150857040794812418",
+		"full_text": "Watching this was super entertaining 😊 Especially the spicy part 🤔 https://t.co/jriEXJMswm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jriEXJMswm",
+					"expanded_url": "https://youtu.be/ttCNQXOHEwg",
+					"display_url": "youtu.be/ttCNQXOHEwg",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1685849366,
+			"id_str": "1685849366",
+			"name": "Mud n Sky",
+			"screen_name": "mudnsky",
+			"location": "India",
+			"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 211,
+			"listed_count": 34,
+			"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+			"favourites_count": 5503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092065435359399937/_2hAYAUz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching this was super entertaining 😊 Especially the spicy part 🤔 https://t.co/jriEXJMswm"
+	},
+	{
+		"created_at": "Mon Jul 15 19:57:42 +0000 2019",
+		"id": 1150629849347706900,
+		"id_str": "1150856989347438592",
+		"full_text": "Samir Abrol’s widow to join IAF https://t.co/A4azGsmFPz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A4azGsmFPz",
+					"expanded_url": "http://toi.in/lifEbZ",
+					"display_url": "toi.in/lifEbZ",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.toi.in\" rel=\"nofollow\">cmssocialservice</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31058922,
+			"id_str": "31058922",
+			"name": "TOI Bengaluru",
+			"screen_name": "TOIBengaluru",
+			"location": "Bengaluru",
+			"description": "Your city. Your neighborhood. Your block. Covered for you by https://t.co/VSKi1mCAsZ Follow us on Facebook: https://t.co/buQiaeQ4zM",
+			"url": "https://t.co/ILyFf5Sfn0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ILyFf5Sfn0",
+							"expanded_url": "http://timesofindia.indiatimes.com/city/bengaluru/articlelist/-2128833038.cms",
+							"display_url": "timesofindia.indiatimes.com/city/bengaluru…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VSKi1mCAsZ",
+							"expanded_url": "http://timesofindia.com",
+							"display_url": "timesofindia.com",
+							"indices": [
+								61,
+								84
+							]
+						},
+						{
+							"url": "https://t.co/buQiaeQ4zM",
+							"expanded_url": "https://www.facebook.com/TimesofIndiaBengaluru",
+							"display_url": "facebook.com/TimesofIndiaBe…",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47898,
+			"friends_count": 651,
+			"listed_count": 398,
+			"created_at": "Tue Apr 14 04:37:08 +0000 2009",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 60065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282403421/icon_512_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282403421/icon_512_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31058922/1562392312",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Samir Abrol’s widow to join IAF https://t.co/A4azGsmFPz"
+	},
+	{
 		"created_at": "Sat Jul 13 15:30:58 +0000 2019",
 		"id": 807193636874108900,
 		"id_str": "1150065087786315776",
