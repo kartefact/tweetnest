@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 06:58:54 +0000 2019",
+		"id": 1152966015342432300,
+		"id_str": "1153197712239558656",
+		"full_text": "Struggling. My father is a patient of Multiple System Atrophy (MSA), a rare form of #Parkinson’s disease. I’ve tried doctors in India and UK over the past 4 years, but am failing to find him any further help. Can anyone suggest ways to control #MSA? Could you plz retweet?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Parkinson",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "MSA",
+					"indices": [
+						244,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 181562725,
+			"id_str": "181562725",
+			"name": "Ish Goel",
+			"screen_name": "ishgoel",
+			"location": "New Delhi, Delhi, India",
+			"description": "Founder @GovBlocks, CEO @Somish | Building Smart Governance for #Blockchain | Skilled on #Ethereum",
+			"url": "https://t.co/BUARK6nBKT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BUARK6nBKT",
+							"expanded_url": "http://govblocks.io",
+							"display_url": "govblocks.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 224,
+			"listed_count": 15,
+			"created_at": "Sun Aug 22 14:22:08 +0000 2010",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823561006853095426/33wYW1bG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823561006853095426/33wYW1bG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/181562725/1507198964",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 486,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Struggling. My father is a patient of Multiple System Atrophy (MSA), a rare form of #Parkinson’s disease. I’ve tried doctors in India and UK over the past 4 years, but am failing to find him any further help. Can anyone suggest ways to control #MSA? Could you plz retweet?"
+	},
+	{
 		"created_at": "Mon Jul 15 19:57:55 +0000 2019",
 		"id": 1150500256062120000,
 		"id_str": "1150857040794812418",
