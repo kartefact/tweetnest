@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 03:42:32 +0000 2019",
+		"id": 1158946501722116000,
+		"id_str": "1158946501722116097",
+		"full_text": "RIP https://t.co/LpksLLFvOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LpksLLFvOE",
+					"expanded_url": "https://twitter.com/nik4il/status/1158926662626467840",
+					"display_url": "twitter.com/nik4il/status/…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "It's tough to not break something. Good things are fragile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1529,
+			"friends_count": 213,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1550166431",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158926662626467800,
+		"quoted_status_id_str": "1158926662626467840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LpksLLFvOE",
+			"expanded": "https://twitter.com/nik4il/status/1158926662626467840",
+			"display": "twitter.com/nik4il/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 07 02:23:42 +0000 2019",
+			"id": 1158926662626467800,
+			"id_str": "1158926662626467840",
+			"full_text": "The icon of Women Empowerment.\n#SushmaSwaraj ❤️😭 https://t.co/hAWj1qEhXr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SushmaSwaraj",
+						"indices": [
+							31,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1158926651016659000,
+						"id_str": "1158926651016658944",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/EBVVphqUwAASxCr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBVVphqUwAASxCr.jpg",
+						"url": "https://t.co/hAWj1qEhXr",
+						"display_url": "pic.twitter.com/hAWj1qEhXr",
+						"expanded_url": "https://twitter.com/nik4il/status/1158926662626467840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1564,
+								"h": 1564,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1158926651016659000,
+						"id_str": "1158926651016658944",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/EBVVphqUwAASxCr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBVVphqUwAASxCr.jpg",
+						"url": "https://t.co/hAWj1qEhXr",
+						"display_url": "pic.twitter.com/hAWj1qEhXr",
+						"expanded_url": "https://twitter.com/nik4il/status/1158926662626467840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1564,
+								"h": 1564,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912744007,
+				"id_str": "912744007",
+				"name": "निखिल",
+				"screen_name": "nik4il",
+				"location": "India",
+				"description": "भारत का रहने वाला हूँ, भारत की बात सुनाता हूँ।\n🇮🇳",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67,
+				"friends_count": 252,
+				"listed_count": 2,
+				"created_at": "Mon Oct 29 16:08:47 +0000 2012",
+				"favourites_count": 4263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4893,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158317018795261957/puiQjMGk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158317018795261957/puiQjMGk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912744007/1564140693",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 490,
+			"favorite_count": 1995,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "RIP https://t.co/LpksLLFvOE"
+	},
+	{
 		"created_at": "Thu Aug 01 14:02:22 +0000 2019",
 		"id": 1156918640379347000,
 		"id_str": "1156928160849510407",
