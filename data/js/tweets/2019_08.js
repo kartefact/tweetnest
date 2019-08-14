@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 13:54:41 +0000 2019",
+		"id": 1154837688656134100,
+		"id_str": "1161274879343128576",
+		"full_text": "This is the only real shot in #TheLionKing. There are 1490 rendered shots created by animators and CG artists. I slipped in one single shot that we actually photographed in Africa to see if anyone would notice. It is the first shot of the movie that begins The Circle of Life. https://t.co/CO0spSyCv4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheLionKing",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154837685824970800,
+					"id_str": "1154837685824970752",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbOwbTU4AAJv6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbOwbTU4AAJv6D.jpg",
+					"url": "https://t.co/CO0spSyCv4",
+					"display_url": "pic.twitter.com/CO0spSyCv4",
+					"expanded_url": "https://twitter.com/Jon_Favreau/status/1154837688656134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154837685824970800,
+					"id_str": "1154837685824970752",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbOwbTU4AAJv6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbOwbTU4AAJv6D.jpg",
+					"url": "https://t.co/CO0spSyCv4",
+					"display_url": "pic.twitter.com/CO0spSyCv4",
+					"expanded_url": "https://twitter.com/Jon_Favreau/status/1154837688656134144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22677790,
+			"id_str": "22677790",
+			"name": "Jon Favreau",
+			"screen_name": "Jon_Favreau",
+			"location": "Hollywood",
+			"description": "actor/writer/director",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1988270,
+			"friends_count": 225,
+			"listed_count": 17820,
+			"created_at": "Tue Mar 03 20:55:05 +0000 2009",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809883338873839616/4PGFZ7OX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809883338873839616/4PGFZ7OX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5432,
+		"favorite_count": 30330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the only real shot in #TheLionKing. There are 1490 rendered shots created by animators and CG artists. I slipped in one single shot that we actually photographed in Africa to see if anyone would notice. It is the first shot of the movie that begins The Circle of Life. https://t.co/CO0spSyCv4"
+	},
+	{
 		"created_at": "Wed Aug 07 03:42:32 +0000 2019",
 		"id": 1158946501722116000,
 		"id_str": "1158946501722116097",
