@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 06:45:43 +0000 2019",
+		"id": 1164218125740646400,
+		"id_str": "1164428417153978369",
+		"full_text": "This is the Twitter content I’m here for...💪😍😇🥋😉🔥   https://t.co/h5szw7FK5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005392237616824300,
+					"id_str": "1005392237616824321",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005392237616824321/pu/img/cYn1Jyz1K6Bl-Ydg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005392237616824321/pu/img/cYn1Jyz1K6Bl-Ydg.jpg",
+					"url": "https://t.co/h5szw7FK5E",
+					"display_url": "pic.twitter.com/h5szw7FK5E",
+					"expanded_url": "https://twitter.com/uzunkokcan/status/1005393097281495040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005393097281495000,
+					"source_status_id_str": "1005393097281495040",
+					"source_user_id": 1285980817,
+					"source_user_id_str": "1285980817"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005392237616824300,
+					"id_str": "1005392237616824321",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005392237616824321/pu/img/cYn1Jyz1K6Bl-Ydg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005392237616824321/pu/img/cYn1Jyz1K6Bl-Ydg.jpg",
+					"url": "https://t.co/h5szw7FK5E",
+					"display_url": "pic.twitter.com/h5szw7FK5E",
+					"expanded_url": "https://twitter.com/uzunkokcan/status/1005393097281495040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005393097281495000,
+					"source_status_id_str": "1005393097281495040",
+					"source_user_id": 1285980817,
+					"source_user_id_str": "1285980817",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 91633,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1005392237616824321/pu/pl/9PgW_V3PKyPE00MH.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005392237616824321/pu/vid/640x360/5mf0BDZ2h9Ifn1hI.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005392237616824321/pu/vid/320x180/qzZKLabnzDLPPTUr.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1285980817,
+							"id_str": "1285980817",
+							"name": "Can Uzunkök",
+							"screen_name": "uzunkokcan",
+							"location": "Türkiye",
+							"description": "Medya Danışmanı | uzunkokcan@gmail.com",
+							"url": "https://t.co/LtGyCgvmCP",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LtGyCgvmCP",
+											"expanded_url": "https://www.instagram.com/canuznkk/",
+											"display_url": "instagram.com/canuznkk/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1407017,
+							"friends_count": 792284,
+							"listed_count": 872,
+							"created_at": "Thu Mar 21 13:26:14 +0000 2013",
+							"favourites_count": 191298,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 5825,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1011201153206571009/2ZZRXJmf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011201153206571009/2ZZRXJmf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980817/1468788357",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324703658,
+			"id_str": "324703658",
+			"name": "Rex Chapman🏇🏼",
+			"screen_name": "RexChapman",
+			"location": "Lexington/Phx/Atl ",
+			"description": "I hold the microphone like a grudge",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281420,
+			"friends_count": 7320,
+			"listed_count": 1181,
+			"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+			"favourites_count": 96193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E21F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+			"profile_link_color": "2C12EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "100D14",
+			"profile_text_color": "EB0E20",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36441,
+		"favorite_count": 103614,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the Twitter content I’m here for...💪😍😇🥋😉🔥   https://t.co/h5szw7FK5E"
+	},
+	{
 		"created_at": "Fri Aug 16 20:47:35 +0000 2019",
 		"id": 1162455068676886500,
 		"id_str": "1162465953784840192",
