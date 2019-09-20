@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 19 04:33:58 +0000 2019",
+		"id": 1174302862924341200,
+		"id_str": "1174542123896410112",
+		"full_text": "\"we're cancelling daily standup\" https://t.co/s2M2Vb2yWE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174302857928929300,
+					"id_str": "1174302857928929280",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EEv2OkGUcAA4N_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEv2OkGUcAA4N_9.jpg",
+					"url": "https://t.co/s2M2Vb2yWE",
+					"display_url": "pic.twitter.com/s2M2Vb2yWE",
+					"expanded_url": "https://twitter.com/iamdevloper/status/1174302862924341254/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174302857928929300,
+					"id_str": "1174302857928929280",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EEv2OkGUcAA4N_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEv2OkGUcAA4N_9.jpg",
+					"url": "https://t.co/s2M2Vb2yWE",
+					"display_url": "pic.twitter.com/s2M2Vb2yWE",
+					"expanded_url": "https://twitter.com/iamdevloper/status/1174302862924341254/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564919357,
+			"id_str": "564919357",
+			"name": "I Am Devloper",
+			"screen_name": "iamdevloper",
+			"location": "Localhost",
+			"description": "The Vista of Twitter accounts  adeveloper1@gmail.com | DM | Merch: https://t.co/Fv5n2yAXPS | 💰 in tweet = ad",
+			"url": "https://t.co/CcyowLeIKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CcyowLeIKo",
+							"expanded_url": "https://www.buymeacoffee.com/devloper",
+							"display_url": "buymeacoffee.com/devloper",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Fv5n2yAXPS",
+							"expanded_url": "https://teespring.com/en-GB/stores/iamdevloper",
+							"display_url": "teespring.com/en-GB/stores/i…",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 383333,
+			"friends_count": 0,
+			"listed_count": 4426,
+			"created_at": "Fri Apr 27 21:06:51 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071055431215276033/U9-RIlDs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071055431215276033/U9-RIlDs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564919357/1543573660",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2123,
+		"favorite_count": 10239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"we're cancelling daily standup\" https://t.co/s2M2Vb2yWE"
+	},
+	{
 		"created_at": "Sun Sep 15 16:34:35 +0000 2019",
 		"id": 1173273919320551400,
 		"id_str": "1173273919320551425",
