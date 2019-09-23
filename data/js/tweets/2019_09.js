@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 14:32:26 +0000 2019",
+		"id": 1175155636738429000,
+		"id_str": "1175779893725892608",
+		"full_text": "Me: How was your day? \n8yo: I just worry they are doing it wrong. \nMe: Doing what wrong? \n8yo: They separate everything so we can’t understand anything. Who says music isn’t really math or math isn’t science really? Someone made categories but the world is a mushier than that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 952787329,
+			"id_str": "952787329",
+			"name": "RanaAwdishMD",
+			"screen_name": "RanaAwdish",
+			"location": "Detroit Michigan",
+			"description": "Physician|Patient|Author|Speaker|Painter|Mom to a comically insightful kid. #InShockBook @StMartinsPress married to @RandyAwdish",
+			"url": "https://t.co/0Ea68G2wFt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Ea68G2wFt",
+							"expanded_url": "http://ranaawdishmd.com/",
+							"display_url": "ranaawdishmd.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10692,
+			"friends_count": 2601,
+			"listed_count": 95,
+			"created_at": "Sat Nov 17 02:26:44 +0000 2012",
+			"favourites_count": 22803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816855912044339201/NFdzYLae_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816855912044339201/NFdzYLae_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/952787329/1524221740",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5485,
+		"favorite_count": 32391,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Me: How was your day? \n8yo: I just worry they are doing it wrong. \nMe: Doing what wrong? \n8yo: They separate everything so we can’t understand anything. Who says music isn’t really math or math isn’t science really? Someone made categories but the world is a mushier than that."
+	},
+	{
 		"created_at": "Thu Sep 19 04:33:58 +0000 2019",
 		"id": 1174302862924341200,
 		"id_str": "1174542123896410112",
