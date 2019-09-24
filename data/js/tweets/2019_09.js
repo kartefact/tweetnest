@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 19:01:56 +0000 2019",
+		"id": 1175715248139100200,
+		"id_str": "1176210103755632640",
+		"full_text": "This egret surfing on an alligator is the level of weekend chill we should all aspire to. \n\n📹: Imgur user Zzed4tw439 https://t.co/BEKcRjsNIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175715226551029800,
+					"id_str": "1175715226551029760",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175715226551029760/pu/img/rvmb7Y6Ti8bSyk7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175715226551029760/pu/img/rvmb7Y6Ti8bSyk7M.jpg",
+					"url": "https://t.co/BEKcRjsNIS",
+					"display_url": "pic.twitter.com/BEKcRjsNIS",
+					"expanded_url": "https://twitter.com/SlenderSherbet/status/1175715248139100162/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175715226551029800,
+					"id_str": "1175715226551029760",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175715226551029760/pu/img/rvmb7Y6Ti8bSyk7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175715226551029760/pu/img/rvmb7Y6Ti8bSyk7M.jpg",
+					"url": "https://t.co/BEKcRjsNIS",
+					"display_url": "pic.twitter.com/BEKcRjsNIS",
+					"expanded_url": "https://twitter.com/SlenderSherbet/status/1175715248139100162/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							129
+						],
+						"duration_millis": 10867,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1175715226551029760/pu/pl/RJPFAgOGHU8KmxrB.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175715226551029760/pu/vid/460x258/jsF5bhHrM7atD1J-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1041334590768525300,
+			"id_str": "1041334590768525312",
+			"name": "Paul Bronks",
+			"screen_name": "SlenderSherbet",
+			"location": "Sheffield, England",
+			"description": "Jew(ish). Photos, videos, whatever to numberswhore@gmail.com. Represented by @eversobookish at @KCAgents.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133693,
+			"friends_count": 283,
+			"listed_count": 735,
+			"created_at": "Sun Sep 16 14:34:48 +0000 2018",
+			"favourites_count": 2484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168492960817827840/u1sQwiNd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168492960817827840/u1sQwiNd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041334590768525312/1567889664",
+			"profile_link_color": "111111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5975,
+		"favorite_count": 28934,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This egret surfing on an alligator is the level of weekend chill we should all aspire to. \n\n📹: Imgur user Zzed4tw439 https://t.co/BEKcRjsNIS"
+	},
+	{
+		"created_at": "Mon Sep 23 07:10:00 +0000 2019",
+		"id": 1175863953316036600,
+		"id_str": "1176030939056488448",
+		"full_text": "All three cars are the same physical size - see next tweet for the animation https://t.co/63LPZiGck5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175863941899149300,
+					"id_str": "1175863941899149312",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFGCBnEW4AAN7iS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFGCBnEW4AAN7iS.jpg",
+					"url": "https://t.co/63LPZiGck5",
+					"display_url": "pic.twitter.com/63LPZiGck5",
+					"expanded_url": "https://twitter.com/DrGBuckingham/status/1175863953316036609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175863941899149300,
+					"id_str": "1175863941899149312",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFGCBnEW4AAN7iS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFGCBnEW4AAN7iS.jpg",
+					"url": "https://t.co/63LPZiGck5",
+					"display_url": "pic.twitter.com/63LPZiGck5",
+					"expanded_url": "https://twitter.com/DrGBuckingham/status/1175863953316036609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335939030,
+			"id_str": "335939030",
+			"name": "Gavin Buckingham",
+			"screen_name": "DrGBuckingham",
+			"location": "Exeter, England",
+			"description": "Psychologist based at the University of Exeter examining perception, illusions and sensorimotor control during object interaction, surgical learning, and VR.",
+			"url": "https://t.co/M7PrXNMWgq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M7PrXNMWgq",
+							"expanded_url": "https://gavinbuckingham.wordpress.com/",
+							"display_url": "gavinbuckingham.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3354,
+			"friends_count": 2521,
+			"listed_count": 68,
+			"created_at": "Fri Jul 15 13:57:16 +0000 2011",
+			"favourites_count": 10359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171864960361750528/AgRDWGoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171864960361750528/AgRDWGoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335939030/1546524200",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All three cars are the same physical size - see next tweet for the animation https://t.co/63LPZiGck5"
+	},
+	{
 		"created_at": "Sun Sep 22 14:32:26 +0000 2019",
 		"id": 1175155636738429000,
 		"id_str": "1175779893725892608",
