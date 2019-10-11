@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 20:30:59 +0000 2019",
+		"id": 1182177908229468200,
+		"id_str": "1182393108153028608",
+		"full_text": "100 convicts in kerala prison sell 25k Chapathis, 500-700 Biriyanis per day via Swiggy 😱 https://t.co/VEbAlyeT0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEbAlyeT0o",
+					"expanded_url": "https://twitter.com/TamilYourstory/status/1182166367471988737",
+					"display_url": "twitter.com/TamilYourstory…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13545932,
+			"id_str": "13545932",
+			"name": "psankar",
+			"screen_name": "psankar",
+			"location": "",
+			"description": "தமிழ் ஆர்வலன்.  Stable release male.",
+			"url": "http://t.co/UK0oXliQXr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UK0oXliQXr",
+							"expanded_url": "http://psankar.blogspot.com",
+							"display_url": "psankar.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2202,
+			"friends_count": 387,
+			"listed_count": 58,
+			"created_at": "Sat Feb 16 07:01:03 +0000 2008",
+			"favourites_count": 34426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089439214448640/qpxQI9KY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089439214448640/qpxQI9KY_normal.jpg",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182166367471988700,
+		"quoted_status_id_str": "1182166367471988737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VEbAlyeT0o",
+			"expanded": "https://twitter.com/TamilYourstory/status/1182166367471988737",
+			"display": "twitter.com/TamilYourstory…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 10 05:30:00 +0000 2019",
+			"id": 1182166367471988700,
+			"id_str": "1182166367471988737",
+			"full_text": "100 சிறைக் கைதிகளால் தயாரிக்கப்படும் 25,000 சப்பாத்திகளும், 500 முதல் 700 பிரியாணிகளும் நாளொன்றுக்கு Swiggy வழியே விற்பனை ஆகிறது. #PrisonersBiryani #Swiggy #OnlineDelivery\n\nhttps://t.co/R9Nsijexgr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PrisonersBiryani",
+						"indices": [
+							130,
+							147
+						]
+					},
+					{
+						"text": "Swiggy",
+						"indices": [
+							148,
+							155
+						]
+					},
+					{
+						"text": "OnlineDelivery",
+						"indices": [
+							156,
+							171
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R9Nsijexgr",
+						"expanded_url": "https://yourstory.com/tamil/biryani-cooked-by-prisoners-swiggy-online-delivery",
+						"display_url": "yourstory.com/tamil/biryani-…",
+						"indices": [
+							173,
+							196
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874859207702523900,
+				"id_str": "874859207702523904",
+				"name": "YourStory Tamil",
+				"screen_name": "TamilYourstory",
+				"location": "Chennai, India",
+				"description": "YourStory is India’s leading media platform for entrepreneurs & the entrepreneurial ecosystem. FAQs here: https://t.co/7A0WMwSMXc",
+				"url": "https://t.co/wECdP29NUl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wECdP29NUl",
+								"expanded_url": "http://yourstory.com/tamil",
+								"display_url": "yourstory.com/tamil",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7A0WMwSMXc",
+								"expanded_url": "http://yourstory.com/frequently-asked-questions/",
+								"display_url": "yourstory.com/frequently-ask…",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1593,
+				"friends_count": 54,
+				"listed_count": 6,
+				"created_at": "Wed Jun 14 05:21:03 +0000 2017",
+				"favourites_count": 330,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9302,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060895041324007426/T75So6V4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060895041324007426/T75So6V4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874859207702523904/1569848301",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ta"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "100 convicts in kerala prison sell 25k Chapathis, 500-700 Biriyanis per day via Swiggy 😱 https://t.co/VEbAlyeT0o"
+	},
+	{
 		"created_at": "Wed Oct 09 19:32:04 +0000 2019",
 		"id": 1182015893821223000,
 		"id_str": "1182015893821222912",
