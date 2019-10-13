@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 06:48:11 +0000 2019",
+		"id": 1182317370259492900,
+		"id_str": "1182910819148824576",
+		"full_text": "My wish for you is that you will worry less and rest well,  that you will shun mobs and stand up to the powerful and enjoy the act of creating for its own sake, that you will read a poem or fairy-tale every day and always, just always be amazed by beauty.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1735442838,
+			"id_str": "1735442838",
+			"name": "the library haunter 🦉🎃",
+			"screen_name": "SketchesbyBoze",
+			"location": "Austin, TX",
+			"description": "quality tweets for the shy nerd. books, folklore, fairytales, beauty, myth. tweets by Boze Herrington. also @bozereads. https://t.co/ArLM4kxXs5",
+			"url": "https://t.co/ArLM4kxXs5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ArLM4kxXs5",
+							"expanded_url": "https://www.patreon.com/sketchesbyboze",
+							"display_url": "patreon.com/sketchesbyboze",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ArLM4kxXs5",
+							"expanded_url": "https://www.patreon.com/sketchesbyboze",
+							"display_url": "patreon.com/sketchesbyboze",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 107163,
+			"friends_count": 3148,
+			"listed_count": 783,
+			"created_at": "Fri Sep 06 15:39:29 +0000 2013",
+			"favourites_count": 115703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110770677861228545/-hfUVmcJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110770677861228545/-hfUVmcJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1735442838/1558380482",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1661,
+		"favorite_count": 5157,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My wish for you is that you will worry less and rest well,  that you will shun mobs and stand up to the powerful and enjoy the act of creating for its own sake, that you will read a poem or fairy-tale every day and always, just always be amazed by beauty."
+	},
+	{
 		"created_at": "Fri Oct 11 05:07:21 +0000 2019",
 		"id": 1182172957474320400,
 		"id_str": "1182523055848882177",
