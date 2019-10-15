@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 20:52:39 +0000 2019",
+		"id": 1183848112525176800,
+		"id_str": "1183848112525176832",
+		"full_text": "+1 https://t.co/cQJP23cuIv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cQJP23cuIv",
+					"expanded_url": "https://twitter.com/Swappy/status/1183664913480179714",
+					"display_url": "twitter.com/Swappy/status/…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1523,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183664913480179700,
+		"quoted_status_id_str": "1183664913480179714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cQJP23cuIv",
+			"expanded": "https://twitter.com/Swappy/status/1183664913480179714",
+			"display": "twitter.com/Swappy/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 08:44:41 +0000 2019",
+			"id": 1183664913480179700,
+			"id_str": "1183664913480179714",
+			"full_text": "Years on, I still feel it when \"I'm with you\" by Avril Lavigne plays. Such a beautiful song, that.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17682241,
+				"id_str": "17682241",
+				"name": "Swapna",
+				"screen_name": "Swappy",
+				"location": "Bengaluru",
+				"description": "I'm freakin' ancient",
+				"url": "https://t.co/Zwbg75yQyM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zwbg75yQyM",
+								"expanded_url": "http://fromaconfusedsoul.blogspot.in/",
+								"display_url": "fromaconfusedsoul.blogspot.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 423,
+				"friends_count": 293,
+				"listed_count": 9,
+				"created_at": "Thu Nov 27 16:38:12 +0000 2008",
+				"favourites_count": 2180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16576,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1028143896432271360/OZ5pIoFp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028143896432271360/OZ5pIoFp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17682241/1421072601",
+				"profile_link_color": "5476CC",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "+1 https://t.co/cQJP23cuIv"
+	},
+	{
 		"created_at": "Sat Oct 12 06:48:11 +0000 2019",
 		"id": 1182317370259492900,
 		"id_str": "1182910819148824576",
