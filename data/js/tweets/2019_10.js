@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 18:26:02 +0000 2019",
+		"id": 1184535990402273300,
+		"id_str": "1184535990402273282",
+		"full_text": "@rajagopalanv @mudnsky Nandri da _/\\_ 😁",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajagopalanv",
+					"name": "Rajagopalan V",
+					"id": 92552176,
+					"id_str": "92552176",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1184530727116984300,
+		"in_reply_to_status_id_str": "1184530727116984321",
+		"in_reply_to_user_id": 92552176,
+		"in_reply_to_user_id_str": "92552176",
+		"in_reply_to_screen_name": "rajagopalanv",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1526,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@rajagopalanv @mudnsky Nandri da _/\\_ 😁"
+	},
+	{
+		"created_at": "Wed Oct 16 17:38:22 +0000 2019",
+		"id": 1184523993367355400,
+		"id_str": "1184523993367355393",
+		"full_text": "@mudnsky Our future room (✷‿✷) https://t.co/9x3uCbGZmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9x3uCbGZmx",
+					"expanded_url": "https://twitter.com/molly_struve/status/1184279154914713600",
+					"display_url": "twitter.com/molly_struve/s…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1526,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184279154914713600,
+		"quoted_status_id_str": "1184279154914713600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9x3uCbGZmx",
+			"expanded": "https://twitter.com/molly_struve/status/1184279154914713600",
+			"display": "twitter.com/molly_struve/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 16 01:25:28 +0000 2019",
+			"id": 1184279154914713600,
+			"id_str": "1184279154914713600",
+			"full_text": "Is there such a thing as too many monitors? Not according to my husband 😅 #DevDiscuss https://t.co/kUonNaRuVa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DevDiscuss",
+						"indices": [
+							74,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1184279151773208600,
+						"id_str": "1184279151773208576",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/EG9nnSxX0AAH24J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG9nnSxX0AAH24J.jpg",
+						"url": "https://t.co/kUonNaRuVa",
+						"display_url": "pic.twitter.com/kUonNaRuVa",
+						"expanded_url": "https://twitter.com/molly_struve/status/1184279154914713600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 591,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 591,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184279151773208600,
+						"id_str": "1184279151773208576",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/EG9nnSxX0AAH24J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG9nnSxX0AAH24J.jpg",
+						"url": "https://t.co/kUonNaRuVa",
+						"display_url": "pic.twitter.com/kUonNaRuVa",
+						"expanded_url": "https://twitter.com/molly_struve/status/1184279154914713600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 591,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 591,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4542932414,
+				"id_str": "4542932414",
+				"name": "Molly Struve 🦄",
+				"screen_name": "molly_struve",
+				"location": "Chicago, IL",
+				"description": "Lead Site Reliability Engineer @ coming soon, but mostly I wrangle Elasticsearch. Former @KennaSecurity. Speaker. Runner. Sci-Fi fan. I ride 🦄's IRL (she/her)",
+				"url": "https://t.co/xQTWjTP2u3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xQTWjTP2u3",
+								"expanded_url": "https://dev.to/molly_struve",
+								"display_url": "dev.to/molly_struve",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6601,
+				"friends_count": 472,
+				"listed_count": 80,
+				"created_at": "Sun Dec 13 01:44:07 +0000 2015",
+				"favourites_count": 12001,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5862,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029396321956810753/SJzn3q7Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029396321956810753/SJzn3q7Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4542932414/1563584990",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 813,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mudnsky Our future room (✷‿✷) https://t.co/9x3uCbGZmx"
+	},
+	{
+		"created_at": "Wed Oct 16 11:08:41 +0000 2019",
+		"id": 1183994641743372300,
+		"id_str": "1184425929222717441",
+		"full_text": "😍❤😍❤\nFrom WA https://t.co/swmkY4IlGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183994548462088200,
+					"id_str": "1183994548462088192",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183994548462088192/pu/img/JWZQ2Oyk551s3NvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183994548462088192/pu/img/JWZQ2Oyk551s3NvB.jpg",
+					"url": "https://t.co/swmkY4IlGY",
+					"display_url": "pic.twitter.com/swmkY4IlGY",
+					"expanded_url": "https://twitter.com/PeeliHaldi/status/1183994641743372288/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183994548462088200,
+					"id_str": "1183994548462088192",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183994548462088192/pu/img/JWZQ2Oyk551s3NvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183994548462088192/pu/img/JWZQ2Oyk551s3NvB.jpg",
+					"url": "https://t.co/swmkY4IlGY",
+					"display_url": "pic.twitter.com/swmkY4IlGY",
+					"expanded_url": "https://twitter.com/PeeliHaldi/status/1183994641743372288/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44933,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1183994548462088192/pu/pl/UrHzl17uSCPFlOG3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183994548462088192/pu/vid/640x640/S_jONz2ByrNXMY6Q.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183994548462088192/pu/vid/320x320/lS6zHBJftYe7PTnT.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183994548462088192/pu/vid/480x480/bhzdXFkZ1ZChaZCe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103533039,
+			"id_str": "103533039",
+			"name": "Yellow पीतः",
+			"screen_name": "PeeliHaldi",
+			"location": "India",
+			"description": "Politics ¦ Dharma ¦ Religion ¦ Culture ¦ गरम दल ¦ सोमवार को ट्विटर मौन व्रत",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8637,
+			"friends_count": 924,
+			"listed_count": 104,
+			"created_at": "Sun Jan 10 09:55:59 +0000 2010",
+			"favourites_count": 32822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170572154829586432/Qy-oN4Vd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170572154829586432/Qy-oN4Vd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103533039/1519130179",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2217,
+		"favorite_count": 8153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😍❤😍❤\nFrom WA https://t.co/swmkY4IlGY"
+	},
+	{
+		"created_at": "Wed Oct 16 11:05:33 +0000 2019",
+		"id": 1184425138059526100,
+		"id_str": "1184425138059526144",
+		"full_text": "@Twitter What's mine?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1184189961278513200,
+		"in_reply_to_status_id_str": "1184189961278513155",
+		"in_reply_to_user_id": 783214,
+		"in_reply_to_user_id_str": "783214",
+		"in_reply_to_screen_name": "Twitter",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1526,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Twitter What's mine?"
+	},
+	{
+		"created_at": "Wed Oct 16 11:00:54 +0000 2019",
+		"id": 1184094758081155000,
+		"id_str": "1184423969677438978",
+		"full_text": "Now who did this 😂😂😂😂 https://t.co/9DudVzjq6Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184094015249010700,
+					"id_str": "1184094015249010688",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184094015249010688/pu/img/JskbKdWSSaYbeqqn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184094015249010688/pu/img/JskbKdWSSaYbeqqn.jpg",
+					"url": "https://t.co/9DudVzjq6Q",
+					"display_url": "pic.twitter.com/9DudVzjq6Q",
+					"expanded_url": "https://twitter.com/iTannu/status/1184094758081155078/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184094015249010700,
+					"id_str": "1184094015249010688",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184094015249010688/pu/img/JskbKdWSSaYbeqqn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184094015249010688/pu/img/JskbKdWSSaYbeqqn.jpg",
+					"url": "https://t.co/9DudVzjq6Q",
+					"display_url": "pic.twitter.com/9DudVzjq6Q",
+					"expanded_url": "https://twitter.com/iTannu/status/1184094758081155078/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 426,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46967,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184094015249010688/pu/vid/320x320/nr7ePV2WvMGzTu36.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184094015249010688/pu/vid/426x426/w5sFiXJgxmUi_8j_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1184094015249010688/pu/pl/49hQp2iWr93fErWU.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36713466,
+			"id_str": "36713466",
+			"name": "ROFL Tannu",
+			"screen_name": "iTannu",
+			"location": "New Delhi, India",
+			"description": "Entrepreneur | B2B, PR, Digital Marketing and Social Media | Humorist | Blogger | Thinker",
+			"url": "https://t.co/rrCx9l0Hvr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rrCx9l0Hvr",
+							"expanded_url": "http://itannu.wordpress.com",
+							"display_url": "itannu.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5490,
+			"friends_count": 884,
+			"listed_count": 183,
+			"created_at": "Thu Apr 30 17:06:15 +0000 2009",
+			"favourites_count": 13703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 148956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110532037276909570/GzBgaHyC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110532037276909570/GzBgaHyC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36713466/1519657014",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now who did this 😂😂😂😂 https://t.co/9DudVzjq6Q"
+	},
+	{
+		"created_at": "Wed Oct 16 10:59:25 +0000 2019",
+		"id": 1184200962967101400,
+		"id_str": "1184423598150172673",
+		"full_text": "Baa, baa, Kubernetes,\nHave you any pods?\nYes sir, yes, sir,\nThey're all in prod;\nOne for the master\nAnd one for the node\nAnd for the little service\nThat can balance the load.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 796497450722881500,
+			"id_str": "796497450722881536",
+			"name": "Madhura Bhave",
+			"screen_name": "madhurabhave23",
+			"location": "",
+			"description": "Ramblin' Wreck from Georgia Tech. Nature enthusiast. Spring developer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2033,
+			"friends_count": 107,
+			"listed_count": 29,
+			"created_at": "Wed Nov 09 23:39:25 +0000 2016",
+			"favourites_count": 974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798412862888755202/kwllWJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798412862888755202/kwllWJXO_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 528,
+		"favorite_count": 2018,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Baa, baa, Kubernetes,\nHave you any pods?\nYes sir, yes, sir,\nThey're all in prod;\nOne for the master\nAnd one for the node\nAnd for the little service\nThat can balance the load."
+	},
+	{
+		"created_at": "Wed Oct 16 10:51:29 +0000 2019",
+		"id": 1184421601581748200,
+		"id_str": "1184421601581748224",
+		"full_text": "@karthikkalyan90 Nice pun there. (◔‿◔)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karthikkalyan90",
+					"name": "KK",
+					"id": 77781616,
+					"id_str": "77781616",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1184184156713959400,
+		"in_reply_to_status_id_str": "1184184156713959424",
+		"in_reply_to_user_id": 77781616,
+		"in_reply_to_user_id_str": "77781616",
+		"in_reply_to_screen_name": "karthikkalyan90",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1526,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@karthikkalyan90 Nice pun there. (◔‿◔)"
+	},
+	{
 		"created_at": "Mon Oct 14 20:52:39 +0000 2019",
 		"id": 1183848112525176800,
 		"id_str": "1183848112525176832",
