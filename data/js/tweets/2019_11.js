@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 19:05:01 +0000 2019",
+		"id": 1192677376146264000,
+		"id_str": "1193243111566086144",
+		"full_text": "@ea_uyiosa Everyone is praying for a child like this but the lessons lie within the mother’s approach.\nShe wasn’t feeling entitled to his stuff, she communicated maturely, politely &amp; extensively with him.\n\nThere’s a lot to learn from her parenting",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ea_uyiosa",
+					"name": "Mr UYI",
+					"id": 198607173,
+					"id_str": "198607173",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1192526108882657300,
+		"in_reply_to_status_id_str": "1192526108882657280",
+		"in_reply_to_user_id": 198607173,
+		"in_reply_to_user_id_str": "198607173",
+		"in_reply_to_screen_name": "ea_uyiosa",
+		"user": {
+			"id": 823498234702286800,
+			"id_str": "823498234702286848",
+			"name": "Nneka 🧚🏻‍♂️",
+			"screen_name": "SheLovesArtemis",
+			"location": "Where Skinny girls go",
+			"description": "Recruitment Consultant/HR Personnel 📌 Breathe, I’m here❤️ #MusicCritic #OceanBreeze @_houseOfArtemis",
+			"url": "https://t.co/VuPL3OREb5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VuPL3OREb5",
+							"expanded_url": "http://nicolekings.blogspot.com",
+							"display_url": "nicolekings.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8729,
+			"friends_count": 1155,
+			"listed_count": 82,
+			"created_at": "Mon Jan 23 11:50:53 +0000 2017",
+			"favourites_count": 5118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 147581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192170600086802434/E7AF7Y0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192170600086802434/E7AF7Y0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823498234702286848/1543835719",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00817d75276a95cf",
+			"url": "https://api.twitter.com/1.1/geo/id/00817d75276a95cf.json",
+			"place_type": "city",
+			"name": "Lagos",
+			"full_name": "Lagos, Nigeria",
+			"country_code": "NG",
+			"country": "Nigeria",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							3.2131467,
+							6.4278856
+						],
+						[
+							3.4640641,
+							6.4278856
+						],
+						[
+							3.4640641,
+							6.5583389
+						],
+						[
+							3.2131467,
+							6.5583389
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1107,
+		"favorite_count": 5047,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ea_uyiosa Everyone is praying for a child like this but the lessons lie within the mother’s approach.\nShe wasn’t feeling entitled to his stuff, she communicated maturely, politely &amp; extensively with him.\n\nThere’s a lot to learn from her parenting"
+	},
+	{
 		"created_at": "Fri Nov 08 23:23:17 +0000 2019",
 		"id": 1192445679974662100,
 		"id_str": "1192945716450037762",
