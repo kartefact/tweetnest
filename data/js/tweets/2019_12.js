@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 06:58:09 +0000 2019",
+		"id": 1204787171590148000,
+		"id_str": "1205018988641583104",
+		"full_text": "Give that person a raise https://t.co/1wgXnULsyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204208526186426400,
+					"id_str": "1204208526186426370",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204208526186426370/pu/img/fo_NZYVJPYQle_SH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204208526186426370/pu/img/fo_NZYVJPYQle_SH.jpg",
+					"url": "https://t.co/1wgXnULsyE",
+					"display_url": "pic.twitter.com/1wgXnULsyE",
+					"expanded_url": "https://twitter.com/backt0nature/status/1204787171590148096/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204208526186426400,
+					"id_str": "1204208526186426370",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204208526186426370/pu/img/fo_NZYVJPYQle_SH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204208526186426370/pu/img/fo_NZYVJPYQle_SH.jpg",
+					"url": "https://t.co/1wgXnULsyE",
+					"display_url": "pic.twitter.com/1wgXnULsyE",
+					"expanded_url": "https://twitter.com/backt0nature/status/1204787171590148096/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25367,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204208526186426370/pu/vid/640x640/znGfAkbKuJO1mLZD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204208526186426370/pu/pl/lLNa4qV0WTfb_lqG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204208526186426370/pu/vid/480x480/dZRQbjluox3dkxB_.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204208526186426370/pu/vid/320x320/F95BfiS8lFu2BmMa.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887319779488518100,
+			"id_str": "887319779488518144",
+			"name": "Back To Nature",
+			"screen_name": "backt0nature",
+			"location": "United States",
+			"description": "We @backt0nature give you lovely tweets about nature, places, that give you comfort in your busy life.😍 Don't forget to turn our \"Notifications ON\" 💙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 208969,
+			"friends_count": 83982,
+			"listed_count": 1021,
+			"created_at": "Tue Jul 18 14:34:55 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949441799650709504/sCY0z4Ed_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949441799650709504/sCY0z4Ed_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887319779488518144/1515200129",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 3204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give that person a raise https://t.co/1wgXnULsyE"
+	},
+	{
+		"created_at": "Thu Dec 12 06:56:46 +0000 2019",
+		"id": 1204834518089289700,
+		"id_str": "1205018637838323712",
+		"full_text": "Y’all need to see this video collage of all the crazy things my Physics Professor did this semester😭. He’s in his 70s and is still doing all of this for us🥺💛 https://t.co/JaICjzVB5I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204834286412746800,
+					"id_str": "1204834286412746752",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204834286412746752/pu/img/WqulSPwzz7_03SZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204834286412746752/pu/img/WqulSPwzz7_03SZm.jpg",
+					"url": "https://t.co/JaICjzVB5I",
+					"display_url": "pic.twitter.com/JaICjzVB5I",
+					"expanded_url": "https://twitter.com/its_riccaa/status/1204834518089289729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204834286412746800,
+					"id_str": "1204834286412746752",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204834286412746752/pu/img/WqulSPwzz7_03SZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204834286412746752/pu/img/WqulSPwzz7_03SZm.jpg",
+					"url": "https://t.co/JaICjzVB5I",
+					"display_url": "pic.twitter.com/JaICjzVB5I",
+					"expanded_url": "https://twitter.com/its_riccaa/status/1204834518089289729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 101533,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204834286412746752/pu/pl/hUwzr6f22OTi8c0x.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204834286412746752/pu/vid/320x568/FaEgWJUvxxQnyh1c.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204834286412746752/pu/vid/360x640/rHkNz8JuFgUd3Zzp.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204834286412746752/pu/vid/720x1280/FL3sLmreP5EtHgmE.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4322981957,
+			"id_str": "4322981957",
+			"name": "Erica✨",
+			"screen_name": "its_riccaa",
+			"location": "",
+			"description": "SevenFiveSeven. Psalm 46:5🦋. Student🩺",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066,
+			"friends_count": 322,
+			"listed_count": 2,
+			"created_at": "Sun Nov 29 23:36:51 +0000 2015",
+			"favourites_count": 1064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176325305017020419/yodDVETL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176325305017020419/yodDVETL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4322981957/1569346243",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 327986,
+		"favorite_count": 1267512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Y’all need to see this video collage of all the crazy things my Physics Professor did this semester😭. He’s in his 70s and is still doing all of this for us🥺💛 https://t.co/JaICjzVB5I"
+	},
+	{
+		"created_at": "Thu Dec 12 06:54:37 +0000 2019",
+		"id": 1205018098278908000,
+		"id_str": "1205018098278907904",
+		"full_text": "Stupid slow internet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1205016426517418000,
+		"in_reply_to_status_id_str": "1205016426517417985",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Stupid slow internet"
+	},
+	{
 		"created_at": "Tue Dec 03 19:36:19 +0000 2019",
 		"id": 1201310009553850400,
 		"id_str": "1201948296777854976",
