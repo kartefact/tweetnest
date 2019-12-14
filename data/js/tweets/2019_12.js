@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 08:44:50 +0000 2019",
+		"id": 1205005069223022600,
+		"id_str": "1205408223043276802",
+		"full_text": "I am declaring a war!\n\nvar war;\n\n#DevJoke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevJoke",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88570710,
+			"id_str": "88570710",
+			"name": "Shruti Kapoor",
+			"screen_name": "shrutikapoor08",
+			"location": "San Jose, CA",
+			"description": "🙋 Senior Software Engineer @PayPal | GraphQL & React |  Speaker | DevJoke Connoisseur \n😁Tell me a #DevJoke",
+			"url": "https://t.co/whjGcS7UYT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whjGcS7UYT",
+							"expanded_url": "http://GitHub.com/shrutikapoor08/devjoke",
+							"display_url": "GitHub.com/shrutikapoor08…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5309,
+			"friends_count": 1064,
+			"listed_count": 54,
+			"created_at": "Mon Nov 09 02:26:15 +0000 2009",
+			"favourites_count": 4927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108155025673457664/UzJt-bEZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108155025673457664/UzJt-bEZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88570710/1576031724",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 656,
+		"favorite_count": 3532,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am declaring a war!\n\nvar war;\n\n#DevJoke"
+	},
+	{
 		"created_at": "Thu Dec 12 06:58:09 +0000 2019",
 		"id": 1204787171590148000,
 		"id_str": "1205018988641583104",
