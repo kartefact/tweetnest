@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 11:25:46 +0000 2019",
+		"id": 1205850666217955300,
+		"id_str": "1206173499938619392",
+		"full_text": "The best meeting https://t.co/Vxk2rPIrfQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205850598341517300,
+					"id_str": "1205850598341517314",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205850598341517314/pu/img/zjV1CYjPXleKsQWs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205850598341517314/pu/img/zjV1CYjPXleKsQWs.jpg",
+					"url": "https://t.co/Vxk2rPIrfQ",
+					"display_url": "pic.twitter.com/Vxk2rPIrfQ",
+					"expanded_url": "https://twitter.com/DoggoDating/status/1205850666217955329/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205850598341517300,
+					"id_str": "1205850598341517314",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205850598341517314/pu/img/zjV1CYjPXleKsQWs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205850598341517314/pu/img/zjV1CYjPXleKsQWs.jpg",
+					"url": "https://t.co/Vxk2rPIrfQ",
+					"display_url": "pic.twitter.com/Vxk2rPIrfQ",
+					"expanded_url": "https://twitter.com/DoggoDating/status/1205850666217955329/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12267,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205850598341517314/pu/vid/480x480/ymBmdIp5oLB9-uPh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205850598341517314/pu/pl/Nfz6wc_LFJrC7xmd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205850598341517314/pu/vid/320x320/zEgFh0oaGV8c3RIU.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205850598341517314/pu/vid/640x640/7rcLUKa5TAlesVHd.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847484522115375100,
+			"id_str": "847484522115375105",
+			"name": "Good doggos",
+			"screen_name": "DoggoDating",
+			"location": "London",
+			"description": "Some dogs are Doggos, some are Puppers, and some may even be Pupperinos. But they are all Good Boyes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382017,
+			"friends_count": 15,
+			"listed_count": 990,
+			"created_at": "Thu Mar 30 16:23:50 +0000 2017",
+			"favourites_count": 13636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092090332546777088/heg4PZd8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092090332546777088/heg4PZd8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847484522115375105/1549212267",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15314,
+		"favorite_count": 62868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best meeting https://t.co/Vxk2rPIrfQ"
+	},
+	{
 		"created_at": "Fri Dec 13 08:44:50 +0000 2019",
 		"id": 1205005069223022600,
 		"id_str": "1205408223043276802",
