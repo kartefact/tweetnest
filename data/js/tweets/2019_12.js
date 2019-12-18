@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 23:19:22 +0000 2019",
+		"id": 1206680072582811600,
+		"id_str": "1207077859526938625",
+		"full_text": "this boy got the best surprise when his dog piper, who had been missing for two weeks was there to greet him after school\n(April Elizabeth Licata FB) https://t.co/C7VXWCINDL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206679821952135200,
+					"id_str": "1206679821952135175",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206679821952135175/pu/img/nwyohjPsupUkkOz6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206679821952135175/pu/img/nwyohjPsupUkkOz6.jpg",
+					"url": "https://t.co/C7VXWCINDL",
+					"display_url": "pic.twitter.com/C7VXWCINDL",
+					"expanded_url": "https://twitter.com/humorandanimals/status/1206680072582811653/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206679821952135200,
+					"id_str": "1206679821952135175",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206679821952135175/pu/img/nwyohjPsupUkkOz6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206679821952135175/pu/img/nwyohjPsupUkkOz6.jpg",
+					"url": "https://t.co/C7VXWCINDL",
+					"display_url": "pic.twitter.com/C7VXWCINDL",
+					"expanded_url": "https://twitter.com/humorandanimals/status/1206680072582811653/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59794,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206679821952135175/pu/vid/360x450/dLRZs2ZtRu_m92tb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206679821952135175/pu/pl/ZDBUcK4SuFLo-nQc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206679821952135175/pu/vid/720x900/8m4NWiv_kH-OZYl6.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206679821952135175/pu/vid/320x400/NADMgSNlVrNvk7Ie.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 913203265466257400,
+			"id_str": "913203265466257408",
+			"name": "Humor And Animals",
+			"screen_name": "humorandanimals",
+			"location": "Detroit, MI",
+			"description": "Media/News Company",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 505613,
+			"friends_count": 7900,
+			"listed_count": 1819,
+			"created_at": "Thu Sep 28 00:46:39 +0000 2017",
+			"favourites_count": 489229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959966300025040896/Pc2NXmUi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959966300025040896/Pc2NXmUi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/913203265466257408/1547167493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "006a69011e2bfd34",
+			"url": "https://api.twitter.com/1.1/geo/id/006a69011e2bfd34.json",
+			"place_type": "city",
+			"name": "Northville",
+			"full_name": "Northville, MI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.551193,
+							42.393398
+						],
+						[
+							-83.430722,
+							42.393398
+						],
+						[
+							-83.430722,
+							42.444865
+						],
+						[
+							-83.551193,
+							42.444865
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66861,
+		"favorite_count": 358437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this boy got the best surprise when his dog piper, who had been missing for two weeks was there to greet him after school\n(April Elizabeth Licata FB) https://t.co/C7VXWCINDL"
+	},
+	{
+		"created_at": "Tue Dec 17 23:17:38 +0000 2019",
+		"id": 1207077420626563000,
+		"id_str": "1207077420626563072",
+		"full_text": "@MrSandhubaadh Hi. I'm right here. Just observing these days. :)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrSandhubaadh",
+					"name": "Balaji",
+					"id": 328975275,
+					"id_str": "328975275",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1207069773420327000,
+		"in_reply_to_status_id_str": "1207069773420326912",
+		"in_reply_to_user_id": 328975275,
+		"in_reply_to_user_id_str": "328975275",
+		"in_reply_to_screen_name": "MrSandhubaadh",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrSandhubaadh Hi. I'm right here. Just observing these days. :)"
+	},
+	{
 		"created_at": "Sun Dec 15 11:25:46 +0000 2019",
 		"id": 1205850666217955300,
 		"id_str": "1206173499938619392",
