@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 23:59:27 +0000 2019",
+		"id": 1208175110009450500,
+		"id_str": "1208175110009450496",
+		"full_text": "+1 https://t.co/tbcSyRxQOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tbcSyRxQOn",
+					"expanded_url": "https://twitter.com/WhitsonGordon/status/1208133160938041344",
+					"display_url": "twitter.com/WhitsonGordon/…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 216,
+			"listed_count": 53,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208133160938041300,
+		"quoted_status_id_str": "1208133160938041344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tbcSyRxQOn",
+			"expanded": "https://twitter.com/WhitsonGordon/status/1208133160938041344",
+			"display": "twitter.com/WhitsonGordon/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 20 21:12:46 +0000 2019",
+			"id": 1208133160938041300,
+			"id_str": "1208133160938041344",
+			"full_text": "Can confirm, this works https://t.co/xG2p5YNTFC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xG2p5YNTFC",
+						"expanded_url": "https://twitter.com/pierce/status/1208131390929281025",
+						"display_url": "twitter.com/pierce/status/…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27870530,
+				"id_str": "27870530",
+				"name": "Whitson Gordon",
+				"screen_name": "WhitsonGordon",
+				"location": "San Diego, CA",
+				"description": "Freelance writer teaching people how to use technology at @nytimes, @PopSci, @PCMag, @iFixit, @IGN, and more. Past: editor-in-chief of @Lifehacker & @HowToGeek.",
+				"url": "https://t.co/cFVFjORWOp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cFVFjORWOp",
+								"expanded_url": "http://whitsongordon.com",
+								"display_url": "whitsongordon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16677,
+				"friends_count": 622,
+				"listed_count": 789,
+				"created_at": "Tue Mar 31 13:38:08 +0000 2009",
+				"favourites_count": 6341,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15348,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787001966937333760/g5Mnc2BR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787001966937333760/g5Mnc2BR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27870530/1469026164",
+				"profile_link_color": "138B2E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "02B4B8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1208131390929281000,
+			"quoted_status_id_str": "1208131390929281025",
+			"quoted_status_permalink": {
+				"url": "https://t.co/xG2p5YNTFC",
+				"expanded": "https://twitter.com/pierce/status/1208131390929281025",
+				"display": "twitter.com/pierce/status/…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "+1 https://t.co/tbcSyRxQOn"
+	},
+	{
+		"created_at": "Fri Dec 20 23:59:18 +0000 2019",
+		"id": 1208071379427348500,
+		"id_str": "1208175070243221504",
+		"full_text": "This is how act when my code doesn't work ...  clip credit https://t.co/XxT2LqcOE9 https://t.co/zIsvtjadpO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XxT2LqcOE9",
+					"expanded_url": "https://www.reddit.com/r/aww/comments/ed5tmc/i_was_doing_some_work_late_at_night_and_my_ca",
+					"display_url": "reddit.com/r/aww/comments…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208071293632802800,
+					"id_str": "1208071293632802816",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208071293632802816/pu/img/yf4mhYkqBFGk0ZN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208071293632802816/pu/img/yf4mhYkqBFGk0ZN0.jpg",
+					"url": "https://t.co/zIsvtjadpO",
+					"display_url": "pic.twitter.com/zIsvtjadpO",
+					"expanded_url": "https://twitter.com/nixcraft/status/1208071379427348480/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 496,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 496,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208071293632802800,
+					"id_str": "1208071293632802816",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208071293632802816/pu/img/yf4mhYkqBFGk0ZN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208071293632802816/pu/img/yf4mhYkqBFGk0ZN0.jpg",
+					"url": "https://t.co/zIsvtjadpO",
+					"display_url": "pic.twitter.com/zIsvtjadpO",
+					"expanded_url": "https://twitter.com/nixcraft/status/1208071379427348480/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 496,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 496,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							31,
+							45
+						],
+						"duration_millis": 11934,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1208071293632802816/pu/pl/WSI5pLChAUywsDSg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208071293632802816/pu/vid/496x720/dRYm3V39f7LS7Ffy.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208071293632802816/pu/vid/320x464/FAPPZnStF90SyicH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208071293632802816/pu/vid/360x522/UPNTVHIPc_DRHQD5.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17484680,
+			"id_str": "17484680",
+			"name": "The Best Linux Blog In the Unixverse",
+			"screen_name": "nixcraft",
+			"location": "Rootland",
+			"description": "Enjoy Linux & Unix-like systems? Open source software and programming? Sysadmin & DevOps work? Follow us to make the most of sysadmin-hood.",
+			"url": "https://t.co/dwH1Fatmvu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dwH1Fatmvu",
+							"expanded_url": "https://www.cyberciti.biz/",
+							"display_url": "cyberciti.biz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155047,
+			"friends_count": 343,
+			"listed_count": 3380,
+			"created_at": "Wed Nov 19 12:12:37 +0000 2008",
+			"favourites_count": 36678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207038354786676736/1a5URMaW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207038354786676736/1a5URMaW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17484680/1486494500",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 1397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how act when my code doesn't work ...  clip credit https://t.co/XxT2LqcOE9 https://t.co/zIsvtjadpO"
+	},
+	{
 		"created_at": "Tue Dec 17 23:19:22 +0000 2019",
 		"id": 1206680072582811600,
 		"id_str": "1207077859526938625",
