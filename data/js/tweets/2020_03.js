@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 12:08:27 +0000 2020",
+		"id": 1236759446136803300,
+		"id_str": "1236987209686736896",
+		"full_text": "This is Kratu. Every year he has the most fun ever on the agility course. This was his farewell performance, before he retires to life as a therapy dog. 14/10 please enjoy https://t.co/cCTTyd4fO3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cCTTyd4fO3",
+					"expanded_url": "https://twitter.com/crufts/status/1235934839720861696",
+					"display_url": "twitter.com/crufts/status/…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4196983835,
+			"id_str": "4196983835",
+			"name": "WeRateDogs®",
+			"screen_name": "dog_rates",
+			"location": "「 DM YOUR DOGS 」",
+			"description": "Your Only Source For Professional Dog Ratings Instagram and Facebook ➪ WeRateDogs partnerships@weratedogs.com ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+			"url": "https://t.co/N7sNNHSfPq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N7sNNHSfPq",
+							"expanded_url": "http://weratedogs.com",
+							"display_url": "weratedogs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8699155,
+			"friends_count": 15,
+			"listed_count": 7056,
+			"created_at": "Sun Nov 15 21:41:29 +0000 2015",
+			"favourites_count": 144670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218319284557905920/ntuD-LOA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218319284557905920/ntuD-LOA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4196983835/1575511391",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235934839720861700,
+		"quoted_status_id_str": "1235934839720861696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cCTTyd4fO3",
+			"expanded": "https://twitter.com/crufts/status/1235934839720861696",
+			"display": "twitter.com/crufts/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 14:26:43 +0000 2020",
+			"id": 1235934839720861700,
+			"id_str": "1235934839720861696",
+			"full_text": "Kratu's back at it again 🤣🤣 #Crufts https://t.co/Eeg3c1Cjej",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Crufts",
+						"indices": [
+							28,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1235932080032358400,
+						"id_str": "1235932080032358400",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/ESbtiGcXQAAvFnV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESbtiGcXQAAvFnV.jpg",
+						"url": "https://t.co/Eeg3c1Cjej",
+						"display_url": "pic.twitter.com/Eeg3c1Cjej",
+						"expanded_url": "https://twitter.com/Crufts/status/1235934839720861696/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1235932080032358400,
+						"id_str": "1235932080032358400",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/ESbtiGcXQAAvFnV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESbtiGcXQAAvFnV.jpg",
+						"url": "https://t.co/Eeg3c1Cjej",
+						"display_url": "pic.twitter.com/Eeg3c1Cjej",
+						"expanded_url": "https://twitter.com/Crufts/status/1235934839720861696/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 118200,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1235932080032358400/vid/320x320/VjHp4gPdJvr2Anz0.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1235932080032358400/vid/720x720/6AEP3g9GN1rxXRlh.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1235932080032358400/pl/iVupiJMucFFziQGS.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1235932080032358400/vid/480x480/ZPOFXKSQohPYM2MF.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Kratu's back at Crufts for the last time",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 907787818898001900,
+				"id_str": "907787818898001920",
+				"name": "Crufts",
+				"screen_name": "Crufts",
+				"location": "United Kingdom",
+				"description": "The world's greatest dog show, organised by @TheKennelClubUK 🐶 5th - 8th March 2020. Instagram: @Crufts 📸 Watch on @Channel4 & @YouTube 🎥",
+				"url": "https://t.co/jBNHWohJlf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jBNHWohJlf",
+								"expanded_url": "http://www.youtube.com/crufts",
+								"display_url": "youtube.com/crufts",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37351,
+				"friends_count": 159,
+				"listed_count": 56,
+				"created_at": "Wed Sep 13 02:07:36 +0000 2017",
+				"favourites_count": 1986,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1425,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191694553834819584/Kn9z9og4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191694553834819584/Kn9z9og4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/907787818898001920/1576868431",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6481,
+			"favorite_count": 36968,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14487,
+		"favorite_count": 115811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Kratu. Every year he has the most fun ever on the agility course. This was his farewell performance, before he retires to life as a therapy dog. 14/10 please enjoy https://t.co/cCTTyd4fO3"
+	},
+	{
 		"created_at": "Tue Mar 03 10:04:34 +0000 2020",
 		"id": 1234769977762205700,
 		"id_str": "1234781707305398272",
