@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 13:38:29 +0000 2020",
+		"id": 1239180705050984400,
+		"id_str": "1239184193659080705",
+		"full_text": "Very impressive! https://t.co/iJS09iHQeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iJS09iHQeX",
+					"expanded_url": "https://twitter.com/amazedsaint/status/1239149647353929728",
+					"display_url": "twitter.com/amazedsaint/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17756787,
+			"id_str": "17756787",
+			"name": "Vijay Raj",
+			"screen_name": "rajvj",
+			"location": "Bangalore, India",
+			"description": "Information Security Risk, Photographer, et al // some geek talk and lots of pictures. #CISSP #CCSK #Risk #FAIR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4382,
+			"friends_count": 398,
+			"listed_count": 255,
+			"created_at": "Sun Nov 30 16:24:43 +0000 2008",
+			"favourites_count": 1388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090888632293044224/k5w_olGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090888632293044224/k5w_olGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17756787/1576732618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239149647353929700,
+		"quoted_status_id_str": "1239149647353929728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iJS09iHQeX",
+			"expanded": "https://twitter.com/amazedsaint/status/1239149647353929728",
+			"display": "twitter.com/amazedsaint/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 11:21:12 +0000 2020",
+			"id": 1239149647353929700,
+			"id_str": "1239149647353929728",
+			"full_text": "How to flatten the curve - Great Corona pandemic spread visualisations \n\nhttps://t.co/eND1IyuzpR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eND1IyuzpR",
+						"expanded_url": "https://www.washingtonpost.com/graphics/2020/world/corona-simulator/",
+						"display_url": "washingtonpost.com/graphics/2020/…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15875576,
+				"id_str": "15875576",
+				"name": "Anoop",
+				"screen_name": "amazedsaint",
+				"location": "",
+				"description": "Passionate learner, futurist, speaker, dreamer, coder, doer.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3790,
+				"friends_count": 4159,
+				"listed_count": 255,
+				"created_at": "Sat Aug 16 18:48:13 +0000 2008",
+				"favourites_count": 938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010B0F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230716082287042560/bBZDHia0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230716082287042560/bBZDHia0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15875576/1583952863",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "424C55",
+				"profile_text_color": "8C94A2",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very impressive! https://t.co/iJS09iHQeX"
+	},
+	{
+		"created_at": "Sun Mar 15 07:46:33 +0000 2020",
+		"id": 1239074400978133000,
+		"id_str": "1239095628266790912",
+		"full_text": "Thread. \nFirst person accounts like this one that compliment India are being disregarded.  Global narrative is bizzarly on how well China has done and how poorly india is doing.\nChina spends big PR bucks.\nIndia has some of our own who hate anything positive about this govt. https://t.co/0IJ1AjF6iR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0IJ1AjF6iR",
+					"expanded_url": "https://twitter.com/rk_misra/status/1239024881611591680",
+					"display_url": "twitter.com/rk_misra/statu…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47995732,
+			"id_str": "47995732",
+			"name": "Monika Halan",
+			"screen_name": "monikahalan",
+			"location": "New Delhi",
+			"description": "Finance must serve households | Consulting Editor @livemint | Author of Let's Talk Money\nhttps://t.co/RKwIwJYWQW",
+			"url": "https://t.co/kydJAiIzaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kydJAiIzaJ",
+							"expanded_url": "https://monikahalan.wordpress.com",
+							"display_url": "monikahalan.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKwIwJYWQW",
+							"expanded_url": "http://amzn.in/97uoPs0",
+							"display_url": "amzn.in/97uoPs0",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34594,
+			"friends_count": 593,
+			"listed_count": 533,
+			"created_at": "Wed Jun 17 15:27:15 +0000 2009",
+			"favourites_count": 3636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005785526845075456/ATcnaJ1l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005785526845075456/ATcnaJ1l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47995732/1545821521",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239024881611591700,
+		"quoted_status_id_str": "1239024881611591680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0IJ1AjF6iR",
+			"expanded": "https://twitter.com/rk_misra/status/1239024881611591680",
+			"display": "twitter.com/rk_misra/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 03:05:26 +0000 2020",
+			"id": 1239024881611591700,
+			"id_str": "1239024881611591680",
+			"full_text": "Just to share how our Govt is systematically handling travellers to avoid CORONA contagion -  @MoHFW_INDIA\nFrom a friend :\nJust flew back Dallas - New Jersey - Delhi and reached home. At Delhi Each passenger is screened by health officials just outside the gate of aeroplane.....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MoHFW_INDIA",
+						"name": "Ministry of Health",
+						"id": 2596143056,
+						"id_str": "2596143056",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110701087,
+				"id_str": "110701087",
+				"name": "RK Misra",
+				"screen_name": "rk_misra",
+				"location": "Bangalore",
+				"description": "Non Resident Scholar - Carnegie India #\n\nI believe I can make a difference, hence I am!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9469,
+				"friends_count": 142,
+				"listed_count": 122,
+				"created_at": "Tue Feb 02 13:36:52 +0000 2010",
+				"favourites_count": 5919,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15109,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471887270815883264/k3vi0eKy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471887270815883264/k3vi0eKy_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110701087/1441014992",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2443,
+			"favorite_count": 6400,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 103,
+		"favorite_count": 191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread. \nFirst person accounts like this one that compliment India are being disregarded.  Global narrative is bizzarly on how well China has done and how poorly india is doing.\nChina spends big PR bucks.\nIndia has some of our own who hate anything positive about this govt. https://t.co/0IJ1AjF6iR"
+	},
+	{
+		"created_at": "Sun Mar 15 07:10:26 +0000 2020",
+		"id": 1238509929549398000,
+		"id_str": "1239086537297416193",
+		"full_text": "A 2-year study showed an astounding productivity boost among the telecommuters equivalent to a full-day's work.\n\nContrary to our expectations, work-from-home employees found it less distracting and easier to concentrate at home.  \n https://t.co/0rIui9ZnQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0rIui9ZnQ7",
+					"expanded_url": "https://www.inc.com/scott-mautz/a-2-year-stanford-study-shows-astonishing-productivity-boost-of-working-from-home.html",
+					"display_url": "inc.com/scott-mautz/a-…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 285698560,
+			"id_str": "285698560",
+			"name": "Jay Van Bavel",
+			"screen_name": "jayvanbavel",
+			"location": "New York, NY",
+			"description": "Social neuroscience professor @NYUPsych studying how identity & morality shape our behavior. Director of @vanbavellab and Columnist for @scicareersltys",
+			"url": "https://t.co/LcrIoPrM9z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LcrIoPrM9z",
+							"expanded_url": "https://psych.nyu.edu/vanbavel/",
+							"display_url": "psych.nyu.edu/vanbavel/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21526,
+			"friends_count": 527,
+			"listed_count": 0,
+			"created_at": "Thu Apr 21 16:34:01 +0000 2011",
+			"favourites_count": 46221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146103954880831490/2xN49j3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146103954880831490/2xN49j3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/285698560/1498672091",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A 2-year study showed an astounding productivity boost among the telecommuters equivalent to a full-day's work.\n\nContrary to our expectations, work-from-home employees found it less distracting and easier to concentrate at home.  \n https://t.co/0rIui9ZnQ7"
+	},
+	{
+		"created_at": "Sun Mar 15 07:06:46 +0000 2020",
+		"id": 1238939339155005400,
+		"id_str": "1239085614684725248",
+		"full_text": "This still *might* be the most dramatic finish to a baby race of all time 👶 💨 https://t.co/G36LxFcdiD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238939228689629200,
+					"id_str": "1238939228689629185",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ETGYwfsXkAAj893.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETGYwfsXkAAj893.jpg",
+					"url": "https://t.co/G36LxFcdiD",
+					"display_url": "pic.twitter.com/G36LxFcdiD",
+					"expanded_url": "https://twitter.com/espn/status/1238939339155005441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238939228689629200,
+					"id_str": "1238939228689629185",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ETGYwfsXkAAj893.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETGYwfsXkAAj893.jpg",
+					"url": "https://t.co/G36LxFcdiD",
+					"display_url": "pic.twitter.com/G36LxFcdiD",
+					"expanded_url": "https://twitter.com/espn/status/1238939339155005441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 98557,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238939228689629185/pu/pl/H0-983nrr9YByFe1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238939228689629185/pu/vid/320x320/59j0oMGongpK-nMR.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238939228689629185/pu/vid/720x720/9diCZAAHPb-McRZy.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238939228689629185/pu/vid/480x480/G7554RC5unMJ-mJz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2557521,
+			"id_str": "2557521",
+			"name": "ESPN",
+			"screen_name": "espn",
+			"location": "",
+			"description": "Download the ESPN App ⬇️",
+			"url": "https://t.co/RqqkIx8GI7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RqqkIx8GI7",
+							"expanded_url": "http://es.pn/app",
+							"display_url": "es.pn/app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35114384,
+			"friends_count": 315,
+			"listed_count": 60745,
+			"created_at": "Tue Mar 27 20:46:16 +0000 2007",
+			"favourites_count": 533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C8C8C8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1516042897",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7239,
+		"favorite_count": 43529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This still *might* be the most dramatic finish to a baby race of all time 👶 💨 https://t.co/G36LxFcdiD"
+	},
+	{
 		"created_at": "Mon Mar 09 12:08:27 +0000 2020",
 		"id": 1236759446136803300,
 		"id_str": "1236987209686736896",
