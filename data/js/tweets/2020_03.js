@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 20:32:50 +0000 2020",
+		"id": 1239608804666417200,
+		"id_str": "1239650858184224768",
+		"full_text": "Good Business: First look as owner of @LouisVuitton @MoetUSA changes all perfume factories to mass produce hand sanitizer to be distributed for Free in France (Video: @LVMH) https://t.co/0N093XrEcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LouisVuitton",
+					"name": "Louis Vuitton",
+					"id": 44084633,
+					"id_str": "44084633",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "MoetUSA",
+					"name": "Moët & Chandon",
+					"id": 453221057,
+					"id_str": "453221057",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "LVMH",
+					"name": "LVMH",
+					"id": 558606074,
+					"id_str": "558606074",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239608641944240000,
+					"id_str": "1239608641944240133",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239608641944240133/pu/img/hKxDYs4DLArGfft3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239608641944240133/pu/img/hKxDYs4DLArGfft3.jpg",
+					"url": "https://t.co/0N093XrEcL",
+					"display_url": "pic.twitter.com/0N093XrEcL",
+					"expanded_url": "https://twitter.com/MCappetta/status/1239608804666417152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239608641944240000,
+					"id_str": "1239608641944240133",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239608641944240133/pu/img/hKxDYs4DLArGfft3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239608641944240133/pu/img/hKxDYs4DLArGfft3.jpg",
+					"url": "https://t.co/0N093XrEcL",
+					"display_url": "pic.twitter.com/0N093XrEcL",
+					"expanded_url": "https://twitter.com/MCappetta/status/1239608804666417152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21233,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239608641944240133/pu/vid/640x360/uWb9kLJx7MpXhdro.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239608641944240133/pu/vid/1280x720/RVTSm5cwnhAite1g.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239608641944240133/pu/vid/480x270/gLHojz66TvA98ECx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239608641944240133/pu/pl/3bjYRwGlMe_vxtNU.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38580313,
+			"id_str": "38580313",
+			"name": "Michael Cappetta",
+			"screen_name": "MCappetta",
+			"location": "New York, NY",
+			"description": "Business & Technology Producer for @NBCNews @TODAYShow @NBCNightlyNews",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4186,
+			"friends_count": 1154,
+			"listed_count": 73,
+			"created_at": "Fri May 08 02:04:41 +0000 2009",
+			"favourites_count": 3738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "484848",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988047478082736129/iclJl7UJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988047478082736129/iclJl7UJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38580313/1399296216",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4591,
+		"favorite_count": 12106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good Business: First look as owner of @LouisVuitton @MoetUSA changes all perfume factories to mass produce hand sanitizer to be distributed for Free in France (Video: @LVMH) https://t.co/0N093XrEcL"
+	},
+	{
+		"created_at": "Mon Mar 16 12:46:07 +0000 2020",
+		"id": 1239526573759332400,
+		"id_str": "1239533403378044929",
+		"full_text": "Any individual seeking to be quarantined in any of these hotels would have to make payments directly to the hotel, while the government would ensure that medical attention is provided to the individual.\n\nReports @rupashreenanda \n\nhttps://t.co/Z5GLlhoryT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rupashreenanda",
+					"name": "Rupashree Nanda",
+					"id": 146751977,
+					"id_str": "146751977",
+					"indices": [
+						212,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z5GLlhoryT",
+					"expanded_url": "https://www.news18.com/news/india/unhappy-with-delhi-govts-quarantine-facilities-you-can-put-up-at-these-posh-hotels-2538517.html",
+					"display_url": "news18.com/news/india/unh…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 284920800,
+			"id_str": "284920800",
+			"name": "News18.com",
+			"screen_name": "news18dotcom",
+			"location": "India",
+			"description": "More than just news, analysis & opinion. The digital platform of @CNNnews18",
+			"url": "https://t.co/0HnxPgwuLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0HnxPgwuLD",
+							"expanded_url": "https://www.news18.com",
+							"display_url": "news18.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127344,
+			"friends_count": 157,
+			"listed_count": 813,
+			"created_at": "Wed Apr 20 06:14:32 +0000 2011",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162274270212308993/VISZ-o80_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162274270212308993/VISZ-o80_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284920800/1578042922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Any individual seeking to be quarantined in any of these hotels would have to make payments directly to the hotel, while the government would ensure that medical attention is provided to the individual.\n\nReports @rupashreenanda \n\nhttps://t.co/Z5GLlhoryT"
+	},
+	{
+		"created_at": "Mon Mar 16 12:41:52 +0000 2020",
+		"id": 1239454602375782400,
+		"id_str": "1239532332018589698",
+		"full_text": "Brilliant Govt of India dashboard on real time #CoronaVirus updates. Do check actual status here of #coronavirusindia . Avoid hearsay. https://t.co/lhsYWvXJbZ 👇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CoronaVirus",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"text": "coronavirusindia",
+					"indices": [
+						100,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lhsYWvXJbZ",
+					"expanded_url": "https://covidout.in",
+					"display_url": "covidout.in",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16695229,
+			"id_str": "16695229",
+			"name": "Lloyd Mathias",
+			"screen_name": "LloydMathias",
+			"location": " New Delhi, India",
+			"description": "Angel Investor |Former Marketing Head PCs, HP Asia-PAC |ex-CMO Motorola SW Asia & Exec VP Marketing PepsiCo India |Alum LBS |St. Xavier’s Mumbai | #startups",
+			"url": "https://t.co/J0CNQ3ZMJd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J0CNQ3ZMJd",
+							"expanded_url": "http://about.me/Lloyd.Mathias",
+							"display_url": "about.me/Lloyd.Mathias",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8572,
+			"friends_count": 985,
+			"listed_count": 163,
+			"created_at": "Sat Oct 11 11:42:39 +0000 2008",
+			"favourites_count": 22074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459068431027826689/OoV8_z_6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459068431027826689/OoV8_z_6_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16695229/1531346919",
+			"profile_link_color": "024057",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 503,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant Govt of India dashboard on real time #CoronaVirus updates. Do check actual status here of #coronavirusindia . Avoid hearsay. https://t.co/lhsYWvXJbZ 👇"
+	},
+	{
+		"created_at": "Mon Mar 16 12:16:57 +0000 2020",
+		"id": 1239403126479671300,
+		"id_str": "1239526065598369792",
+		"full_text": "That awkward moment when you’re intentionally social distancing and realize there’s no noticeable difference in your everyday life whatsoever.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262410417,
+			"id_str": "262410417",
+			"name": "WhatserName",
+			"screen_name": "IamEveryDayPpl",
+			"location": "under the moonlight, the serious moonlight.",
+			"description": "Do you have any candy? | Top tweets: https://t.co/Ugmnn1maxu",
+			"url": "https://t.co/xagjLlH0py",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xagjLlH0py",
+							"expanded_url": "https://twitter.com/search?q=from:@IamEveryDayPpl/exclude:replies",
+							"display_url": "twitter.com/search?q=from:…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ugmnn1maxu",
+							"expanded_url": "https://twitter.com/IamEveryDayPpl/timelines/1073362938684235777",
+							"display_url": "twitter.com/IamEveryDayPpl…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18773,
+			"friends_count": 4728,
+			"listed_count": 620,
+			"created_at": "Tue Mar 08 00:28:22 +0000 2011",
+			"favourites_count": 197842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216598817283293189/JZZieiQV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216598817283293189/JZZieiQV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262410417/1563486942",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 1128,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "That awkward moment when you’re intentionally social distancing and realize there’s no noticeable difference in your everyday life whatsoever."
+	},
+	{
+		"created_at": "Mon Mar 16 07:18:37 +0000 2020",
+		"id": 1239218272521859000,
+		"id_str": "1239450983668666369",
+		"full_text": "Damn, Norway. https://t.co/IwHskXGkB0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239218236232806400,
+					"id_str": "1239218236232806401",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/ETKWa5HXsAE6IXr.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETKWa5HXsAE6IXr.png",
+					"url": "https://t.co/IwHskXGkB0",
+					"display_url": "pic.twitter.com/IwHskXGkB0",
+					"expanded_url": "https://twitter.com/JeremyKlemin/status/1239218272521859073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 653,
+							"h": 195,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 653,
+							"h": 195,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 653,
+							"h": 195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239218236232806400,
+					"id_str": "1239218236232806401",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/ETKWa5HXsAE6IXr.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETKWa5HXsAE6IXr.png",
+					"url": "https://t.co/IwHskXGkB0",
+					"display_url": "pic.twitter.com/IwHskXGkB0",
+					"expanded_url": "https://twitter.com/JeremyKlemin/status/1239218272521859073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 653,
+							"h": 195,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 653,
+							"h": 195,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 653,
+							"h": 195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3361011682,
+			"id_str": "3361011682",
+			"name": "Jeremy Klemin",
+			"screen_name": "JeremyKlemin",
+			"location": "Brooklyn",
+			"description": "'18 Brazil Fulbright Fellow. Words @nytimesbooks @lithub @highsnobiety etc. Wandering through Lusofonia.",
+			"url": "https://t.co/uhG0dl5TsU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uhG0dl5TsU",
+							"expanded_url": "http://jeremyklemin.com",
+							"display_url": "jeremyklemin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2322,
+			"friends_count": 1707,
+			"listed_count": 17,
+			"created_at": "Sun Jul 05 17:29:39 +0000 2015",
+			"favourites_count": 14644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154828233654669312/xxsytzgV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154828233654669312/xxsytzgV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3361011682/1448662459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99152,
+		"favorite_count": 385977,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Damn, Norway. https://t.co/IwHskXGkB0"
+	},
+	{
 		"created_at": "Sun Mar 15 13:38:29 +0000 2020",
 		"id": 1239180705050984400,
 		"id_str": "1239184193659080705",
