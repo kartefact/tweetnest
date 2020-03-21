@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 05:04:48 +0000 2020",
+		"id": 1240653397407207400,
+		"id_str": "1240866860347699201",
+		"full_text": "@isosteph https://t.co/MNTgiT3Z0c",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isosteph",
+					"name": "stephanie",
+					"id": 3984270913,
+					"id_str": "3984270913",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240653392889905200,
+					"id_str": "1240653392889905160",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/ETevsASWAAgmu4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETevsASWAAgmu4V.jpg",
+					"url": "https://t.co/MNTgiT3Z0c",
+					"display_url": "pic.twitter.com/MNTgiT3Z0c",
+					"expanded_url": "https://twitter.com/armahillo/status/1240653397407207425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240653392889905200,
+					"id_str": "1240653392889905160",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/ETevsASWAAgmu4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETevsASWAAgmu4V.jpg",
+					"url": "https://t.co/MNTgiT3Z0c",
+					"display_url": "pic.twitter.com/MNTgiT3Z0c",
+					"expanded_url": "https://twitter.com/armahillo/status/1240653397407207425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1240558810906808300,
+		"in_reply_to_status_id_str": "1240558810906808327",
+		"in_reply_to_user_id": 3984270913,
+		"in_reply_to_user_id_str": "3984270913",
+		"in_reply_to_screen_name": "isosteph",
+		"user": {
+			"id": 1101494197176152000,
+			"id_str": "1101494197176152064",
+			"name": "Bullet-tooth Tony Award",
+			"screen_name": "armahillo",
+			"location": "NY",
+			"description": "Rails developer, co-host of @DrunkenUX, project lead on Diaperbase (@rubyforgood), Meme prescriptivist. Aaron-as-a-Service\n\nCf. @aaronmhill",
+			"url": "https://t.co/Eeu0kitBlg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeu0kitBlg",
+							"expanded_url": "http://github.com/armahillo",
+							"display_url": "github.com/armahillo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 623,
+			"listed_count": 3,
+			"created_at": "Fri Mar 01 14:47:36 +0000 2019",
+			"favourites_count": 18302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214035592671039488/1of6o1fO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214035592671039488/1of6o1fO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101494197176152064/1569790246",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@isosteph https://t.co/MNTgiT3Z0c"
+	},
+	{
 		"created_at": "Mon Mar 16 20:32:50 +0000 2020",
 		"id": 1239608804666417200,
 		"id_str": "1239650858184224768",
