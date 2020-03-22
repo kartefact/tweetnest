@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 03:55:53 +0000 2020",
+		"id": 1241008053828194300,
+		"id_str": "1241211907056365574",
+		"full_text": "New advisory by @MoHFW_INDIA says no hospital should turn away suspected #Covid19 patient.\n\nSignificant: \"All pneumonia patients must also be notified...so that they can be tested..\"\n\nMeans patients WITHOUT travel &amp; contact history can now be tested.\n\nhttps://t.co/HDDmukhLmE https://t.co/4mwduClIva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Covid19",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoHFW_INDIA",
+					"name": "Ministry of Health",
+					"id": 2596143056,
+					"id_str": "2596143056",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HDDmukhLmE",
+					"expanded_url": "https://www.mohfw.gov.in/pdf/AdvisoryforHospitalsandMedicalInstitutions.pdf",
+					"display_url": "mohfw.gov.in/pdf/Advisoryfo…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241007027381342200,
+					"id_str": "1241007027381342210",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ETjxUPbUEAIJQiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETjxUPbUEAIJQiG.jpg",
+					"url": "https://t.co/4mwduClIva",
+					"display_url": "pic.twitter.com/4mwduClIva",
+					"expanded_url": "https://twitter.com/sharmasupriya/status/1241008053828194304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1224,
+							"h": 788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241007027381342200,
+					"id_str": "1241007027381342210",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ETjxUPbUEAIJQiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETjxUPbUEAIJQiG.jpg",
+					"url": "https://t.co/4mwduClIva",
+					"display_url": "pic.twitter.com/4mwduClIva",
+					"expanded_url": "https://twitter.com/sharmasupriya/status/1241008053828194304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1224,
+							"h": 788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68914690,
+			"id_str": "68914690",
+			"name": "Supriya Sharma",
+			"screen_name": "sharmasupriya",
+			"location": "India",
+			"description": "Executive Editor, @scroll_in. \n\nCould not choose between art, academia and activism. Became a journalist. \nEmail: supriya@scroll.in",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47585,
+			"friends_count": 1228,
+			"listed_count": 333,
+			"created_at": "Wed Aug 26 06:23:46 +0000 2009",
+			"favourites_count": 2408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "42444D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011397098657472512/VYh2busa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011397098657472512/VYh2busa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68914690/1506196127",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New advisory by @MoHFW_INDIA says no hospital should turn away suspected #Covid19 patient.\n\nSignificant: \"All pneumonia patients must also be notified...so that they can be tested..\"\n\nMeans patients WITHOUT travel &amp; contact history can now be tested.\n\nhttps://t.co/HDDmukhLmE https://t.co/4mwduClIva"
+	},
+	{
 		"created_at": "Fri Mar 20 05:04:48 +0000 2020",
 		"id": 1240653397407207400,
 		"id_str": "1240866860347699201",
