@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 10:03:20 +0000 2020",
+		"id": 1241936285972873200,
+		"id_str": "1242029151680413698",
+		"full_text": "Whitefield apartment complex locked down after B’luru’s first Covid case, is virus-free now.\n https://t.co/9ABSZJccOc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ABSZJccOc",
+					"expanded_url": "https://bangaloremirror.indiatimes.com/bangalore/cover-story/curfew-that-broke-the-chain/articleshow/74765505.cms",
+					"display_url": "bangaloremirror.indiatimes.com/bangalore/cove…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14405191,
+			"id_str": "14405191",
+			"name": "Bangalore Mirror",
+			"screen_name": "BangaloreMirror",
+			"location": "Bengaluru, India",
+			"description": "When too much makes too little sense, we get to the heart of the matter",
+			"url": "https://t.co/VnzkbzZKLH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VnzkbzZKLH",
+							"expanded_url": "http://www.bangaloremirror.com",
+							"display_url": "bangaloremirror.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97908,
+			"friends_count": 144,
+			"listed_count": 439,
+			"created_at": "Wed Apr 16 06:23:11 +0000 2008",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 61759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875652453319852032/F-V8lsgA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875652453319852032/F-V8lsgA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14405191/1584619015",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whitefield apartment complex locked down after B’luru’s first Covid case, is virus-free now.\n https://t.co/9ABSZJccOc"
+	},
+	{
+		"created_at": "Mon Mar 23 05:55:53 +0000 2020",
+		"id": 1241859943017349000,
+		"id_str": "1241966878618030080",
+		"full_text": "This is the best and clearest explanation of why people need to stay at home you could ever wish to see https://t.co/49MgadlctI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241788077099683800,
+					"id_str": "1241788077099683843",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1241788077099683843/img/55TSYFXUvOe0FhSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1241788077099683843/img/55TSYFXUvOe0FhSi.jpg",
+					"url": "https://t.co/49MgadlctI",
+					"display_url": "pic.twitter.com/49MgadlctI",
+					"expanded_url": "https://twitter.com/C4Dispatches/status/1241803403619172359/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241803403619172400,
+					"source_status_id_str": "1241803403619172359",
+					"source_user_id": 78298637,
+					"source_user_id_str": "78298637"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241788077099683800,
+					"id_str": "1241788077099683843",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1241788077099683843/img/55TSYFXUvOe0FhSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1241788077099683843/img/55TSYFXUvOe0FhSi.jpg",
+					"url": "https://t.co/49MgadlctI",
+					"display_url": "pic.twitter.com/49MgadlctI",
+					"expanded_url": "https://twitter.com/C4Dispatches/status/1241803403619172359/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241803403619172400,
+					"source_status_id_str": "1241803403619172359",
+					"source_user_id": 78298637,
+					"source_user_id_str": "78298637",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 141040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1241788077099683843/pl/U_1hmXaSsQhSeNId.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1241788077099683843/vid/320x320/BdvVS3N-JrgSqvWO.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1241788077099683843/vid/720x720/rmwOP0fTR--X5QSi.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1241788077099683843/vid/480x480/yHlQm_LRb1t1V5rU.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 78298637,
+							"id_str": "78298637",
+							"name": "Channel 4 Dispatches",
+							"screen_name": "C4Dispatches",
+							"location": "UK",
+							"description": "Official account for @Channel4 award-winning current affairs series. Catchup on @All4 - also follow @Channel4News and @UnreportedWorld on Twitter, FB and YT",
+							"url": "https://t.co/9L0b6SGorJ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/9L0b6SGorJ",
+											"expanded_url": "http://www.channel4.com/programmes/dispatches",
+											"display_url": "channel4.com/programmes/dis…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 70333,
+							"friends_count": 7894,
+							"listed_count": 699,
+							"created_at": "Tue Sep 29 12:51:14 +0000 2009",
+							"favourites_count": 264,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 4317,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1B1C17",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1071088107280322561/ti6NN8f9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071088107280322561/ti6NN8f9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/78298637/1544202296",
+							"profile_link_color": "E24718",
+							"profile_sidebar_border_color": "141A15",
+							"profile_sidebar_fill_color": "10100F",
+							"profile_text_color": "82857E",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24878499,
+			"id_str": "24878499",
+			"name": "Alan White",
+			"screen_name": "aljwhite",
+			"location": "",
+			"description": "News Editor @BuzzFeedNewsUK and Lord Chief Justice of Twitter. alan.white@buzzfeed.com",
+			"url": "https://t.co/8qz1vUW23S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8qz1vUW23S",
+							"expanded_url": "https://oneworld-publications.com/who-really-runs-britain-pb.html",
+							"display_url": "oneworld-publications.com/who-really-run…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38316,
+			"friends_count": 4211,
+			"listed_count": 750,
+			"created_at": "Tue Mar 17 13:10:15 +0000 2009",
+			"favourites_count": 17345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106265300218138625/Ymg0z8Y4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106265300218138625/Ymg0z8Y4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24878499/1528966825",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36939,
+		"favorite_count": 56003,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the best and clearest explanation of why people need to stay at home you could ever wish to see https://t.co/49MgadlctI"
+	},
+	{
 		"created_at": "Sun Mar 22 19:59:53 +0000 2020",
 		"id": 1241621427641405400,
 		"id_str": "1241816892148350976",
