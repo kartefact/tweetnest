@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 15:55:38 +0000 2020",
+		"id": 1241830505764589600,
+		"id_str": "1242480198659878913",
+		"full_text": "What a quote: “The virus doesn’t move, people move it. We stop moving, the virus stops moving, the virus dies, It’s that simple.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14830272,
+			"id_str": "14830272",
+			"name": "James Kirkham",
+			"screen_name": "spoonybear",
+			"location": "instagram.com/spoonybear",
+			"description": "Chief Business Officer at Defected Records. (ex-CBO at COPA90. ex-Global Head of Social at Leo Burnett. Co-founder of Holler. United. MoorMead FC)",
+			"url": "https://t.co/P3b5iHHptN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P3b5iHHptN",
+							"expanded_url": "http://www.copa90.com",
+							"display_url": "copa90.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5702,
+			"friends_count": 3632,
+			"listed_count": 210,
+			"created_at": "Mon May 19 08:50:43 +0000 2008",
+			"favourites_count": 20806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/515545289696870400/h0pEbBr-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/515545289696870400/h0pEbBr-_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14830272/1571220092",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0b30aadf406d13cc",
+			"url": "https://api.twitter.com/1.1/geo/id/0b30aadf406d13cc.json",
+			"place_type": "city",
+			"name": "Hounslow",
+			"full_name": "Hounslow, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.457966,
+							51.420633
+						],
+						[
+							-0.243419,
+							51.420633
+						],
+						[
+							-0.243419,
+							51.502851
+						],
+						[
+							-0.457966,
+							51.502851
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6775,
+		"favorite_count": 16259,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What a quote: “The virus doesn’t move, people move it. We stop moving, the virus stops moving, the virus dies, It’s that simple.”"
+	},
+	{
 		"created_at": "Mon Mar 23 10:03:20 +0000 2020",
 		"id": 1241936285972873200,
 		"id_str": "1242029151680413698",
