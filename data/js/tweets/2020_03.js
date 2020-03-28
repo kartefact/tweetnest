@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 21:10:22 +0000 2020",
+		"id": 1243359940422459400,
+		"id_str": "1243646566918811648",
+		"full_text": "Feel-good story of the day. A 101 years old man has recovered from Covid-19 in Italy. He has survived the 1918 flu, a World War and now coronavirus.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116211829,
+			"id_str": "116211829",
+			"name": "Mazher Arshad",
+			"screen_name": "MazherArshad",
+			"location": "Lahore",
+			"description": "Cricket Statistician | The future belongs to those who know where they belong.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196043,
+			"friends_count": 476,
+			"listed_count": 710,
+			"created_at": "Sun Feb 21 16:04:37 +0000 2010",
+			"favourites_count": 3124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056446208741425152/U280NcSY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056446208741425152/U280NcSY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116211829/1528551903",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14596,
+		"favorite_count": 60239,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Feel-good story of the day. A 101 years old man has recovered from Covid-19 in Italy. He has survived the 1918 flu, a World War and now coronavirus."
+	},
+	{
+		"created_at": "Fri Mar 27 21:09:29 +0000 2020",
+		"id": 1243620119554723800,
+		"id_str": "1243646346978000898",
+		"full_text": "Ostrich! https://t.co/S2B0b1hJ9G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243620117826633700,
+					"id_str": "1243620117826633735",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EUI56H6WAAcZlih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUI56H6WAAcZlih.jpg",
+					"url": "https://t.co/S2B0b1hJ9G",
+					"display_url": "pic.twitter.com/S2B0b1hJ9G",
+					"expanded_url": "https://twitter.com/FacesPics/status/1243620119554723843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243620117826633700,
+					"id_str": "1243620117826633735",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EUI56H6WAAcZlih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUI56H6WAAcZlih.jpg",
+					"url": "https://t.co/S2B0b1hJ9G",
+					"display_url": "pic.twitter.com/S2B0b1hJ9G",
+					"expanded_url": "https://twitter.com/FacesPics/status/1243620119554723843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1689419970,
+			"id_str": "1689419970",
+			"name": "Faces in Things",
+			"screen_name": "FacesPics",
+			"location": "email pics of faces: faces@viralspark.net",
+			"description": "Admit it, you see a face.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 696680,
+			"friends_count": 10,
+			"listed_count": 4235,
+			"created_at": "Wed Aug 21 23:11:30 +0000 2013",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689419970/1384060472",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 878,
+		"favorite_count": 6584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Ostrich! https://t.co/S2B0b1hJ9G"
+	},
+	{
+		"created_at": "Fri Mar 27 17:01:00 +0000 2020",
+		"id": 1243570223933993000,
+		"id_str": "1243583815563522048",
+		"full_text": "#Bengaluru: #Karnataka #Medical #Council (#KMC) approves #online consultation or e-consultation with #doctors. See the guidelines 👇@WFRising @BellandurJothge @Dnekundi_rising @tinucherian @sandeeprrao1991 @i1sleague @BalooET @ragkrishnan_ET @shilpapTOI @sujitjohn https://t.co/UHdJBb5ZKp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bengaluru",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Karnataka",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"text": "Medical",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "Council",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "KMC",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "online",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "doctors",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WFRising",
+					"name": "Whitefield Rising",
+					"id": 2242672866,
+					"id_str": "2242672866",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"screen_name": "BellandurJothge",
+					"name": "BellandurJothege",
+					"id": 960822677060706300,
+					"id_str": "960822677060706306",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "Dnekundi_rising",
+					"name": "Doddanekundi Rising",
+					"id": 790915663871168500,
+					"id_str": "790915663871168512",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"screen_name": "tinucherian",
+					"name": "Tinu Cherian Abraham",
+					"id": 52378823,
+					"id_str": "52378823",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"screen_name": "sandeeprrao1991",
+					"name": "VOBLR🇮🇳",
+					"id": 2835499934,
+					"id_str": "2835499934",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"screen_name": "i1sleague",
+					"name": "Indiranagar 1Stg RWA",
+					"id": 2894507995,
+					"id_str": "2894507995",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"screen_name": "BalooET",
+					"name": "K.R.Balasubramanyam",
+					"id": 46383492,
+					"id_str": "46383492",
+					"indices": [
+						216,
+						224
+					]
+				},
+				{
+					"screen_name": "ragkrishnan_ET",
+					"name": "Raghu Krishnan",
+					"id": 196491123,
+					"id_str": "196491123",
+					"indices": [
+						225,
+						240
+					]
+				},
+				{
+					"screen_name": "shilpapTOI",
+					"name": "shilpa",
+					"id": 3639579673,
+					"id_str": "3639579673",
+					"indices": [
+						241,
+						252
+					]
+				},
+				{
+					"screen_name": "sujitjohn",
+					"name": "Sujit John",
+					"id": 45570142,
+					"id_str": "45570142",
+					"indices": [
+						253,
+						263
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243570204808040400,
+					"id_str": "1243570204808040448",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EUIMgzbX0AAb9jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUIMgzbX0AAb9jd.jpg",
+					"url": "https://t.co/UHdJBb5ZKp",
+					"display_url": "pic.twitter.com/UHdJBb5ZKp",
+					"expanded_url": "https://twitter.com/rakeshprakash1/status/1243570223933992960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1183,
+							"h": 1683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243570204808040400,
+					"id_str": "1243570204808040448",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EUIMgzbX0AAb9jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUIMgzbX0AAb9jd.jpg",
+					"url": "https://t.co/UHdJBb5ZKp",
+					"display_url": "pic.twitter.com/UHdJBb5ZKp",
+					"expanded_url": "https://twitter.com/rakeshprakash1/status/1243570223933992960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1183,
+							"h": 1683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1243570204808032300,
+					"id_str": "1243570204808032256",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EUIMgzbXsAAySib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUIMgzbXsAAySib.jpg",
+					"url": "https://t.co/UHdJBb5ZKp",
+					"display_url": "pic.twitter.com/UHdJBb5ZKp",
+					"expanded_url": "https://twitter.com/rakeshprakash1/status/1243570223933992960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1233,
+							"h": 1676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 268778975,
+			"id_str": "268778975",
+			"name": "Rakesh Prakash",
+			"screen_name": "rakeshprakash1",
+			"location": "Bangalore",
+			"description": "Sniper",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 542,
+			"listed_count": 34,
+			"created_at": "Sat Mar 19 13:03:19 +0000 2011",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841525502301036545/rtLVYF_G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841525502301036545/rtLVYF_G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/268778975/1415953032",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Bengaluru: #Karnataka #Medical #Council (#KMC) approves #online consultation or e-consultation with #doctors. See the guidelines 👇@WFRising @BellandurJothge @Dnekundi_rising @tinucherian @sandeeprrao1991 @i1sleague @BalooET @ragkrishnan_ET @shilpapTOI @sujitjohn https://t.co/UHdJBb5ZKp"
+	},
+	{
+		"created_at": "Fri Mar 27 16:58:14 +0000 2020",
+		"id": 1243583117291663400,
+		"id_str": "1243583117291663361",
+		"full_text": "@rajupp @DhingraRisha @s_anuj Ooh this is encouraging. How much do they cost and are they available in India?",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajupp",
+					"name": "Raju PP",
+					"id": 16619994,
+					"id_str": "16619994",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "DhingraRisha",
+					"name": "Risha",
+					"id": 385469459,
+					"id_str": "385469459",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "s_anuj",
+					"name": "Anuj Sharma",
+					"id": 15977787,
+					"id_str": "15977787",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243580846994415600,
+		"in_reply_to_status_id_str": "1243580846994415616",
+		"in_reply_to_user_id": 16619994,
+		"in_reply_to_user_id_str": "16619994",
+		"in_reply_to_screen_name": "rajupp",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 218,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rajupp @DhingraRisha @s_anuj Ooh this is encouraging. How much do they cost and are they available in India?"
+	},
+	{
+		"created_at": "Fri Mar 27 16:47:12 +0000 2020",
+		"id": 1243580340666597400,
+		"id_str": "1243580340666597377",
+		"full_text": "@rajupp @DhingraRisha Have been contemplating getting one of these. Apprehensive about their performance.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajupp",
+					"name": "Raju PP",
+					"id": 16619994,
+					"id_str": "16619994",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "DhingraRisha",
+					"name": "Risha",
+					"id": 385469459,
+					"id_str": "385469459",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243499812328296400,
+		"in_reply_to_status_id_str": "1243499812328296449",
+		"in_reply_to_user_id": 16619994,
+		"in_reply_to_user_id_str": "16619994",
+		"in_reply_to_screen_name": "rajupp",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 218,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rajupp @DhingraRisha Have been contemplating getting one of these. Apprehensive about their performance."
+	},
+	{
 		"created_at": "Thu Mar 26 04:55:21 +0000 2020",
 		"id": 1242884628140003300,
 		"id_str": "1243038811686199297",
