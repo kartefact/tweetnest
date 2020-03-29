@@ -1,6 +1,1436 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 00:02:37 +0000 2020",
+		"id": 1243852348637606000,
+		"id_str": "1244052305374105601",
+		"full_text": "The COVID 19 crisis is one of the toughest challenges we will face as a race. The Tata Trusts and the Tata group companies have in the past risen to the needs of the nation. At this moment, the need of the hour is greater than any other time. https://t.co/y6jzHxUafM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243852338059563000,
+					"id_str": "1243852338059563008",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EUMNHHsUUAACl2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUMNHHsUUAACl2d.jpg",
+					"url": "https://t.co/y6jzHxUafM",
+					"display_url": "pic.twitter.com/y6jzHxUafM",
+					"expanded_url": "https://twitter.com/RNTata2000/status/1243852348637605888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1354,
+							"h": 1692,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243852338059563000,
+					"id_str": "1243852338059563008",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EUMNHHsUUAACl2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUMNHHsUUAACl2d.jpg",
+					"url": "https://t.co/y6jzHxUafM",
+					"display_url": "pic.twitter.com/y6jzHxUafM",
+					"expanded_url": "https://twitter.com/RNTata2000/status/1243852348637605888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1354,
+							"h": 1692,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277434037,
+			"id_str": "277434037",
+			"name": "Ratan N. Tata",
+			"screen_name": "RNTata2000",
+			"location": "Mumbai",
+			"description": "Chairman Emeritus, Tata Sons. Chairman, Tata Trusts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7896234,
+			"friends_count": 35,
+			"listed_count": 3258,
+			"created_at": "Tue Apr 05 11:01:00 +0000 2011",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189494401359208448/AwbXHtpn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189494401359208448/AwbXHtpn_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49668,
+		"favorite_count": 154451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The COVID 19 crisis is one of the toughest challenges we will face as a race. The Tata Trusts and the Tata group companies have in the past risen to the needs of the nation. At this moment, the need of the hour is greater than any other time. https://t.co/y6jzHxUafM"
+	},
+	{
+		"created_at": "Sun Mar 29 00:02:02 +0000 2020",
+		"id": 1242861368383950800,
+		"id_str": "1244052156564434944",
+		"full_text": "Know a data scientist or medical researcher? Know someone who does? Share and invite them to join the XPRIZE Pandemic Alliance now.\n\n✖️ https://t.co/JWDSuq2art https://t.co/yZtVnPiJ9n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWDSuq2art",
+					"expanded_url": "http://covid19.xprize.org",
+					"display_url": "covid19.xprize.org",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1242512794328522800,
+					"id_str": "1242512794328522757",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ET5KzabUYAUmRWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET5KzabUYAUmRWJ.jpg",
+					"url": "https://t.co/yZtVnPiJ9n",
+					"display_url": "pic.twitter.com/yZtVnPiJ9n",
+					"expanded_url": "https://twitter.com/xprize/status/1242861368383950849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242512794328522800,
+					"id_str": "1242512794328522757",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ET5KzabUYAUmRWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET5KzabUYAUmRWJ.jpg",
+					"url": "https://t.co/yZtVnPiJ9n",
+					"display_url": "pic.twitter.com/yZtVnPiJ9n",
+					"expanded_url": "https://twitter.com/xprize/status/1242861368383950849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15919988,
+			"id_str": "15919988",
+			"name": "XPRIZE",
+			"screen_name": "xprize",
+			"location": "California, USA",
+			"description": "For the future. Since 1994, we've awarded over $140M through global prizes to grand challenges in environment, equity & exploration. ✖️ #xp (we / our/ humanity)",
+			"url": "https://t.co/7gEVwcHG3w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gEVwcHG3w",
+							"expanded_url": "http://XPRIZE.org",
+							"display_url": "XPRIZE.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67348,
+			"friends_count": 2843,
+			"listed_count": 1897,
+			"created_at": "Wed Aug 20 17:09:52 +0000 2008",
+			"favourites_count": 7770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "020303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243276648557858817/yj3Pgmmy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243276648557858817/yj3Pgmmy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15919988/1585255229",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "en",
+		"text": "Know a data scientist or medical researcher? Know someone who does? Share and invite them to join the XPRIZE Pandemic Alliance now.\n\n✖️ https://t.co/JWDSuq2art https://t.co/yZtVnPiJ9n"
+	},
+	{
+		"created_at": "Sat Mar 28 05:43:31 +0000 2020",
+		"id": 1243768134571413500,
+		"id_str": "1243775708587012096",
+		"full_text": "Hope it is effective &amp; saves lives https://t.co/2ZOxc3sHDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2ZOxc3sHDV",
+					"expanded_url": "https://twitter.com/balajivis/status/1243538001549983751",
+					"display_url": "twitter.com/balajivis/stat…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14472490,
+			"id_str": "14472490",
+			"name": "mcurie",
+			"screen_name": "mcurie",
+			"location": "Pune, India",
+			"description": "Pseudo-intellectual, quasi-scientific, narcissist muddlehead. Follow at your own risk.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 582,
+			"listed_count": 32,
+			"created_at": "Tue Apr 22 09:12:18 +0000 2008",
+			"favourites_count": 5506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/433145850634588160/_kGjhBF8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/433145850634588160/_kGjhBF8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14472490/1541615194",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243538001549983700,
+		"quoted_status_id_str": "1243538001549983751",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2ZOxc3sHDV",
+			"expanded": "https://twitter.com/balajivis/status/1243538001549983751",
+			"display": "twitter.com/balajivis/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 27 13:58:58 +0000 2020",
+			"id": 1243538001549983700,
+			"id_str": "1243538001549983751",
+			"full_text": "UV-C radiation to disinfect rooms was proven successful in Wuhan and Italy but Indian hospitals could not afford a $100k robots of UVD or Xenex. We thus decided to build it in India at a fraction of the price. https://t.co/ZOyM37QQp2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1243537993329246200,
+						"id_str": "1243537993329246208",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EUHvN2UXgAAN3pB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUHvN2UXgAAN3pB.jpg",
+						"url": "https://t.co/ZOyM37QQp2",
+						"display_url": "pic.twitter.com/ZOyM37QQp2",
+						"expanded_url": "https://twitter.com/balajivis/status/1243538001549983751/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1113,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1436,
+								"h": 1332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243537993329246200,
+						"id_str": "1243537993329246208",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EUHvN2UXgAAN3pB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUHvN2UXgAAN3pB.jpg",
+						"url": "https://t.co/ZOyM37QQp2",
+						"display_url": "pic.twitter.com/ZOyM37QQp2",
+						"expanded_url": "https://twitter.com/balajivis/status/1243538001549983751/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1113,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1436,
+								"h": 1332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 309743747,
+				"id_str": "309743747",
+				"name": "Balaji Viswanathan",
+				"screen_name": "balajivis",
+				"location": "Bengaluru, India",
+				"description": "CEO of @mitrarobot. We make world class humanoids in India for banking industry and more #ai #robotics. Uses @quora a lot.",
+				"url": "https://t.co/zJdwLfX3LS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zJdwLfX3LS",
+								"expanded_url": "http://mitrarobot.com",
+								"display_url": "mitrarobot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14631,
+				"friends_count": 860,
+				"listed_count": 127,
+				"created_at": "Thu Jun 02 16:02:21 +0000 2011",
+				"favourites_count": 321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3979,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451324661750435840/Eb401YYM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451324661750435840/Eb401YYM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/309743747/1578896904",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 865,
+			"favorite_count": 2466,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hope it is effective &amp; saves lives https://t.co/2ZOxc3sHDV"
+	},
+	{
+		"created_at": "Sat Mar 28 05:39:14 +0000 2020",
+		"id": 1243533984371523600,
+		"id_str": "1243774627538710529",
+		"full_text": "Due to Corona, we officially have three days of the week\n\n1. Yesterday \n2. Today\n3. Tomorrow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1241112951991517200,
+			"id_str": "1241112951991517188",
+			"name": "Jenn is back",
+			"screen_name": "JennEngineer_",
+			"location": "Charlotte/Houston",
+			"description": "NCAT Alum • Your favorite Civil Engineer chasing this oil money•Don’t ask what happened•1920💙•My man can fight, don’t DM unless you can too",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3523,
+			"friends_count": 1207,
+			"listed_count": 3,
+			"created_at": "Fri Mar 20 21:22:49 +0000 2020",
+			"favourites_count": 1228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241115075081101314/qLt8Mi6y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241115075081101314/qLt8Mi6y_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98358,
+		"favorite_count": 343031,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Due to Corona, we officially have three days of the week\n\n1. Yesterday \n2. Today\n3. Tomorrow"
+	},
+	{
+		"created_at": "Sat Mar 28 05:38:15 +0000 2020",
+		"id": 1243774383912607700,
+		"id_str": "1243774383912607746",
+		"full_text": "@DreamyDr 👍",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DreamyDr",
+					"name": "ENT Operator",
+					"id": 75810706,
+					"id_str": "75810706",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243774239901020200,
+		"in_reply_to_status_id_str": "1243774239901020162",
+		"in_reply_to_user_id": 75810706,
+		"in_reply_to_user_id_str": "75810706",
+		"in_reply_to_screen_name": "DreamyDr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 219,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@DreamyDr 👍"
+	},
+	{
+		"created_at": "Sat Mar 28 05:37:12 +0000 2020",
+		"id": 1243774116026560500,
+		"id_str": "1243774116026560513",
+		"full_text": "@DreamyDr Not all show apps show up in my experience, although it should.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DreamyDr",
+					"name": "ENT Operator",
+					"id": 75810706,
+					"id_str": "75810706",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243773553096282000,
+		"in_reply_to_status_id_str": "1243773553096282112",
+		"in_reply_to_user_id": 75810706,
+		"in_reply_to_user_id_str": "75810706",
+		"in_reply_to_screen_name": "DreamyDr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 219,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DreamyDr Not all show apps show up in my experience, although it should."
+	},
+	{
+		"created_at": "Sat Mar 28 04:41:40 +0000 2020",
+		"id": 1243732003742273500,
+		"id_str": "1243760143226908673",
+		"full_text": "If you know how poorly US testing for coronavirus has gone, and you also know that the US still has the most test-confirmed cases in the world, you understand how much worse things are about to get.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18857388,
+			"id_str": "18857388",
+			"name": "Alex Whitcomb",
+			"screen_name": "AlexWhitcomb",
+			"location": "San Francisco, CA",
+			"description": "Manager of Audience Development @WIRED. Prev: @Facebook, @Oculus, and @ThunderRoadVT. Oxford commas, forever. Opinions mine. alexander_baker-whitcomb@wired.com",
+			"url": "https://t.co/Dj9tIaHy5W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dj9tIaHy5W",
+							"expanded_url": "http://www.wired.com",
+							"display_url": "wired.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116993,
+			"friends_count": 74015,
+			"listed_count": 789,
+			"created_at": "Sun Jan 11 04:33:35 +0000 2009",
+			"favourites_count": 285992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205303796236075008/m-D-jF4b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205303796236075008/m-D-jF4b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18857388/1533825579",
+			"profile_link_color": "0020C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "171106",
+			"profile_text_color": "473623",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 497,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you know how poorly US testing for coronavirus has gone, and you also know that the US still has the most test-confirmed cases in the world, you understand how much worse things are about to get."
+	},
+	{
+		"created_at": "Sat Mar 28 04:41:05 +0000 2020",
+		"id": 1243759995356774400,
+		"id_str": "1243759995356774402",
+		"full_text": "@DreamyDr Some app in the background may be. Use greenify to shut background apps.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DreamyDr",
+					"name": "ENT Operator",
+					"id": 75810706,
+					"id_str": "75810706",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243741338517909500,
+		"in_reply_to_status_id_str": "1243741338517909504",
+		"in_reply_to_user_id": 75810706,
+		"in_reply_to_user_id_str": "75810706",
+		"in_reply_to_screen_name": "DreamyDr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 219,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DreamyDr Some app in the background may be. Use greenify to shut background apps."
+	},
+	{
+		"created_at": "Sat Mar 28 04:35:59 +0000 2020",
+		"id": 1243011997102272500,
+		"id_str": "1243758710423293952",
+		"full_text": "How old were you when you found the screwdriver handle is actually designed to put a wrench on it to help loosen tight screws?🤔🤔🤔 https://t.co/3N3HYKzT5B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243011990546612200,
+					"id_str": "1243011990546612225",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EUAQ0dQVAAENQhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUAQ0dQVAAENQhU.jpg",
+					"url": "https://t.co/3N3HYKzT5B",
+					"display_url": "pic.twitter.com/3N3HYKzT5B",
+					"expanded_url": "https://twitter.com/TOffroader/status/1243011997102272513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243011990546612200,
+					"id_str": "1243011990546612225",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EUAQ0dQVAAENQhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUAQ0dQVAAENQhU.jpg",
+					"url": "https://t.co/3N3HYKzT5B",
+					"display_url": "pic.twitter.com/3N3HYKzT5B",
+					"expanded_url": "https://twitter.com/TOffroader/status/1243011997102272513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140702986584256500,
+			"id_str": "1140702986584256512",
+			"name": "🔥I'm Dah Fire Dude🔥",
+			"screen_name": "TOffroader",
+			"location": "Desert of Southern California ",
+			"description": "I'm just me, follow me or not, IDGAF. Some tweets are not my own doing. I'M NOT THAT BRIGHT 🤷🏻‍♂️ DM's are always open for chat. 😉 YOU'VE BEEN WARNED!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1695,
+			"friends_count": 4208,
+			"listed_count": 2,
+			"created_at": "Mon Jun 17 19:29:20 +0000 2019",
+			"favourites_count": 14614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175194859184898048/7Hkjhi-Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175194859184898048/7Hkjhi-Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140702986584256512/1580152182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1646,
+		"favorite_count": 7595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How old were you when you found the screwdriver handle is actually designed to put a wrench on it to help loosen tight screws?🤔🤔🤔 https://t.co/3N3HYKzT5B"
+	},
+	{
+		"created_at": "Sat Mar 28 04:32:53 +0000 2020",
+		"id": 1243680163054915600,
+		"id_str": "1243757933499789314",
+		"full_text": "BREAKING: We’re launching a test that can detect COVID-19 in as little as 5 minutes—bringing rapid testing to the frontlines. https://t.co/LqnRpPpqMM https://t.co/W8jyN2az8G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LqnRpPpqMM",
+					"expanded_url": "http://abbo.tt/IDNOW",
+					"display_url": "abbo.tt/IDNOW",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243680143752810500,
+					"id_str": "1243680143752810498",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUJwgF6X0AINH1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUJwgF6X0AINH1q.jpg",
+					"url": "https://t.co/W8jyN2az8G",
+					"display_url": "pic.twitter.com/W8jyN2az8G",
+					"expanded_url": "https://twitter.com/AbbottNews/status/1243680163054915584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1067,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243680143752810500,
+					"id_str": "1243680143752810498",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUJwgF6X0AINH1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUJwgF6X0AINH1q.jpg",
+					"url": "https://t.co/W8jyN2az8G",
+					"display_url": "pic.twitter.com/W8jyN2az8G",
+					"expanded_url": "https://twitter.com/AbbottNews/status/1243680163054915584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1067,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 360054369,
+			"id_str": "360054369",
+			"name": "Abbott",
+			"screen_name": "AbbottNews",
+			"location": "Abbott Park, IL",
+			"description": "This is technology at its most personal, to help you live your best, healthiest life. #lifetothefullest https://t.co/6IcXSYxpuw",
+			"url": "http://t.co/UBghHfSbiA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UBghHfSbiA",
+							"expanded_url": "http://www.abbott.com",
+							"display_url": "abbott.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6IcXSYxpuw",
+							"expanded_url": "http://www.abbott.com/social-media-terms-of-use.html",
+							"display_url": "abbott.com/social-media-t…",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 91064,
+			"friends_count": 5134,
+			"listed_count": 1126,
+			"created_at": "Mon Aug 22 16:23:33 +0000 2011",
+			"favourites_count": 2854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3046804227/e701c8e1fd102dd8e797c491ea1b8fb0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3046804227/e701c8e1fd102dd8e797c491ea1b8fb0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/360054369/1576183637",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39287,
+		"favorite_count": 101710,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: We’re launching a test that can detect COVID-19 in as little as 5 minutes—bringing rapid testing to the frontlines. https://t.co/LqnRpPpqMM https://t.co/W8jyN2az8G"
+	},
+	{
 		"created_at": "Fri Mar 27 21:10:22 +0000 2020",
 		"id": 1243359940422459400,
 		"id_str": "1243646566918811648",
