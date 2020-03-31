@@ -1,6 +1,1819 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 22:30:56 +0000 2020",
+		"id": 1244135872984842200,
+		"id_str": "1244754008532586497",
+		"full_text": "Meanwhile, a Tusker inspects the implementation of the lockdown in Kerala near Wayanad. https://t.co/GTf1FkAMMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244135780013846500,
+					"id_str": "1244135780013846528",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244135780013846528/pu/img/_ElvTohLB8-lajTk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244135780013846528/pu/img/_ElvTohLB8-lajTk.jpg",
+					"url": "https://t.co/GTf1FkAMMg",
+					"display_url": "pic.twitter.com/GTf1FkAMMg",
+					"expanded_url": "https://twitter.com/SudhaRamenIFS/status/1244135872984842240/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244135780013846500,
+					"id_str": "1244135780013846528",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244135780013846528/pu/img/_ElvTohLB8-lajTk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244135780013846528/pu/img/_ElvTohLB8-lajTk.jpg",
+					"url": "https://t.co/GTf1FkAMMg",
+					"display_url": "pic.twitter.com/GTf1FkAMMg",
+					"expanded_url": "https://twitter.com/SudhaRamenIFS/status/1244135872984842240/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 50010,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244135780013846528/pu/vid/320x580/RW-c4-dx7UB1RrCA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244135780013846528/pu/pl/-5u5NJFDIWYPc_z1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244135780013846528/pu/vid/352x640/CfTlxvhF3uGDGbMS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2219233063,
+			"id_str": "2219233063",
+			"name": "Sudha Ramen IFS 🇮🇳",
+			"screen_name": "SudhaRamenIFS",
+			"location": "",
+			"description": "Indian Forester- Apolitical - Mentor CSE aspirants -Recipient of Dr Kalam Innovation in Governance & Pride of Chennai- exWiproite ~Tweets Likes RTs are Personal",
+			"url": "https://t.co/AAA26vuhnN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAA26vuhnN",
+							"expanded_url": "https://www.thebetterindia.com/168620/tamil-nadu-farmer-forest-officer-mobile-app/",
+							"display_url": "thebetterindia.com/168620/tamil-n…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22166,
+			"friends_count": 1155,
+			"listed_count": 36,
+			"created_at": "Thu Nov 28 08:40:44 +0000 2013",
+			"favourites_count": 11343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212566265685917696/_b72Xl0i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212566265685917696/_b72Xl0i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2219233063/1569695895",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1193,
+		"favorite_count": 6745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meanwhile, a Tusker inspects the implementation of the lockdown in Kerala near Wayanad. https://t.co/GTf1FkAMMg"
+	},
+	{
+		"created_at": "Mon Mar 30 08:08:29 +0000 2020",
+		"id": 1244334422712709000,
+		"id_str": "1244536963736039425",
+		"full_text": "Coronavirus India:\n\n27th March: 151 New Cases\n28th March: 143 New Cases\n29th March: 110 New Cases\n\nThe per day rise is falling. Let us keep up the hope and trust our doctors and leaders. India, we got this. ✌️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1332099068,
+			"id_str": "1332099068",
+			"name": "Vishesh",
+			"screen_name": "vishthecomic",
+			"location": "New Delhi, India",
+			"description": "I indulge in Light-Hearted Humor, Financial Analysis and Deep Conversations about Mind. Ex-Mumbaikar. Cricket Lover. Wannabe Actor.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11990,
+			"friends_count": 885,
+			"listed_count": 82,
+			"created_at": "Sat Apr 06 17:26:44 +0000 2013",
+			"favourites_count": 11107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233751742942040065/QFkDVmCH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233751742942040065/QFkDVmCH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1332099068/1573408818",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1841,
+		"favorite_count": 8182,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Coronavirus India:\n\n27th March: 151 New Cases\n28th March: 143 New Cases\n29th March: 110 New Cases\n\nThe per day rise is falling. Let us keep up the hope and trust our doctors and leaders. India, we got this. ✌️"
+	},
+	{
+		"created_at": "Mon Mar 30 08:03:11 +0000 2020",
+		"id": 1244257692853497900,
+		"id_str": "1244535632279396353",
+		"full_text": "It has taken a virus to teach us discipline in going to a shop. https://t.co/aXf1ERuXgO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244257672842449000,
+					"id_str": "1244257672842448902",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUR9wtbUEAYR6jV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUR9wtbUEAYR6jV.jpg",
+					"url": "https://t.co/aXf1ERuXgO",
+					"display_url": "pic.twitter.com/aXf1ERuXgO",
+					"expanded_url": "https://twitter.com/rajvj/status/1244257692853497856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244257672842449000,
+					"id_str": "1244257672842448902",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUR9wtbUEAYR6jV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUR9wtbUEAYR6jV.jpg",
+					"url": "https://t.co/aXf1ERuXgO",
+					"display_url": "pic.twitter.com/aXf1ERuXgO",
+					"expanded_url": "https://twitter.com/rajvj/status/1244257692853497856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17756787,
+			"id_str": "17756787",
+			"name": "Vijay Raj",
+			"screen_name": "rajvj",
+			"location": "Bangalore, India",
+			"description": "Information Security Risk, Photographer, et al // some geek talk and lots of pictures. #CISSP #CCSK #Risk #FAIR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4374,
+			"friends_count": 399,
+			"listed_count": 256,
+			"created_at": "Sun Nov 30 16:24:43 +0000 2008",
+			"favourites_count": 1407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090888632293044224/k5w_olGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090888632293044224/k5w_olGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17756787/1576732618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It has taken a virus to teach us discipline in going to a shop. https://t.co/aXf1ERuXgO"
+	},
+	{
+		"created_at": "Mon Mar 30 08:02:58 +0000 2020",
+		"id": 1243988324097949700,
+		"id_str": "1244535577195638785",
+		"full_text": "So because isolation and going nuts we threw a dinner party for the kids... \n#coronavirus #lockdown #coronavirusuk #covid19UK #basilfawlty #fawltytowers https://t.co/0UaE62dCyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "lockdown",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "coronavirusuk",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "covid19UK",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "basilfawlty",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "fawltytowers",
+					"indices": [
+						139,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243987919498510300,
+					"id_str": "1243987919498510339",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243987919498510339/pu/img/vhMzEWbcCFj3ujvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243987919498510339/pu/img/vhMzEWbcCFj3ujvj.jpg",
+					"url": "https://t.co/0UaE62dCyC",
+					"display_url": "pic.twitter.com/0UaE62dCyC",
+					"expanded_url": "https://twitter.com/bigbenmoore/status/1243988324097949697/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243987919498510300,
+					"id_str": "1243987919498510339",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243987919498510339/pu/img/vhMzEWbcCFj3ujvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243987919498510339/pu/img/vhMzEWbcCFj3ujvj.jpg",
+					"url": "https://t.co/0UaE62dCyC",
+					"display_url": "pic.twitter.com/0UaE62dCyC",
+					"expanded_url": "https://twitter.com/bigbenmoore/status/1243988324097949697/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 62777,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1243987919498510339/pu/pl/4WHyYhpzafpdKclp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243987919498510339/pu/vid/720x1280/AcR8nOOFbkDtMSJm.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243987919498510339/pu/vid/320x568/0c0ZLhB3uh_yBSSo.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243987919498510339/pu/vid/360x640/E-z8FhoziSujWtm-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20444689,
+			"id_str": "20444689",
+			"name": "@bigbenmoore",
+			"screen_name": "bigbenmoore",
+			"location": "",
+			"description": "BBC storyteller pointing my 🎥 at all sorts. Yorkshire Dales bred, South Downs dwelling husband and dad. Pig bits make my heart work. benmooretv@gmail.com",
+			"url": "https://t.co/z8PPg9QI8V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z8PPg9QI8V",
+							"expanded_url": "http://www.benmooretv.com",
+							"display_url": "benmooretv.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3179,
+			"friends_count": 1566,
+			"listed_count": 60,
+			"created_at": "Mon Feb 09 16:10:05 +0000 2009",
+			"favourites_count": 1039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083344722997972993/sOLwy47N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083344722997972993/sOLwy47N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20444689/1525279733",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6094,
+		"favorite_count": 36466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So because isolation and going nuts we threw a dinner party for the kids... \n#coronavirus #lockdown #coronavirusuk #covid19UK #basilfawlty #fawltytowers https://t.co/0UaE62dCyC"
+	},
+	{
+		"created_at": "Sun Mar 29 23:58:12 +0000 2020",
+		"id": 1244171928769663000,
+		"id_str": "1244413582214721536",
+		"full_text": "A test kit made in India for CoVID- 19. It cost Rs 12 per test as against Rs 4500 for imported kits .Can manufacture 200,000 kits per week.\nMinal Bhosale delivered first testing kit and within 4 hours delivered her baby.\nSalute to her entrepreneurship!\nhttps://t.co/UINwtlOQId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UINwtlOQId",
+					"expanded_url": "https://www.bbc.com/news/world-asia-india-52064427",
+					"display_url": "bbc.com/news/world-asi…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39488770,
+			"id_str": "39488770",
+			"name": "Harsh Goenka",
+			"screen_name": "hvgoenka",
+			"location": "Mumbai",
+			"description": "Chairman - RPG Enterprises. Loves people, food, sports, art.",
+			"url": "https://t.co/VKD5ha8rSh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VKD5ha8rSh",
+							"expanded_url": "http://www.rpggroup.com",
+							"display_url": "rpggroup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1568277,
+			"friends_count": 97,
+			"listed_count": 509,
+			"created_at": "Tue May 12 12:34:16 +0000 2009",
+			"favourites_count": 94849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100471315016732672/VQXLpkHZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100471315016732672/VQXLpkHZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39488770/1577216303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5279,
+		"favorite_count": 15545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A test kit made in India for CoVID- 19. It cost Rs 12 per test as against Rs 4500 for imported kits .Can manufacture 200,000 kits per week.\nMinal Bhosale delivered first testing kit and within 4 hours delivered her baby.\nSalute to her entrepreneurship!\nhttps://t.co/UINwtlOQId"
+	},
+	{
+		"created_at": "Sun Mar 29 20:31:11 +0000 2020",
+		"id": 1243905095764332500,
+		"id_str": "1244361481967128576",
+		"full_text": "World BEST medevac for COVID patient.\nGermany activates their flying ICU plane, an Airbus A310 MedEvac, to fly corona patients from Italy to hospitals in Germany. The plane has a capacity of 44 beds of which 16 are for high intensive care patients, and up to 25 medical staff.😲😲 https://t.co/DM6V0J5yfW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243905072246870000,
+					"id_str": "1243905072246870019",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUM9Ep2U0AMucLG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUM9Ep2U0AMucLG.jpg",
+					"url": "https://t.co/DM6V0J5yfW",
+					"display_url": "pic.twitter.com/DM6V0J5yfW",
+					"expanded_url": "https://twitter.com/AMedevac/status/1243905095764332550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243905072246870000,
+					"id_str": "1243905072246870019",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUM9Ep2U0AMucLG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUM9Ep2U0AMucLG.jpg",
+					"url": "https://t.co/DM6V0J5yfW",
+					"display_url": "pic.twitter.com/DM6V0J5yfW",
+					"expanded_url": "https://twitter.com/AMedevac/status/1243905095764332550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1243905079154884600,
+					"id_str": "1243905079154884611",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUM9FDlUwAMSIEk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUM9FDlUwAMSIEk.jpg",
+					"url": "https://t.co/DM6V0J5yfW",
+					"display_url": "pic.twitter.com/DM6V0J5yfW",
+					"expanded_url": "https://twitter.com/AMedevac/status/1243905095764332550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1243905085807050800,
+					"id_str": "1243905085807050754",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUM9FcXUwAI-GyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUM9FcXUwAI-GyC.jpg",
+					"url": "https://t.co/DM6V0J5yfW",
+					"display_url": "pic.twitter.com/DM6V0J5yfW",
+					"expanded_url": "https://twitter.com/AMedevac/status/1243905095764332550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1243905088625578000,
+					"id_str": "1243905088625577986",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EUM9Fm3UEAIyPRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUM9Fm3UEAIyPRU.jpg",
+					"url": "https://t.co/DM6V0J5yfW",
+					"display_url": "pic.twitter.com/DM6V0J5yfW",
+					"expanded_url": "https://twitter.com/AMedevac/status/1243905095764332550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389248356,
+			"id_str": "389248356",
+			"name": "AMS Ambulance",
+			"screen_name": "AMedevac",
+			"location": "Johor Bahru, Malaysia",
+			"description": "Asia Medevac Services is born out of a desire to serve patients who are facing emergency situations requiring urgent evacuation by land or by air.",
+			"url": "http://t.co/9dDsIwbkIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9dDsIwbkIu",
+							"expanded_url": "http://www.asiamedevac.com",
+							"display_url": "asiamedevac.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3095,
+			"friends_count": 318,
+			"listed_count": 6,
+			"created_at": "Wed Oct 12 03:05:00 +0000 2011",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139439343880118272/n9BEqiyM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139439343880118272/n9BEqiyM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389248356/1585196679",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47376,
+		"favorite_count": 77461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "World BEST medevac for COVID patient.\nGermany activates their flying ICU plane, an Airbus A310 MedEvac, to fly corona patients from Italy to hospitals in Germany. The plane has a capacity of 44 beds of which 16 are for high intensive care patients, and up to 25 medical staff.😲😲 https://t.co/DM6V0J5yfW"
+	},
+	{
+		"created_at": "Sun Mar 29 04:47:06 +0000 2020",
+		"id": 1243734095986909200,
+		"id_str": "1244123898397917188",
+		"full_text": "I can listen to this my whole life 💕\n\nSicilian twins Mirko and Velerio from Agrigento play this Coldplay song while in quarantine.\n\nhttps://t.co/FPvXzeu1h8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243599417778802700,
+					"id_str": "1243599417778802689",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243599417778802689/pu/img/HcQn-s-FpOIyzCar.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243599417778802689/pu/img/HcQn-s-FpOIyzCar.jpg",
+					"url": "https://t.co/FPvXzeu1h8",
+					"display_url": "pic.twitter.com/FPvXzeu1h8",
+					"expanded_url": "https://twitter.com/BuitengebiedenB/status/1243599539791179778/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1243599539791179800,
+					"source_status_id_str": "1243599539791179778",
+					"source_user_id": 1215024927692218400,
+					"source_user_id_str": "1215024927692218377"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243599417778802700,
+					"id_str": "1243599417778802689",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243599417778802689/pu/img/HcQn-s-FpOIyzCar.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243599417778802689/pu/img/HcQn-s-FpOIyzCar.jpg",
+					"url": "https://t.co/FPvXzeu1h8",
+					"display_url": "pic.twitter.com/FPvXzeu1h8",
+					"expanded_url": "https://twitter.com/BuitengebiedenB/status/1243599539791179778/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1243599539791179800,
+					"source_status_id_str": "1243599539791179778",
+					"source_user_id": 1215024927692218400,
+					"source_user_id_str": "1215024927692218377",
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243599417778802689/pu/vid/360x638/V9xijlFPdCYK6k2L.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243599417778802689/pu/vid/640x1136/_MHYsjnatN54v89f.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1243599417778802689/pu/pl/HgW2qnkg5RYkAB2i.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243599417778802689/pu/vid/320x568/kpGC7P283V1TC0JO.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1215024927692218400,
+							"id_str": "1215024927692218377",
+							"name": "Buitengebieden",
+							"screen_name": "BuitengebiedenB",
+							"location": "",
+							"description": "Powered by @buitengebieden_",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 12069,
+							"friends_count": 19,
+							"listed_count": 72,
+							"created_at": "Wed Jan 08 21:38:36 +0000 2020",
+							"favourites_count": 645,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 672,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1234747506061385728/I_2WACvV_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234747506061385728/I_2WACvV_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1215024927692218377/1583221721",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1108020329643823100,
+			"id_str": "1108020329643823109",
+			"name": "Akki",
+			"screen_name": "akkitwts",
+			"location": "dm for promo",
+			"description": "The Feel Good Page ❤️",
+			"url": "https://t.co/JXwdp3UMkB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JXwdp3UMkB",
+							"expanded_url": "https://www.instagram.com/jondhale__akshay/",
+							"display_url": "instagram.com/jondhale__aksh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76905,
+			"friends_count": 1,
+			"listed_count": 248,
+			"created_at": "Tue Mar 19 15:00:07 +0000 2019",
+			"favourites_count": 3967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243732639095250944/0SeP_V-G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243732639095250944/0SeP_V-G_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36816,
+		"favorite_count": 118198,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can listen to this my whole life 💕\n\nSicilian twins Mirko and Velerio from Agrigento play this Coldplay song while in quarantine.\n\nhttps://t.co/FPvXzeu1h8"
+	},
+	{
+		"created_at": "Sun Mar 29 04:13:36 +0000 2020",
+		"id": 1243848293307674600,
+		"id_str": "1244115467624538112",
+		"full_text": "Maruti Suzuki is going to make ventilators, Hyundai is importing testing kits and United Spirits has started making hand sanitizers in bulk. Some good news from India Inc amidst the #COVID19 crisis. https://t.co/XNV1ApV1TB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243848268666241000,
+					"id_str": "1243848268666241026",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EUMJaQBWAAIQIx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUMJaQBWAAIQIx7.jpg",
+					"url": "https://t.co/XNV1ApV1TB",
+					"display_url": "pic.twitter.com/XNV1ApV1TB",
+					"expanded_url": "https://twitter.com/chandrarsrikant/status/1243848293307674624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1839,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243848268666241000,
+					"id_str": "1243848268666241026",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EUMJaQBWAAIQIx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUMJaQBWAAIQIx7.jpg",
+					"url": "https://t.co/XNV1ApV1TB",
+					"display_url": "pic.twitter.com/XNV1ApV1TB",
+					"expanded_url": "https://twitter.com/chandrarsrikant/status/1243848293307674624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1839,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16362321,
+			"id_str": "16362321",
+			"name": "Chandra R. Srikanth",
+			"screen_name": "chandrarsrikant",
+			"location": "Bengaluru, India",
+			"description": "Consulting Editor, ET NOW. Previously, South India Bureau Chief & Anchor, Startup Central. Tweet on tech,startups,gen news. They reflect my views.",
+			"url": "https://t.co/lMscZDvnaq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMscZDvnaq",
+							"expanded_url": "http://economictimes.indiatimes.com/et-now",
+							"display_url": "economictimes.indiatimes.com/et-now",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18384,
+			"friends_count": 1241,
+			"listed_count": 144,
+			"created_at": "Fri Sep 19 12:10:41 +0000 2008",
+			"favourites_count": 414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/868115882844848129/C0Ccm3FO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/868115882844848129/C0Ccm3FO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16362321/1512484602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maruti Suzuki is going to make ventilators, Hyundai is importing testing kits and United Spirits has started making hand sanitizers in bulk. Some good news from India Inc amidst the #COVID19 crisis. https://t.co/XNV1ApV1TB"
+	},
+	{
+		"created_at": "Sun Mar 29 04:11:08 +0000 2020",
+		"id": 1243779158737440800,
+		"id_str": "1244114847668662272",
+		"full_text": "BREAKING: French government reverses earlier ban on hydroxychloroquine for treating COVID19 patients in light of successful clinical studies showing significant efficacy against the virus.\n\nHydroxychloroquine may now be prescribed to treat COVID-19 in France.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 264501955,
+			"id_str": "264501955",
+			"name": "Michael Coudrey",
+			"screen_name": "MichaelCoudrey",
+			"location": "",
+			"description": "Entrepreneur. Activist. Investor. CEO: https://t.co/OCCa0bUzj8 - Social Media For Politicians & Organizations. \nMedia Requests: Michael@PharosInvestmentGroup.com",
+			"url": "https://t.co/C5bUW9CqVW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C5bUW9CqVW",
+							"expanded_url": "http://michaelcoudrey.com",
+							"display_url": "michaelcoudrey.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OCCa0bUzj8",
+							"expanded_url": "http://YukoSocial.com",
+							"display_url": "YukoSocial.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 226978,
+			"friends_count": 100,
+			"listed_count": 1576,
+			"created_at": "Sat Mar 12 00:56:35 +0000 2011",
+			"favourites_count": 95114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241630257481826307/dYPhsQYa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241630257481826307/dYPhsQYa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264501955/1579416056",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30580,
+		"favorite_count": 61872,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: French government reverses earlier ban on hydroxychloroquine for treating COVID19 patients in light of successful clinical studies showing significant efficacy against the virus.\n\nHydroxychloroquine may now be prescribed to treat COVID-19 in France."
+	},
+	{
+		"created_at": "Sun Mar 29 04:09:33 +0000 2020",
+		"id": 1244000852794323000,
+		"id_str": "1244114448400265218",
+		"full_text": "Knowing what and how to “google” is one of the important skills a developer should possess.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861320851,
+			"id_str": "861320851",
+			"name": "Florin Pop 👨🏻‍💻",
+			"screen_name": "florinpop1705",
+			"location": "Târgu Mureş, România",
+			"description": "JavaScript enthusiast 🙌, Front-end developer 💻, Blogger & YouTuber (https://t.co/Ps5en7qSjA) 😍",
+			"url": "https://t.co/2vVsUH0yYg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2vVsUH0yYg",
+							"expanded_url": "https://www.florin-pop.com",
+							"display_url": "florin-pop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ps5en7qSjA",
+							"expanded_url": "https://youtube.com/florinpop",
+							"display_url": "youtube.com/florinpop",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23322,
+			"friends_count": 1319,
+			"listed_count": 152,
+			"created_at": "Thu Oct 04 12:29:03 +0000 2012",
+			"favourites_count": 137598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595659104384905218/bOtXKmdP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595659104384905218/bOtXKmdP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861320851/1567480726",
+			"profile_link_color": "3498DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 722,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Knowing what and how to “google” is one of the important skills a developer should possess."
+	},
+	{
+		"created_at": "Sun Mar 29 04:06:46 +0000 2020",
+		"id": 1243770161401864200,
+		"id_str": "1244113748685537280",
+		"full_text": "My wife is a doctor of 27 years. She's been working 14-16 hours a day &amp; today was her first day off in about a month. She slept all day, and I let her because she damn well deserves it. We're coming up on 36 years, and I have never been more proud of her than I am right now.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1036975842100949000,
+			"id_str": "1036975842100948992",
+			"name": "Uncle Grumpy calls more Bullshit.",
+			"screen_name": "GrumpHatesTrump",
+			"location": "Florida, USA",
+			"description": "Retired, I used to work FOR Trump, I’m a Progressive Liberal trapped in the F*cked up world that is Central Florida #Resist 🌎🌊🌊 #NotMyPresident #ImpeachTrump",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10278,
+			"friends_count": 4658,
+			"listed_count": 5,
+			"created_at": "Tue Sep 04 13:54:41 +0000 2018",
+			"favourites_count": 9239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041158124466589696/z0NxyoEg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041158124466589696/z0NxyoEg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1036975842100948992/1585320966",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58012,
+		"favorite_count": 566902,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My wife is a doctor of 27 years. She's been working 14-16 hours a day &amp; today was her first day off in about a month. She slept all day, and I let her because she damn well deserves it. We're coming up on 36 years, and I have never been more proud of her than I am right now."
+	},
+	{
 		"created_at": "Sun Mar 29 00:02:37 +0000 2020",
 		"id": 1243852348637606000,
 		"id_str": "1244052305374105601",
@@ -1181,7 +2994,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "🔥I'm Dah Fire Dude🔥",
 			"screen_name": "TOffroader",
 			"location": "Desert of Southern California ",
-			"description": "I'm just me, follow me or not, IDGAF. Some tweets are not my own doing. I'M NOT THAT BRIGHT 🤷🏻‍♂️ DM's are always open for chat. 😉 YOU'VE BEEN WARNED!",
+			"description": "I'm just me, follow me or not, IDGAF. Some tweets are not my own doing. I'M NOT THAT BRIGHT 🤷🏻♂️ DM's are always open for chat. 😉 YOU'VE BEEN WARNED!",
 			"url": null,
 			"entities": {
 				"description": {
