@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 05:44:06 +0000 2020",
+		"id": 1244782872076128300,
+		"id_str": "1244863017449189376",
+		"full_text": "The @EmpireStateBldg reminding us that the city is in the middle of an emergency. https://t.co/50TjEjOogN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmpireStateBldg",
+					"name": "Empire State Building",
+					"id": 123289066,
+					"id_str": "123289066",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244782831500513300,
+					"id_str": "1244782831500513280",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244782831500513280/pu/img/5LGrv1LEUwJZfrSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244782831500513280/pu/img/5LGrv1LEUwJZfrSW.jpg",
+					"url": "https://t.co/50TjEjOogN",
+					"display_url": "pic.twitter.com/50TjEjOogN",
+					"expanded_url": "https://twitter.com/RitaJKing/status/1244782872076128256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244782831500513300,
+					"id_str": "1244782831500513280",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244782831500513280/pu/img/5LGrv1LEUwJZfrSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244782831500513280/pu/img/5LGrv1LEUwJZfrSW.jpg",
+					"url": "https://t.co/50TjEjOogN",
+					"display_url": "pic.twitter.com/50TjEjOogN",
+					"expanded_url": "https://twitter.com/RitaJKing/status/1244782872076128256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16767,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244782831500513280/pu/vid/320x320/CU6LB_1dH_syU1bb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244782831500513280/pu/pl/EKntCapCX_AUJ7jA.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244782831500513280/pu/vid/720x720/9HXhq41Q9wJrpwVO.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244782831500513280/pu/vid/480x480/kSvFv9AUBA1sOA4n.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7434272,
+			"id_str": "7434272",
+			"name": "Rita J. King",
+			"screen_name": "RitaJKing",
+			"location": "NYC / Ischia",
+			"description": "Co-director, Science House. Founder, Treasure of the Sirens. Writer & futurist. Imagination makes us human. Represented by @annasproul at Neon Literary.",
+			"url": "https://t.co/AQ5DRcBMTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQ5DRcBMTO",
+							"expanded_url": "http://www.sciencehouse.com",
+							"display_url": "sciencehouse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27911,
+			"friends_count": 5399,
+			"listed_count": 775,
+			"created_at": "Thu Jul 12 17:30:49 +0000 2007",
+			"favourites_count": 20698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198408268172943361/g2qjXDFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198408268172943361/g2qjXDFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7434272/1553120142",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51988,
+		"favorite_count": 198295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @EmpireStateBldg reminding us that the city is in the middle of an emergency. https://t.co/50TjEjOogN"
+	},
+	{
 		"created_at": "Mon Mar 30 22:30:56 +0000 2020",
 		"id": 1244135872984842200,
 		"id_str": "1244754008532586497",
@@ -1651,7 +1867,7 @@ Grailbird.data.tweets_2020_03 =
 		"user": {
 			"id": 861320851,
 			"id_str": "861320851",
-			"name": "Florin Pop 👨🏻‍💻",
+			"name": "Florin Pop 👨🏻💻",
 			"screen_name": "florinpop1705",
 			"location": "Târgu Mureş, România",
 			"description": "JavaScript enthusiast 🙌, Front-end developer 💻, Blogger & YouTuber (https://t.co/Ps5en7qSjA) 😍",
