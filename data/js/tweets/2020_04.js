@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 20:08:52 +0000 2020",
+		"id": 1246599143482679300,
+		"id_str": "1246892583621545984",
+		"full_text": "Indiana Jones was more interested in a lump of worked gold than he was in the fact that a pre-modern central american civilization could build a trap that knows when you are standing in front of a shaft of sunlight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1142876417962795000,
+			"id_str": "1142876417962795010",
+			"name": "Catdad, la grande peste 🐈",
+			"screen_name": "catdadaeternal",
+			"location": "The City of Brass",
+			"description": "Un jour je serai près de toi 🐈 Marxist-Leninist, public defender, medievalist, fantasy/sci-fi novelist ; he/him ; cohost of @ploughandstars",
+			"url": "https://t.co/LqI05dlXDm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LqI05dlXDm",
+							"expanded_url": "http://ploughandstarspod.com",
+							"display_url": "ploughandstarspod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2213,
+			"friends_count": 2850,
+			"listed_count": 0,
+			"created_at": "Sun Jun 23 19:25:46 +0000 2019",
+			"favourites_count": 93341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241776611000803330/sVJvLsQM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241776611000803330/sVJvLsQM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1142876417962795010/1583895043",
+			"profile_link_color": "8C2812",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6000,
+		"favorite_count": 47101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Indiana Jones was more interested in a lump of worked gold than he was in the fact that a pre-modern central american civilization could build a trap that knows when you are standing in front of a shaft of sunlight"
+	},
+	{
+		"created_at": "Sun Apr 05 16:07:07 +0000 2020",
+		"id": 1246407405178695700,
+		"id_str": "1246831745585934338",
+		"full_text": "My dad texts like he's doing a phishing scam https://t.co/Vb49CDlBnu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246407399050788900,
+					"id_str": "1246407399050788864",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwg7PnXQAAKcpi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwg7PnXQAAKcpi.jpg",
+					"url": "https://t.co/Vb49CDlBnu",
+					"display_url": "pic.twitter.com/Vb49CDlBnu",
+					"expanded_url": "https://twitter.com/ij_ford/status/1246407405178695683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246407399050788900,
+					"id_str": "1246407399050788864",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwg7PnXQAAKcpi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwg7PnXQAAKcpi.jpg",
+					"url": "https://t.co/Vb49CDlBnu",
+					"display_url": "pic.twitter.com/Vb49CDlBnu",
+					"expanded_url": "https://twitter.com/ij_ford/status/1246407405178695683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333309608,
+			"id_str": "333309608",
+			"name": "Ian Ford",
+			"screen_name": "ij_ford",
+			"location": "London",
+			"description": "Production editor at the Guardian, screenwriter, occasional game reviewer and full-time cynic. The Guardian wishes it had my views",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9828,
+			"friends_count": 3666,
+			"listed_count": 35,
+			"created_at": "Mon Jul 11 10:09:01 +0000 2011",
+			"favourites_count": 52204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234193613707468801/bsXixM-d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234193613707468801/bsXixM-d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333309608/1546283828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7273,
+		"favorite_count": 82753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My dad texts like he's doing a phishing scam https://t.co/Vb49CDlBnu"
+	},
+	{
 		"created_at": "Sat Apr 04 20:10:48 +0000 2020",
 		"id": 1246257830711029800,
 		"id_str": "1246530680147697664",
