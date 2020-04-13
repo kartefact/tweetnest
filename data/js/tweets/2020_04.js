@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 19:17:46 +0000 2020",
+		"id": 1249384059488186400,
+		"id_str": "1249416439242481664",
+		"full_text": "The goal of teaching should not be to help the students learn how to memorize and spit out information under academic pressure. 🧠\n\nThe purpose of teaching is to inspire the desire for learning in them and make them able to think, understand, and question. https://t.co/vkkr8xk853",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249384051376414700,
+					"id_str": "1249384051376414721",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EVa0LNpUYAELqm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVa0LNpUYAELqm9.jpg",
+					"url": "https://t.co/vkkr8xk853",
+					"display_url": "pic.twitter.com/vkkr8xk853",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/1249384059488186368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1171,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249384051376414700,
+					"id_str": "1249384051376414721",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EVa0LNpUYAELqm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVa0LNpUYAELqm9.jpg",
+					"url": "https://t.co/vkkr8xk853",
+					"display_url": "pic.twitter.com/vkkr8xk853",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/1249384059488186368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1171,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823518894182846500,
+			"id_str": "823518894182846464",
+			"name": "Richard Feynman",
+			"screen_name": "ProfFeynman",
+			"location": "",
+			"description": "Here I stand, atoms with consciousness, matter with curiosity. A universe of atoms, an atom in the universe.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312282,
+			"friends_count": 0,
+			"listed_count": 2220,
+			"created_at": "Mon Jan 23 13:12:59 +0000 2017",
+			"favourites_count": 6387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241413368906313728/7sps-GW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241413368906313728/7sps-GW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823518894182846464/1563454062",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1493,
+		"favorite_count": 4041,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The goal of teaching should not be to help the students learn how to memorize and spit out information under academic pressure. 🧠\n\nThe purpose of teaching is to inspire the desire for learning in them and make them able to think, understand, and question. https://t.co/vkkr8xk853"
+	},
+	{
 		"created_at": "Sun Apr 05 20:08:52 +0000 2020",
 		"id": 1246599143482679300,
 		"id_str": "1246892583621545984",
