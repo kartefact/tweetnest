@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 04:16:18 +0000 2020",
+		"id": 1249596182612947000,
+		"id_str": "1249914350170595328",
+		"full_text": "The goal of career development is to move from jobs that anyone can do  → jobs that only you can do.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2723584891,
+			"id_str": "2723584891",
+			"name": "Jennifer Kim",
+			"screen_name": "jenistyping",
+			"location": "San Francisco, CA",
+			"description": "professional dot connector. all things recruiting, startups, tech culture & future of work. ex-Head of People @Lever ⚒:@startupbootcmp @inclusionaw @tinywisdoms",
+			"url": "https://t.co/yxdFlrJBAq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yxdFlrJBAq",
+							"expanded_url": "https://www.jennifer.kim/",
+							"display_url": "jennifer.kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11451,
+			"friends_count": 950,
+			"listed_count": 171,
+			"created_at": "Mon Aug 11 09:35:48 +0000 2014",
+			"favourites_count": 10297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103799305087774720/1eYKPKEx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103799305087774720/1eYKPKEx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2723584891/1518368878",
+			"profile_link_color": "00A1DC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 925,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The goal of career development is to move from jobs that anyone can do  → jobs that only you can do."
+	},
+	{
 		"created_at": "Sun Apr 12 19:17:46 +0000 2020",
 		"id": 1249384059488186400,
 		"id_str": "1249416439242481664",
