@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 06:01:44 +0000 2020",
+		"id": 1250277508596904000,
+		"id_str": "1250303274881708035",
+		"full_text": "Write like your audience is smart and busy.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16347964,
+			"id_str": "16347964",
+			"name": "Sahil Lavingia",
+			"screen_name": "shl",
+			"location": "Home",
+			"description": "Founder and CEO @gumroad. Painter @shlpaints, writer.",
+			"url": "https://t.co/27IlY8Lm1e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/27IlY8Lm1e",
+							"expanded_url": "http://sahillavingia.com",
+							"display_url": "sahillavingia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88890,
+			"friends_count": 951,
+			"listed_count": 1596,
+			"created_at": "Thu Sep 18 15:23:00 +0000 2008",
+			"favourites_count": 39003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94E4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226328347732410369/VEYq-mWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226328347732410369/VEYq-mWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16347964/1462387154",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "D3F6F8",
+			"profile_text_color": "0C3E46",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 378,
+		"favorite_count": 2809,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Write like your audience is smart and busy."
+	},
+	{
 		"created_at": "Tue Apr 14 04:16:18 +0000 2020",
 		"id": 1249596182612947000,
 		"id_str": "1249914350170595328",
