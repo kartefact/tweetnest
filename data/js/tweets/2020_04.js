@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 07:27:45 +0000 2020",
+		"id": 1249744733297086500,
+		"id_str": "1250687308245766146",
+		"full_text": "The dog's reaction is the best 😂😂❤️ https://t.co/FkCnvJFhLX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249744303116685300,
+					"id_str": "1249744303116685312",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249744303116685312/pu/img/MfGicc9qKgTz_8xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249744303116685312/pu/img/MfGicc9qKgTz_8xg.jpg",
+					"url": "https://t.co/FkCnvJFhLX",
+					"display_url": "pic.twitter.com/FkCnvJFhLX",
+					"expanded_url": "https://twitter.com/MuhindiJuma/status/1249744733297086466/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249744303116685300,
+					"id_str": "1249744303116685312",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249744303116685312/pu/img/MfGicc9qKgTz_8xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249744303116685312/pu/img/MfGicc9qKgTz_8xg.jpg",
+					"url": "https://t.co/FkCnvJFhLX",
+					"display_url": "pic.twitter.com/FkCnvJFhLX",
+					"expanded_url": "https://twitter.com/MuhindiJuma/status/1249744733297086466/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 8367,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249744303116685312/pu/vid/640x800/NfIAvMJpMNepl83K.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249744303116685312/pu/vid/320x400/JFlLU0KvHiX8NTwS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249744303116685312/pu/vid/360x450/AggkkFegWUw_P8Ki.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249744303116685312/pu/pl/H4arFlW6id_San36.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 836590142894850000,
+			"id_str": "836590142894850048",
+			"name": "FM J",
+			"screen_name": "MuhindiJuma",
+			"location": "March",
+			"description": "|Gemini| |Here for everything| | IFB Actives💯 |",
+			"url": "https://t.co/L6ADsE51zG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6ADsE51zG",
+							"expanded_url": "https://mobile.twitter.com/search?lang=en&q=(from%3Amuhindijuma)%20lang%3Aen%20until%3A2020-12-31%20",
+							"display_url": "mobile.twitter.com/search?lang=en…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36484,
+			"friends_count": 29246,
+			"listed_count": 13,
+			"created_at": "Tue Feb 28 14:53:27 +0000 2017",
+			"favourites_count": 136665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244970977177546754/JDgNompN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244970977177546754/JDgNompN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/836590142894850048/1584510924",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60035,
+		"favorite_count": 202868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The dog's reaction is the best 😂😂❤️ https://t.co/FkCnvJFhLX"
+	},
+	{
+		"created_at": "Thu Apr 16 07:26:32 +0000 2020",
+		"id": 1250494947117068300,
+		"id_str": "1250687001201803264",
+		"full_text": "Diwali dhamaka sales should be interesting this year.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10212922,
+			"id_str": "10212922",
+			"name": "Harpreet Singh",
+			"screen_name": "Harry_Jerry",
+			"location": "Chandigarh, India",
+			"description": "All things social at NDTV @gadgets360. Previously @dealsforgeeks",
+			"url": "https://t.co/uvDVRn3mHG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uvDVRn3mHG",
+							"expanded_url": "https://gadgets.ndtv.com/authors/harpreet-singh-30",
+							"display_url": "gadgets.ndtv.com/authors/harpre…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6677,
+			"friends_count": 997,
+			"listed_count": 173,
+			"created_at": "Tue Nov 13 12:53:52 +0000 2007",
+			"favourites_count": 26466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 152750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058054188079501312/ulbhCG9D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058054188079501312/ulbhCG9D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10212922/1348032667",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Diwali dhamaka sales should be interesting this year."
+	},
+	{
+		"created_at": "Thu Apr 16 07:26:26 +0000 2020",
+		"id": 1250496549064450000,
+		"id_str": "1250686976686088192",
+		"full_text": "https://t.co/lFQ9kmYwME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250496547579707400,
+					"id_str": "1250496547579707393",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqn_A9XQAEDEBh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVqn_A9XQAEDEBh.jpg",
+					"url": "https://t.co/lFQ9kmYwME",
+					"display_url": "pic.twitter.com/lFQ9kmYwME",
+					"expanded_url": "https://twitter.com/FacesPics/status/1250496549064450050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 506,
+							"h": 767,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 767,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250496547579707400,
+					"id_str": "1250496547579707393",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqn_A9XQAEDEBh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVqn_A9XQAEDEBh.jpg",
+					"url": "https://t.co/lFQ9kmYwME",
+					"display_url": "pic.twitter.com/lFQ9kmYwME",
+					"expanded_url": "https://twitter.com/FacesPics/status/1250496549064450050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 506,
+							"h": 767,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 767,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1689419970,
+			"id_str": "1689419970",
+			"name": "Faces in Things",
+			"screen_name": "FacesPics",
+			"location": "email pics of faces: faces@viralspark.net",
+			"description": "Admit it, you see a face.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 716782,
+			"friends_count": 10,
+			"listed_count": 4273,
+			"created_at": "Wed Aug 21 23:11:30 +0000 2013",
+			"favourites_count": 2258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000719377900/45f6f5459fe0d5678de052e8741700d0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689419970/1384060472",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 373,
+		"favorite_count": 3469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/lFQ9kmYwME"
+	},
+	{
 		"created_at": "Wed Apr 15 06:01:44 +0000 2020",
 		"id": 1250277508596904000,
 		"id_str": "1250303274881708035",
