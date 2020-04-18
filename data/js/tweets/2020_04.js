@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 07:49:02 +0000 2020",
+		"id": 1251055049813311500,
+		"id_str": "1251055049813311490",
+		"full_text": "@rajupp @DhingraRisha @s_anuj Haha... Wow! looks like they've heard us :) The price is reasonable too. This is great! Now for the long wait. Had waited similarly for Mi TV and by the time they had launched in India, had been 2 years since I lost patience and had gotten another TV. Hope history doesn't repeat.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			310
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rajupp",
+					"name": "Raju PP",
+					"id": 16619994,
+					"id_str": "16619994",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "DhingraRisha",
+					"name": "Risha",
+					"id": 385469459,
+					"id_str": "385469459",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "s_anuj",
+					"name": "Anuj Sharma",
+					"id": 15977787,
+					"id_str": "15977787",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1251019291450695700,
+		"in_reply_to_status_id_str": "1251019291450695683",
+		"in_reply_to_user_id": 16619994,
+		"in_reply_to_user_id_str": "16619994",
+		"in_reply_to_screen_name": "rajupp",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1493,
+			"friends_count": 219,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rajupp @DhingraRisha @s_anuj Haha... Wow! looks like they've heard us :) The price is reasonable too. This is great! Now for the long wait. Had waited similarly for Mi TV and by the time they had launched in India, had been 2 years since I lost patience and had gotten another TV. Hope history doesn't repeat."
+	},
+	{
 		"created_at": "Thu Apr 16 07:27:45 +0000 2020",
 		"id": 1249744733297086500,
 		"id_str": "1250687308245766146",
