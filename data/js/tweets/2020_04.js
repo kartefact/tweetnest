@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 11:03:17 +0000 2020",
+		"id": 1251436740180496400,
+		"id_str": "1251466326238871552",
+		"full_text": "This video is proof that life is moving fast. Have fun while it lasts 🤗❤️  https://t.co/9uUp6z8cop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250979762354389000,
+					"id_str": "1250979762354388995",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250979762354388995/pu/img/_VSR1rvWumRj1fL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250979762354388995/pu/img/_VSR1rvWumRj1fL3.jpg",
+					"url": "https://t.co/9uUp6z8cop",
+					"display_url": "pic.twitter.com/9uUp6z8cop",
+					"expanded_url": "https://twitter.com/RamanSipan/status/1250979899453714433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1250979899453714400,
+					"source_status_id_str": "1250979899453714433",
+					"source_user_id": 2742190241,
+					"source_user_id_str": "2742190241"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250979762354389000,
+					"id_str": "1250979762354388995",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250979762354388995/pu/img/_VSR1rvWumRj1fL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250979762354388995/pu/img/_VSR1rvWumRj1fL3.jpg",
+					"url": "https://t.co/9uUp6z8cop",
+					"display_url": "pic.twitter.com/9uUp6z8cop",
+					"expanded_url": "https://twitter.com/RamanSipan/status/1250979899453714433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1250979899453714400,
+					"source_status_id_str": "1250979899453714433",
+					"source_user_id": 2742190241,
+					"source_user_id_str": "2742190241",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 136488,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250979762354388995/pu/pl/19G2h7L4L5w30lbN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250979762354388995/pu/vid/360x640/3OJoPqMAokgKs82M.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250979762354388995/pu/vid/720x1280/hsX3qk9DHYNh3K-H.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250979762354388995/pu/vid/320x568/zqGFmFptZhj5UdwW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2742190241,
+							"id_str": "2742190241",
+							"name": "دهري Mohammad Naaso",
+							"screen_name": "RamanSipan",
+							"location": "Herne, Nordrhein-Westfalen",
+							"description": "من يأبى اليوم قبول النصيحة التي لا تكلف أي شيء، سوف يضطر في الغد إلي شراء الأسف الذي سيكلفه أغلى ثمن - أفلاطون",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2027,
+							"friends_count": 251,
+							"listed_count": 7,
+							"created_at": "Wed Aug 13 23:10:14 +0000 2014",
+							"favourites_count": 4907,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2226,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1251596083941212160/4e-cg9yQ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251596083941212160/4e-cg9yQ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2742190241/1570560091",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79120620,
+			"id_str": "79120620",
+			"name": "Nishant Gambhir",
+			"screen_name": "madnish30",
+			"location": "New Delhi, India",
+			"description": "Public Rights Lawyer & Educator at @LexDoItIN. Building @BetterLawyerIN for a better legal system. E-commerce Specialist. Many roles, one life.",
+			"url": "https://t.co/0A43hZsB7P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0A43hZsB7P",
+							"expanded_url": "http://nishantgambhir.com",
+							"display_url": "nishantgambhir.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6828,
+			"friends_count": 170,
+			"listed_count": 65,
+			"created_at": "Fri Oct 02 07:16:15 +0000 2009",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097365775604690945/mxD9lHGC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097365775604690945/mxD9lHGC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79120620/1496862535",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 1098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This video is proof that life is moving fast. Have fun while it lasts 🤗❤️  https://t.co/9uUp6z8cop"
+	},
+	{
+		"created_at": "Sat Apr 18 10:55:29 +0000 2020",
+		"id": 1251290079026241500,
+		"id_str": "1251464359454228481",
+		"full_text": "Typed a tweet into the search box, but realized it and didn't hit enter.\n\nThat's it. That's my achievement for the day.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 489067763,
+			"id_str": "489067763",
+			"name": "Shannon DeMaria",
+			"screen_name": "shademar",
+			"location": "South Lake Tahoe",
+			"description": "I honestly have no idea what to write here. \n*she/her*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 924,
+			"listed_count": 12,
+			"created_at": "Sat Feb 11 04:34:29 +0000 2012",
+			"favourites_count": 3187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225341436649824257/tUt38Ki5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225341436649824257/tUt38Ki5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/489067763/1580978967",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Typed a tweet into the search box, but realized it and didn't hit enter.\n\nThat's it. That's my achievement for the day."
+	},
+	{
 		"created_at": "Fri Apr 17 07:49:02 +0000 2020",
 		"id": 1251055049813311500,
 		"id_str": "1251055049813311490",
