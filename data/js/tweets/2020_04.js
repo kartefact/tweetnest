@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 10:13:40 +0000 2020",
+		"id": 1252135490884718600,
+		"id_str": "1252178612385509378",
+		"full_text": "No mask? Tension nahin Leneka! Simple hai! https://t.co/NSNPMikDZ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252135277243633700,
+					"id_str": "1252135277243633664",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252135277243633664/pu/img/OJja_R1UFEbdkoB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252135277243633664/pu/img/OJja_R1UFEbdkoB2.jpg",
+					"url": "https://t.co/NSNPMikDZ3",
+					"display_url": "pic.twitter.com/NSNPMikDZ3",
+					"expanded_url": "https://twitter.com/RonitBoseRoy/status/1252135490884718592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252135277243633700,
+					"id_str": "1252135277243633664",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252135277243633664/pu/img/OJja_R1UFEbdkoB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252135277243633664/pu/img/OJja_R1UFEbdkoB2.jpg",
+					"url": "https://t.co/NSNPMikDZ3",
+					"display_url": "pic.twitter.com/NSNPMikDZ3",
+					"expanded_url": "https://twitter.com/RonitBoseRoy/status/1252135490884718592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45002,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1252135277243633664/pu/pl/GghUPS6Xb4kyn9Ti.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252135277243633664/pu/vid/360x640/LvlIqmgf6GcXRo0o.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252135277243633664/pu/vid/720x1280/cV_kQFNS8M1oytzz.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252135277243633664/pu/vid/320x568/GN4OccqvFi0niRJ6.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66643993,
+			"id_str": "66643993",
+			"name": "Ronit Bose Roy",
+			"screen_name": "RonitBoseRoy",
+			"location": "Mumbai,India",
+			"description": "Student of life.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319229,
+			"friends_count": 284,
+			"listed_count": 293,
+			"created_at": "Tue Aug 18 10:00:18 +0000 2009",
+			"favourites_count": 1114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137222873913991169/e5vL5U6E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137222873913991169/e5vL5U6E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66643993/1516199080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13945,
+		"favorite_count": 59827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "No mask? Tension nahin Leneka! Simple hai! https://t.co/NSNPMikDZ3"
+	},
+	{
+		"created_at": "Mon Apr 20 10:07:42 +0000 2020",
+		"id": 1251609316307513300,
+		"id_str": "1252177111688728576",
+		"full_text": "How are we ending phone conversations now that we don't have anywhere to go?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19516774,
+			"id_str": "19516774",
+			"name": "Naomi Ekperigin",
+			"screen_name": "Blacktress",
+			"location": "NYC/LA",
+			"description": "Comedian (Comedy Central, HBO). Actor (@mythic_quest). Writer (@broadcity, @nbcgreatnews & others). Co-host @NaomiandAndy podcast with @andybeckerman.",
+			"url": "https://t.co/Qhw1pOqPUk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qhw1pOqPUk",
+							"expanded_url": "http://www.patreon.com/couplestherapypod",
+							"display_url": "patreon.com/couplestherapy…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29502,
+			"friends_count": 1365,
+			"listed_count": 274,
+			"created_at": "Mon Jan 26 02:32:04 +0000 2009",
+			"favourites_count": 23295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4F4B4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/701053041466683392/g3oPQof-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/701053041466683392/g3oPQof-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19516774/1438281762",
+			"profile_link_color": "141717",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5828,
+		"favorite_count": 47012,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How are we ending phone conversations now that we don't have anywhere to go?"
+	},
+	{
 		"created_at": "Sat Apr 18 11:03:17 +0000 2020",
 		"id": 1251436740180496400,
 		"id_str": "1251466326238871552",
