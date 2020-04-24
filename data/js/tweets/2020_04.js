@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 04:09:44 +0000 2020",
+		"id": 1252960161309888500,
+		"id_str": "1253174190774992896",
+		"full_text": "How did most successful people become successful?\nConsistent hard work\n\nHow do athletes reach their goals?\nConsistent hard work\n\nHow did everyone in tech become a developer?\nConsistent hard work\n\nHow will YOU become a dev in tech?\nCONSISTENT HARD WORK!\n\n#100DaysOfCode #CodeNewbie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "100DaysOfCode",
+					"indices": [
+						254,
+						268
+					]
+				},
+				{
+					"text": "CodeNewbie",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1085477171055996900,
+			"id_str": "1085477171055996928",
+			"name": "Danny Thompson",
+			"screen_name": "DThompsonDev",
+			"location": "Memphis, TN",
+			"description": "GDG Memphis Meetup Organizer/Founder | \"Commit Your Code\" Host | #100DaysOfCode",
+			"url": "https://t.co/sEEGJqdAVa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sEEGJqdAVa",
+							"expanded_url": "https://www.linkedin.com/in/dannythompson901/",
+							"display_url": "linkedin.com/in/dannythomps…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4354,
+			"friends_count": 517,
+			"listed_count": 28,
+			"created_at": "Wed Jan 16 10:01:39 +0000 2019",
+			"favourites_count": 9942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222136283339853833/dr25E9Lk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222136283339853833/dr25E9Lk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085477171055996928/1585792752",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 403,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How did most successful people become successful?\nConsistent hard work\n\nHow do athletes reach their goals?\nConsistent hard work\n\nHow did everyone in tech become a developer?\nConsistent hard work\n\nHow will YOU become a dev in tech?\nCONSISTENT HARD WORK!\n\n#100DaysOfCode #CodeNewbie"
+	},
+	{
 		"created_at": "Wed Apr 22 08:28:49 +0000 2020",
 		"id": 1252877002035441700,
 		"id_str": "1252877002035441664",
