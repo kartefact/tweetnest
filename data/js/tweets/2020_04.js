@@ -1,6 +1,1378 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 21:29:36 +0000 2020",
+		"id": 1255173248553189400,
+		"id_str": "1255247820078096385",
+		"full_text": "Ooh, do tell me more! https://t.co/muw7FlJNLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255173241787879400,
+					"id_str": "1255173241787879425",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EWtFachXkAEuFVK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWtFachXkAEuFVK.png",
+					"url": "https://t.co/muw7FlJNLo",
+					"display_url": "pic.twitter.com/muw7FlJNLo",
+					"expanded_url": "https://twitter.com/thurrott/status/1255173248553189377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1297,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255173241787879400,
+					"id_str": "1255173241787879425",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EWtFachXkAEuFVK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWtFachXkAEuFVK.png",
+					"url": "https://t.co/muw7FlJNLo",
+					"display_url": "pic.twitter.com/muw7FlJNLo",
+					"expanded_url": "https://twitter.com/thurrott/status/1255173248553189377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1297,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14964767,
+			"id_str": "14964767",
+			"name": "Paul Thurrott",
+			"screen_name": "thurrott",
+			"location": "Emmaus, PA",
+			"description": "Paul Thurrott is an award-winning technology journalist and blogger and the author of over 25 books. He is the majordomo at http://t.co/DpuqUugruE.",
+			"url": "http://t.co/HTMQCSc0Np",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HTMQCSc0Np",
+							"expanded_url": "http://www.thurrott.com",
+							"display_url": "thurrott.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/DpuqUugruE",
+							"expanded_url": "http://Thurrott.com",
+							"display_url": "Thurrott.com",
+							"indices": [
+								124,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 114202,
+			"friends_count": 171,
+			"listed_count": 6236,
+			"created_at": "Sat May 31 17:47:07 +0000 2008",
+			"favourites_count": 10502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819277710988025856/0Nma3VWJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819277710988025856/0Nma3VWJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14964767/1444060559",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ooh, do tell me more! https://t.co/muw7FlJNLo"
+	},
+	{
+		"created_at": "Tue Apr 28 21:24:13 +0000 2020",
+		"id": 1255246467058602000,
+		"id_str": "1255246467058601984",
+		"full_text": "Now that work-from-home has been extended till July 31st, when are companies planning to make it a permanent option for their employees and when will Indian job boards have a location filter which says \"home\"?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1494,
+			"friends_count": 220,
+			"listed_count": 50,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Now that work-from-home has been extended till July 31st, when are companies planning to make it a permanent option for their employees and when will Indian job boards have a location filter which says \"home\"?"
+	},
+	{
+		"created_at": "Tue Apr 28 21:12:40 +0000 2020",
+		"id": 1254874547817296000,
+		"id_str": "1255243559814430720",
+		"full_text": "2020 is so fucking wild that the Pentagon just confirmed UFOs and it’s barely news.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4327127414,
+			"id_str": "4327127414",
+			"name": "Santiago Mayer",
+			"screen_name": "santiagomayer_",
+			"location": "Conservatives’ Heads",
+			"description": "Founder @VotersTomorrow • Political Twitter’s Resident Immigrant Teen",
+			"url": "https://t.co/VE5DGAvXYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VE5DGAvXYn",
+							"expanded_url": "http://votersoftomorrow.org",
+							"display_url": "votersoftomorrow.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47183,
+			"friends_count": 41222,
+			"listed_count": 53,
+			"created_at": "Sun Nov 22 21:37:42 +0000 2015",
+			"favourites_count": 84315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254481246417108993/huS_2HAk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254481246417108993/huS_2HAk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4327127414/1581701474",
+			"profile_link_color": "C7111A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129699,
+		"favorite_count": 670315,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "2020 is so fucking wild that the Pentagon just confirmed UFOs and it’s barely news."
+	},
+	{
+		"created_at": "Tue Apr 28 05:09:02 +0000 2020",
+		"id": 1254979234574921700,
+		"id_str": "1255001051247198210",
+		"full_text": "The bloom. https://t.co/7T0wmzsbIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254979204350742500,
+					"id_str": "1254979204350742528",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EWqU7-vUEAAxlZW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWqU7-vUEAAxlZW.jpg",
+					"url": "https://t.co/7T0wmzsbIu",
+					"display_url": "pic.twitter.com/7T0wmzsbIu",
+					"expanded_url": "https://twitter.com/zenrainman/status/1254979234574921729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254979204350742500,
+					"id_str": "1254979204350742528",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EWqU7-vUEAAxlZW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWqU7-vUEAAxlZW.jpg",
+					"url": "https://t.co/7T0wmzsbIu",
+					"display_url": "pic.twitter.com/7T0wmzsbIu",
+					"expanded_url": "https://twitter.com/zenrainman/status/1254979234574921729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18285948,
+			"id_str": "18285948",
+			"name": "zenrainman",
+			"screen_name": "zenrainman",
+			"location": "Bengaluru India",
+			"description": "the only zen you will find here is the zen you bring.. Nevermind....",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13323,
+			"friends_count": 8185,
+			"listed_count": 289,
+			"created_at": "Sun Dec 21 15:23:43 +0000 2008",
+			"favourites_count": 38868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 107029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669006258154835968/5L2hb8oH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18285948/1411998782",
+			"profile_link_color": "4CD12A",
+			"profile_sidebar_border_color": "4CD12A",
+			"profile_sidebar_fill_color": "843B06",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The bloom. https://t.co/7T0wmzsbIu"
+	},
+	{
+		"created_at": "Tue Apr 28 04:53:04 +0000 2020",
+		"id": 1254982506136211500,
+		"id_str": "1254997034257379328",
+		"full_text": "Warnings: Am I a joke to you? 🤣\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/YS37gaNAoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WebDev",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "BigData",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "Analytics",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "DataScience",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"text": "CyberSecurity",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"text": "IoT",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "IIoT",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "PyTorch",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "Python",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "RStats",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "TensorFlow",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"text": "Java",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "JavaScript",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "ReactJS",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "GoLang",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "CloudComputing",
+					"indices": [
+						171,
+						186
+					]
+				},
+				{
+					"text": "Serverless",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "DataScientist",
+					"indices": [
+						199,
+						213
+					]
+				},
+				{
+					"text": "Linux",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "Programming",
+					"indices": [
+						221,
+						233
+					]
+				},
+				{
+					"text": "Coding",
+					"indices": [
+						234,
+						241
+					]
+				},
+				{
+					"text": "100DaysOfCode",
+					"indices": [
+						242,
+						256
+					]
+				},
+				{
+					"text": "Python",
+					"indices": [
+						257,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254982390218276900,
+					"id_str": "1254982390218276864",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254982390218276864/pu/img/hRunPgRvA_cKzms2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254982390218276864/pu/img/hRunPgRvA_cKzms2.jpg",
+					"url": "https://t.co/YS37gaNAoC",
+					"display_url": "pic.twitter.com/YS37gaNAoC",
+					"expanded_url": "https://twitter.com/PratikNilange/status/1254982506136211456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254982390218276900,
+					"id_str": "1254982390218276864",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254982390218276864/pu/img/hRunPgRvA_cKzms2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254982390218276864/pu/img/hRunPgRvA_cKzms2.jpg",
+					"url": "https://t.co/YS37gaNAoC",
+					"display_url": "pic.twitter.com/YS37gaNAoC",
+					"expanded_url": "https://twitter.com/PratikNilange/status/1254982506136211456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							32,
+							23
+						],
+						"duration_millis": 13767,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1254982390218276864/pu/pl/V3RmGP2E1LEfQGmH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1254982390218276864/pu/vid/640x460/OgRGEcL4siiFTkx1.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1254982390218276864/pu/vid/374x270/c1jseRXh0ckcCDm_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2410388424,
+			"id_str": "2410388424",
+			"name": "Pratik Nilange",
+			"screen_name": "PratikNilange",
+			"location": "🌏",
+			"description": "I design stuff • Occasionally I write on boring topics • Astrophile 🌌 • CSS & JS ⚛️ Enthusiast • Learning Spanish 🇪🇸.\nTweets are my own, duh",
+			"url": "https://t.co/7fEIZWHdmA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7fEIZWHdmA",
+							"expanded_url": "http://pratiknilange.github.io",
+							"display_url": "pratiknilange.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5998,
+			"friends_count": 4496,
+			"listed_count": 67,
+			"created_at": "Tue Mar 25 06:39:43 +0000 2014",
+			"favourites_count": 9233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254093551899521025/2T-nDk3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254093551899521025/2T-nDk3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2410388424/1585848065",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 267,
+		"favorite_count": 875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Warnings: Am I a joke to you? 🤣\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/YS37gaNAoC"
+	},
+	{
+		"created_at": "Tue Apr 28 04:52:15 +0000 2020",
+		"id": 1254639410647191600,
+		"id_str": "1254996830351314944",
+		"full_text": "This made my day https://t.co/0Q2cnUJfrz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253620131596587000,
+					"id_str": "1253620131596587008",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253620131596587008/pu/img/s2CoRh-D6JV68Mx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253620131596587008/pu/img/s2CoRh-D6JV68Mx6.jpg",
+					"url": "https://t.co/0Q2cnUJfrz",
+					"display_url": "pic.twitter.com/0Q2cnUJfrz",
+					"expanded_url": "https://twitter.com/welcomet0nature/status/1254639410647191552/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 766,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 766,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253620131596587000,
+					"id_str": "1253620131596587008",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253620131596587008/pu/img/s2CoRh-D6JV68Mx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253620131596587008/pu/img/s2CoRh-D6JV68Mx6.jpg",
+					"url": "https://t.co/0Q2cnUJfrz",
+					"display_url": "pic.twitter.com/0Q2cnUJfrz",
+					"expanded_url": "https://twitter.com/welcomet0nature/status/1254639410647191552/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 766,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 766,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							307,
+							383
+						],
+						"duration_millis": 31267,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1253620131596587008/pu/pl/rIkL0Ytpae09mdOG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253620131596587008/pu/vid/360x448/PTS8gcn8yDjS8SJ2.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253620131596587008/pu/vid/614x766/PZCDc0xr7CnDYzbp.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253620131596587008/pu/vid/320x398/wUGc-67b5XtbCX2a.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 896158685533220900,
+			"id_str": "896158685533220864",
+			"name": "Welcome To Nature",
+			"screen_name": "welcomet0nature",
+			"location": "united",
+			"description": "“The clearest way into the Universe is through a forest wilderness.”  ― John Muir For daily updates about nature follow @welcomet0nature",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440681,
+			"friends_count": 144122,
+			"listed_count": 1892,
+			"created_at": "Fri Aug 11 23:57:35 +0000 2017",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979844838580457472/wsitMPMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979844838580457472/wsitMPMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/896158685533220864/1522448654",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3134,
+		"favorite_count": 12297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made my day https://t.co/0Q2cnUJfrz"
+	},
+	{
+		"created_at": "Tue Apr 28 04:47:56 +0000 2020",
+		"id": 1254661809522557000,
+		"id_str": "1254995743712006144",
+		"full_text": "The coffee cycle. From a flower to a cup. https://t.co/iPCUs1Fa3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254661801977004000,
+					"id_str": "1254661801977004033",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EWl0QuwXQAEVaAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWl0QuwXQAEVaAt.jpg",
+					"url": "https://t.co/iPCUs1Fa3H",
+					"display_url": "pic.twitter.com/iPCUs1Fa3H",
+					"expanded_url": "https://twitter.com/anushayadav/status/1254661809522556928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 717,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 717,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254661801977004000,
+					"id_str": "1254661801977004033",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EWl0QuwXQAEVaAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWl0QuwXQAEVaAt.jpg",
+					"url": "https://t.co/iPCUs1Fa3H",
+					"display_url": "pic.twitter.com/iPCUs1Fa3H",
+					"expanded_url": "https://twitter.com/anushayadav/status/1254661809522556928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 717,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 717,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15203462,
+			"id_str": "15203462",
+			"name": "Anusha Yadav",
+			"screen_name": "anushayadav",
+			"location": "-",
+			"description": "Principal, Brand & Legacy Design @memory_company [https://t.co/jhUpeEFgas] l  Indian Memory Project [https://t.co/qBooSi7KO3]  Photography\n[http://",
+			"url": "https://t.co/qCPBK0mHVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCPBK0mHVb",
+							"expanded_url": "http://www.thememorycompany.org",
+							"display_url": "thememorycompany.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jhUpeEFgas",
+							"expanded_url": "http://thememorycompany.org",
+							"display_url": "thememorycompany.org",
+							"indices": [
+								50,
+								73
+							]
+						},
+						{
+							"url": "https://t.co/qBooSi7KO3",
+							"expanded_url": "http://indianmemoryproject.com",
+							"display_url": "indianmemoryproject.com",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14850,
+			"friends_count": 1317,
+			"listed_count": 256,
+			"created_at": "Mon Jun 23 03:36:40 +0000 2008",
+			"favourites_count": 13566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045982098304237568/mri2CLjQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045982098304237568/mri2CLjQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15203462/1526839658",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3003,
+		"favorite_count": 17049,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The coffee cycle. From a flower to a cup. https://t.co/iPCUs1Fa3H"
+	},
+	{
+		"created_at": "Tue Apr 28 04:47:43 +0000 2020",
+		"id": 1254995689479663600,
+		"id_str": "1254995689479663622",
+		"full_text": "@mudnsky @Karaboondi +1 to that one. :)",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mudnsky",
+					"name": "Mud n Sky",
+					"id": 1685849366,
+					"id_str": "1685849366",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Karaboondi",
+					"name": "kirket Boondi",
+					"id": 398860199,
+					"id_str": "398860199",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1254722065526976500,
+		"in_reply_to_status_id_str": "1254722065526976512",
+		"in_reply_to_user_id": 1685849366,
+		"in_reply_to_user_id_str": "1685849366",
+		"in_reply_to_screen_name": "mudnsky",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1494,
+			"friends_count": 220,
+			"listed_count": 50,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mudnsky @Karaboondi +1 to that one. :)"
+	},
+	{
 		"created_at": "Thu Apr 23 04:09:44 +0000 2020",
 		"id": 1252960161309888500,
 		"id_str": "1253174190774992896",
