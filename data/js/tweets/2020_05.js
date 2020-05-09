@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 22:41:58 +0000 2020",
+		"id": 1258690682379579400,
+		"id_str": "1258889911253393408",
+		"full_text": "The very purpose of spirituality is self-discipline. Rather than criticizing others, we should evaluate and criticize ourselves. Ask yourself, what am I doing about my anger, my attachment, my pride, my jealousy? These are the things we should check in our day to day lives.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20609518,
+			"id_str": "20609518",
+			"name": "Dalai Lama",
+			"screen_name": "DalaiLama",
+			"location": "Dharamsala, India",
+			"description": "Welcome to the official twitter page of the Office of His Holiness the 14th Dalai Lama.",
+			"url": "http://t.co/AKctyfx8On",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AKctyfx8On",
+							"expanded_url": "http://dalailama.com",
+							"display_url": "dalailama.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19363476,
+			"friends_count": 0,
+			"listed_count": 78857,
+			"created_at": "Wed Feb 11 18:34:22 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFD21D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529214699041067008/fqPBAr5s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529214699041067008/fqPBAr5s_normal.jpeg",
+			"profile_link_color": "7D1900",
+			"profile_sidebar_border_color": "E8E3CE",
+			"profile_sidebar_fill_color": "F7F2DC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17330,
+		"favorite_count": 56536,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The very purpose of spirituality is self-discipline. Rather than criticizing others, we should evaluate and criticize ourselves. Ask yourself, what am I doing about my anger, my attachment, my pride, my jealousy? These are the things we should check in our day to day lives."
+	},
+	{
+		"created_at": "Fri May 08 22:39:05 +0000 2020",
+		"id": 1258715796143878100,
+		"id_str": "1258889187006099456",
+		"full_text": "https://t.co/qjzaEOV1RG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258715775352713200,
+					"id_str": "1258715775352713218",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXfbVCcUMAIHs4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXfbVCcUMAIHs4G.jpg",
+					"url": "https://t.co/qjzaEOV1RG",
+					"display_url": "pic.twitter.com/qjzaEOV1RG",
+					"expanded_url": "https://twitter.com/PhotoGhibli/status/1258715796143878144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258715775352713200,
+					"id_str": "1258715775352713218",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXfbVCcUMAIHs4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXfbVCcUMAIHs4G.jpg",
+					"url": "https://t.co/qjzaEOV1RG",
+					"display_url": "pic.twitter.com/qjzaEOV1RG",
+					"expanded_url": "https://twitter.com/PhotoGhibli/status/1258715796143878144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							270,
+							181
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXfbVCcUMAIHs4G.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4493173634,
+			"id_str": "4493173634",
+			"name": "Studio Ghibli",
+			"screen_name": "PhotoGhibli",
+			"location": "Japan",
+			"description": "Photos and Gifs dedicated for Studio Ghibli ♡",
+			"url": "https://t.co/bVxcvKqjiF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bVxcvKqjiF",
+							"expanded_url": "http://Instagram.com/photoghibli/",
+							"display_url": "Instagram.com/photoghibli/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352574,
+			"friends_count": 3,
+			"listed_count": 1468,
+			"created_at": "Tue Dec 08 04:41:53 +0000 2015",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055147911108050944/Tf8MBSfR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055147911108050944/Tf8MBSfR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4493173634/1540401841",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2758,
+		"favorite_count": 9815,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qjzaEOV1RG"
+	},
+	{
+		"created_at": "Fri May 08 02:48:55 +0000 2020",
+		"id": 1258589670809596000,
+		"id_str": "1258589670809595910",
+		"full_text": "Thank goodness. Just hope they don't kill hangouts and definitely not the history feature. Just wish we could search chat history on the phone app as well. https://t.co/hi1bdJhHib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hi1bdJhHib",
+					"expanded_url": "https://twitter.com/chupchap/status/1258586660545146882",
+					"display_url": "twitter.com/chupchap/statu…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1494,
+			"friends_count": 220,
+			"listed_count": 51,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258586660545147000,
+		"quoted_status_id_str": "1258586660545146882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hi1bdJhHib",
+			"expanded": "https://twitter.com/chupchap/status/1258586660545146882",
+			"display": "twitter.com/chupchap/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 02:36:57 +0000 2020",
+			"id": 1258586660545147000,
+			"id_str": "1258586660545146882",
+			"full_text": "Google unifies all of its messaging and communication apps into a single team https://t.co/CgzoCQWxeP via @Verge",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "verge",
+						"name": "The Verge",
+						"id": 275686563,
+						"id_str": "275686563",
+						"indices": [
+							106,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CgzoCQWxeP",
+						"expanded_url": "https://www.theverge.com/2020/5/7/21250790/google-android-messaging-duo-phone-g-suite-javier-soltero-hangouts-chat",
+						"display_url": "theverge.com/2020/5/7/21250…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12390642,
+				"id_str": "12390642",
+				"name": "NTB (Balu)",
+				"screen_name": "chupchap",
+				"location": "Mumbai",
+				"description": "Salesforce (sales + service + community) 4x certified consultant @Saasfocus / @Cognizant, gamer, ex-journalist (Medianama, DNA, Blr Mirror, etc).",
+				"url": "https://t.co/oTUDmEcdwB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oTUDmEcdwB",
+								"expanded_url": "https://chupchap.in",
+								"display_url": "chupchap.in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4951,
+				"friends_count": 4050,
+				"listed_count": 208,
+				"created_at": "Fri Jan 18 08:03:15 +0000 2008",
+				"favourites_count": 10920,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49495,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E526B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228529758897467393/4Fihx25__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228529758897467393/4Fihx25__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12390642/1399093232",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "88BFD4",
+				"profile_text_color": "404040",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank goodness. Just hope they don't kill hangouts and definitely not the history feature. Just wish we could search chat history on the phone app as well. https://t.co/hi1bdJhHib"
+	},
+	{
+		"created_at": "Fri May 08 02:42:53 +0000 2020",
+		"id": 1258126069430980600,
+		"id_str": "1258588151980802048",
+		"full_text": "Took this at 5:43am, no filter https://t.co/tn0PVhNbWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258126058420752400,
+					"id_str": "1258126058420752384",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EXXC-_rU0AAB6on.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXXC-_rU0AAB6on.jpg",
+					"url": "https://t.co/tn0PVhNbWg",
+					"display_url": "pic.twitter.com/tn0PVhNbWg",
+					"expanded_url": "https://twitter.com/eastrnrebellion/status/1258126069430980609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258126058420752400,
+					"id_str": "1258126058420752384",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EXXC-_rU0AAB6on.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXXC-_rU0AAB6on.jpg",
+					"url": "https://t.co/tn0PVhNbWg",
+					"display_url": "pic.twitter.com/tn0PVhNbWg",
+					"expanded_url": "https://twitter.com/eastrnrebellion/status/1258126069430980609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157740402,
+			"id_str": "157740402",
+			"name": "east",
+			"screen_name": "eastrnrebellion",
+			"location": "",
+			"description": "【keys, beats, songwriting, production】@conundrum_tv @solidarityJC @njMATCH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1802,
+			"friends_count": 648,
+			"listed_count": 6,
+			"created_at": "Sun Jun 20 18:42:26 +0000 2010",
+			"favourites_count": 19088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229824961822494721/FjTMQrOT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229824961822494721/FjTMQrOT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157740402/1569987506",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79642,
+		"favorite_count": 524163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Took this at 5:43am, no filter https://t.co/tn0PVhNbWg"
+	},
+	{
 		"created_at": "Thu May 07 17:41:37 +0000 2020",
 		"id": 1258451939378913300,
 		"id_str": "1258451939378913280",
