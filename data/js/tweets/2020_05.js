@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 07:30:53 +0000 2020",
+		"id": 1258721113951080400,
+		"id_str": "1259023018858184704",
+		"full_text": "https://t.co/u4BCPw7E84",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258721036587217000,
+					"id_str": "1258721036587216901",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXfgHSEXsAU-g9-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXfgHSEXsAU-g9-.jpg",
+					"url": "https://t.co/u4BCPw7E84",
+					"display_url": "pic.twitter.com/u4BCPw7E84",
+					"expanded_url": "https://twitter.com/iluvpclinuxos/status/1258721113951080449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258721036587217000,
+					"id_str": "1258721036587216901",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXfgHSEXsAU-g9-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXfgHSEXsAU-g9-.jpg",
+					"url": "https://t.co/u4BCPw7E84",
+					"display_url": "pic.twitter.com/u4BCPw7E84",
+					"expanded_url": "https://twitter.com/iluvpclinuxos/status/1258721113951080449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75217496,
+			"id_str": "75217496",
+			"name": "pclinuxos",
+			"screen_name": "iluvpclinuxos",
+			"location": "Houston TX",
+			"description": "Alternative Operating System to MS Windows",
+			"url": "http://t.co/TKAFIo5LfW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TKAFIo5LfW",
+							"expanded_url": "http://www.pclinuxos.com",
+							"display_url": "pclinuxos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1390,
+			"friends_count": 7,
+			"listed_count": 92,
+			"created_at": "Fri Sep 18 06:32:31 +0000 2009",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/421896334/Aqua_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/421896334/Aqua_normal.png",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/u4BCPw7E84"
+	},
+	{
 		"created_at": "Fri May 08 22:41:58 +0000 2020",
 		"id": 1258690682379579400,
 		"id_str": "1258889911253393408",
