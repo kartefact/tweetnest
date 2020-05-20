@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 22:42:18 +0000 2020",
+		"id": 1262717239377068000,
+		"id_str": "1262876259668746240",
+		"full_text": "😂😂😂😂😂😂 https://t.co/HLfsXwNg5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262717136511750100,
+					"id_str": "1262717136511750151",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYSi6WU0AcON83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYSi6WU0AcON83.jpg",
+					"url": "https://t.co/HLfsXwNg5G",
+					"display_url": "pic.twitter.com/HLfsXwNg5G",
+					"expanded_url": "https://twitter.com/thesehairflips/status/1262717239377068033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1259,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262717136511750100,
+					"id_str": "1262717136511750151",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYSi6WU0AcON83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYSi6WU0AcON83.jpg",
+					"url": "https://t.co/HLfsXwNg5G",
+					"display_url": "pic.twitter.com/HLfsXwNg5G",
+					"expanded_url": "https://twitter.com/thesehairflips/status/1262717239377068033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1259,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262717173216145400,
+					"id_str": "1262717173216145409",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYSlDFVcAE_G8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYSlDFVcAE_G8S.jpg",
+					"url": "https://t.co/HLfsXwNg5G",
+					"display_url": "pic.twitter.com/HLfsXwNg5G",
+					"expanded_url": "https://twitter.com/thesehairflips/status/1262717239377068033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1259,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262717202391695400,
+					"id_str": "1262717202391695361",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYSmvxVAAEyyk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYSmvxVAAEyyk1.jpg",
+					"url": "https://t.co/HLfsXwNg5G",
+					"display_url": "pic.twitter.com/HLfsXwNg5G",
+					"expanded_url": "https://twitter.com/thesehairflips/status/1262717239377068033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1260,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262717222356582400,
+					"id_str": "1262717222356582400",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYSn6JVAAAzYiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYSn6JVAAAzYiz.jpg",
+					"url": "https://t.co/HLfsXwNg5G",
+					"display_url": "pic.twitter.com/HLfsXwNg5G",
+					"expanded_url": "https://twitter.com/thesehairflips/status/1262717239377068033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1260,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1242804362382053400,
+			"id_str": "1242804362382053376",
+			"name": "P",
+			"screen_name": "TheseHairFlips",
+			"location": "",
+			"description": "one day at a time.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 329,
+			"listed_count": 1,
+			"created_at": "Wed Mar 25 13:24:19 +0000 2020",
+			"favourites_count": 9113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262758689267544065/WVs7wAbG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262758689267544065/WVs7wAbG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1242804362382053376/1589896999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1534,
+		"favorite_count": 4934,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😂😂😂😂😂😂 https://t.co/HLfsXwNg5G"
+	},
+	{
 		"created_at": "Mon May 18 08:05:17 +0000 2020",
 		"id": 1262293163927982000,
 		"id_str": "1262293163927982080",
