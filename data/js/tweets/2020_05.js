@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 13:22:32 +0000 2020",
+		"id": 1266506282858680300,
+		"id_str": "1266721657319649280",
+		"full_text": "The world is a dumpster right now, so here’s this wholesomeness. https://t.co/dfghAsK9sU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266428492465475600,
+					"id_str": "1266428492465475586",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266428492465475586/pu/img/_CtlJCgjA-OBOA5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266428492465475586/pu/img/_CtlJCgjA-OBOA5X.jpg",
+					"url": "https://t.co/dfghAsK9sU",
+					"display_url": "pic.twitter.com/dfghAsK9sU",
+					"expanded_url": "https://twitter.com/Becauseofthem/status/1266428545322168320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1266428545322168300,
+					"source_status_id_str": "1266428545322168320",
+					"source_user_id": 1251040297,
+					"source_user_id_str": "1251040297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266428492465475600,
+					"id_str": "1266428492465475586",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266428492465475586/pu/img/_CtlJCgjA-OBOA5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266428492465475586/pu/img/_CtlJCgjA-OBOA5X.jpg",
+					"url": "https://t.co/dfghAsK9sU",
+					"display_url": "pic.twitter.com/dfghAsK9sU",
+					"expanded_url": "https://twitter.com/Becauseofthem/status/1266428545322168320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1266428545322168300,
+					"source_status_id_str": "1266428545322168320",
+					"source_user_id": 1251040297,
+					"source_user_id_str": "1251040297",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13978,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266428492465475586/pu/vid/320x320/uq71O9b_776B9wi0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1266428492465475586/pu/pl/Zz-XrjtVE3r3c37g.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266428492465475586/pu/vid/480x480/Ihm4-ySOrBm8jWC1.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266428492465475586/pu/vid/720x720/0JWR6Ec8TqlLpZia.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1251040297,
+							"id_str": "1251040297",
+							"name": "#becauseofthemwecan",
+							"screen_name": "Becauseofthem",
+							"location": "",
+							"description": "Your source for Black Excellence - past, present & future | IG @becauseofthem",
+							"url": "https://t.co/c5HDGEOEHO",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/c5HDGEOEHO",
+											"expanded_url": "http://becauseofthemwecan.com",
+											"display_url": "becauseofthemwecan.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 25300,
+							"friends_count": 97,
+							"listed_count": 162,
+							"created_at": "Fri Mar 08 07:28:11 +0000 2013",
+							"favourites_count": 522,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 4031,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/644166872120881152/jUpQLCQP_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/644166872120881152/jUpQLCQP_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1251040297/1543873014",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49903521,
+			"id_str": "49903521",
+			"name": "Angel says wash your hands",
+			"screen_name": "angelt18",
+			"location": "Ravenclaw Common Room",
+			"description": "Book lover. Writer. Will come for you if you hurt my friends.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 968,
+			"friends_count": 493,
+			"listed_count": 16,
+			"created_at": "Tue Jun 23 06:13:06 +0000 2009",
+			"favourites_count": 15736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "30185C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865307687726219264/w5XFEXjW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865307687726219264/w5XFEXjW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49903521/1489724684",
+			"profile_link_color": "AF0713",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22726,
+		"favorite_count": 87197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The world is a dumpster right now, so here’s this wholesomeness. https://t.co/dfghAsK9sU"
+	},
+	{
 		"created_at": "Mon May 25 12:02:02 +0000 2020",
 		"id": 1264582703489314800,
 		"id_str": "1264889459553628162",
