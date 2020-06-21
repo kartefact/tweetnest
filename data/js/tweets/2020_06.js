@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 12:18:33 +0000 2020",
+		"id": 1274311791368179700,
+		"id_str": "1274315701612802050",
+		"full_text": "Tech company vs non-tech company, what's it like to be a developer in different types of organizations?\n\n{ author: @bendhalpern } #DEVCommunity https://t.co/RQlkl3R2HM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEVCommunity",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendhalpern",
+					"name": "Ben Halpern 🌱",
+					"id": 161419043,
+					"id_str": "161419043",
+					"indices": [
+						115,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RQlkl3R2HM",
+					"expanded_url": "https://dev.to/ben/what-are-the-big-differences-between-working-for-a-tech-company-and-being-a-dev-for-a-non-tech-company-2896",
+					"display_url": "dev.to/ben/what-are-t…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2735246778,
+			"id_str": "2735246778",
+			"name": "DEV Community 👩‍💻👨‍💻",
+			"screen_name": "ThePracticalDev",
+			"location": "",
+			"description": "Great posts from the amazing https://t.co/xHvFQQ9jeO community, with some opinion and humor mixed in. Created by @bendhalpern. Join https://t.co/xHvFQQ9jeO!",
+			"url": "https://t.co/lhcCPP1ReQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lhcCPP1ReQ",
+							"expanded_url": "http://dev.to",
+							"display_url": "dev.to",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xHvFQQ9jeO",
+							"expanded_url": "https://dev.to",
+							"display_url": "dev.to",
+							"indices": [
+								29,
+								52
+							]
+						},
+						{
+							"url": "https://t.co/xHvFQQ9jeO",
+							"expanded_url": "https://dev.to",
+							"display_url": "dev.to",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 197475,
+			"friends_count": 2313,
+			"listed_count": 3848,
+			"created_at": "Fri Aug 15 19:11:17 +0000 2014",
+			"favourites_count": 48594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 39600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2735246778/1557714134",
+			"profile_link_color": "14BD7B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tech company vs non-tech company, what's it like to be a developer in different types of organizations?\n\n{ author: @bendhalpern } #DEVCommunity https://t.co/RQlkl3R2HM"
+	},
+	{
+		"created_at": "Sat Jun 20 12:13:12 +0000 2020",
+		"id": 1273880815181672400,
+		"id_str": "1274314356302295040",
+		"full_text": "I asked human not to take a selfie, I am shy, he didn't listen. So I had to do this, don't judge me😝 https://t.co/R18s1SqSOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273827931224227800,
+					"id_str": "1273827931224227842",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273827931224227842/pu/img/Mq1fECp2mdT59p0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273827931224227842/pu/img/Mq1fECp2mdT59p0B.jpg",
+					"url": "https://t.co/R18s1SqSOy",
+					"display_url": "pic.twitter.com/R18s1SqSOy",
+					"expanded_url": "https://twitter.com/HubNature/status/1273827952875233281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 468,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 468,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1273827952875233300,
+					"source_status_id_str": "1273827952875233281",
+					"source_user_id": 1187987797405249500,
+					"source_user_id_str": "1187987797405249536"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273827931224227800,
+					"id_str": "1273827931224227842",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273827931224227842/pu/img/Mq1fECp2mdT59p0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273827931224227842/pu/img/Mq1fECp2mdT59p0B.jpg",
+					"url": "https://t.co/R18s1SqSOy",
+					"display_url": "pic.twitter.com/R18s1SqSOy",
+					"expanded_url": "https://twitter.com/HubNature/status/1273827952875233281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 468,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 468,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1273827952875233300,
+					"source_status_id_str": "1273827952875233281",
+					"source_user_id": 1187987797405249500,
+					"source_user_id_str": "1187987797405249536",
+					"video_info": {
+						"aspect_ratio": [
+							13,
+							16
+						],
+						"duration_millis": 7834,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273827931224227842/pu/vid/320x392/MznOLbB97VVxGcBB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273827931224227842/pu/vid/468x576/6lV6_AeZbhayn9MU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273827931224227842/pu/pl/5rCE2x8X375eIrbT.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1187987797405249500,
+							"id_str": "1187987797405249536",
+							"name": "Sci-Nature Hub",
+							"screen_name": "HubNature",
+							"location": "Earth",
+							"description": "Follow us Science, nature Hub\nNew Video, Nature lover, and Science & Space \nNature videos and Technology information",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 47944,
+							"friends_count": 9272,
+							"listed_count": 203,
+							"created_at": "Sat Oct 26 07:02:33 +0000 2019",
+							"favourites_count": 147,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2508,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1187990123889205254/Z8cuknbj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187990123889205254/Z8cuknbj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187987797405249536/1572073929",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1266603361228533800,
+			"id_str": "1266603361228533761",
+			"name": "Gannuprem",
+			"screen_name": "Gannuuprem",
+			"location": "",
+			"description": "Here to share love for Gannu.\nPlease share Tweets, Captions and Pictures with us.\nWe don't own any content we post.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5759,
+			"friends_count": 8,
+			"listed_count": 7,
+			"created_at": "Sat May 30 05:32:46 +0000 2020",
+			"favourites_count": 1745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267106706292523014/V8NXrbLy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267106706292523014/V8NXrbLy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1266603361228533761/1591601576",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1956,
+		"favorite_count": 7544,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I asked human not to take a selfie, I am shy, he didn't listen. So I had to do this, don't judge me😝 https://t.co/R18s1SqSOy"
+	},
+	{
 		"created_at": "Thu Jun 18 07:41:25 +0000 2020",
 		"id": 1273521182587797500,
 		"id_str": "1273521182587797505",
