@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 03:30:02 +0000 2020",
+		"id": 1274987770679718000,
+		"id_str": "1275269861283778560",
+		"full_text": "😍This Periodic Table has each Actual Element embedded into Acrylic Crystal to create a remarkable showcase! 💎 \nhttps://t.co/PMeuwCmdIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274726159532556300,
+					"id_str": "1274726159532556288",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1274726159532556288/img/HuEfwExELLFJQ2Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1274726159532556288/img/HuEfwExELLFJQ2Lb.jpg",
+					"url": "https://t.co/PMeuwCmdIX",
+					"display_url": "pic.twitter.com/PMeuwCmdIX",
+					"expanded_url": "https://twitter.com/zoneastronomy/status/1274726394749165569/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1274726394749165600,
+					"source_status_id_str": "1274726394749165569",
+					"source_user_id": 2836725006,
+					"source_user_id_str": "2836725006"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274726159532556300,
+					"id_str": "1274726159532556288",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1274726159532556288/img/HuEfwExELLFJQ2Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1274726159532556288/img/HuEfwExELLFJQ2Lb.jpg",
+					"url": "https://t.co/PMeuwCmdIX",
+					"display_url": "pic.twitter.com/PMeuwCmdIX",
+					"expanded_url": "https://twitter.com/zoneastronomy/status/1274726394749165569/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1274726394749165600,
+					"source_status_id_str": "1274726394749165569",
+					"source_user_id": 2836725006,
+					"source_user_id_str": "2836725006",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27240,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1274726159532556288/vid/480x480/mPAPDVuB1gnZvGt0.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1274726159532556288/vid/320x320/6UKAJPs4ElKt4RF9.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1274726159532556288/pl/D5KCTk3PREbKxpbb.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1274726159532556288/vid/640x640/SrJQWbGYzLBUUmj2.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 2836725006,
+							"id_str": "2836725006",
+							"name": "Science & Astronomy Zone",
+							"screen_name": "zoneastronomy",
+							"location": "",
+							"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8265,
+							"friends_count": 0,
+							"listed_count": 36,
+							"created_at": "Wed Oct 01 14:34:48 +0000 2014",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 101,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1196762322318118912/7It8CrpB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196762322318118912/7It8CrpB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2836725006/1574165388",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149159932777730000,
+			"id_str": "1149159932777730048",
+			"name": "Engineering",
+			"screen_name": "engineeringvids",
+			"location": "",
+			"description": "It's all about the engineering.\nWe don't own any pictures/vids we post. Videos belong to their respective owners. (Parody Account)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728360,
+			"friends_count": 29944,
+			"listed_count": 1519,
+			"created_at": "Thu Jul 11 03:34:13 +0000 2019",
+			"favourites_count": 475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153902592763678722/vMAqm8lK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153902592763678722/vMAqm8lK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1149159932777730048/1563947843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2888,
+		"favorite_count": 13197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😍This Periodic Table has each Actual Element embedded into Acrylic Crystal to create a remarkable showcase! 💎 \nhttps://t.co/PMeuwCmdIX"
+	},
+	{
+		"created_at": "Tue Jun 23 03:26:14 +0000 2020",
+		"id": 1275143453068779500,
+		"id_str": "1275268902973390849",
+		"full_text": "Equations that changed the world. 🧠 https://t.co/SRIB0s9KV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275143441291153400,
+					"id_str": "1275143441291153408",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EbI4NC_UEAAwJXS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbI4NC_UEAAwJXS.jpg",
+					"url": "https://t.co/SRIB0s9KV2",
+					"display_url": "pic.twitter.com/SRIB0s9KV2",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/1275143453068779521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275143441291153400,
+					"id_str": "1275143441291153408",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EbI4NC_UEAAwJXS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbI4NC_UEAAwJXS.jpg",
+					"url": "https://t.co/SRIB0s9KV2",
+					"display_url": "pic.twitter.com/SRIB0s9KV2",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/1275143453068779521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823518894182846500,
+			"id_str": "823518894182846464",
+			"name": "Richard Feynman",
+			"screen_name": "ProfFeynman",
+			"location": "",
+			"description": "Here I stand, atoms with consciousness, matter with curiosity. A universe of atoms, an atom in the universe.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360693,
+			"friends_count": 0,
+			"listed_count": 2232,
+			"created_at": "Mon Jan 23 13:12:59 +0000 2017",
+			"favourites_count": 6393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260284660120080384/FnKkVEK0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260284660120080384/FnKkVEK0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823518894182846464/1563454062",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4493,
+		"favorite_count": 16315,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Equations that changed the world. 🧠 https://t.co/SRIB0s9KV2"
+	},
+	{
 		"created_at": "Sat Jun 20 12:18:33 +0000 2020",
 		"id": 1274311791368179700,
 		"id_str": "1274315701612802050",
@@ -54,7 +466,7 @@ Grailbird.data.tweets_2020_06 =
 		"user": {
 			"id": 2735246778,
 			"id_str": "2735246778",
-			"name": "DEV Community 👩‍💻👨‍💻",
+			"name": "DEV Community 👩💻👨💻",
 			"screen_name": "ThePracticalDev",
 			"location": "",
 			"description": "Great posts from the amazing https://t.co/xHvFQQ9jeO community, with some opinion and humor mixed in. Created by @bendhalpern. Join https://t.co/xHvFQQ9jeO!",
