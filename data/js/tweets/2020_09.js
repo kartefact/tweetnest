@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 24 02:41:46 +0000 2020",
+		"id": 1308584749297029000,
+		"id_str": "1308959784981295104",
+		"full_text": "i said what i said. #WearAMask https://t.co/ESqYltLLh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WearAMask",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308584745408880600,
+					"id_str": "1308584745408880641",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EikG5IyXYAEma9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EikG5IyXYAEma9w.jpg",
+					"url": "https://t.co/ESqYltLLh8",
+					"display_url": "pic.twitter.com/ESqYltLLh8",
+					"expanded_url": "https://twitter.com/chicago/status/1308584749297029125/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308584745408880600,
+					"id_str": "1308584745408880641",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EikG5IyXYAEma9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EikG5IyXYAEma9w.jpg",
+					"url": "https://t.co/ESqYltLLh8",
+					"display_url": "pic.twitter.com/ESqYltLLh8",
+					"expanded_url": "https://twitter.com/chicago/status/1308584749297029125/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222650745901633500,
+			"id_str": "1222650745901633536",
+			"name": "Chicago",
+			"screen_name": "chicago",
+			"location": "Chicago, IL",
+			"description": "The official handle for the great City of Chicago. Born at a very young age. For info about #COVID19, tap our link below. Follow @chicagosmayor for more",
+			"url": "https://t.co/BjJ5Hsq6Dm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BjJ5Hsq6Dm",
+							"expanded_url": "http://chicago.gov/coronavirus",
+							"display_url": "chicago.gov/coronavirus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68449,
+			"friends_count": 27,
+			"listed_count": 240,
+			"created_at": "Wed Jan 29 22:40:38 +0000 2020",
+			"favourites_count": 370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277076874242465792/UA2vIW4z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277076874242465792/UA2vIW4z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222650745901633536/1583359182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1410,
+		"favorite_count": 8523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i said what i said. #WearAMask https://t.co/ESqYltLLh8"
+	},
+	{
 		"created_at": "Tue Sep 15 15:59:26 +0000 2020",
 		"id": 1305899030988296200,
 		"id_str": "1305899030988296192",
