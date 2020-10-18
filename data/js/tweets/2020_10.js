@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 13:49:54 +0000 2020",
+		"id": 1317294872630497300,
+		"id_str": "1317462846427389956",
+		"full_text": "Brother helps his sister make the shot. #Humanity\n\nhttps://t.co/fcJI7wmiQf https://t.co/Yy3aaSKXmL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Humanity",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fcJI7wmiQf",
+					"expanded_url": "https://i.imgur.com/HH1npVW.gifv",
+					"display_url": "i.imgur.com/HH1npVW.gifv",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317294833141100500,
+					"id_str": "1317294833141100545",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317294833141100545/pu/img/C4Peg2v5SkbLicQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317294833141100545/pu/img/C4Peg2v5SkbLicQG.jpg",
+					"url": "https://t.co/Yy3aaSKXmL",
+					"display_url": "pic.twitter.com/Yy3aaSKXmL",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1317294872630497280/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317294833141100500,
+					"id_str": "1317294833141100545",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317294833141100545/pu/img/C4Peg2v5SkbLicQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317294833141100545/pu/img/C4Peg2v5SkbLicQG.jpg",
+					"url": "https://t.co/Yy3aaSKXmL",
+					"display_url": "pic.twitter.com/Yy3aaSKXmL",
+					"expanded_url": "https://twitter.com/SteveStuWill/status/1317294872630497280/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317294833141100545/pu/vid/480x480/1v65Yget7gEzctJt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1317294833141100545/pu/pl/6COqflitsx5MR6y2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317294833141100545/pu/vid/320x320/i6L6zOJWwZRbbZdM.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317294833141100545/pu/vid/720x720/WH90fijvVvImCO84.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33856936,
+			"id_str": "33856936",
+			"name": "Steve Stewart-Williams",
+			"screen_name": "SteveStuWill",
+			"location": "United Kingdom",
+			"description": "Psychology, evolution, science, etc. The paperback edition of my second book, The Ape That Understood the Universe, hit the shelves in 2019.",
+			"url": "https://t.co/CAbB9xvV6l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CAbB9xvV6l",
+							"expanded_url": "http://www.stevestewartwilliams.com/",
+							"display_url": "stevestewartwilliams.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83722,
+			"friends_count": 214,
+			"listed_count": 1195,
+			"created_at": "Tue Apr 21 09:08:54 +0000 2009",
+			"favourites_count": 42367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225912347849420800/39fqZKGW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225912347849420800/39fqZKGW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33856936/1492953630",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brother helps his sister make the shot. #Humanity\n\nhttps://t.co/fcJI7wmiQf https://t.co/Yy3aaSKXmL"
+	},
+	{
+		"created_at": "Sat Oct 17 12:24:22 +0000 2020",
+		"id": 1317108769348710400,
+		"id_str": "1317441321859051522",
+		"full_text": "\"One of the great revelations of the age of space exploration is the image of the earth finite and lonely, somehow vulnerable, bearing the entire human species through the oceans of space and time.\" ― Carl Sagan https://t.co/k5qLs29NUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317108300803051500,
+					"id_str": "1317108300803051521",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317108300803051521/pu/img/yHelGQUoNFCwm-N5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317108300803051521/pu/img/yHelGQUoNFCwm-N5.jpg",
+					"url": "https://t.co/k5qLs29NUv",
+					"display_url": "pic.twitter.com/k5qLs29NUv",
+					"expanded_url": "https://twitter.com/wonderofscience/status/1317108769348710402/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317108300803051500,
+					"id_str": "1317108300803051521",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317108300803051521/pu/img/yHelGQUoNFCwm-N5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317108300803051521/pu/img/yHelGQUoNFCwm-N5.jpg",
+					"url": "https://t.co/k5qLs29NUv",
+					"display_url": "pic.twitter.com/k5qLs29NUv",
+					"expanded_url": "https://twitter.com/wonderofscience/status/1317108769348710402/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 93600,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317108300803051521/pu/vid/720x720/p9l6LntKgtO4iM7h.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1317108300803051521/pu/pl/7DWsp-2s9R6higkt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317108300803051521/pu/vid/320x320/--GHQ6XjtB9BNdMW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317108300803051521/pu/vid/480x480/U1JhhKWFeS7-v3h4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3101588527,
+			"id_str": "3101588527",
+			"name": "Wonder of Science",
+			"screen_name": "wonderofscience",
+			"location": "🚀",
+			"description": "\"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science\" - Albert Einstein",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901923,
+			"friends_count": 42,
+			"listed_count": 1915,
+			"created_at": "Sat Mar 21 12:29:37 +0000 2015",
+			"favourites_count": 3037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046441611171835904/_okPTpGu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046441611171835904/_okPTpGu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3101588527/1538323669",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2839,
+		"favorite_count": 11048,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"One of the great revelations of the age of space exploration is the image of the earth finite and lonely, somehow vulnerable, bearing the entire human species through the oceans of space and time.\" ― Carl Sagan https://t.co/k5qLs29NUv"
+	},
+	{
 		"created_at": "Mon Oct 12 05:14:15 +0000 2020",
 		"id": 1315224049677607000,
 		"id_str": "1315521140534603777",
