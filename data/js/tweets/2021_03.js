@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 20 20:41:37 +0000 2021",
+		"id": 1373374191529955300,
+		"id_str": "1373374191529955330",
+		"full_text": "@r3dash Can you recommend an Android phone with the following specs:\nAny Snapdragon 5G chip\nDual SIM\n90Hz or more big AMOLED screen\nFM Radio\nHeadphone jack\n6GB or more RAM \n128GB or more storage\nDecent battery and pref. stock UI\nAnd all this under Rs. 40k\nIs this too much to ask?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r3dash",
+					"name": "Ershad Kaleebullah",
+					"id": 106728983,
+					"id_str": "106728983",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 106728983,
+		"in_reply_to_user_id_str": "106728983",
+		"in_reply_to_screen_name": "r3dash",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 214,
+			"listed_count": 47,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@r3dash Can you recommend an Android phone with the following specs:\nAny Snapdragon 5G chip\nDual SIM\n90Hz or more big AMOLED screen\nFM Radio\nHeadphone jack\n6GB or more RAM \n128GB or more storage\nDecent battery and pref. stock UI\nAnd all this under Rs. 40k\nIs this too much to ask?"
+	},
+	{
+		"created_at": "Sat Mar 20 20:07:17 +0000 2021",
+		"id": 1373004596428308500,
+		"id_str": "1373365548029898752",
+		"full_text": "I told Mali i could speak 12 languages 👀😂i definitely wasn’t ready... 🤦🏾‍♂️ 🇪🇸🇵🇹 \n\n#TheKabsFamily https://t.co/tteeBPzDIt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheKabsFamily",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373002821570855000,
+					"id_str": "1373002821570854916",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373002821570854916/pu/img/MLzOhiAlljrt3HLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373002821570854916/pu/img/MLzOhiAlljrt3HLP.jpg",
+					"url": "https://t.co/tteeBPzDIt",
+					"display_url": "pic.twitter.com/tteeBPzDIt",
+					"expanded_url": "https://twitter.com/FamilyKabs/status/1373004596428308488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373002821570855000,
+					"id_str": "1373002821570854916",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373002821570854916/pu/img/MLzOhiAlljrt3HLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373002821570854916/pu/img/MLzOhiAlljrt3HLP.jpg",
+					"url": "https://t.co/tteeBPzDIt",
+					"display_url": "pic.twitter.com/tteeBPzDIt",
+					"expanded_url": "https://twitter.com/FamilyKabs/status/1373004596428308488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 128600,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373002821570854916/pu/vid/1280x720/bgZ3K2Hu3nNDnEvk.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373002821570854916/pu/vid/480x270/n6k9D7ocppqRN2Ur.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373002821570854916/pu/vid/640x360/-eXmZOD24xnve5hp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1373002821570854916/pu/pl/yf1rRsA2pI7T-p8c.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1066505848791474200,
+			"id_str": "1066505848791474176",
+			"name": "The Kabs Family",
+			"screen_name": "FamilyKabs",
+			"location": "London, England",
+			"description": "We are a family of 5 that loves to create entertaining content 😁‼️ SUBSCRIBE to our YouTube channel and join the family| info.thekabsfamily@gmail.com",
+			"url": "https://t.co/xuhjVuGknM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xuhjVuGknM",
+							"expanded_url": "https://www.youtube.com/channel/UC0Mf1FlTi-UWgT_k9uNOcrA",
+							"display_url": "youtube.com/channel/UC0Mf1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78972,
+			"friends_count": 36,
+			"listed_count": 92,
+			"created_at": "Sun Nov 25 01:36:23 +0000 2018",
+			"favourites_count": 11394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159549686262444032/O8axldf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159549686262444032/O8axldf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1066505848791474176/1583177610",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30534,
+		"favorite_count": 141520,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I told Mali i could speak 12 languages 👀😂i definitely wasn’t ready... 🤦🏾‍♂️ 🇪🇸🇵🇹 \n\n#TheKabsFamily https://t.co/tteeBPzDIt"
+	},
+	{
 		"created_at": "Wed Mar 17 07:01:28 +0000 2021",
 		"id": 1372080627940397000,
 		"id_str": "1372080627940397057",
