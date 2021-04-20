@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 01:19:48 +0000 2021",
+		"id": 1383752299902759000,
+		"id_str": "1383953445493764099",
+		"full_text": "Bone. \n\nWhat’s weird about bone is that it gives off a small amount of electricity when it is compressed.  Bone is piezoelectric like quartz, where force and electricity are connected. Shocking, I know.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103925618,
+			"id_str": "103925618",
+			"name": "Ainissa Ramirez, Ph.D.",
+			"screen_name": "ainissaramirez",
+			"location": "New England (EDT)",
+			"description": "Author of “The Alchemy of Us“  https://t.co/MuujFmqSBN\nLA Times Prize, finalist. AAAS/Subaru Prize, winner.\nWriter. Speaker. Science Evangelist.",
+			"url": "https://t.co/IwsghiWJQa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IwsghiWJQa",
+							"expanded_url": "http://www.ainissaramirez.com",
+							"display_url": "ainissaramirez.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MuujFmqSBN",
+							"expanded_url": "http://bit.ly/2VOZQhQ",
+							"display_url": "bit.ly/2VOZQhQ",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9861,
+			"friends_count": 473,
+			"listed_count": 429,
+			"created_at": "Mon Jan 11 18:06:37 +0000 2010",
+			"favourites_count": 6513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/507145732617682944/2NmAZTUb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/507145732617682944/2NmAZTUb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103925618/1586266820",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Bone. \n\nWhat’s weird about bone is that it gives off a small amount of electricity when it is compressed.  Bone is piezoelectric like quartz, where force and electricity are connected. Shocking, I know."
+	},
+	{
 		"created_at": "Sun Apr 18 08:36:38 +0000 2021",
 		"id": 1383700988452753400,
 		"id_str": "1383700988452753410",
