@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 11:19:22 +0000 2021",
+		"id": 1413487743154344000,
+		"id_str": "1414182524557750281",
+		"full_text": "BISI BELE BATH IS NOT SAMBAR RICE!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2662399884,
+			"id_str": "2662399884",
+			"name": "Anubha Upadhya",
+			"screen_name": "ahbunaa",
+			"location": "Denial",
+			"description": "BEWARE OF LAMBODARS.",
+			"url": "https://t.co/mk6Z3oAnNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mk6Z3oAnNH",
+							"expanded_url": "https://www.instagram.com/ahbuna",
+							"display_url": "instagram.com/ahbuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146,
+			"friends_count": 175,
+			"listed_count": 12,
+			"created_at": "Sun Jul 20 10:05:37 +0000 2014",
+			"favourites_count": 24711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319933376791564288/8MEOu2Xg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319933376791564288/8MEOu2Xg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2662399884/1607147534",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 1226,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BISI BELE BATH IS NOT SAMBAR RICE!"
+	},
+	{
 		"created_at": "Sun Jul 04 10:03:56 +0000 2021",
 		"id": 1411626824283480000,
 		"id_str": "1411626824283480067",
