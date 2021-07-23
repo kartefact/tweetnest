@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 08:12:13 +0000 2021",
+		"id": 1417766021444751400,
+		"id_str": "1418121692828770305",
+		"full_text": "Care about what other people will think of you and you will always be their prisoner.\nCare about what other people will think of themselves and you will always be their protector. https://t.co/ixVMCoPj8G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixVMCoPj8G",
+					"expanded_url": "https://twitter.com/warikoo/status/1417731562573950978",
+					"display_url": "twitter.com/warikoo/status…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1685849366,
+			"id_str": "1685849366",
+			"name": "Mud n Sky",
+			"screen_name": "mudnsky",
+			"location": "India",
+			"description": "''This man has conquered the world! What have you done?'' ''I have conquered the need to conquer the world.'' - Pressfield",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 199,
+			"listed_count": 33,
+			"created_at": "Tue Aug 20 13:48:52 +0000 2013",
+			"favourites_count": 5407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306314082136420352/aiXaPCC9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306314082136420352/aiXaPCC9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685849366/1507642702",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417731562573951000,
+		"quoted_status_id_str": "1417731562573950978",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ixVMCoPj8G",
+			"expanded": "https://twitter.com/warikoo/status/1417731562573950978",
+			"display": "twitter.com/warikoo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 21 06:21:59 +0000 2021",
+			"id": 1417731562573951000,
+			"id_str": "1417731562573950978",
+			"full_text": "Care about what other people think and you will always be their prisoner.\n\n- Lao Tzu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32379544,
+				"id_str": "32379544",
+				"name": "Ankur Warikoo",
+				"screen_name": "warikoo",
+				"location": "India",
+				"description": "Entrepreneur, Founder https://t.co/ojstt7rGnO | Teacher | I tweet a thread every Friday about Entrepreneurship, Failure and Personal Growth.",
+				"url": "https://t.co/c9fkE0tm5u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c9fkE0tm5u",
+								"expanded_url": "https://ankurwarikoo.com/my-links",
+								"display_url": "ankurwarikoo.com/my-links",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ojstt7rGnO",
+								"expanded_url": "http://nearbuy.com",
+								"display_url": "nearbuy.com",
+								"indices": [
+									22,
+									45
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 169254,
+				"friends_count": 25,
+				"listed_count": 875,
+				"created_at": "Fri Apr 17 12:08:19 +0000 2009",
+				"favourites_count": 13223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13954,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156881198582382592/yUbrONnS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156881198582382592/yUbrONnS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32379544/1622799684",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 355,
+			"favorite_count": 2927,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Care about what other people will think of you and you will always be their prisoner.\nCare about what other people will think of themselves and you will always be their protector. https://t.co/ixVMCoPj8G"
+	},
+	{
 		"created_at": "Sun Jul 11 11:19:22 +0000 2021",
 		"id": 1413487743154344000,
 		"id_str": "1414182524557750281",
