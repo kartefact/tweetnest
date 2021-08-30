@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 29 00:07:42 +0000 2021",
+		"id": 1431311742085132300,
+		"id_str": "1431770497558089729",
+		"full_text": "We were duped, Chacha Chaudhury was Tintin all along 😅 conspiracy of the 20th century https://t.co/oHomepBKZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1431311698619625500,
+					"id_str": "1431311698619625480",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431311698619625480/pu/img/hcKyCB0kD1ekb7AY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431311698619625480/pu/img/hcKyCB0kD1ekb7AY.jpg",
+					"url": "https://t.co/oHomepBKZA",
+					"display_url": "pic.twitter.com/oHomepBKZA",
+					"expanded_url": "https://twitter.com/U_pasana/status/1431311742085132292/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431311698619625500,
+					"id_str": "1431311698619625480",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431311698619625480/pu/img/hcKyCB0kD1ekb7AY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431311698619625480/pu/img/hcKyCB0kD1ekb7AY.jpg",
+					"url": "https://t.co/oHomepBKZA",
+					"display_url": "pic.twitter.com/oHomepBKZA",
+					"expanded_url": "https://twitter.com/U_pasana/status/1431311742085132292/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							53
+						],
+						"duration_millis": 9820,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431311698619625480/pu/pl/m4Bh8yvMSue3QE_v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431311698619625480/pu/vid/480x848/S5HQxQunUC1ZUc22.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431311698619625480/pu/vid/320x564/fYVeuQ8MB5ldTDeW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14459478,
+			"id_str": "14459478",
+			"name": "ᑌᑭᗩᔕᗩᑎᗩ",
+			"screen_name": "U_pasana",
+			"location": "Delhi",
+			"description": "#StartUp #Entrepreneurship #TiE #Politics #Humour #Trivia #Railways #Travel #Allahabad Life Work hard, dream hard, party harder AMU, DU, BHU.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2491,
+			"friends_count": 634,
+			"listed_count": 139,
+			"created_at": "Mon Apr 21 07:41:53 +0000 2008",
+			"favourites_count": 33453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0DAEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226206012199227392/_Bx2KKNb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226206012199227392/_Bx2KKNb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14459478/1503225489",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 2293,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We were duped, Chacha Chaudhury was Tintin all along 😅 conspiracy of the 20th century https://t.co/oHomepBKZA"
+	},
+	{
 		"created_at": "Wed Aug 25 12:01:31 +0000 2021",
 		"id": 1430500583169953800,
 		"id_str": "1430500583169953796",
