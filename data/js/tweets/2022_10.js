@@ -1,6 +1,990 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 14:09:49 +0000 2022",
+		"id": 1584924533550903300,
+		"id_str": "1585634879416725504",
+		"full_text": "people go to college pay lots of money and give years of time to learn this shit and this guys completed java in one youtube video .chad 🤣 https://t.co/1V3N4wOL68",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584923949254594600,
+					"id_str": "1584923949254594560",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584923949254594560/pu/img/52rWhR5mgxFT3gLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584923949254594560/pu/img/52rWhR5mgxFT3gLT.jpg",
+					"url": "https://t.co/1V3N4wOL68",
+					"display_url": "pic.twitter.com/1V3N4wOL68",
+					"expanded_url": "https://twitter.com/_m_c_q/status/1584924533550903298/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584923949254594600,
+					"id_str": "1584923949254594560",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584923949254594560/pu/img/52rWhR5mgxFT3gLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584923949254594560/pu/img/52rWhR5mgxFT3gLT.jpg",
+					"url": "https://t.co/1V3N4wOL68",
+					"display_url": "pic.twitter.com/1V3N4wOL68",
+					"expanded_url": "https://twitter.com/_m_c_q/status/1584924533550903298/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 139987,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584923949254594560/pu/vid/640x352/ooYP26tgB2M80iAJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584923949254594560/pu/pl/eqVQ4r0wgTPKqPA1.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584923949254594560/pu/vid/490x270/c0pLRM5d9vPpgA99.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1276869449295868000,
+			"id_str": "1276869449295867905",
+			"name": "Arman",
+			"screen_name": "_m_c_q",
+			"location": "",
+			"description": "Anxiety & Sarcasm",
+			"url": "https://t.co/zhuokMLQrD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zhuokMLQrD",
+							"expanded_url": "https://instagram.com/_m_c_q?utm_medium=copy_link",
+							"display_url": "instagram.com/_m_c_q?utm_med…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5208,
+			"friends_count": 670,
+			"listed_count": 15,
+			"created_at": "Sat Jun 27 13:26:30 +0000 2020",
+			"favourites_count": 34132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580886489000382465/u3e0W7lD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580886489000382465/u3e0W7lD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1276869449295867905/1623698215",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1729,
+		"favorite_count": 8271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "people go to college pay lots of money and give years of time to learn this shit and this guys completed java in one youtube video .chad 🤣 https://t.co/1V3N4wOL68"
+	},
+	{
+		"created_at": "Thu Oct 27 05:28:16 +0000 2022",
+		"id": 1585503628508340200,
+		"id_str": "1585503628508340225",
+		"full_text": "@terminalfix @njnrn Thanks for that. Found the blog post. This should help things. \nHoping to get some hardware recommendations from people here as well. I really have my eyes on this one, but import risks and arrives only in Jan. So, that's out the window.  https://t.co/BY8USy8VNi",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "terminalfix",
+					"name": "Prasanna | ಪ್ರಸನ್ನ",
+					"id": 14920765,
+					"id_str": "14920765",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "njnrn",
+					"name": "Niranjan Patil",
+					"id": 23333764,
+					"id_str": "23333764",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BY8USy8VNi",
+					"expanded_url": "https://m.aliexpress.com/item/1005004290741016.html",
+					"display_url": "m.aliexpress.com/item/100500429…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585498944095674400,
+		"in_reply_to_status_id_str": "1585498944095674368",
+		"in_reply_to_user_id": 14920765,
+		"in_reply_to_user_id_str": "14920765",
+		"in_reply_to_screen_name": "terminalfix",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@terminalfix @njnrn Thanks for that. Found the blog post. This should help things. \nHoping to get some hardware recommendations from people here as well. I really have my eyes on this one, but import risks and arrives only in Jan. So, that's out the window.  https://t.co/BY8USy8VNi"
+	},
+	{
+		"created_at": "Thu Oct 27 04:05:26 +0000 2022",
+		"id": 1585482781534359600,
+		"id_str": "1585482781534359552",
+		"full_text": "@nileshgr Ah cool! Sorry, I misread your previous tweet.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Nilesh (निलेश)",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585481959199080400,
+		"in_reply_to_status_id_str": "1585481959199080453",
+		"in_reply_to_user_id": 96760234,
+		"in_reply_to_user_id_str": "96760234",
+		"in_reply_to_screen_name": "nileshgr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nileshgr Ah cool! Sorry, I misread your previous tweet."
+	},
+	{
+		"created_at": "Thu Oct 27 03:58:52 +0000 2022",
+		"id": 1585481128454291500,
+		"id_str": "1585481128454291456",
+		"full_text": "@nileshgr Oh, doesn't that get too cumbersome or is it as much as configuring pfsense? Also, what hardware do you run your router on?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Nilesh (निलेश)",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585480653189308400,
+		"in_reply_to_status_id_str": "1585480653189308416",
+		"in_reply_to_user_id": 96760234,
+		"in_reply_to_user_id_str": "96760234",
+		"in_reply_to_screen_name": "nileshgr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nileshgr Oh, doesn't that get too cumbersome or is it as much as configuring pfsense? Also, what hardware do you run your router on?"
+	},
+	{
+		"created_at": "Thu Oct 27 03:49:53 +0000 2022",
+		"id": 1585478867334332400,
+		"id_str": "1585478867334332417",
+		"full_text": "@nileshgr I see. What do you use for a router/firewall if I may ask?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Nilesh (निलेश)",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585478447635501000,
+		"in_reply_to_status_id_str": "1585478447635501057",
+		"in_reply_to_user_id": 96760234,
+		"in_reply_to_user_id_str": "96760234",
+		"in_reply_to_screen_name": "nileshgr",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nileshgr I see. What do you use for a router/firewall if I may ask?"
+	},
+	{
+		"created_at": "Thu Oct 27 03:45:20 +0000 2022",
+		"id": 1585477720716501000,
+		"id_str": "1585477720716500993",
+		"full_text": "@ComDannyda Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComDannyda",
+					"name": "dannyda.com",
+					"id": 1300692786249740300,
+					"id_str": "1300692786249740289",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585477269945843700,
+		"in_reply_to_status_id_str": "1585477269945843712",
+		"in_reply_to_user_id": 1300692786249740300,
+		"in_reply_to_user_id_str": "1300692786249740289",
+		"in_reply_to_screen_name": "ComDannyda",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ComDannyda Thank you."
+	},
+	{
+		"created_at": "Thu Oct 27 03:45:04 +0000 2022",
+		"id": 1585477653959934000,
+		"id_str": "1585477653959933953",
+		"full_text": "@nileshgr Saw the Topton firewall appliance with 6x 2.5GbE ports with Core i5 on AliExpress, but shipping takes too long and might get stuck in customs etc. so not risking it. What hardware do you run it on?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nileshgr",
+					"name": "Nilesh (निलेश)",
+					"id": 96760234,
+					"id_str": "96760234",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585476131847049200,
+		"in_reply_to_status_id_str": "1585476131847049216",
+		"in_reply_to_user_id": 35215066,
+		"in_reply_to_user_id_str": "35215066",
+		"in_reply_to_screen_name": "kartefact",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nileshgr Saw the Topton firewall appliance with 6x 2.5GbE ports with Core i5 on AliExpress, but shipping takes too long and might get stuck in customs etc. so not risking it. What hardware do you run it on?"
+	},
+	{
+		"created_at": "Thu Oct 27 03:42:27 +0000 2022",
+		"id": 1585476996985127000,
+		"id_str": "1585476996985126912",
+		"full_text": "@ComDannyda I'm still yet to reach that stage of setting it up. I'm currently in the very beginning planning stage. Seeing what hardware to run it on, but thanks for the link. Might come of use once I reach that stage.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComDannyda",
+					"name": "dannyda.com",
+					"id": 1300692786249740300,
+					"id_str": "1300692786249740289",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585464448679977000,
+		"in_reply_to_status_id_str": "1585464448679976960",
+		"in_reply_to_user_id": 1300692786249740300,
+		"in_reply_to_user_id_str": "1300692786249740289",
+		"in_reply_to_screen_name": "ComDannyda",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ComDannyda I'm still yet to reach that stage of setting it up. I'm currently in the very beginning planning stage. Seeing what hardware to run it on, but thanks for the link. Might come of use once I reach that stage."
+	},
+	{
+		"created_at": "Thu Oct 27 03:39:35 +0000 2022",
+		"id": 1585476275023802400,
+		"id_str": "1585476275023802368",
+		"full_text": "@G10Bud @rajupp LOL. That was a good one.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G10Bud",
+					"name": "Jiten Budhdeo",
+					"id": 113862904,
+					"id_str": "113862904",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "rajupp",
+					"name": "Raju PP",
+					"id": 16619994,
+					"id_str": "16619994",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1585205175073276000,
+		"in_reply_to_status_id_str": "1585205175073275906",
+		"in_reply_to_user_id": 113862904,
+		"in_reply_to_user_id_str": "113862904",
+		"in_reply_to_screen_name": "G10Bud",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1389,
+			"friends_count": 226,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@G10Bud @rajupp LOL. That was a good one."
+	},
+	{
 		"created_at": "Wed Oct 26 05:03:18 +0000 2022",
 		"id": 1585134956124475400,
 		"id_str": "1585134956124475392",
