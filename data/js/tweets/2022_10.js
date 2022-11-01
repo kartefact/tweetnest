@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 12:45:11 +0000 2022",
+		"id": 1587063132484051000,
+		"id_str": "1587063132484050944",
+		"full_text": "@njnrn @terminalfix Thanks a tonne for the recommendations. Gives me direction. Shall update this thread when I proceed with it.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "njnrn",
+					"name": "Niranjan Patil",
+					"id": 23333764,
+					"id_str": "23333764",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "terminalfix",
+					"name": "Prasanna | ಪ್ರಸನ್ನ",
+					"id": 14920765,
+					"id_str": "14920765",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1586926059957936000,
+		"in_reply_to_status_id_str": "1586926059957936128",
+		"in_reply_to_user_id": 23333764,
+		"in_reply_to_user_id_str": "23333764",
+		"in_reply_to_screen_name": "njnrn",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 227,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@njnrn @terminalfix Thanks a tonne for the recommendations. Gives me direction. Shall update this thread when I proceed with it."
+	},
+	{
+		"created_at": "Mon Oct 31 03:08:05 +0000 2022",
+		"id": 1586917901121953800,
+		"id_str": "1586917901121953792",
+		"full_text": "@geekyranjit Happened to me on my one plus 3. The issue was that the display panel had come loose with the glue not holding it in place causing the proximity sensor to not be able to work correctly. Probably something related? This was, however, after years of use.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geekyranjit",
+					"name": "Ranjit",
+					"id": 135062529,
+					"id_str": "135062529",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1586645733759135700,
+		"in_reply_to_status_id_str": "1586645733759135750",
+		"in_reply_to_user_id": 135062529,
+		"in_reply_to_user_id_str": "135062529",
+		"in_reply_to_screen_name": "geekyranjit",
+		"user": {
+			"id": 35215066,
+			"id_str": "35215066",
+			"name": "Kartefact",
+			"screen_name": "kartefact",
+			"location": "Bengaluru, India",
+			"description": "For all your days be prepared, and meet them ever alike. When you are the anvil, bear - when you are the hammer, strike. - Edwin Markham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 227,
+			"listed_count": 44,
+			"created_at": "Sat Apr 25 13:53:50 +0000 2009",
+			"favourites_count": 10191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084029727864770561/L4OEfUJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35215066/1565329647",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@geekyranjit Happened to me on my one plus 3. The issue was that the display panel had come loose with the glue not holding it in place causing the proximity sensor to not be able to work correctly. Probably something related? This was, however, after years of use."
+	},
+	{
 		"created_at": "Thu Oct 27 14:09:49 +0000 2022",
 		"id": 1584924533550903300,
 		"id_str": "1585634879416725504",
