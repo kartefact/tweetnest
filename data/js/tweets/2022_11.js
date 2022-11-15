@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 10:06:07 +0000 2022",
+		"id": 1591733445314891800,
+		"id_str": "1592096529493680128",
+		"full_text": "I can't unsee this now https://t.co/SoBBkddTw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591733443070754800,
+					"id_str": "1591733443070754816",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhb5IhNXgAAkN8r.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fhb5IhNXgAAkN8r.png",
+					"url": "https://t.co/SoBBkddTw1",
+					"display_url": "pic.twitter.com/SoBBkddTw1",
+					"expanded_url": "https://twitter.com/TerribleMaps/status/1591733445314891776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591733443070754800,
+					"id_str": "1591733443070754816",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhb5IhNXgAAkN8r.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fhb5IhNXgAAkN8r.png",
+					"url": "https://t.co/SoBBkddTw1",
+					"display_url": "pic.twitter.com/SoBBkddTw1",
+					"expanded_url": "https://twitter.com/TerribleMaps/status/1591733445314891776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1663172653,
+			"id_str": "1663172653",
+			"name": "Terrible Maps",
+			"screen_name": "TerribleMaps",
+			"location": "",
+			"description": "The home of terrible maps with a pinch of humour  https://t.co/piQqPjDvuU   \n  terriblemaps@gmail.com",
+			"url": "https://t.co/4ev2escNoy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4ev2escNoy",
+							"expanded_url": "https://ko-fi.com/TerribleMaps",
+							"display_url": "ko-fi.com/TerribleMaps",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/piQqPjDvuU",
+							"expanded_url": "https://www.instagram.com/terriblemap/",
+							"display_url": "instagram.com/terriblemap/",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1138281,
+			"friends_count": 931,
+			"listed_count": 3133,
+			"created_at": "Sun Aug 11 18:15:23 +0000 2013",
+			"favourites_count": 579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FCF7FC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1663172653/1454712717",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12923,
+		"favorite_count": 148404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't unsee this now https://t.co/SoBBkddTw1"
+	},
+	{
 		"created_at": "Thu Nov 10 20:52:20 +0000 2022",
 		"id": 1590809607811010600,
 		"id_str": "1590809607811010561",
